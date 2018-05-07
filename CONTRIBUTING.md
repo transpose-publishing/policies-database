@@ -1,13 +1,10 @@
 # Contributing to TRANSPOSE
 
-Thanks so much for your interested in contributing to TRANSPOSE!
+Thanks so much for your interest in contributing to TRANSPOSE!
 
-In order to make scholarly peer review more open, accessible, and fair, we need to collect more information about it. This project will help to bring transparency to the peer review process so that these values can be encouraged.
-
-We will build a user-editable database of journal practices relating to the openness of peer review, the recognition of early career researchers who contribute to peer review, and detailed policies on preprinting.
+Peer review is foundational to our current system of creating and sharing knowledge, yet almost everything about this process is typically shrouded in secrecy. In order to make the publishing process more open, accessible, and fair, we will work to bring transparency to journal policies and practices, about which little is known on a systemic level. To accomplish this, we'll build a user-editable database of journal policies on the openness of peer review, the recognition of early career researchers who contribute to peer review, and detailed policies on preprinting.
 
 These guidelines will help you get involved with TRANSPOSE.
-
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
