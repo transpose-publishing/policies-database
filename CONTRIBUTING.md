@@ -1,4 +1,4 @@
-# Contributing to [Project]
+# Contributing to TRANSPOSE
 
 Thanks so much for your interested in contributing to TRANSPOSE!
 
@@ -39,4 +39,4 @@ Notice a mistake? Please file any bugs, requests, or questions in our [issue tra
 
 ## Communication channels
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](ttps://gitter.im/transpose-publishing/Lobby#)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/transpose-publishing/Lobby#)
