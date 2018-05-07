@@ -1,5 +1,6 @@
 # TRANSPOSE journal policies database
-We're crowd-sourcing a database of journal policies relating to peer review (openness, recognition for co-reviewing) and preprinting. 
+
+We're crowd-sourcing a database of journal policies relating to peer review (openness, recognition for co-reviewing) and preprinting.
 
 For more information on this initiative, visit our [homepage](transpose-publishing.github.io).
 
@@ -23,10 +24,5 @@ We'll be discussing the TRANSPOSE project on a Mozilla Sprint Demo call at 12pm 
 
 All original work in this repository is dedicated to the public domain under the CC0 license.
 See [LICENSE.md](LICENSE.md).
-
-[SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php) releases its data downloads under a [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/) License according to the following statement in [`romeo-publishers.xml`](data/romeo-publishers.xml):
-
-> SHERPA/RoMEO data is available for re-use under a Creative Commons Attribution-Non-Commercial-Share Alike 2.5 licence.
-For more details, please see the 'conditions for re-use' at http://www.sherpa.ac.uk/romeoreuse.html, and linked-to from the SHERPA/RoMEO home page.
-
-Therefore, datasets derived from SHERPA/RoMEO in this repository are also released under a CC BY-NC-SA 2.5 License.
+SHERPA RoMEO data is reused under its CC BY-NC-SA 2.5 License.
+Learn more in the [`romeo`](romeo) README.
