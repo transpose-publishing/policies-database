@@ -1,11 +1,11 @@
 # TRANSPOSE journal policies database
-This will be a crowd-sourced database of journal policies relating to peer review (openness, recognition for co-reviewing) and preprinting. 
+We're crowd-sourcing a database of journal policies relating to peer review (openness, recognition for co-reviewing) and preprinting. 
 
 For more information on this initiative, visit our [homepage](transpose-publishing.github.io).
 
 ## Contributing
 
-TBA
+We welcome contributions! See our [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## Participation Guidelines
 
