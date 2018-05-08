@@ -1,0 +1,8 @@
+name: policies-database
+channels:
+  - conda-forge
+dependencies:
+  - pandas=0.22.0
+  - pykwalify=1.6.1
+  - python=3.6.5
+  - ruamel.yaml=0.15.37

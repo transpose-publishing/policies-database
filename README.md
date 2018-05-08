@@ -1,8 +1,11 @@
 # TRANSPOSE journal policies database
 
+[![Build Status](https://travis-ci.com/transpose-publishing/policies-database.svg?branch=master)](https://travis-ci.com/transpose-publishing/policies-database)
+
 We're crowd-sourcing a database of journal policies relating to peer review (openness, recognition for co-reviewing) and preprinting.
 
 ### Why TRANSPOSE?
+
 While there are fantastic databases that indicate whether archiving a preprint is allowed ([Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/search.php)) and whether journals are partnered with [Publons](https://publons.com/journal/?order_by=reviews), to our knowledge, there is no database of information on topics such as:
 - the openness of peer review (whether the content of peer reviews and the identities of reviewers are published, or whether reviews can be transferred to other journals), 
 - recognition for peer review (whether postdoc co-reviewers are acknowledged), 

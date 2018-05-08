@@ -1,0 +1,18 @@
+language: generic
+
+before_install:
+  - travis_retry
+    wget https://repo.continuum.io/miniconda/Miniconda3-4.5.1-Linux-x86_64.sh
+    --output-document=miniconda.sh
+  - bash miniconda.sh -b -p $HOME/miniconda
+  - source $HOME/miniconda/etc/profile.d/conda.sh
+  - conda config --set always_yes yes --set changeps1 no
+  - conda info --all
+
+install:
+  - conda env create --quiet --file=environment.yml
+  - conda activate policies-database
+  - conda list
+
+script:
+  - echo "CI isn't doing anything yet"
