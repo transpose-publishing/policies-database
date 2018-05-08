@@ -15,4 +15,7 @@ install:
   - conda list
 
 script:
-  - echo "CI isn't doing anything yet"
+  - jupyter nbconvert --inplace --execute
+    --ExecutePreprocessor.timeout=-1
+    --ExecutePreprocessor.kernel_name=python
+    romeo/*.ipynb
