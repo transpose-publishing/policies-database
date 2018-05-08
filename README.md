@@ -12,7 +12,7 @@ Without this kind of information, it's difficult to monitor or advocate for chan
 
 In order to address this, we're building a user-editable database that contains this information. The database entries are human-readable YAML files that we'll use to build visualizations on the web down the road.
 
-For more information on this initiative, visit our [homepage](transpose-publishing.github.io).
+For more information on this initiative, visit our [homepage](http://transpose-publishing.github.io).
 
 ## Contributing
 
