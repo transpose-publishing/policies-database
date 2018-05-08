@@ -25,8 +25,11 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 ## MozSprint
 
 Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
-
-We'll be discussing the TRANSPOSE project on a Mozilla Sprint Demo call at 12pm ET (16:00 UTC) on Tuesday, May 8, 2018. [See notes and join info](https://public.etherpad-mozilla.org/p/ol5-demos-b)
+- Find issues we're looking for help with labeled "mozsprint" [here](https://github.com/transpose-publishing/policies-database/issues)
+- TRANSPOSE on the Mozilla Global Sprint repo [here](https://github.com/mozilla/global-sprint/issues/269)
+- We discussed the TRANSPOSE project on a Mozilla Sprint Demo call at 12pm ET (16:00 UTC) on Tuesday, May 8, 2018. [See notes and join info](https://public.etherpad-mozilla.org/p/ol5-demos-b)
+- During the Sprint, we can keep in touch via Gitter: [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/transpose-publishing/Lobby#)
+- Jessica will be working on this project from the Boston site
 
 ![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
 
