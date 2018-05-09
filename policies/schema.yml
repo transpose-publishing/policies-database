@@ -4,6 +4,12 @@ mapping:
   # Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
   policy-id:
     type: str
+  # publisher name from SHERAP/RoMEO
+  publisher:
+    type: str
+  # policy heading from SHERAP/RoMEO
+  policy-heading:
+    type: str
   # A list of the journals from SHERPA/RoMEO associated with this romeopub- "jtitle"
   journals:
     type: seq
