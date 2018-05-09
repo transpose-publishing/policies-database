@@ -61,10 +61,6 @@ mapping:
   #
   # PEER REVIEW TRANSFER
   #
-  # Co-reviewer policy url (valid url)
-  co-review-url:
-    type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
   # Policy on transfer of peer reviews (free text)
   transfer-policy:
     type: str
@@ -129,7 +125,7 @@ mapping:
     type: str
   # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
   preprint-media:
-    type: seq
+    type: str
   # url for preprint-media
   preprint-media-url:
     type: str
