@@ -9,9 +9,11 @@ mapping:
     type: seq
     sequence:
       - type: str
-  # The Policy ID from SHERPA/RoMEO that is the parent of this policy - "parentid"
-  parent-policy:
-    type: str
+  # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy - "parentid"
+  parent-policies:
+    type: seq
+    sequence:
+      - type: str
   # A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
   child-policies:
     type: seq

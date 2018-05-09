@@ -19,11 +19,13 @@ script:
     --ExecutePreprocessor.timeout=-1
     --ExecutePreprocessor.kernel_name=python
     romeo/*.ipynb
-  - for file in policies/test-policies/*.yml
-    do
-      echo "$file"
-      pykwalify --data-file="$file" --schema-file=policies/schema.yml
-    done
+  - pykwalify --strict-rule-validation
+    --data-file=policies/template.yml
+    --schema-file=policies/schema.yml
+  - jupyter nbconvert --inplace --execute
+    --ExecutePreprocessor.timeout=-1
+    --ExecutePreprocessor.kernel_name=python
+    policies/*.ipynb
   # - pykwalify
   #   --data-file=policies/policies/*.yml
   #   --schema-file=policies/schema.yml
