@@ -1,0 +1,52 @@
+policy-id: romeo_1850
+publisher: University of Pittsburgh, University Library System
+policy-heading: Creative Commons Attribution Non-Commercial No Derivatives
+journals:
+- Excellence in Higher Education
+- Journal of French and Francophone Philosophy
+- Journal of Law and Commerce
+- 'Motivational Interviewing: Training, Research, Implementation, Practice'
+- Pitt Political Review
+- Pittsburgh Journal of Environmental and Public Health Law
+- Pittsburgh Journal of Technology Law and Policy
+- Pittsburgh Tax Review
+- Radical Teacher
+- Revue de la philosophie francaise et de langue francaise
+- University of Pittsburgh Law Review
+- Études Ricoeuriennes/ Ricoeur Studies
+parent-policies:
+- romeo_981
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

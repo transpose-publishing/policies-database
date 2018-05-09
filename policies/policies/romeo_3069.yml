@@ -1,0 +1,45 @@
+policy-id: romeo_3069
+publisher: Future Science
+policy-heading: Newlands Press
+journals:
+- Bioanalysis
+- Future Medicinal Chemistry
+- International Journal of Pharmacokinetics
+- Pharmaceutical Patent Analyst
+- Therapeutic Delivery
+parent-policies:
+- romeo_697
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

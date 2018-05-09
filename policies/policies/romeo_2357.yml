@@ -1,0 +1,41 @@
+policy-id: romeo_2357
+publisher: Utrecht University Library Open Access Journals (Uopen Journals)
+policy-heading: De Zeventiende Eeuw
+journals:
+- De Zeventiende Eeuw. Cultuur in de Nederlanden in interdisciplinair perspectief
+parent-policies:
+- romeo_2348
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

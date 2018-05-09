@@ -1,0 +1,80 @@
+policy-id: romeo_281
+publisher: Berghahn Journals
+policy-heading: '[Default policy]'
+journals:
+- Anthropological Journal of European Cultures
+- Anthropology in Action
+- Anthropology of the Middle East
+- Asia Pacific World
+- Aspasia
+- Boyhood Studies
+- Cambridge Journal of Anthropology
+- Conflict and Society
+- Contention
+- Critical Survey
+- Democratic Theory
+- Durkheimian Studies
+- Environment and Society
+- European Judaism
+- Focaal
+- French Politics, Culture and Society
+- German Politics and Society
+- Girlhood Studies
+- Historical Reflections/Reflexions Historiques
+- International Journal of Social Quality
+- Israel Studies Forum
+- Israel Studies Review
+- Italian Politics
+- Journal of Educational Media, Memory, and Society
+- Journeys
+- Learning and Teaching
+- Mobility in History
+- Museum Worlds
+- Nature and Culture
+- Nomadic Peoples
+- Projections
+- Regions and Cohesion
+- Religion and Society
+- Sartre Studies International
+- Screen Bodies
+- Sibirica
+- Social Analysis
+- Theoria
+- Transfers
+parent-policies: []
+child-policies:
+- romeo_2917
+- romeo_2918
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

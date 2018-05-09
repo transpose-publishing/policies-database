@@ -1,0 +1,70 @@
+policy-id: romeo_621
+publisher: Mark Allen Healthcare
+policy-heading: '[Default policy]'
+journals:
+- 5 to 7 Educator
+- African Journal of Midwifery and Women's Health
+- British Journal of Cardiac Nursing
+- British Journal of Community Nursing
+- British Journal of Healthcare Assistants
+- British Journal of Healthcare Management
+- British Journal of Hospital Medicine
+- British Journal of Mental Health Nursing
+- British Journal of Midwifery
+- British Journal of Neuroscience Nursing
+- British Journal of Nursing
+- British Journal of School Nursing
+- British Journal of Wellbeing
+- Delivering Diplomas
+- Dental Nursing
+- Early Years Educator (EYE)
+- Gastrointestinal Nursing
+- International Journal of Ophthalmic Practice
+- International Journal of Palliative Nursing
+- International Journal of Therapy and Rehabilitation
+- Journal of Aesthetic Nursing
+- Journal of Health Visiting
+- Journal of Paramedic Practice
+- Journal of Renal Nursing
+- Journal of Wound Care
+- Livestock
+- Nurse Prescribing
+- Nursing and Residential Care
+- Practice Nursing
+- SecEd
+- Veterinary Nurse
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

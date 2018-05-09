@@ -1,0 +1,54 @@
+policy-id: romeo_33
+publisher: Geological Society
+policy-heading: '[Default policy]'
+journals:
+- Engineering Geology Special Publication
+- 'Geochemistry: Exploration, Environment, Analysis'
+- Geological Society Special Publications
+- Geoscientist
+- Journal of the Geological Society
+- Micropalaeontological Society, Special Publications
+- Petroleum Geology Conference Series
+- Petroleum Geoscience
+- Proceedings of the Yorkshire Geological Society
+- Quarterly Journal of Engineering Geology and Hydrogeology
+- Scottish Journal of Geology
+- Special Publications of IAVCEI
+- Transactions of the Edinburgh Geological Society
+- Transactions of the Geological Society
+- Transactions of the Geological Society of Glasgow
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

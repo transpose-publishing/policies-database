@@ -1,0 +1,99 @@
+policy-id: romeo_943
+publisher: Academic Journals, New York
+policy-heading: '[Default policy]'
+journals:
+- American Journal of Biochemistry and Molecular Biology
+- American Journal of Drug Discovery and Development
+- American Journal of Food Technology
+- American Journal of Plant Nutrition and Fertilization Technology
+- American Journal of Plant Physiology
+- Asian Journal of Animal and Veterinary Advances
+- Asian Journal of Biochemistry
+- Asian Journal of Cell Biology
+- Asian Journal of Earth Sciences
+- Asian Journal of Information Management
+- Asian Journal of Marketing
+- Asian Journal of Plant Pathology
+- Asian Journal of Poultry Science
+- Bacteriology Journal
+- Current Research in Cardiovascular Pharmacology
+- Current Research in Neuroscience
+- Current Research in Physics
+- Current Research in Poultry Science
+- Current Research in Space Science
+- Current Research in Tuberculosis
+- Ecologia
+- European Journal of Dentistry and Medicine
+- International Journal of Agricultural Research
+- International Journal of Biological Chemistry
+- International Journal of Cancer Research
+- International Journal of Dairy Science
+- International Journal of Manufacturing Systems
+- International Journal of Plant Breeding and Genetics
+- International Journal of Soil Science
+- International Journal of Virology
+- International Journal of Zoological Research
+- Journal of Entomology
+- Journal of Fisheries and Aquatic Science
+- Journal of Pharmacology and Toxicology
+- Journal of Plant Sciences
+- Journal of Software Engineering
+- Kidney Research Journal
+- Microbiology Journal
+- Research Journal of Allergy
+- Research Journal of Botany
+- Research Journal of Business Management
+- Research Journal of Cardiology
+- Research Journal of Environmental Sciences
+- Research Journal of Environmental Toxicology
+- Research Journal of Forestry
+- Research Journal of Information Technology
+- Research Journal of Medicinal Plant
+- Research Journal of Microbiology
+- Research Journal of Parasitology
+- Research Journal of Physics
+- Research Journal of Phytochemistry
+- Research Journal of Radiology
+- Research Journal of Seed Science
+- Research Journal of Soil Biology
+- Research Journal of Toxins
+- Research Journal of Veterinary Sciences
+- Space Research Journal
+- Trends in Applied Sciences Research
+- Trends in Horticultural Research
+- Trends in Medical Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

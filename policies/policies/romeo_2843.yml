@@ -1,0 +1,47 @@
+policy-id: romeo_2843
+publisher: Cambridge University Press (CUP)
+policy-heading: PDF allowed
+journals:
+- British Journal of Nutrition
+- Edinburgh Journal of Botany
+- Nutrition Research Reviews
+- Proceedings of the Nutrition Society
+- Public Health Nutrition
+- Review of Symbolic Logic
+- Twin Research and Human Genetics
+parent-policies:
+- romeo_27
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

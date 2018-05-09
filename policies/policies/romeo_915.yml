@@ -1,0 +1,65 @@
+policy-id: romeo_915
+publisher: Sciedu Press
+policy-heading: '[Default policy]'
+journals:
+- Accounting and Finance Research
+- Artificial Intelligence Research
+- Business and Management Research
+- Case Reports in Clinical Pathology
+- Case Reports in Internal Medicine
+- Clinical Nursing Studies
+- English Linguistics Research
+- International Journal of Business Administration
+- International Journal of Diagnostic Imaging
+- International Journal of English Language Teaching
+- International Journal of Financial Research
+- International Journal of Higher Education
+- Journal of Biomedical Graphics and Computing
+- Journal of Business Administration Research
+- Journal of Curriculum and Teaching
+- Journal of Hospital Administration
+- Journal of Management and Strategy
+- Journal of Nursing Education and Practice
+- Journal of Solid Tumors
+- Management and Organizational Studies
+- Research in World Economy
+- Studies in Asian Social Science
+- World Journal of Education
+- World Journal of English Language
+- World Journal of Psychology
+- World Journal of Social Science
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

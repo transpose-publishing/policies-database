@@ -1,0 +1,57 @@
+policy-id: romeo_2344
+publisher: Smart Science and Technology
+policy-heading: '[Default policy]'
+journals:
+- Abdomen
+- Cancer Cell & Microenvironment
+- Cardiovascular Regenerative Medicine
+- Immunoendocrinology
+- Inflammation and Cell Signaling
+- Itch & Pain
+- Journal of Advanced Nutrition and Human Metabolism
+- Macrophage
+- Molecular & Cellular Epilepsy
+- Musculoskeletal Regeneration
+- Neurotransmitter
+- Receptors & Clinical Investigation
+- Science Proceedings
+- Stem Cell Epigenetics
+- Stem Cell and Translational Investigation
+- Telomere and Telomerase
+- Therapeutic Targets for Neurological Diseases
+- http://www.smartscitech.com/index.php/RD
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,59 @@
+policy-id: romeo_982
+publisher: Armand Colin
+policy-heading: '[Default policy]'
+journals:
+- Annales de géographie
+- Annales historiques de la Révolution française
+- Annales. Histoire, Sciences sociales
+- Carrefours de l'éducation
+- Français aujourd'hui
+- Histoire, économie et société
+- Information géographique
+- Langages
+- Langue française
+- Littérature
+- Littératures classiques
+- Revue Tiers Monde
+- Revue d'histoire des sciences
+- Revue d'économie régionale et urbaine
+- Revue de l'histoire des religions
+- Revue internationale et stratégique
+- Romantisme
+parent-policies: []
+child-policies:
+- romeo_2092
+- romeo_2093
+- romeo_2094
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

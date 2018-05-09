@@ -1,0 +1,59 @@
+policy-id: romeo_1217
+publisher: Università degli Studi di Milano (University of Milan)
+policy-heading: '[Default policy]'
+journals:
+- Altre Modernità
+- Enthymema
+- Food In
+- 'Interfaces: A Journal of Medieval European Literatures'
+- Italiano LinguaDue
+- Itinera
+- LANX.
+- Lebenswelt
+- Research In Paleontology and Stratigraphy
+- Rivista Italiana di Filosofia Analitica - Junior
+- Rivista Italiana di Paleontologia e Stratigrafia
+- Roars Transactions
+- Stato, Chiese e pluralismo confessionale
+- Studia austriaca
+- Studia theodisca
+- Tintas
+parent-policies: []
+child-policies:
+- romeo_1220
+- romeo_1221
+- romeo_1222
+- romeo_2802
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

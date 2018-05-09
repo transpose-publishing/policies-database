@@ -1,0 +1,181 @@
+policy-id: romeo_265
+publisher: Elsevier Masson
+policy-heading: '[Default policy]'
+journals:
+- ALTER. European Journal of Disability research, Journal européen de recherche sur
+  le handicap
+- Additives for Polymers
+- Ageing Research Reviews
+- Aggression and Violent Behavior
+- Agricultural Sciences in China
+- Agricultural Systems
+- Agricultural Water Management
+- Agricultural and Forest Meteorology
+- Agriculture, Ecosystems and Environment
+- Alcohol
+- Alpha Omegan
+- 'Alter: European Journal of Disability Research'
+- 'Alter: Journal Européen de Recherche sur le Handicap'
+- Ambulatory Pediatrics
+- Ambulatory Surgery
+- American Journal of Ophthalmology
+- American Journal of Orthodontics and Dentofacial Orthopedics
+- American Journal of Preventive Medicine
+- Anaerobe
+- Anaesthesia and Intensive Care Medicine
+- Anales de Cirugía Vascular
+- Analytica Chimica Acta
+- Analytical Biochemistry
+- Anatomy, Anthropology, Embryology and Histology (Section 1 EMBASE)
+- Anesthesiology (Section 24 EMBASE)
+- Animal Behaviour
+- Animal Feed Science and Technology
+- Animal Reproduction Science
+- Annales d'Endocrinologie
+- Annales d'Urologie
+- Annales de Cardiologie et d'Angéiologie
+- Annales de Chirurgie
+- Annales de Chirurgie Plastique Esthétique
+- Annales de Paléontologie
+- Annales de Pathologie
+- Annales de chirurgie vasculaire
+- Annals of Epidemiology
+- Annals of Nuclear Energy
+- Annals of Physical and Rehabilitation Medicine
+- Annals of Physics
+- Annals of Pure and Applied Logic
+- Annals of Tourism Research
+- Annals of Vascular Surgery
+- Antibiotiques
+- Antiviral Research
+- Archives des Maladies Professionnelles et de L'Environnement
+- Archives des Maladies du Coeur et des Vaisseaux - Pratique
+- Archives of Cardiovascular Diseases
+- Cahiers de L'Audition
+- Cancer Radiothérapie
+- Chirurgie de la Main
+- Clinics and Research in Hepatology and Gastroenterology
+- Comptes Rendus Biologies
+- Comptes Rendus Chimie
+- Comptes Rendus Géoscience
+- Comptes Rendus Mathématique
+- Comptes Rendus Mécanique
+- Comptes Rendus Palevol
+- Comptes Rendus Physique
+- Diabetes and Metabolism
+- Diagnostic and Interventional Imaging
+- Douleurs
+- Droit, Déontologie et Soin
+- Encéphale
+- Epidemiology and Public Health
+- European Annals of Otorhinolaryngology, Head and Neck Diseases
+- European Journal of Emergencies
+- Feuillets de Radiologie
+- Gastroentérologie Clinique et Biologique
+- Gynécologie Obstétrique and Fertilité
+- Gynécologie Obstétrique et Fertilité
+- Hérodote
+- IRBM News
+- Imagerie de la Femme
+- Inter bloc
+- International Orthodontics
+- JCC Open
+- Joint Bone Spine
+- Journal Européen des Urgences
+- Journal Français D'Ophtalmologie
+- Journal de Chirurgie Viscé
+- Journal de Chirurgie Viscérale
+- Journal de Gynécologie Obstétrique et Biologie de la Reproduction
+- Journal de Mycologie Médicale
+- Journal de Neuroradiologie
+- Journal de Radiologie
+- Journal de Radiologie diagnostique et interventionnelle
+- Journal de Réadaptation Médicale
+- Journal de Thérapie Comportementale et Cognitive
+- Journal de Traumatologie du Sport
+- Journal des Anti-Infectieux
+- Journal des Maladies Vasculaires
+- Journal of Neuroradiology
+- Journal of Visceral Surgery
+- Kinésithérapie, la revue
+- Morphologie
+- Motricité Cérébrale
+- Médecine Palliative
+- Médecine des Maladies Métaboliques
+- Médecine du Sommeil
+- Médecine et Longévité
+- 'NPG: Neurologie - Psychiatrie - Gériatrie'
+- Neurochirurgie
+- Option/Bio
+- Ortho Magazine
+- 'Orthopaedics and Traumatology: Surgery and Research'
+- Oxymag
+- Pharmacien Hospitalier
+- Pharmacien Hospitalier et Clinicien
+- Praticien en Anesthésie Réanimation
+- Pratique Médicale et Chirurgicale de l'Animal de Compagnie
+- Pratique neurologique - FMC
+- Pratiques Médicale et Chirurgicale de l'Animal de Compagnie
+- Presse Médicale
+- Progrès en Urologie
+- Progrès en Urologie-FMC
+- Psychologie du travail et des organisations
+- Research and Clinics in Hepatology and Gastroenterology
+- Revue Neurologique
+- Revue Sage-Femme
+- Revue d'Epidémiologie et de Santé Publique
+- Revue d'Homéopathie
+- Revue de Chirurgie Orthopédique et Réparatrice de l'Appareil Moteur
+- Revue de Chirurgie Orthopédique et Traumatologique
+- Revue de L'Infirmière
+- Revue de Pneumologie Clinique
+- Revue de Stomatologie et de Chirurgie Maxillo-Faciale
+- Revue des Maladies Respiratoires
+- Revue des Maladies Respiratoires Actualités
+- Revue du Podologue
+- Revue du Rhumatisme monographies
+- Soins
+- Soins Aides-Soignantes
+- Soins Cadres
+- Soins Cadres de Santé
+- Soins Gérontologie
+- Soins Psychiatrie
+- Soins Pédiatrie/Puériculture
+- nnales de Dermatologie et de Vénéréologie
+- Éthique et Santé
+parent-policies:
+- romeo_30
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

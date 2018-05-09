@@ -1,0 +1,73 @@
+policy-id: romeo_780
+publisher: Consejo Superior de Investigaciones Científicas (CSIC)
+policy-heading: '[Default policy]'
+journals:
+- Al-Qantara
+- Anales Cervantinos
+- Anales del Jardín Botánico de Madrid
+- Anuario Musical
+- Anuario de Estudios Americanos
+- Anuario de Estudios Medievales
+- Arbor
+- Archivo Español de Arqueología
+- Archivo Español de Arte
+- Asclepio
+- Collectanea Botanica
+- Cuadernos de Estudios Gallegos
+- Emerita
+- Estudios Geográficos
+- Estudios Geológicos
+- Gladius
+- Graellsia
+- Grasas y Aceites
+- Hispania
+- Hispania Sacra
+- Informes de la Construcción
+- Isegoría
+- Materiales de Construcción
+- Pirineos
+- Revista Internacional de Sociología
+- Revista de Dialectología y Tradiciones Populares
+- Revista de Filología Española
+- Revista de Indias
+- Revista de Literatura
+- Revista de Metalurgia
+- Revista española de Documentación Científica
+- Scientia Marina
+- Sefarad
+- Trabajos de Prehistoria
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

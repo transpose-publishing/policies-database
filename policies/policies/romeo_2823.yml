@@ -1,0 +1,212 @@
+policy-id: romeo_2823
+publisher: Elsevier
+policy-heading: 12 months
+journals:
+- AORN Journal
+- Academic Pediatrics
+- Academic Radiology
+- Acta Haematologica Polonica
+- Acta Histochemica
+- Acta Tropica
+- Advanced Drug Delivery Reviews
+- Advances in Anesthesia
+- Advances in Biological Regulation
+- Advances in Medical Sciences
+- Advances in Pediatrics
+- Advances in Surgery
+- Air Medical Journal
+- American Heart Journal
+- American Journal of Infection Control
+- American Journal of Kidney Diseases
+- American Journal of Obstetrics and Gynecology
+- Anaesthesia, Critical Care and Pain Medicine
+- Annales de l'Institut Henri Poincaré (C) Non Linear Analysis
+- Annals of Allergy, Asthma and Immunology
+- Annals of Anatomy
+- Annals of Emergency Medicine
+- Apollo Medicine
+- Applied Animal Behaviour Science
+- Arab Journal of Gastroenterology
+- Archives de Pédiatrie
+- Archives of Biochemistry and Biophysics
+- Archives of Cardiovascular Diseases Supplements
+- Archives of Civil and Mechanical Engineering
+- Archives of Gerontology and Geriatrics
+- Archives of Medical Research
+- Archives of Oral Biology
+- Archives of Physical Medicine and Rehabilitation
+- Artery Research
+- Arthropod Structure and Development
+- Arthroscopy Techniques
+- Artificial Intelligence in Medicine
+- Asian Journal of Psychiatry
+- Asian Nursing Research
+- Asian Pacific Journal of Tropical Biomedicine
+- Asian Pacific Journal of Tropical Disease
+- Asian Pacific Journal of Tropical Medicine
+- Atherosclerosis
+- Autoimmunity Reviews
+- 'Autonomic Neuroscience: Basic and Clinical'
+- 'Best Practice and Research: Clinical Anaesthesiology'
+- 'Best Practice and Research: Clinical Endocrinology and Metabolism'
+- 'Best Practice and Research: Clinical Gastroenterology'
+- 'Best Practice and Research: Clinical Haematology'
+- 'Best Practice and Research: Clinical Obstetrics and Gynaecology'
+- 'Best Practice and Research: Clinical Rheumatology'
+- Biocatalysis and Agricultural Biotechnology
+- Biochemical Pharmacology
+- Biochemical and Biophysical Research Communications
+- Biochimica et Biophysica Acta Molecular and Cell Biology of Lipids
+- Biochimie
+- Biological Control
+- Biological Psychiatry
+- 'Biological Psychiatry: Cognitive Neuroscience and Neuroimaging'
+- Biological Psychology
+- Biologicals
+- Biomedical and Environmental Sciences
+- Brain Research
+- Brain Research Bulletin
+- Brain Stimulation
+- Brain and Cognition
+- Brain and Development
+- Brain and Language
+- Brain, Behavior, and Immunity
+- Canadian Association of Radiologists Journal
+- Canadian Journal of Cardiology
+- Cancer Epidemiology
+- Cancer Genetics
+- Cancer Letters
+- Cell Calcium
+- Cellular Immunology
+- Cellular Signalling
+- Clinical Biochemistry
+- Clinical Biomechanics
+- Clinical Breast Cancer
+- Clinical Colorectal Cancer
+- Clinical Genitourinary Cancer
+- Clinical Imaging
+- Clinical Immunology
+- Clinical Lung Cancer
+- Clinical Lymphoma, Myeloma and Leukemia
+- Clinical Microbiology Newsletter
+- Clinical Microbiology and Infection
+- Clinical Neurology and Neurosurgery
+- Clinical Neurophysiology
+- Clinical Nutrition
+- Clinical Nutrition Supplements
+- Clinical Ovarian Cancer
+- Clinical Plasma Medicine
+- 'Clinical Queries: Nephrology'
+- Clinical Radiology
+- Clinical Simulation in Nursing
+- Clinical Therapeutics
+- Clinics in Dermatology
+- 'Comparative Biochemistry and Physiology - Part A: Molecular and Integrative Physiology'
+- 'Comparative Biochemistry and Physiology - Part B: Biochemistry and Molecular Biology'
+- 'Comparative Biochemistry and Physiology - Part C: Toxicology and Pharmacology'
+- 'Comparative Biochemistry and Physiology - Part D: Genomics and Proteomics'
+- Current Opinion in Behavioral Sciences
+- Current Opinion in Biotechnology
+- Current Opinion in Cell Biology
+- Current Opinion in Genetics and Development
+- Current Opinion in Immunology
+- Current Opinion in Insect Science
+- Current Opinion in Microbiology
+- Current Opinion in Neurobiology
+- Current Opinion in Pharmacology
+- Current Opinion in Psychology
+- Current Opinion in Structural Biology
+- Current Opinion in Virology
+- Current Problems in Cancer
+- Current Problems in Cardiology
+- Current Problems in Diagnostic Radiology
+- Current Problems in Pediatric and Adolescent Health Care
+- Current Problems in Surgery
+- Drug Discovery Today
+- 'Drug Discovery Today: Disease Models'
+- 'Drug Discovery Today: Technologies'
+- Drug Metabolism and Pharmacokinetics
+- Food Microbiology
+- Gait and Posture
+- 'Journal of Allergy and Clinical Immunology: In Practice'
+- Journal of Biomechanics
+- Journal of Controlled Release
+- Journal of Drug Delivery Science and Technology
+- Journal of Infection and Chemotherapy
+- Journal of Optometry
+- Journal of Orthopaedics
+- Journal of Pain and Symptom Management
+- Journal of Pediatrics
+- Journal of Thoracic Oncology
+- Journal of the National Medical Association
+- Medical Engineering and Physics
+- Midwifery
+- Neuromuscular Disorders
+- Nursing for Women's Health
+- Operative Techniques in Thoracic and Cardiovascular Surgery
+- 'Ophthalmology: Journal of The American Academy of Ophthalmology'
+- Patient Education and Counseling
+- Pediatric Neurology
+- Progress in Aerospace Sciences
+- Progress in Biophysics and Molecular Biology
+- Progress in Histochemistry and Cytochemistry
+- Progress in Lipid Research
+- Progress in Neuro-Psychopharmacology and Biological Psychiatry
+- Progress in Pediatric Cardiology
+- Public Health
+- Radiography
+- Research in Social and Administrative Pharmacy
+- Resuscitation
+- Science Bulletin
+- Seminars in Arthritis and Rheumatism
+- Seminars in Cancer Biology
+- Seminars in Cell and Developmental Biology
+- Seminars in Hematology
+- Seminars in Immunology
+- Seminars in Nuclear Medicine
+- Seminars in Ultrasound, CT and MRI
+- Sleep Health
+- Structures
+- Trends in Anaesthesia and Critical Care
+- Trends in Cardiovascular Medicine
+- Trends in Food Science and Technology
+- Trends in Neuroscience and Education
+- TÉKHNE
+- Vaccine
+- Veterinary Journal
+parent-policies:
+- romeo_30
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

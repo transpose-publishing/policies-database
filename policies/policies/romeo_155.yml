@@ -1,0 +1,192 @@
+policy-id: romeo_155
+publisher: World Scientific Publishing
+policy-heading: '[Default policy]'
+journals:
+- Advances in Adaptive Data Analysis
+- Advances in Complex Systems
+- Advances in Synchrotron Radiation
+- Algebra Colloquium
+- American Journal of Chinese Medicine
+- Analysis and Applications
+- Annals of Financial Economics
+- Asia Pacific Biotech News
+- Asia Pacific Journal of Climate Change
+- Asia Pacific Mathematics Newsletter
+- Asia Pacific Physics Newsletter
+- Asia-Pacific Journal of Operational Research
+- Asian Case Research Journal
+- Asian-European Journal of Mathematics
+- 'Biomedical Engineering: Applications, Basis and Communications'
+- Biophysical Reviews and Letters
+- COSMOS
+- Cancer Reviews
+- China Economic Policy Review
+- China Particuology
+- Chinese Journal of Urban and Environmental Studies
+- Climate Change Economics
+- Coastal Engineering Journal
+- Communications in Contemporary Mathematics
+- Confluentes Mathematici
+- Discrete Mathematics, Algorithms and Applications
+- Division of Labour and Transaction Costs
+- Fluctuation and Noise Letters
+- Fractals
+- Functional Materials Letters
+- Global Credit Review
+- Global Journal of Economics
+- Hand Surgery
+- Hong Kong Journal of Social Work
+- Infinite Dimensional Analysis, Quantum Probability and Related Topics
+- International Game Theory Review
+- International Journal of Air-Conditioning and Refrigeration
+- International Journal of Algebra and Computation
+- International Journal of Applied Mechanics
+- International Journal of Bifurcation and Chaos
+- 'International Journal of Bifurcation and Chaos: in Applied Sciences and Engineering'
+- International Journal of Biomathematics
+- International Journal of Computational Engineering Science
+- International Journal of Computational Geometry and Applications
+- International Journal of Computational Intelligence and Applications
+- International Journal of Computational Materials Science and Engineering
+- International Journal of Computational Methods
+- International Journal of Computer Processing Of Languages
+- International Journal of Cooperative Information Systems
+- International Journal of Development and Conflict
+- International Journal of Diasporic Chinese Studies
+- International Journal of Energy and Statistics
+- International Journal of Foundations of Computer Science
+- International Journal of Geometric Methods in Modern Physics
+- International Journal of High Speed Computing
+- International Journal of High Speed Electronics and Systems
+- International Journal of Humanoid Robotics
+- International Journal of Image and Graphics
+- International Journal of Information Acquisition
+- International Journal of Information Technology and Decision Making
+- International Journal of Innovation Management
+- International Journal of Innovation and Technology Management
+- International Journal of Machine Consciousness
+- International Journal of Mathematics
+- International Journal of Modeling, Simulation, and Scientific Computing
+- International Journal of Modern Physics A
+- International Journal of Modern Physics B
+- International Journal of Modern Physics C
+- International Journal of Modern Physics D
+- International Journal of Modern Physics E
+- 'International Journal of Modern Physics: Conference Series'
+- International Journal of Nanoscience
+- International Journal of Neural Systems
+- International Journal of Number Theory
+- International Journal of PIXE
+- International Journal of Pattern Recognition and Artificial Intelligence
+- International Journal of Quantum Information
+- International Journal of Reliability, Quality and Safety Engineering
+- International Journal of Semantic Computing
+- International Journal of Shape Modeling
+- International Journal of Software Engineering and Knowledge Engineering
+- International Journal of Structural Stability and Dynamics
+- International Journal of Theoretical and Applied Finance
+- International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+- International Journal of Wavelets, Multiresolution and Information Processing
+- International Journal on Artificial Intelligence Tools
+- International Journal on Wireless and Optical Communications
+- International Review of Environmental and Resource Economics
+- Journal of Advanced Dielectrics
+- Journal of Advanced Manufacturing Systems
+- Journal of Algebra and Its Applications
+- Journal of Astronomical Instrumentation
+- Journal of Bioinformatics and Computational Biology
+- Journal of Biological Systems
+- Journal of Circuits, Systems, and Computers
+- Journal of Computational Acoustics
+- Journal of Construction Research
+- Journal of Derivatives Accounting
+- Journal of Developmental Entrepreneurship
+- Journal of Earthquake and Tsunami
+- Journal of Electronics Manufacturing
+- Journal of Enterprising Culture
+- Journal of Environmental Assessment Policy and Management
+- Journal of Hyperbolic Differential Equations
+- Journal of Information and Knowledge Management
+- Journal of Innovative Optical Health Sciences
+- Journal of Integrative Neuroscience
+- Journal of Interconnection Networks
+- Journal of International Commerce, Economics and Policy
+- Journal of Knot Theory and Its Ramifications
+- Journal of Mathematical Logic
+- Journal of Mechanics in Medicine and Biology
+- Journal of Molecular and Engineering Materials
+- Journal of Multiscale Modeling
+- Journal of Musculoskeletal Research
+- Journal of Nonlinear Optical Physics and Materials
+- Journal of Porphyrins and Phthalocyanines
+- Journal of Restructuring Finance
+- Journal of Social Theory
+- Journal of South Seas Society
+- Journal of Theoretical and Computational Chemistry
+- Journal of Topology and Analysis
+- Journal on Self Computing
+- Mathematical Models and Methods in Applied Sciences
+- Middle East Development Journal
+- Mineral Resources Engineering
+- Modern Physics Communications
+- Modern Physics Letters A
+- Modern Physics Letters B
+- NANO
+- NanYang Xuebao
+- Nano LIFE
+- New Mathematics and Natural Computation
+- Open Systems and Information Dynamics
+- Optics and Photonics Letters
+- Parallel Processing Letters
+- Quarterly Journal of Finance
+- 'Random Matrices: Theory and Applications'
+- Review of Pacific Basin Financial Markets and Policies
+- Reviews in Mathematical Physics
+- Reviews of Accelerator Science and Technology
+- Reviews of Solar Energy
+- SPIN
+- Singapore Economic Review
+- Stochastics and Dynamics
+- Surface Review and Letters
+- Systems Research Forum
+- TECHNOLOGY
+- Tangent
+- Unmanned Systems
+- 华人研究国际学报
+- 南洋学报
+- 圆 切 线
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

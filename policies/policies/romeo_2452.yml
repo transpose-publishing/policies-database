@@ -1,0 +1,51 @@
+policy-id: romeo_2452
+publisher: Elmer Press
+policy-heading: '[Default policy]'
+journals:
+- Cardiology Research
+- Gastroenterology Research
+- International Journal of Clinical Pediatrics
+- Journal of Clinical Gynecology and Obstetrics
+- Journal of Clinical Medicine Research
+- Journal of Current Surgery
+- Journal of Endocrinology and Metabolism
+- Journal of Hematology
+- Journal of Medical Cases
+- Journal of Neurology Research
+- World Journal of Nephrology and Urology
+- World Journal of Oncology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

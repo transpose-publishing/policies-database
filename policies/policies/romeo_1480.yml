@@ -1,0 +1,101 @@
+policy-id: romeo_1480
+publisher: Oxford University Press (OUP)
+policy-heading: Policy E - Oxford Open Option D
+journals:
+- Adaptation
+- African Affairs
+- American Journal of Jurisprudence
+- Applied Linguistics
+- British Journal of Aesthetics
+- British Journal of Criminology
+- British Journal of Social Work
+- British Year Book of International Law
+- CESifo Economic Studies
+- Cambridge Journal of Economics
+- Cambridge Journal of Regions, Economy and Society
+- Cambridge Quarterly
+- Capital Markets Law Journal
+- Chinese Journal Of International Politics
+- Chinese Journal of Comparative Law
+- Chinese Journal of International Law
+- Classical Receptions Journal
+- Community Development Journal
+- Contemporary Women's Writing
+- Contributions to Political Economy
+- ELT Journal
+- English
+- English Historical Review
+- Essays in Criticism
+- European Review of Agricultural Economics
+- Forum for Modern Language Studies
+- French Studies
+- French Studies Bulletin
+- History Workshop Journal
+- Human Rights Law Review
+- Industrial Law Journal
+- Industrial and Corporate Change
+- International Journal of Constitutional Law
+- International Journal of Law and Information Technology
+- International Journal of Law, Policy and the Family
+- International Journal of Lexicography
+- International Journal of Public Opinion Research
+- International Journal of Refugee Law
+- International Journal of Transitional Justice
+- Journal of African Economies
+- Journal of Conflict and Security Law
+- Journal of Environmental Law
+- Journal of Human Rights Practice
+- Journal of International Economic Law
+- Journal of Survey Statistics and Methodology
+- Leo Baeck Institute Yearbook
+- Library
+- Literature and Theology
+- London Review of International Law
+- Migration Studies
+- Notes and Queries
+- Oxford Review of Economic Policy
+- Parliamentary Affairs
+- 'Publius: The Journal of Federalism'
+- Refugee Survey Quarterly
+- Review of Economic Studies
+- Review of English Studies
+- Social Forces
+- Socio-Economic Review
+- Statute Law Review
+- Yearbook of International Environmental Law
+parent-policies:
+- romeo_55
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

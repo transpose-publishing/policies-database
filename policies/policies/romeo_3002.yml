@@ -1,0 +1,44 @@
+policy-id: romeo_3002
+publisher: Cambridge University Press (CUP)
+policy-heading: PDF Allowed No Embargo
+journals:
+- Advances in Archaeological Practice
+- American Antiquity
+- American Journal of International Law
+- Latin American Antiquity
+parent-policies:
+- romeo_27
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

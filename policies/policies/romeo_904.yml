@@ -1,0 +1,70 @@
+policy-id: romeo_904
+publisher: Universidade do Porto, Faculdade de Letras
+policy-heading: '[Default policy]'
+journals:
+- Africana Studia
+- 'CEM: Cultura, Espaço & Memória'
+- 'Cadernos: Curso de Doutoramento em Geografia'
+- 'Douro: Estudos & Documentos'
+- 'E-Teals: an e-journal of Teacher Education and Applied Language Studies'
+- "E-fabulations: e-journal of children's literature"
+- 'E-topia: revista Electrónica de Estudos sobre a Utopia'
+- Intercâmbio
+- Language and Law
+- Linguagem e Direito
+- Linguarum Arena
+- 'Linguística: Revista de Estudos Linguísticos da Universidade do Porto'
+- Mediaevalia. Textos e estudos
+- 'Península: Revista de Estudos Ibéricos'
+- Portugalia
+- 'Revelar: Revista de Estudos da Fotografia e Imagem'
+- Revista da Faculdade de Letras do Porto. Série Filosofia
+- Revista da Faculdade de Letras do Porto. Série Geografia
+- Revista da Faculdade de Letras do Porto. Série História
+- Revista da Faculdade de Letras do Porto. Série Sociologia
+- 'Revista da Faculdade de Letras: Ciências e Técnicas do Património'
+- 'Revista da Faculdade de Letras: Línguas e Literaturas'
+- Revista de Estudos do Discurso
+- Revista de História
+- Sociologia
+- 'Spaces of utopia: an Electronic Journal'
+- 'Terceira Margem: Revista do Centro de Estudos Brasileiros'
+- 'Via Spiritus: Revista de História da Espiritualidade e do Sentimento Religioso'
+- Via panorÃ¢mica
+- 'Via panorâmica: revista electrónica de estudos anglo-americanos'
+parent-policies: []
+child-policies:
+- romeo_3133
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

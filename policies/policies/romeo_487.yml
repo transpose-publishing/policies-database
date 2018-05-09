@@ -1,0 +1,180 @@
+policy-id: romeo_487
+publisher: MDPI
+policy-heading: '[Default policy]'
+journals:
+- Actuators
+- Administrative Sciences
+- Aerospace
+- Agronomy
+- Algorithms
+- Animals
+- Antibiotics
+- Antibodies
+- Antioxidants
+- Applied Sciences
+- Arts
+- Atmosphere
+- Atoms
+- Axioms
+- Behavioral Sciences
+- Bioengineering
+- Biology
+- Biomedicines
+- Biomolecules
+- Biosensors
+- Brain Sciences
+- Buildings
+- Cancers
+- Catalysts
+- Cells
+- Challenges
+- Chemosensors
+- Children
+- Chromatography
+- Climate
+- Coatings
+- Computation
+- Computers
+- Cosmetics
+- Cryptography
+- Crystals
+- Dentistry Journal
+- Designs
+- Diagnostics
+- Diseases
+- Diversity
+- Econometrics
+- Economies
+- Education
+- Education Sciences
+- Electronics
+- Energies
+- Entropy
+- Epigenomes
+- Fibers
+- Fishes
+- Foods
+- Forests
+- Future Internet
+- Galaxies
+- Games
+- Genealogy
+- Genes
+- Geosciences
+- Healthcare
+- Horticulturae
+- Humanities
+- Hydrology
+- ISPRS International Journal of Geo-Information
+- Informatics
+- Information
+- Infrastructures
+- Inorganics
+- Insects
+- International Journal of Environmental Research and Public Health
+- International Journal of Financial Studies
+- International Journal of Molecular Sciences
+- Journal of Cardiovascular Development and Disease
+- Journal of Clinical Medicine
+- Journal of Developmental Biology
+- Journal of Functional Biomaterials
+- Journal of Intelligence
+- Journal of Low Power Electronics and Applications
+- Journal of Marine Science and Engineering
+- Journal of Personalized Medicine
+- Journal of Risk and Financial Management
+- Journal of Sensor and Actuator Networks
+- Land
+- Languages
+- Laws
+- Life
+- Logistics
+- Lubricants
+- Machines
+- Marine Drugs
+- Materials
+- Mathematical and Computational Applications
+- Mathematics
+- Medical Sciences
+- Medicines
+- Membranes
+- Metabolites
+- Metals
+- Microarrays
+- Micromachines
+- Microorganisms
+- Minerals
+- Molbank
+- Molecules
+- Multimodal Technologies and Interaction
+- Nanomaterials
+- Nutrients
+- Pathogens
+- Pharmaceuticals
+- Pharmaceutics
+- Pharmacy
+- Philosophies
+- Photonics
+- Plants
+- Polymers
+- Processes
+- Proteomes
+- Publications
+- Quantum Beam Science
+- Religions
+- Remote Sensing
+- Resources
+- Risks
+- Robotics
+- Sensors
+- Social Sciences
+- Societies
+- Sports
+- Sustainability
+- Symmetry
+- Systems
+- Technologies
+- Toxics
+- Toxins
+- Tropical Medicine and Infectious Disease
+- Urban Science
+- Vaccines
+- Veterinary Sciences
+- Viruses
+- Vision
+- Water
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

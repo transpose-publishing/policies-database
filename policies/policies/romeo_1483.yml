@@ -1,0 +1,74 @@
+policy-id: romeo_1483
+publisher: Oxford University Press (OUP)
+policy-heading: Policy F - Oxford Open Option D
+journals:
+- American Journal of Legal History
+- Aristotelian Society Supplementary Volume
+- British Journal for the Philosophy of Science
+- European Sociological Review
+- Foreign Policy Analysis
+- International Affairs
+- International Policy Sociology
+- International Political Sociology
+- International Studies Perspectives
+- International Studies Quarterly
+- International Studies Review
+- Journal of Financial Econometrics
+- Journal of Global Security Studies
+- Journal of Professions and Organization
+- Journal of Public Administration Research and Theory
+- Journal of Refugee Studies
+- Journal of Semantics
+- Journal of Victorian Culture
+- Journal of the History of Medicine and Allied Sciences
+- Medical Law Review
+- Oxford Economic Papers
+- Oxford Journal of Legal Studies
+- Perspectives on Public Management and Governance
+- Policing
+- Proceedings of the Aristotelian Society
+- Public Health Ethics
+- Research Evaluation
+- Review of Finance
+- Review of Financial Studies
+- Science and Public Policy
+- Screen
+- Social History of Medicine
+- Social Science Japan Journal
+- Twentieth Century British History
+parent-policies:
+- romeo_55
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

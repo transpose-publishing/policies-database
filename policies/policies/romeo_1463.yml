@@ -1,0 +1,52 @@
+policy-id: romeo_1463
+publisher: Høgskolen i Oslo og Akershus
+policy-heading: '[Default policy]'
+journals:
+- FLEKS
+- FORMakademisk
+- InFormation - Nordic Journal of Art and Research
+- Nordic Journal of Comparative and International Education
+- Nordic Journal of Social Research
+- Nordisk barnehageforskning
+- Professions and Professionalism
+- Radiography Open
+- Reconceptualizing Educational Research Methodology
+- Seminar.net
+- 'Techne Series: Research in Sloyd Education and Craft Science A'
+- Tidsskrift for ungdomsforskning
+- Tidsskriftet Arkiv
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

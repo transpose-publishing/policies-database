@@ -1,0 +1,95 @@
+policy-id: romeo_1475
+publisher: Oxford University Press (OUP)
+policy-heading: Policy B - Oxford Open Option B
+journals:
+- American Journal of Clinical Pathology
+- American Journal of Epidemiology
+- Bioinformatics
+- Biology of Reproduction
+- Bioscience
+- Brain
+- Briefings in Bioinformatics
+- Briefings in Functional Genomics
+- Carcinogenesis
+- Cardiovascular Research
+- Cerebral Cortex
+- Chemical Senses
+- Diseases of the Esophagus
+- EHJ Cardiovascular Imaging
+- EP-Europace
+- Epidemiologic Reviews
+- European Heart Journal
+- European Heart Journal - Cardiovascular Imaging
+- European Heart Journal - Cardiovascular Pharmacotherapy
+- European Heart Journal - Quality of Care and Clinical Outcomes
+- European Heart Journal Supplements
+- European Journal of Cardio-Thoracic Surgery
+- Forest Science
+- Glycobiology
+- Human Molecular Genetics
+- Human Reproduction
+- Human Reproduction Update
+- International Health
+- International Immunology
+- Journal of Antimicrobial Chemotherapy
+- Journal of Applied Poultry Research
+- Journal of Biochemistry
+- Journal of Burn Care and Research
+- Journal of Complex Networks
+- Journal of Crohn's and Colitis
+- Journal of Forestry
+- Journal of Heredity
+- Journal of Mammalogy
+- Journal of Neuropathology and Experimental Neurology
+- Journal of Travel Medicine
+- Journal of the American Medical Informatics Association
+- Laboratory Medicine
+- Mammalian Species
+- Medical Mycology
+- Microscopy
+- Military Medicine
+- Molecular Human Reproduction
+- Mutagenesis
+- Nephrology Dialysis Transplantation
+- Plant and Cell Physiology
+- Poultry Science
+- Protein Engineering, Design and Selection
+- Systematic Biology
+- Transactions of The Royal Society of Tropical Medicine and Hygiene
+- Tree Physiology
+parent-policies:
+- romeo_55
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

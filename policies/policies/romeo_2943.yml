@@ -1,0 +1,125 @@
+policy-id: romeo_2943
+publisher: Elsevier
+policy-heading: 24 months
+journals:
+- Accounting, Organizations and Society
+- Archaeological Research in Asia
+- Behaviour Research and Therapy
+- Biophysical Chemistry
+- British Accounting Review
+- Clinical Psychology Review
+- Cognitive Development
+- Cognitive and Behavioral Practice
+- Data and Knowledge Engineering
+- Developmental Review
+- Dynamics of Atmospheres and Oceans
+- Endeavour
+- English for Specific Purposes
+- European Economic Review
+- European Journal of Political Economy
+- European Management Journal
+- Evaluation and Program Planning
+- Futures
+- Fuzzy Sets and Systems
+- Geoforum
+- Geothermics
+- Habitat International
+- Information Economics and Policy
+- Information and Organization
+- Intelligence
+- International Journal of Accounting
+- International Journal of Forecasting
+- International Journal of Industrial Ergonomics
+- International Journal of Industrial Organization
+- International Journal of Intercultural Relations
+- International Review of Law and Economics
+- Japan and the World Economy
+- Journal of Accounting and Economics
+- Journal of Accounting and Public Policy
+- Journal of Aerosol Science
+- Journal of Applied Developmental Psychology
+- Journal of Asian Economics
+- Journal of Behavioral and Experimental Economics
+- Journal of Business Venturing Insights
+- Journal of Communication Disorders
+- Journal of Comparative Economics
+- Journal of Complexity
+- Journal of Criminal Justice
+- Journal of Econometrics
+- Journal of Economic Dynamics and Control
+- Journal of Environmental Psychology
+- Journal of High Technology Management Research
+- Journal of Historical Geography
+- Journal of International Accounting, Auditing and Taxation
+- Journal of International Management
+- Journal of Materials Processing Technology
+- Journal of Mathematical Psychology
+- Journal of Molecular Spectroscopy
+- Journal of Monetary Economics
+- Journal of Multinational Financial Management
+- Journal of Operations Management
+- Journal of Policy Modeling
+- Journal of Public Economics
+- Journal of Research in Personality
+- Journal of School Psychology
+- Journal of Strategic Information Systems
+- Journal of Urban Economics
+- Journal of the Japanese and International Economies
+- Language and Communication
+- Linguistics and Education
+- Management Accounting Research
+- 'Materials Science and Engineering: R: Reports'
+- New Astronomy Reviews
+- Personality and Individual Differences
+- Physics Reports
+- Physics of Life Reviews
+- Poetics
+- Political Geography
+- Progress in Crystal Growth and Characterization of Materials
+- Progress in Particle and Nuclear Physics
+- Progress in Quantum Electronics
+- Progress in Solid State Chemistry
+- Progress in Surface Science
+- Quarterly Review of Economics and Finance
+- Resource and Energy Economics
+- Review of Financial Economics
+- Sport Management Review
+- Surface Science Reports
+- System
+- Technology in Society
+parent-policies:
+- romeo_30
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,71 @@
+policy-id: romeo_312
+publisher: John Libbey Eurotext
+policy-heading: '[Default policy]'
+journals:
+- Annales de Biologie Clinique
+- Annales de Gérontologie
+- Bulletin infirmier du Cancer
+- Cahiers d'études et de recherches francophones / Santé
+- Environnement, Risques and Santé
+- Epilepsies
+- Epileptic Disorders
+- European Cytokine Network
+- European Journal of Dermatology
+- Gériatrie et Psychologie Neuropsychiatrie du Vieillissement
+- Hématologie
+- Hépato-Gastro and Oncologie Digestive
+- Information Psychiatrique
+- Journal de Pharmacie Clinique
+- Lettre de l'Internat
+- MT Cardio
+- Magnesium Research
+- Médecine
+- Médecine Thérapeutique
+- Médecine Thérapeutique / médecine de la reproduction
+- Médecine Thérapeutique Cardiologie
+- Médecine Thérapeutique Endocrinologie and Reproduction
+- Médecine de la Reproduction, Gynécologie et Endocrinologie
+- Médecine thérapeutique / Pédiatrie
+- Neuropsychologie
+- Oléagineux, Corps Gras, Lipides
+- Psychologie and NeuroPsychiatrie du Vieillissement
+- Sang Thrombose Vaisseaux
+- Science et changements planétaires / Sécheresse
+- Sciences sociales et santé
+- Sécheresse
+- Virologie
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

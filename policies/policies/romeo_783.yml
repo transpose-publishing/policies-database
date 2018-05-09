@@ -1,0 +1,62 @@
+policy-id: romeo_783
+publisher: Carl Hanser Verlag
+policy-heading: '[Default policy]'
+journals:
+- BLECH InForm
+- CAD CAM
+- FORM and Werkzeug
+- HANSER automotive
+- HTM Journal of Heat Treatment and Materials
+- International Journal of Materials Research
+- International Polymer Processing
+- Journal of Plastics Technology
+- Kerntechnik
+- Kunststoffe
+- Kunststoffe international
+- Laser und Photonik
+- MONTAGEtechnik
+- MP Materials Testing
+- Magazine for Plastics
+- Mikroproduktion
+- Praktische Metallographie
+- QZ Qualität und Zuverlässigkeit
+- Tenside Surfactants Detergents
+- WB Werkstatt and Betrieb
+- ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb
+- Zeitschrift Kunststofftechnik
+- ZulieferMarkt
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

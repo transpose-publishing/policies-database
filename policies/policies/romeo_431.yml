@@ -1,0 +1,62 @@
+policy-id: romeo_431
+publisher: Quintessence Publishing
+policy-heading: '[Default policy]'
+journals:
+- Chinese Journal of Dental Research
+- ENDO
+- European Journal of Esthetic Dentistry
+- European Journal of Oral Implantology
+- International Journal of Adult Orthodontics and Orthognathic Surgery
+- International Journal of Computerized Dentistry
+- International Journal of Oral and Maxillofacial Implants
+- International Journal of Periodontics and Restorative Dentistry
+- International Journal of Prosthodontics
+- Journal of Adhesive Dentistry
+- Journal of Craniomandibular Function
+- Journal of Oral Laser Applications
+- Journal of Orofacial Pain
+- MICRO
+- Oral Biosciences and Medicine
+- Oral Health and Preventive Dentistry
+- Orthodontics
+- PERIO
+- Periodoncia y Osteointegracion
+- Quintessence International
+- World Journal of Orthodontics
+- Zeitschrift für Kraniomandibuläre Funktion
+parent-policies: []
+child-policies:
+- romeo_1764
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

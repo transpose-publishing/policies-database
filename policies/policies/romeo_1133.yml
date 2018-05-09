@@ -1,0 +1,59 @@
+policy-id: romeo_1133
+publisher: Amsterdam University Press
+policy-heading: '[Default policy]'
+journals:
+- Academic Book Guide
+- Academische Boekengids
+- Dutch Journal of Music Theory
+- Graduate Journal of Social Science
+- International Dutch Studies
+- Internationale Neerlandistiek
+- Journal for Archaeology in the Low Countries
+- Journal for Gender Studies
+- Journal of Dutch Literature
+- Mens and Maatschappij
+- NECSUS. European Journal of Media Studies
+- People and Society
+- Quotidian
+- Sociologie
+- Taal en Tongval
+- Tijdschrift voor Genderstudies
+- Tijdschrift voor Geschiedenis
+- Tijdschrift voor Muziektheorie
+- Tijdschrift voor taalbeheersing
+parent-policies: []
+child-policies:
+- romeo_2935
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,61 @@
+policy-id: romeo_1333
+publisher: Ediciones Universidad de Salamanca
+policy-heading: '[Default policy]'
+journals:
+- América Latina Hoy
+- Aula
+- Azafea
+- Cuadernos Dieciochistas
+- Cuadernos de la Cátedra Miguel de Unamuno
+- Efora
+- Enseñanza & Teaching. Anuario Interuniversitario de Didáctica
+- Historia de la Educación. Revista Interuniversitaria
+- Journal of Medicine and Movies
+- Minos. Revista de Filología Egea
+- Papel Alpha. Cuadernos de Fotografía
+- Revista de Medicina y Cine
+- Revista de la Sociedad de Estudios Italianistas
+- Studia Botanica
+- Studia Geologica Salmanticensia
+- Studia Historica. Historia Antigua
+- Studia Historica. Historia Contemporánea
+- Studia Historica. Historia Medieval
+- Studia Historica. Historia Moderna
+- Teoría de la Educación. Revista Interuniversitaria
+- Voces. Revista de estudios de lexicología latina y antigüedad tardía
+- Zephyrus. Revista de Prehistoria y Arqueología
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

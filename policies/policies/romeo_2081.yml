@@ -1,0 +1,58 @@
+policy-id: romeo_2081
+publisher: Wiley
+policy-heading: 24 months - No Online Open
+journals:
+- 'Africa Research Bulletin: Economic, Financial and Technical Series'
+- 'Africa Research Bulletin: Political, Social and Cultural Series'
+- Agricultural Economics
+- British Journal of Industrial Relations
+- City and Community
+- ETS Research Report Series
+- 'Educational Measurement: Issues and Practice'
+- Geographical Analysis
+- Higher Education Abstracts
+- Impact
+- Industrial Relations
+- Japanese Economic Review
+- Journal of Accounting Research
+- Journal of Educational Measurement
+- Museum International
+- Public Budgeting and Finance
+- Southern Economic Journal
+- Studies in Ethnicity and Nationalism
+parent-policies:
+- romeo_580
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

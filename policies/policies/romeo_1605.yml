@@ -1,0 +1,94 @@
+policy-id: romeo_1605
+publisher: Taylor & Francis
+policy-heading: STM, Behavioural Science and Public Health Titles - No Open Select
+journals:
+- African Journal of Herpetology
+- Analytical Chemistry Letters
+- Aquatic Ecosystem Health and Management
+- British Poultry Abstracts
+- Canadian Water Resources Journal
+- Collnet Journal of Scientometrics and Information Management
+- Contemporary Physics
+- Distributed Generation and Alternative Energy Journal
+- Energy Engineering
+- Expert Opinion on Biological Therapy
+- Expert Opinion on Drug Delivery
+- Expert Opinion on Drug Discovery
+- Expert Opinion on Drug Metabolism and Toxicology
+- Expert Opinion on Drug Safety
+- Expert Opinion on Emerging Drugs
+- Expert Opinion on Investigational Drugs
+- Expert Opinion on Medical Diagnostics
+- Expert Opinion on Pharmacotherapy
+- Expert Opinion on Therapeutic Patents
+- Expert Opinion on Therapeutic Targets
+- Expert Review of Anti-infective Therapy
+- Expert Review of Anticancer Therapy
+- Expert Review of Cardiovascular Therapy
+- Expert Review of Clinical Immunology
+- Expert Review of Clinical Pharmacology
+- Expert Review of Dermatology
+- Expert Review of Endocrinology and Metabolism
+- Expert Review of Gastroenterology and Hepatology
+- Expert Review of Hematology
+- Expert Review of Medical Devices
+- Expert Review of Molecular Diagnostics
+- Expert Review of Neurotherapeutics
+- Expert Review of Obstetrics and Gynecology
+- Expert Review of Ophthalmology
+- Expert Review of Pharmacoeconomics and Outcomes Research
+- Expert Review of Proteomics
+- Expert Review of Respiratory Medicine
+- Expert Review of Vaccines
+- HVAC&R Research
+- Indian Chemical Engineer
+- International Reviews in Physical Chemistry
+- Journal of Biologically Active Products from Nature
+- Journal of Cost Analysis and Parametrics
+- Journal of Discrete Mathematical Sciences and Cryptography
+- Journal of Dynamical Systems and Geometric Theories
+- Journal of Essential Oil Bearing Plants
+- Journal of the Air and Waste Management Association
+- Materials World
+- Neutron News
+- Nuclear Physics News
+- Strategic Planning for Energy and the Environment
+- Transactions of the Indian Ceramic Society
+- Transactions of the Royal Society of South Africa
+- Weatherwise
+parent-policies:
+- romeo_76
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

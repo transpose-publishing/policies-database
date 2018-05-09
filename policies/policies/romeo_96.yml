@@ -1,0 +1,126 @@
+policy-id: romeo_96
+publisher: Johns Hopkins University Press
+policy-heading: '[Default policy]'
+journals:
+- African American Review
+- American Imago
+- American Jewish History
+- American Journal of Mathematics
+- American Journal of Philology
+- American Quarterly
+- Arethusa
+- Book History
+- Bookbird
+- Bulletin of the Center for Children's Books
+- Bulletin of the History of Medicine
+- CEA Critic
+- Callaloo
+- Children's Literature
+- Children's Literature Association Quarterly
+- Classical World
+- Comparative Literature Studies
+- Comparative Technology Transfer and Society
+- Configurations
+- Diacritics
+- Digital Philology
+- 'ELH: English Literary History'
+- Emily Dickinson Journal
+- Esprit Créateur
+- Feminist Formations
+- German Studies Review
+- Henry James Review
+- Historically Speaking
+- Hopkins Review
+- Human Rights Quarterly
+- 'Imagine: Big Ideas for Bright Minds'
+- Journal of Asian American Studies
+- Journal of College Student Development
+- Journal of Colonialism and Colonial History
+- Journal of Democracy
+- Journal of Early Christian Studies
+- Journal of Health Care for the Poor and Underserved
+- Journal of Late Antiquity
+- Journal of Medieval Religious Cultures
+- Journal of Modern Greek Studies
+- Journal of Women's History
+- Journal of the History of Childhood and Youth
+- Journal of the History of Philosophy
+- Kennedy Institute of Ethics Journal
+- Late Imperial China
+- Leviathan
+- 'Leviathan: A Journal of Melville Studies'
+- Library Trends
+- Lion and the Unicorn
+- Literature and Medicine
+- 'MFS: Modern Fiction Studies'
+- Modern Language Notes
+- Modernism/modernity
+- Narrative Inquiry in Bioethics
+- New Literary History
+- 'Partial Answers: Journal of Literature and the History of Ideas'
+- Perspectives in Biology and Medicine
+- Philosophy and Literature
+- Philosophy, Psychiatry and Psychology
+- Poe Studies
+- Postmodern Culture
+- 'Progress in Community Health Partnerships: Research, Education, and Action'
+- Review of Higher Education
+- Reviews in American History
+- SAIS Review of International Affairs
+- SEL Studies in English Literature
+- Sewanee Review
+- Shakespeare Bulletin
+- Shakespeare Quarterly
+- 'Sirena: Poesía, arte y crítica'
+- 'Social Research: An International Quarterly'
+- South Central Review
+- 'Spiritus: A Journal of Christian Spirituality'
+- Studies in American Fiction
+- Studies in the Novel
+- Technology and Culture
+- Theatre Journal
+- Theatre Topics
+- Theory and Event
+- Transactions of the American Philological Association
+- Victorian Periodicals Review
+- Wallace Stevens Journal
+- 'ariel: A Review of International English Literature'
+- 'portal: Libraries and the Academy'
+parent-policies: []
+child-policies:
+- romeo_1464
+- romeo_1465
+- romeo_2304
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

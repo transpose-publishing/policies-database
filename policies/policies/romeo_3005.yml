@@ -1,0 +1,56 @@
+policy-id: romeo_3005
+publisher: CIRWORLD
+policy-heading: '[Default policy]'
+journals:
+- International Journal Of Computer and Distributed Systems
+- International Journal Of Computers and Technology
+- International Journal Of Data and Network Security
+- International Journal Of Electronics and Data Communication
+- International Journal Of Management and Information Technology
+- International Journal Of Networking and Parallel Computing
+- International Journal Of Research In Education Methodology
+- Journal Of Advances In Agriculture
+- Journal Of Advances In Biology
+- Journal Of Advances In Biotechnology
+- Journal Of Advances In Chemistry
+- Journal Of Advances In Humanities
+- Journal Of Advances In Linguistics
+- Journal Of Advances In Mathematics
+- Journal Of Advances In Natural Sciences
+- Journal Of Advances In Physics
+- Journal Of Social Science Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

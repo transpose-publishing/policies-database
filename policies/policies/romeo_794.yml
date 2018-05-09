@@ -1,0 +1,71 @@
+policy-id: romeo_794
+publisher: Lavoisier (Hermes Science Publications)
+policy-heading: '[Default policy]'
+journals:
+- Annales de Chimie - Science des Matériaux
+- Cahiers du Numérique
+- Cognitive Science Quarterly
+- Document Numérique
+- European Journal of Control
+- European Journal of Economic and Social Systems
+- European Journal of Electrical Engineering
+- European Journal of GIS and Spatial Analysis
+- GÉOgraphie ÉCOnomie SOCiété
+- Ingénierie des Systèmes d'Information
+- Instrumentation, Mesure, Métrologie
+- Interfaces numériques
+- International Journal of Forming Processes
+- Journal Européen des Systèmes Automatisés
+- Journal of Applied Non-Classical Logics
+- Journal of Water Science
+- Nano et Micro Technologies
+- Objet
+- Politiques et Management Public
+- Quantitative InfraRed Thermography Journal
+- Revue Française de Gestion
+- Revue Internationale d'Ingénierie Numérique
+- Revue Internationale d'Intelligence Économique
+- Revue Internationale de CFAO et d'informatique graphique
+- Revue Internationale de Géomatique
+- Revue d'Intelligence Artificielle
+- Revue des Composites et des Matériaux Avancés
+- Revue des Sciences de l'Eau
+- Revue internationale de génie électrique
+- Réseaux
+- Santé Décision Management
+- Sciences et Technologies pour le Handicap
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

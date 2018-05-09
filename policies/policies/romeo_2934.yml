@@ -1,0 +1,48 @@
+policy-id: romeo_2934
+publisher: Lippincott, Williams & Wilkins
+policy-heading: Creative Commons Attribution Non-Commercial No Derivatives License
+journals:
+- Healthy Aging Research
+- JBJS Open Access
+- Neurology Genetics
+- Neurology, Neuroimmunology and Neuroinflammation
+- PAIN Reports
+- Pediatric Quality and Safety
+- Plastic and Reconstructive Surgery Global Open
+- Transplantation Direct
+parent-policies:
+- romeo_48
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

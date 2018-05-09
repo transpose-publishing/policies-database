@@ -1,0 +1,52 @@
+policy-id: romeo_575
+publisher: Manchester University Press
+policy-heading: '[Default policy]'
+journals:
+- Bulletin of the John Rylands Library
+- Ethnicity and Race in a Changing World
+- Film Studies
+- Gothic Studies
+- 'Human Remains and Violence: An Interdisciplinary Journal'
+- James Baldwin Review
+- Manchester Medical Journal
+- 'Redescriptions: Political Thought, Conceptual History and Feminist Theory'
+parent-policies: []
+child-policies:
+- romeo_1791
+- romeo_1792
+- romeo_1794
+- romeo_2754
+- romeo_2939
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

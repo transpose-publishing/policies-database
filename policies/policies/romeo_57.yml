@@ -1,0 +1,48 @@
+policy-id: romeo_57
+publisher: Portland Press
+policy-heading: '[Default policy]'
+journals:
+- Biochemical Journal
+- Biochemical Society Symposia
+- Biochemical Society Transactions
+- Bioscience Reports
+- Clinical Science
+- Emerging Topics in Life Sciences
+- Essays in Biochemistry
+- Neuronal Signaling
+parent-policies: []
+child-policies:
+- romeo_1389
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

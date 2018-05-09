@@ -1,0 +1,61 @@
+policy-id: romeo_243
+publisher: Schattauer
+policy-heading: '[Default policy]'
+journals:
+- Adipositas - Ursachen, Folgeerkrankungen, Therapie
+- Applied Clinical Informatics
+- Arthritis und Rheuma
+- Hämostaseologie
+- IMIA Yearbook of Medical Informatics
+- Internistische Welt Onkologie
+- Kinder- und Jugendmedizin
+- Medizinische Welt - aus der Wissenschaft in die Praxis
+- Methods of Information in Medicine
+- Nervenheilkunde
+- Nuclear Medicine
+- Nuklearmedizin
+- Onkologische Welt
+- 'Persönlichkeitsstörungen: Theorie und Therapie'
+- Phlebologie
+- Psychiatrie - Grundlagen und Perspektiven
+- Psychodynamische Psychotherapie
+- Thrombosis and Haemostasis
+- Tierärztliche Praxis Großtiere
+- Tierärztliche Praxis Kleintiere
+- Veterinary and Comparative Orthopaedics and Traumatology
+- Ärztliche Psychotherapie und Psychosomatische Medizin
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

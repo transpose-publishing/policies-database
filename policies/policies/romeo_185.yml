@@ -1,0 +1,71 @@
+policy-id: romeo_185
+publisher: European Geosciences Union (EGU)
+policy-heading: '[Default policy]'
+journals:
+- Annales Geophysicae
+- Atmospheric Chemistry and Physics
+- Atmospheric Chemistry and Physics Discussions
+- Atmospheric Measurement Techniques
+- Atmospheric Measurement Techniques Discussions
+- Biogeosciences
+- Biogeosciences Discussions
+- Climate of the Past
+- Climate of the Past Discussions
+- Cryosphere
+- Cryosphere Discussions
+- Earth Surface Dynamics
+- Earth System Dynamics
+- Earth System Dynamics Discussions
+- Earth System Dynamics and Discussions
+- Geoscientific Instrumentation, Methods and Data Systems
+- Geoscientific Model Development
+- Hydrology and Earth System Sciences
+- Hydrology and Earth System Sciences Discussions
+- Natural Hazards and Earth System Sciences
+- Natural Hazards and Earth System Sciences Discssions
+- Nonlinear Processes in Geophysics Discussions
+- Ocean Science
+- Ocean Science Discussions
+- Ocean Science and Discussions
+- SOIL
+- SOIL Discussions
+- Solid Earth
+- Solid Earth and Discussions
+- Stephan Mueller Special Publication Series
+- eEarth
+- eEarth and Discussions
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,49 @@
+policy-id: romeo_1266
+publisher: SAE International
+policy-heading: '[Default policy]'
+journals:
+- SAE International Journal of Aerospace
+- SAE International Journal of Alternative Powertrains
+- SAE International Journal of Commercial Vehicles
+- SAE International Journal of Engines
+- SAE International Journal of Fuels and Lubricants
+- SAE International Journal of Materials and Manufacturing
+- SAE International Journal of Passenger Cars - Electronic and Electrical Systems
+- SAE International Journal of Passenger Cars - Mechanical Systems
+- SAE International Journal of Transportation Safety
+- SAE Technical Papers
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

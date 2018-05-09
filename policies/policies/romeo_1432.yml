@@ -1,0 +1,44 @@
+policy-id: romeo_1432
+publisher: SETScholars
+policy-heading: '[Default policy]'
+journals:
+- International Journal of Advanced Scientific Engineering and Technological Research
+- International Journal of Applied Research in Business Administration and Economics
+- International Journal of Applied Research in Computer Science and Information Technology
+- International Journal of Computing Communication and Networking Research
+- International Research Journal of Applied Life Sciences
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

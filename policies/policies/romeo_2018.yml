@@ -1,0 +1,46 @@
+policy-id: romeo_2018
+publisher: Fundación Universitaria Luis Amigó
+policy-heading: '[Default policy]'
+journals:
+- Perseitas
+- Revista Colombiana de Ciencias Sociales
+- Revista Digital de la Facultad de Ingenierías
+- Revista Fundación Universitaria Luis Amigó
+- Revista Perseitas
+- Revista de Derecho Summa Iuris
+- Revista «Poiésis»
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

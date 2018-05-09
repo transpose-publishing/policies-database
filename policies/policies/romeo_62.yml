@@ -1,0 +1,61 @@
+policy-id: romeo_62
+publisher: Royal Society, The
+policy-heading: '[Default policy]'
+journals:
+- Biographical Memoirs of the Fellows of the Royal Society
+- Biology Letters
+- Interface
+- Interface Focus
+- Notes and Records of the Royal Society
+- Notes and records of the Royal Society of London
+- Open Biology
+- 'Philosophical Transactions A: Mathematical, Physical and Engineering Sciences'
+- 'Philosophical Transactions B: Biological Sciences'
+- 'Philosophical transactions of the Royal Society of London. Series A: Mathematical
+  and physical sciences'
+- Philosophical transactions of the Royal Society of London. Series B, Biological
+  sciences
+- 'Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences'
+- 'Proceedings of the Royal Society B: Biological Sciences'
+- Proceedings of the Royal Society of London. Series A, Mathematical and physical
+  sciences
+- Proceedings of the Royal Society of London. Series B
+- Proceedings of the Royal Society of London. Series B, Containing papers of a Biological
+  character. Royal Society (Great Britain)
+- Royal Society Open Science
+parent-policies: []
+child-policies:
+- romeo_1307
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

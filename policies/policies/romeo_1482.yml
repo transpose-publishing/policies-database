@@ -1,0 +1,44 @@
+policy-id: romeo_1482
+publisher: Oxford University Press (OUP)
+policy-heading: Policy F - Oxford Open Option C
+journals:
+- Journal of Competition Law and Economics
+- Journal of European Competition Law and Practice
+- Journal of Financial Regulation
+- Journal of Intellectual Property Law and Practice
+parent-policies:
+- romeo_55
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

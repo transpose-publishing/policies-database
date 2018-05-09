@@ -1,0 +1,48 @@
+policy-id: romeo_837
+publisher: MedPharm Publications (Medical and Pharmaceutical Publications)
+policy-heading: '[Default policy]'
+journals:
+- Journal of Endocrinology, Metabolism and Diabetes of South Africa
+- Professional Nursing Today
+- South African Journal of Anaesthesia and Analgelsia
+- South African Journal of Clinical Nutrition
+- South African Journal of Gynaecological Oncology
+- South African Journal of Science and Technology
+- Southern African Journal of Epidemiology and Infection
+- Suid-Afrikaanse Tydskrif vir Natuurwetenskap en Tegnologie
+- Wound Healing Southern Africa
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

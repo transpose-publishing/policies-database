@@ -1,0 +1,76 @@
+policy-id: romeo_2077
+publisher: JSciMed Central
+policy-heading: '[Default policy]'
+journals:
+- Annals of Biometrics and Biostatistics
+- Annals of Clinical Pathology
+- Annals of Clinical and Experimental Hypertension
+- Annals of Orthopedics and Rheumatology
+- Annals of Pediatrics and Child Health
+- Annals of Psychiatry and Mental Health
+- Cancer Biology and Research
+- Chemical Engineering and Process Techniques
+- Clinical Research in HIV/ AIDS
+- Clinical Research in Pulmonology
+- International Journal of Clinical Anesthesiology
+- International Journal of Plant Biology & Research
+- JSM Biochemistry and Molecular Biology
+- JSM Biotechnology & Biomedical Engineering
+- JSM Chemistry
+- JSM Clinical Case Reports
+- JSM Dentistry
+- JSM Environmental Science & Ecology
+- JSM Gastroenterology and Hepatology
+- JSM Microbiology
+- JSM Neurosurgery and Spine
+- JSM Ophthalmology
+- Journal of Addiction Medicine and Therapy
+- Journal of Cardiology and Clinical Research
+- Journal of Clinical Oncology and Research
+- Journal of Dermatology and Clinical Research
+- Journal of Endocrinology, Diabetes & Obesity
+- Journal of Hematology and Transfusion
+- Journal of Human Nutrition and Food Science
+- Journal of Immunology and Clinical Research
+- Journal of Neurological Disorders and Stroke
+- Journal of Neurology and Translational Neuroscience
+- Journal of Pharmacology and Clinical Toxicology
+- Journal of Radiology and Radiation Therapy
+- Journal of Substance Abuse and Alcoholism
+- Journal of Translational Medicine and Epidemiology
+- Medical Journal of Obstetrics and Gynecology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

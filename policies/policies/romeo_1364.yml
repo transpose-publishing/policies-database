@@ -1,0 +1,68 @@
+policy-id: romeo_1364
+publisher: Universidad de Costa Rica
+policy-heading: '[Default policy]'
+journals:
+- Actualidades Investigativas en Educación
+- Actualidades en Psicología
+- Agronomía Costarricense
+- Agronomía Mesoamericana
+- Anuario Centro de Investigación y Estudios Políticos
+- Anuario de Estudios Centroamericanos
+- Avances en Seguridad Alimentaria y Nutricional
+- Ciencias Económicas
+- Cuadernos Inter.c.a.mbio sobre Centroamérica y el Caribe
+- Cuadernos de Antropología
+- Diálogos Revista Electrónica de Historia
+- Gestión de la educación
+- Herencia
+- Infraestructura Vial
+- InterSedes
+- Káñina
+- Pensar en Movimiento
+- Reflexiones
+- RevistArquis
+- Revista Educación
+- Revista Ingeniería
+- Revista de Biología Tropical
+- Revista de Filología y Lingüística
+- 'Revista de Matemática: Teoría y Aplicaciones'
+- Revista humanidades
+- Wímb Lu
+- e-Ciencias de la Información
+parent-policies: []
+child-policies:
+- romeo_2429
+- romeo_2841
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

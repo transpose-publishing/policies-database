@@ -1,0 +1,59 @@
+policy-id: romeo_474
+publisher: World Scientific and Engineering Academy and Society (WSEAS)
+policy-heading: '[Default policy]'
+journals:
+- WSEAS Transactions on Acoustics and Music
+- WSEAS Transactions on Advances in Engineering Education
+- WSEAS Transactions on Applied and Theoretical Mechanics
+- WSEAS Transactions on Biology and Biomedicine
+- WSEAS Transactions on Business and Economics
+- WSEAS Transactions on Circuits and Systems
+- WSEAS Transactions on Communications
+- WSEAS Transactions on Computer Research
+- WSEAS Transactions on Computers
+- WSEAS Transactions on Electronics
+- WSEAS Transactions on Environment and Development
+- WSEAS Transactions on Fluid Mechanics
+- WSEAS Transactions on Heat and Mass Transfer
+- WSEAS Transactions on Information Science and Applications
+- WSEAS Transactions on Mathematics
+- WSEAS Transactions on Power Systems
+- WSEAS Transactions on Signal Processing
+- WSEAS Transactions on Systems
+- WSEAS Transactions on Systems and Control
+- WSEAS Transations on Information Science and Applications
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

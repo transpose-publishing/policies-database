@@ -1,0 +1,54 @@
+policy-id: romeo_1837
+publisher: Hikari
+policy-heading: '[Default policy]'
+journals:
+- Advanced Studies in Biology
+- Advanced Studies in Medical Sciences
+- Advbances in the Theoretical and Applied Mechanics
+- Applied Mathematical Sciences
+- Biological Markers and Guided Therapy
+- Clinical and Experimental Medical Sciences
+- Contemporary Engineering Sciences
+- Environmental Sciences
+- International Journal of Algebra
+- International Journal of Contemporary Mathematical Sciences
+- International Journal of Mathematical Analysis
+- International Mathematical Forum
+- Nonlinear Analysis and Differential Equations
+- Pure Mathematical Sciences
+- Pure and Applied Chemical Sciences
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

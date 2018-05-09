@@ -1,0 +1,83 @@
+policy-id: romeo_1208
+publisher: Tehran University of Medical Sciences
+policy-heading: '[Default policy]'
+journals:
+- Acta Medica Iranica
+- Anesthesiology and Pain
+- Asian Journal of Sports Medicine
+- Audiology
+- Basic and Clinical Cancer Research
+- Basic and Clinical Neuroscience
+- DARU Journal of Pharmaceutical Sciences
+- Dermatology and Cosmetic
+- HAYAT
+- Hospital
+- International Journal of Hematology-Oncology and Stem Cell Research
+- International Journal of Occupational Hygiene
+- Iran Journal of Nursing
+- Iranian Journal of Allergy, Asthma and Immunology
+- Iranian Journal of Arthropod-Borne Diseases
+- Iranian Journal of Diabetes and Lipid Disorders
+- Iranian Journal of Environmental Health Science and Engineering
+- Iranian Journal of Epidemiology
+- Iranian Journal of Health and Environment
+- Iranian Journal of Medical Ethics and History of Medicine
+- Iranian Journal of Medical Hypotheses and Ideas
+- Iranian Journal of Microbiology
+- Iranian Journal of Neurology
+- Iranian Journal of Nuclear Medicine
+- Iranian Journal of Parasitology
+- Iranian Journal of Pediatrics
+- Iranian Journal of Pharmacology and Therapeutics
+- Iranian Journal of Psychiatry
+- Iranian Journal of Public Health
+- Iranian Journal of Radiology
+- Journal of Dental Medicine
+- Journal of Dentistry of Tehran University of Medical Sciences
+- Journal of Diabetes and Metabolic Disorders
+- Journal of Family and Reproductive Health
+- Journal of Health and Safety at Work
+- Journal of Medical Ethics and History of Medicine
+- Journal of School of Public Health and Institute of Public Health Research
+- Journal of Tehran University Heart Center
+- Medical Journal of the Islamic Republic of Iran
+- Modern Rehabilitation
+- Payavard Salamat
+- Razi Journal of Medical Sciences
+- Teb va Tazkiyeh
+- Tehran University Medical Journal
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

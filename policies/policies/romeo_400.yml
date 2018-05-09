@@ -1,0 +1,58 @@
+policy-id: romeo_400
+publisher: Verlag der Österreichischen Akademie der Wissenschaften (Austrian Academy
+  of Sciences Press)
+policy-heading: '[Default policy]'
+journals:
+- Anzeiger der philosophisch-historischen Klasse
+- Archaeologia Austriaca
+- Communications in Asteroseismology
+- Egypt and the Levant
+- Jahrbuch der Österreichischen Byzantinistik
+- Jahreshefte des Österreichischen Archäologischen Instituts in Wien
+- Mitteilungen zur Christlichen Archäologie
+- Römische Historische Mitteilungen
+- SPRACHKUNST
+- Sitzungsberichte und Anzeiger Mathematisch-naturwissenschaftliche Klasse
+- Vienna Journal for South Asian Studies
+- Vienna Yearbook of Population Research
+- Wiener Slavistisches Jahrbuch
+- Wiener Studien
+- Wiener Zeitschrift für die Kunde Südasies
+- eco.mont
+- relation
+- Ägypten und Levante
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

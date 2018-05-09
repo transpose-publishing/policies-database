@@ -1,0 +1,84 @@
+policy-id: romeo_91
+publisher: Annual Reviews
+policy-heading: '[Default policy]'
+journals:
+- Annual Review of Analytical Chemistry
+- Annual Review of Animal Biosciences
+- Annual Review of Anthropology
+- Annual Review of Astronomy and Astrophysics
+- Annual Review of Biochemistry
+- Annual Review of Biomedical Engineering
+- Annual Review of Biophysics
+- Annual Review of Cell and Developmental Biology
+- Annual Review of Chemical and Biomolecular Engineering
+- Annual Review of Clinical Psychology
+- Annual Review of Computer Science
+- Annual Review of Condensed Matter Physics
+- Annual Review of Earth and Planetary Sciences
+- Annual Review of Ecology, Evolution, and Systematics
+- Annual Review of Economics
+- Annual Review of Entomology
+- Annual Review of Environment and Resources
+- Annual Review of Financial Economics
+- Annual Review of Fluid Mechanics
+- Annual Review of Food Science and Technology
+- Annual Review of Genetics
+- Annual Review of Genomics and Human Genetics
+- Annual Review of Immunology
+- Annual Review of Law and Social Science
+- Annual Review of Marine Science
+- Annual Review of Materials Research
+- Annual Review of Medicine
+- Annual Review of Microbiology
+- Annual Review of Neuroscience
+- Annual Review of Nuclear and Particle Science
+- Annual Review of Nutrition
+- Annual Review of Organizational Psychology and Organizational Behavior
+- 'Annual Review of Pathology: Mechanisms of Disease'
+- Annual Review of Pharmacology and Toxicology
+- Annual Review of Physical Chemistry
+- Annual Review of Physiology
+- Annual Review of Phytopathology
+- Annual Review of Plant Biology
+- Annual Review of Political Science
+- Annual Review of Psychology
+- Annual Review of Public Health
+- Annual Review of Resource Economics
+- Annual Review of Sociology
+- Annual Review of Statistics and Its Application
+- Annual Review of Virology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

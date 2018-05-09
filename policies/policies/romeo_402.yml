@@ -1,0 +1,45 @@
+policy-id: romeo_402
+publisher: Lawrence and Wishart
+policy-heading: '[Default policy]'
+journals:
+- Anarchist Studies
+- Mediactive
+- 'New Formations: A Journal of Culture, Theory, Politics'
+- 'Renewal: A journal of social democracy'
+- 'Soundings: A Journal of Politics and Culture'
+- 'Twentieth Century Communism: A Journal of International History'
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

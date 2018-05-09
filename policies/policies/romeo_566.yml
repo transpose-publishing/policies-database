@@ -1,0 +1,86 @@
+policy-id: romeo_566
+publisher: World Academy of Science, Engineering and Technology (WASET)
+policy-heading: '[Default policy]'
+journals:
+- International Journal of Aerospace and Mechanical Engineering
+- International Journal of Agricultural and Biological Sciences
+- International Journal of Applied Mathematics and Computer Sciences
+- International Journal of Applied Science, Engineering and Technology
+- International Journal of Behavioral, Cognitive, Educational and Psychological Sciences
+- International Journal of Biological and Life Sciences
+- International Journal of Biological and Medical Sciences
+- International Journal of Biomedical Sciences
+- International Journal of Business, Economics, Finance and Management Sciences
+- International Journal of Chemical and Biological Engineering
+- International Journal of Chemical and Biomolecular Engineering
+- International Journal of Civil and Environmental Engineering
+- International Journal of Computational Intelligence
+- International Journal of Computational and Mathematical Sciences
+- International Journal of Computer Science
+- International Journal of Computer Science and Engineering
+- International Journal of Computer Systems Science and Engineering
+- International Journal of Computer and Information Engineering
+- International Journal of Computer and Information Science and Engineering
+- International Journal of Computer, Information, and Systems Science, and Engineering
+- International Journal of Electrical Power and Energy Systems Engineering
+- International Journal of Electrical Systems Science and Engineering
+- International Journal of Electrical and Electronics Engineering
+- International Journal of Electrical, Computer and Systems Engineering
+- International Journal of Electronics, Circuits and Systems
+- International Journal of Electronics, Communications and Computer Engineering
+- International Journal of Engineering and Applied Sciences
+- International Journal of Engineering and Natural Sciences
+- International Journal of Environmental Science and Engineering
+- International Journal of Environmental and Earth Sciences
+- International Journal of Fluid and Thermal Engineering
+- International Journal of Human and Social Sciences
+- International Journal of Humanities and Social Sciences
+- International Journal of Information Technology
+- International Journal of Information and Communication Engineering
+- International Journal of Information and Mathematical Sciences
+- International Journal of Intelligent Systems and Technologies
+- International Journal of Mathematical and Computer Sciences
+- International Journal of Mathematical and Statistical Sciences
+- International Journal of Mathematical, Physical and Engineering Sciences
+- International Journal of Mechanical Systems Science and Engineering
+- International Journal of Mechanical, Industrial and Aerospace Engineering
+- International Journal of Medicine and Medical Sciences
+- International Journal of Natural Sciences and Engineering
+- International Journal of Signal Processing
+- International Journal of Social Sciences
+- Proceedings of the World Academy of Science, Engineering and Technology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

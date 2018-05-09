@@ -1,0 +1,81 @@
+policy-id: romeo_1471
+publisher: IOP Publishing
+policy-heading: Hybrid Open Access
+journals:
+- 2D Materials
+- Biofabrication
+- Bioinspiration and Biomimetics
+- Biomedical Materials
+- Biomedical Physics and Engineering Express
+- Computational Science and Discovery
+- Convergent Science Physical Oncology
+- Flexible and Printed Electronics
+- Inverse Problems
+- Journal of Breath Research
+- Journal of Micromechanics and Microengineering
+- Journal of Neural Engineering
+- Journal of Optics
+- 'Journal of Optics A: Pure and Applied Optics'
+- 'Journal of Physics B: Atomic, Molecular and Optical Physics'
+- 'Journal of Physics D: Applied Physics'
+- 'Journal of Physics: Condensed Matter'
+- Journal of Radiological Protection
+- Laser Physics Letters
+- Materials Research Express
+- Measurement Science and Technology
+- Methods and Applications in Fluorescence
+- Metrologia
+- Modelling and Simulation in Materials Science and Engineering
+- Nanotechnology
+- Nonlinearity
+- Nuclear Fusion
+- Physica Scripta
+- Physical Biology
+- Physics Education
+- Physics in Medicine and Biology
+- Physiological Measurement
+- Plasma Physics and Controlled Fusion
+- Plasma Sources Science and Technology
+- Publications of the Astronomical Society of the Pacific
+- Quantum Science and Technology
+- Semiconductor Science and Technology
+- Smart Materials and Structures
+- Superconductor Science and Technology
+- 'Surface Topography: Metrology and Properties'
+- Translational Materials Research
+parent-policies:
+- romeo_40
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

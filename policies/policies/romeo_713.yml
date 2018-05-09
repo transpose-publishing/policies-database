@@ -1,0 +1,52 @@
+policy-id: romeo_713
+publisher: Editora UEPG
+policy-heading: '[Default policy]'
+journals:
+- Emancipação
+- LUMIAR
+- Olhar de Professor
+- Práxis Educativa
+- Publicatio UEPG - Ciencias Exatas e da Terra Agrarias e Engenharias
+- 'Publicatio UEPG: Ciências Biológicas e da Saúde'
+- 'Publicatio UEPG: Ciências Humanas, Ciências Sociais Aplicadas, Lingüistica, Letras
+  e Artes'
+- Revista Internacional de Folkcomunicação
+- Revista Latino-Americana de Geografia e Gênero
+- Revista de História Regional
+- Terr@ Plural
+- UniLetras
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

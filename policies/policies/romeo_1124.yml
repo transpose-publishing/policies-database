@@ -1,0 +1,61 @@
+policy-id: romeo_1124
+publisher: Massachusetts Institute of Technology Press (MIT Press)
+policy-heading: 6 month embargo
+journals:
+- ARTMargins
+- African Arts
+- Computer Music Journal
+- Daedalus
+- Design Issues
+- Global Environmental Politics
+- Grey Room
+- Innovations
+- 'Innovations: Technology, Governance, Globalization'
+- International Journal of Learning and Media
+- International Security
+- Journal of Interdisciplinary History
+- Leonardo
+- Leonardo Music Journal
+- Leonardo, Journal of Arts, Sciences and Technology
+- New England Quarterly
+- October
+- PAJ
+- 'PAJ: A Journal of Performance and Art'
+- Perspectives on Science
+- TDR
+parent-policies:
+- romeo_51
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

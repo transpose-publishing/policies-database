@@ -1,0 +1,68 @@
+policy-id: romeo_92
+publisher: NRC Research Press (Canadian Science Publishing)
+policy-heading: '[Default policy]'
+journals:
+- Applied Physiology, Nutrition, and Metabolism
+- Arctic Science
+- Biochemistry and Cell Biology
+- Botany
+- Canadian Geotechnical Journal
+- Canadian Journal of Animal Science
+- Canadian Journal of Applied Physiology
+- Canadian Journal of Chemistry
+- Canadian Journal of Civil Engineering
+- Canadian Journal of Community Mental Health
+- Canadian Journal of Earth Sciences
+- Canadian Journal of Fisheries and Aquatic Sciences
+- Canadian Journal of Forest Research
+- Canadian Journal of Microbiology
+- Canadian Journal of Physics
+- Canadian Journal of Physiology and Pharmacology
+- Canadian Journal of Plant Science
+- Canadian Journal of Research
+- Canadian Journal of Soil Science
+- Canadian Journal of Zoology
+- Environmental Health Review
+- Environmental Reviews
+- Genome
+- Geomatica
+- Géographie physique et Quaternaire
+- Journal of Unmanned Vehicle Systems
+- Phytoprotection
+- Santé mentale au Québec
+parent-policies: []
+child-policies:
+- romeo_2726
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

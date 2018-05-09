@@ -1,0 +1,59 @@
+policy-id: romeo_477
+publisher: American Institute of Mathematical Sciences (AIMS)
+policy-heading: '[Default policy]'
+journals:
+- Advances in Mathematics of Communications
+- Big Data and Information Analytics
+- Communications on Pure and Applied Analysis
+- Discrete and Continuous Dynamical Systems - Series A
+- Discrete and Continuous Dynamical Systems - Series B
+- Discrete and Continuous Dynamical Systems - Series S
+- Electronic Research Announcements
+- Electronic Research Announcements of the American Mathematical Society
+- Evolution Equations and Control Theory
+- Inverse Problems and Imaging
+- Journal of Computational Dynamics
+- Journal of Dynamics and Games
+- Journal of Geometric Mechanics
+- Journal of Industrial and Management Optimization
+- Journal of Modern Dynamics
+- Kinetic and Related Models
+- Mathematical Biosciences and Engineering
+- Mathematical Control and Related Fields
+- Networks and Heterogeneous Media
+- Numerical Algebra, Control and Optimization
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

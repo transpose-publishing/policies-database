@@ -1,0 +1,131 @@
+policy-id: romeo_2261
+publisher: Lippincott, Williams & Wilkins
+policy-heading: No Hybrid Open Access
+journals:
+- ACSM's Health and Fitness Journal
+- Academic Physician and Scientist
+- Adverse Drug Reaction Bulletin
+- Alzheimer's Care Today
+- Anesthesiology
+- Annals of Pediatric Surgery
+- Asia-Pacific Journal of Ophthalmology
+- Back Letter
+- Biomedical Safety and Standards
+- Cancer Journal
+- Clinical Nutrition Insight
+- Clinical Obstetrics and Gynecology
+- Clinical Pulmonary Medicine
+- Computers, Informatics, Nursing
+- Contemporary Diagnostic Radiology
+- Contemporary Neurosurgery
+- Contemporary Spine Surgery
+- Critical Care Nursing Quarterly
+- Current Opinion in Orthopaedics
+- Current Orthopaedic Practice
+- Current Sports Medicine Reports
+- Diagnostic Molecular Pathology
+- Dimensions in Critical Care Nursing
+- Egyptian Journal of Oral and Maxillofacial Surgery
+- Emergency Medicine News
+- Endocrinologist
+- Evidence-Based Ophthalmology
+- Evidence-Based Women's Health Journal
+- Family and Community Health
+- Frontiers of Health Services Management
+- Health Care Management Review
+- Health Care Manager
+- Health Data Matrix
+- Healthcare Food and Nutrition Focus
+- Hearing Journal
+- Heart Insight
+- Holistic Nursing Practice
+- Infants and Young Children
+- Innovations:Technology and Techniques in Cardiothoracic and Vascular Surgery
+- Intervention
+- JBJS Case Connector
+- JBJS Essential Surgical Techniques
+- JBJS Journal of Orthopaedics for Physician Assistants
+- Journal for Nurses in Professional Development
+- Journal for Nurses in Staff Development
+- Journal of Bronchology
+- Journal of Bronchology and Interventional Pulmonary
+- Journal of Christian Nursing
+- Journal of Clinical Engineering
+- Journal of Clinical Gastroenterology
+- Journal of Infusion Nursing
+- Journal of Pediatric Surgical Nursing
+- Journal of Prosthetics and Orthotics
+- Journal of Trauma and Acute Care Surgery
+- Journal of Women's Health Physical Therapy
+- Journal of the American Association for Medical Transcription
+- Journal of the Dermatology Nurses' Association
+- Journal of the Egyptian Women's Dermatologic Society
+- Lippincott's Bone and Joint Newsletter
+- Medical Innovation and Business
+- Middle East Journal of Medical Genetics
+- Neurology Now
+- Neurology Today
+- Neurosurgery Quarterly
+- Nurse Educator
+- Nursing Administration Quarterly
+- Nursing Education Perspectives
+- Obstetric Anesthesia Digest
+- Obstetrics and Gynecology
+- Oncology Times
+- Oncology Times UK
+- Orthopaedic Nursing
+- Outcomes Management
+- Pathology Case Reviews
+- Plastic Surgical Nursing
+- Postgraduate Obstetrics and Gynecology
+- Real Living with Multiple Sclerosis
+- Reviews in Medical Microbiology
+- Soil Science
+- Southern Medical Journal
+- Sports Medicine and Arthroscopy Review
+- Survey of Anesthesiology
+- Techniques in Foot and Ankle Surgery
+- Techniques in Hand and Upper Extremity Surgery
+- Techniques in Knee Surgery
+- Techniques in Neurosurgery
+- Techniques in Ophthalmology
+- Techniques in Orthopaedics
+- Techniques in Shoulder and Elbow Surgery
+- Topics in Language Disorders
+- Topics in Pain Management
+parent-policies:
+- romeo_48
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

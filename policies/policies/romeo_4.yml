@@ -1,0 +1,97 @@
+policy-id: romeo_4
+publisher: American Chemical Society
+policy-heading: '[Default policy]'
+journals:
+- ACS Applied Materials and Interfaces
+- ACS Biomaterials Science and Engineering
+- ACS Catalysis
+- ACS Central Science
+- ACS Chemical Biology
+- ACS Chemical Neuroscience
+- 'ACS Earth and Space Chemistry '
+- ACS Energy Letters
+- ACS Infectious Diseases
+- ACS Macro Letters
+- ACS Medicinal Chemistry Letters
+- ACS Nano
+- ACS Omega
+- ACS Photonics
+- ACS Sustainable Chemistry and Engineering
+- ACS Symposium Series
+- ACS Synthetic Biology
+- Accounts of Chemical Research
+- Analytical Chemistry
+- Bioconjugate Chemistry
+- Biomacromolecules
+- Chemical Research in Toxicology
+- Chemical Reviews
+- Chemistry of Materials
+- Crystal Growth and Design
+- Energy and Fuels
+- Environmental Science and Technology
+- Environmental Science and Technology Letters
+- Industrial and Engineering Chemistry Fundamentals
+- Industrial and Engineering Chemistry Process Design and Development
+- Industrial and Engineering Chemistry Product Research and Development
+- Inorganic Chemistry
+- Journal of Agricultural and Food Chemistry
+- Journal of Chemical Documentation
+- Journal of Chemical Education
+- Journal of Chemical Information and Modeling
+- Journal of Chemical Theory and Computation
+- Journal of Chemical and Engineering Data
+- Journal of Combinatorial Chemistry
+- Journal of Medicinal Chemistry
+- Journal of Organic Chemistry
+- Journal of Physical Chemistry A
+- Journal of Physical Chemistry B
+- Journal of Physical Chemistry C
+- Journal of Physical Chemistry Letters
+- Journal of Physical and Colloid Chemistry
+- Journal of Proteome Research
+- Journal of the American Chemical Society
+- Langmuir
+- Macromolecules
+- Molecular Pharmaceutics
+- Nano Letters
+- Organic Letters
+- Organic Process Research and Development
+- Organometallics
+- Product R and D
+parent-policies: []
+child-policies:
+- romeo_2875
+- romeo_602
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

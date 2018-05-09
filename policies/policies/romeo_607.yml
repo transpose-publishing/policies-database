@@ -1,0 +1,49 @@
+policy-id: romeo_607
+publisher: Institute of Electrical Engineers of Japan
+policy-heading: '[Default policy]'
+journals:
+- Denki Gakkai Ronbunshi. A, Kiso Zairyo Kyotsu Bumonshi
+- Denki Gakkai Ronbunshi. B, Denryoku Enerugi Bumonshi
+- Denki Gakkai Ronbunshi. C, Denshi Joho Shisutemu Bumonshi
+- Denki Gakkai Ronbunshi. D, Sangyo Oyo Bumonshi
+- Denki Gakkai Ronbunshi. E, Sensa, Maikuromashin Bumonshi
+- IEEJ Transactions on Electronics, Information and Systems
+- IEEJ Transactions on Fundamentals and Materials
+- IEEJ Transactions on Industry Applications
+- IEEJ Transactions on Power and Energy
+- IEEJ Transactions on Sensors and Micromachines
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

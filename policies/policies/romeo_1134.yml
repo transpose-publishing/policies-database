@@ -1,0 +1,86 @@
+policy-id: romeo_1134
+publisher: Taylor & Francis (Routledge)
+policy-heading: Library and Information Science
+journals:
+- Archives and Manuscripts
+- Archives and Records
+- Australian Academic and Research Libraries
+- Australian Library Journal
+- Behavioral and Social Sciences Librarian
+- Cataloging and Classification Quarterly
+- College and Undergraduate Libraries
+- Community and Junior College Libraries
+- Information Society
+- International Information and Library Review
+- International Journal of Heritage Studies
+- Internet Reference Services Quarterly
+- Journal of Access Services
+- Journal of Archival Organization
+- Journal of Business and Finance Librarianship
+- Journal of Consumer Health on the Internet
+- Journal of Electronic Resources Librarianship
+- Journal of Electronic Resources in Medical Libraries
+- Journal of Global Information Technology Management
+- Journal of Hospital Librarianship
+- Journal of Information Technology Case and Application Research
+- Journal of Interlibrary Loan, Document Delivery and Electronic Reserve
+- Journal of Library Administration
+- Journal of Library Metadata
+- Journal of Library and Information Services in Distance Learning
+- Journal of Map and Geography Libraries
+- Journal of Religious and Theological Information
+- Journal of Web Librarianship
+- LEUKOS
+- Legal Reference Services Quarterly
+- Library Collections, Acquisitions, and Technical Services
+- Library and Archival Security
+- Medical Reference Services Quarterly
+- Music Reference Services Quarterly
+- New Review of Academic Librarianship
+- New Review of Children's Literature and Librarianship
+- New Review of Information Networking
+- Public Library Quarterly
+- Public Services Quarterly
+- Reference Librarian
+- Science and Technology Libraries
+- Serials Librarian
+- Serials Review
+- Slavic and East European Information Resources
+- Technical Services Quarterly
+parent-policies:
+- romeo_193
+- romeo_76
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

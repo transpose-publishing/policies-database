@@ -1,0 +1,54 @@
+policy-id: romeo_101
+publisher: International Press
+policy-heading: '[Default policy]'
+journals:
+- Advances in Theoretical and Mathematical Physics
+- Asian Journal of Mathematics
+- Communications in Analysis and Geometry
+- Communications in Information and Systems
+- Communications in Mathematical Sciences
+- Communications in Number Theory and Physics
+- Dynamics of Partial Differential Equations
+- Homology, Homotopy and Applications
+- Journal of Combinatorics
+- Journal of Differential Geometry
+- Journal of Symplectic Geometry
+- Mathematical Research Letters
+- Methods and Applications of Analysis
+- Pure and Applied Mathematics Quarterly
+- Statistics and Its Interface
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

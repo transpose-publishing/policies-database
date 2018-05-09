@@ -1,0 +1,58 @@
+policy-id: romeo_2154
+publisher: Boom Lemma Uitgevers
+policy-heading: '[Default policy]'
+journals:
+- Beleid en Maatschappij
+- Beleidsonderzoek Online
+- Bestuurskunde
+- Gedrag & Organisatie
+- Justitiële verkenningen
+- KWALON
+- Nederlands-Vlaams Tijdschrift voor Palliatieve Zorg
+- Nederlands-Vlaams tijdschrift voor mediation en conflictmanagement
+- PROCES
+- Recht der Werkelijkheid
+- Tijdschrift over Cultuur & Criminaliteit
+- Tijdschrift voor Arbeidsvraagstukken
+- Tijdschrift voor Communicatiewetenschap
+- Tijdschrift voor Criminologie
+- Tijdschrift voor Herstelrecht
+- Tijdschrift voor Hoger Onderwijs
+- Tijdschrift voor Religie, Recht en Beleid
+- Tijdschrift voor Veiligheid
+- Wetenschappelijk Tijdschrift voor Ergotherapie
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

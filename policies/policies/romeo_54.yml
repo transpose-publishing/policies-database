@@ -1,0 +1,177 @@
+policy-id: romeo_54
+publisher: Nature Publishing Group
+policy-heading: '[Default policy]'
+journals:
+- Acta Pharmacologica Sinica
+- American Journal of Gastroenterology
+- American Journal of Gastroenterology Supplements
+- Blood Cancer Journal
+- Bone Marrow Transplantation
+- Bone Research
+- BoneKEy Reports
+- British Dental Journal
+- Cancer Gene Therapy
+- Cell Death and Differentiation
+- Cell Death and Disease
+- Cell Discovery
+- Cell Research
+- Cellular and Molecular Immunology
+- Clinical and Translational Gastroenterology
+- Clinical and Translational Immunology
+- Emerging Microbes and Infections
+- European Journal of Clinical Nutrition
+- European Journal of Human Genetics
+- Evidence-Based Dentistry
+- Experimental and Molecular Medicine
+- Eye
+- Gene Therapy
+- Genes and Immunity
+- Genetics in Medicine
+- Heredity
+- Horticulture Research
+- Human Genome Variation
+- Hypertension Research
+- IBMS BoneKEy
+- ISME Journal
+- Immunology and Cell Biology
+- International Journal of Impotence Research
+- International Journal of Obesity
+- International Journal of Obesity Supplements
+- International Journal of Oral Science
+- Journal of Antibiotics
+- Journal of Exposure Analysis and Environmental Epidemiology
+- Journal of Exposure Science and Environmental Epidemiology
+- Journal of Human Genetics
+- Journal of Human Hypertension
+- Journal of Investigative Dermatology Symposium Proceedings
+- Journal of Perinatology
+- Kidney International Supplements
+- Laboratory Investigation
+- Leukemia
+- Leukemia Supplements
+- 'Light: Science and Applications'
+- Microsystems and Nanoengineering
+- Modern Pathology
+- Molecular Psychiatry
+- Mucosal Immunology
+- NPG Asia Materials
+- Nature
+- Nature Astronomy
+- Nature Biotechnology
+- Nature Cell Biology
+- Nature Chemical Biology
+- Nature Chemistry
+- Nature Climate Change
+- Nature Communications
+- Nature Digest
+- Nature Ecology and Evolution
+- Nature Genetics
+- Nature Geoscience
+- Nature Human Behaviour
+- Nature Immunology
+- Nature Materials
+- Nature Medicine
+- Nature Methods
+- Nature Microbiology
+- Nature Nanotechnology
+- Nature Neuroscience
+- Nature Photonics
+- Nature Physics
+- Nature Plants
+- Nature Protocols
+- Nature Reviews Cancer
+- Nature Reviews Cardiology
+- Nature Reviews Clinical Oncology
+- Nature Reviews Disease Primers
+- Nature Reviews Drug Discovery
+- Nature Reviews Endocrinology
+- Nature Reviews Gastroenterology and Hepatology
+- Nature Reviews Genetics
+- Nature Reviews Immunology
+- Nature Reviews Microbiology
+- Nature Reviews Molecular Cell Biology
+- Nature Reviews Nephrology
+- Nature Reviews Neurology
+- Nature Reviews Neuroscience
+- Nature Reviews Rheumatology
+- Nature Reviews Urology
+- Nature Structural and Molecular Biology
+- Neuropsychopharmacology
+- Nutrition and Diabetes
+- Oncogene
+- Oncogenesis
+- Pediatric Research
+- Pharmacogenomics Journal
+- Polymer Journal
+- Prostate Cancer and Prostatic Diseases
+- 'SciBX: Science-Business eXchange'
+- Science of Learning
+- Scientific American
+- Scientific American Mind
+- Scientific Data
+- Scientific Reports
+- Spinal Cord
+- Spinal Cord Series and Cases
+- Translational Psychiatry
+- Vital
+- npj Aging and Mechanisms of Disease
+- npj Biofilms and Microbiomes
+- npj Breast Cancer
+- npj Climate and Atmospheric Science
+- npj Computational Materials
+- npj Flexible Electronics
+- npj Genomic Medicine
+- npj Materials Degradation
+- npj Microgravity
+- npj Parkinson's Disease
+- npj Primary Care Respiratory Medicine
+- npj Quantum Information
+- npj Schizophrenia
+- npj Science of Food
+- npj Science of Learning
+- npj Systems Biology and Applications
+- npj Vaccines
+parent-policies: []
+child-policies:
+- romeo_1420
+- romeo_1456
+- romeo_1457
+- romeo_1458
+- romeo_1459
+- romeo_1488
+- romeo_2223
+- romeo_2896
+- romeo_2897
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

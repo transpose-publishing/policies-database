@@ -1,0 +1,52 @@
+policy-id: romeo_2387
+publisher: Science-line Publishers
+policy-heading: '[Default policy]'
+journals:
+- Asiaaltn Journal of Social and Economic Sciences
+- Asian Journal of Medical and Pharmaceutical Researches
+- International Journal of Applied Linguistic Studies
+- Journal of Applied Business and Finance Researches
+- Journal of Art and Architecture Studies
+- Journal of Civil Engineering and Urbanism
+- Journal of Educational and Management Studies
+- Journal of Life Science and Biomedicine
+- Journal of World's Electrical Engineering and Technology
+- Journal of World's Poultry Research, The
+- Online Journal of Animal and Feed Research
+- Scientific Journal of Mechanical and Industrial Engineering
+- World's Veterinary Journal
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,67 @@
+policy-id: romeo_1970
+publisher: Michigan Publishing
+policy-heading: '[Default policy]'
+journals:
+- Arkivoc
+- Contemporary Aesthetics
+- ERGO
+- Feminist Studies
+- Gender, Sexuality and Feminism
+- Human Figurations
+- Journal of Electronic Publishing
+- Journal of Muslim Mental Health
+- Journal of the Abraham Lincoln Association
+- Michigan Botanist
+- Michigan Family Review
+- Michigan Journal of Community Service Learning
+- Michigan Journal of Sustainability
+- Music and Politics
+- Philosophers' Imprint
+- Philosophy and Theory in Biology
+- Trans-Asia Photography Review
+- Weave
+parent-policies: []
+child-policies:
+- romeo_1971
+- romeo_1972
+- romeo_1973
+- romeo_1974
+- romeo_1975
+- romeo_1976
+- romeo_1977
+- romeo_1978
+- romeo_1979
+- romeo_2278
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

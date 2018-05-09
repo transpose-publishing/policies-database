@@ -1,0 +1,49 @@
+policy-id: romeo_733
+publisher: Kamla-Raj Enterprises
+policy-heading: '[Default policy]'
+journals:
+- Anthropologist
+- Communication
+- International Journal of Educational Sciences
+- International Journal of Human Genetics
+- Journal of Biodiversity
+- Journal of Economics
+- Journal of Human Ecology
+- Journal of Sociology and Social Anthropology
+- Studies of Tribes and Tribals
+- Studies on Home and Community Science
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

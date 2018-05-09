@@ -1,0 +1,61 @@
+policy-id: romeo_382
+publisher: Now Publishers
+policy-heading: '[Default policy]'
+journals:
+- Annals of Corporate Governance
+- Foundations and Trends in Accounting
+- Foundations and Trends in Communications and Information Theory
+- Foundations and Trends in Computer Graphics and Vision
+- Foundations and Trends in Databases
+- Foundations and Trends in Econometrics
+- Foundations and Trends in Electronic Design Automation
+- Foundations and Trends in Entrepreneurship
+- Foundations and Trends in Finance
+- Foundations and Trends in Human-Computer Interaction
+- Foundations and Trends in Information Retrieval
+- Foundations and Trends in Machine Learning
+- Foundations and Trends in Marketing
+- Foundations and Trends in Microeconomics
+- Foundations and Trends in Networking
+- Foundations and Trends in Robotics
+- Foundations and Trends in Signal Processing
+- Foundations and Trends in Stochastic Systems
+- Foundations and Trends in Technology, Information and Operations Management
+- Foundations and Trends in Theoretical Computer Science
+- Foundations and Trends in Web Science
+- Quarterly Journal of Political Science
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

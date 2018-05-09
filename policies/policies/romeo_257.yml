@@ -1,0 +1,168 @@
+policy-id: romeo_257
+publisher: Georg Thieme Verlag
+policy-heading: '[Default policy]'
+journals:
+- AHZ Allgemeine Homöopathische Zeitung
+- AINS
+- Aktuelle Dermatologie
+- Aktuelle Ernährungsmedizin
+- Aktuelle Neurologie
+- Aktuelle Rheumatologie
+- Aktuelle Urologie
+- Allgemein- und Viszeralchirurgie up2date
+- American Journal of Perinatology
+- Augenheilkunde up2date
+- B und G Bewegungstherapie und Gesundheitssport
+- Balint-Journal
+- Bewegungstherapie und Gesundheitssport
+- Central European Neurosurgery
+- Clinics in Colon and Rectal Surgery
+- Craniomaxillofacial Trauma and Reconstruction
+- Deutsche Gesellschaft für Chirurgie - Mitteilungen
+- Deutsche Gesellschaft für Unfallchirurgie - Mitteilungen und Nachrichten
+- Deutsche Medizinische Wochenschrift
+- Deutsche Zahnärzteblatt
+- Deutsche Zeitschrift für Onkologie
+- Diabetes Aktuell
+- Diabetologie und Stoffwechsel
+- Dialyse Aktuell
+- Endo-Praxis
+- Endoskopie heute
+- Erfahrungsheilkunde
+- Ergopraxis
+- Ergoscience
+- European Journal of Pediatric Surgery
+- European Journal of Ultrasound
+- Evidence-Based Spine-Care Journal
+- Facial Plastic Surgery
+- Flugmedizin Tropenmedizin Reisemedizin
+- Fortschritte der Neurologie - Psychiatrie
+- Frauenheilkunde up2date
+- Gastroenterologie up2date
+- Geburtshilfe und Frauenheilkunde
+- Gesundheitswesen
+- Gesundheitsökonomie und Qualitätsmanagement
+- Handchirurgie, Mikrochirurgie, Plastische Chirurgie
+- Hepato-Gastroenterology
+- Hormone and Metabolic Research
+- InSpine
+- Informationen aus Orthodontie und Kieferorthopädie
+- Intensivmedizin up2date
+- International Journal of Angiology
+- International Journal of Sports Medicine
+- Journal of Knee Surgery
+- 'Journal of Neurological Surgery Part A: Central European Neurosurgery'
+- Journal of Physical and Rehabilitation Medicine
+- Journal of Reconstructive Microsurgery
+- Kardiologie up2date
+- Kleintier konkret
+- Klinikarzt
+- Klinische Monatsblätter für Augenheilkunde
+- Klinische Neurophysiologie
+- Klinische Pädiatrie
+- Krankenhaushygiene up2date
+- Laryngo-Rhino-Otologie
+- Manuelle Therapie
+- Minimally Invasive Neurosurgery
+- Neuropediatrics
+- Neuroradiologie Scan
+- Neuroreha
+- Notarzt
+- Notfallmedizin up2date
+- Nuklearmediziner
+- OP Journal
+- Orthopedic Trauma Directions
+- Orthopädie Mitteilungen
+- Orthopädie und Unfallchirurgie up2date
+- Osteologie Forum
+- Pferde Spiegel
+- Pharmacopsychiatry
+- Physikalische Medizin Rehabilitationsmedizin Kurortmedizin
+- Physiopraxis
+- Physioscience
+- Planta Medica
+- Pneumologie
+- Psychiatrie und Psychotherapie up2date
+- Psychiatrische Pflege Heute
+- Psychiatrische Praxis
+- Psychotherapie im Dialog
+- Psychotherapie, Psychosomatik, Medizinische Psychologie
+- Pädiatrie up2date
+- Radiologie up2date
+- Radiopraxis
+- Rehabilitation
+- Röfo
+- SYNFACTS
+- SYNLETT
+- Seminars in Hearing
+- Seminars in Musculoskeletal Radiology
+- Seminars in Neurology
+- Seminars in Plastic Surgery
+- Seminars in Reproductive Medicine
+- Seminars in Respiratory and Critical Care Medicine
+- Seminars in Speech and Language
+- Seminars in Thrombosis and Hemostasis
+- Senologie
+- Signal - Leben mit Krebs
+- Signal. Biologische Krebsabwehr
+- Skull Base
+- Skull Base - An Interdisciplinary Approach
+- Skull Base Reports
+- Sportverletzung - Sportschaden
+- Sprache - Stimme - Gehör
+- Suchttherapie
+- Thoracic and Cardiovascular Surgeon
+- Transfusionsmedizin
+- TumorDiagnostik und Therapie
+- Ultraschall in der Medizin
+- Veterinär Spiegel
+- Via medici
+- Zahnmedizin up2date
+- Zeitschrift für Gastroenterologie
+- Zeitschrift für Geburtshilfe und Neonatologie
+- Zeitschrift für Klassische Homöopathie
+- Zeitschrift für Orthopädie und Unfallchirurgie
+- Zeitschrift für Palliativmedizin
+- Zeitschrift für Phytotherapie
+- Zeitschrift für Sexualforschung
+- Zentralblatt für Chirurgie
+- Zentralblatt für Gynäkologie
+- intensiv
+- kma - Das Gesundheitswirtschaftsmagazin
+- kma Pflege
+parent-policies:
+- romeo_366
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

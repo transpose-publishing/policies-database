@@ -1,0 +1,79 @@
+policy-id: romeo_131
+publisher: Elsevier (Cell Press)
+policy-heading: '[Default policy]'
+journals:
+- American Journal of Human Genetics
+- Cancer Cell
+- Cell
+- Cell Chemistry Biology
+- Cell Host and Microbe
+- Cell Metabolism
+- Cell Reports
+- Cell Stem Cell
+- Cell Systems
+- Chem
+- Chemistry and Biology
+- Current Biology
+- Developmental Cell
+- Immunity
+- Molecular Cell
+- Molecular Therapy
+- Molecular Therapy - Methods and Clinical Development
+- Molecular Therapy - Nucleic Acids
+- Molecular Therapy - Oncolytics
+- Neuron
+- Stem Cell Reports
+- Structure
+- Trends in Biochemical Sciences
+- Trends in Biotechnology
+- Trends in Cell Biology
+- Trends in Cognitive Sciences
+- Trends in Ecology and Evolution
+- Trends in Endocrinology and Metabolism
+- Trends in Genetics
+- Trends in Immunology
+- Trends in Microbiology
+- Trends in Molecular Medicine
+- Trends in Neurosciences
+- Trends in Parasitology
+- Trends in Pharmacological Sciences
+- Trends in Plant Science
+parent-policies:
+- romeo_30
+child-policies:
+- romeo_1468
+- romeo_2437
+- romeo_2438
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

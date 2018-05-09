@@ -1,0 +1,62 @@
+policy-id: romeo_1601
+publisher: Karger Publishers Open Access
+policy-heading: '[Default policy]'
+journals:
+- Audiology and Neurotology Extra
+- Biomedicine Hub
+- Case Reports in Dermatology
+- Case Reports in Gastroenterology
+- Case Reports in Nephrology and Dialysis
+- Case Reports in Neurology
+- Case Reports in Oncology
+- Case Reports in Ophthalmology
+- Cellular Physiology and Biochemistry
+- Cerebrovascular Diseases Extra
+- Dementia and Geriatric Cognitive Disorders Extra
+- Dermatopathology
+- GE - Portuguese Journal of Gastroenterology
+- Integrative Medicine International
+- Kidney and Blood Pressure Research
+- Medical Epigenetics
+- Medical Principles and Practice
+- Nephron Extra
+- Neurosignals
+- Obesity Facts
+- Ophthalmologica Extra
+parent-policies:
+- romeo_242
+child-policies:
+- romeo_2803
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

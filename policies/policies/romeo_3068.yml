@@ -1,0 +1,61 @@
+policy-id: romeo_3068
+publisher: Universidade Lusíada Editora
+policy-heading: '[Default policy]'
+journals:
+- 'Arlíquido: Revista de Design da Universidade Lusíada de Lisboa'
+- Child and Adolescent Psychology
+- International Journal of Engineering and Industrial Management
+- Lusiada Architecture Journal
+- Lusiada. Economics and Business
+- Lusiada. History
+- Lusiada. International Politics and Security
+- Lusiada. Law
+- Lusíada. Arqueologia, História da Arte e Património
+- Lusíada. Direito
+- Lusíada. Economia & Empresa
+- Lusíada. História
+- Lusíada. Política Internacional e Segurança
+- Percursos FAA
+- 'Polis: Journal of Legal and Political Studies'
+- 'Polis: Revista de Estudos Jurídico-Políticos'
+- Revista Arquitectura Lusíada
+- Revista Internacional de Engenharia e Gestão Industrial
+- Revista de Psicologia da Criança e do Adolescente
+- Social Intervention
+- lntervenção Social
+parent-policies: []
+child-policies:
+- romeo_3132
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

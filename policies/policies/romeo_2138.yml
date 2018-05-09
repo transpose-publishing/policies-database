@@ -1,0 +1,46 @@
+policy-id: romeo_2138
+publisher: ELK Education Consultants
+policy-heading: '[Default policy]'
+journals:
+- ELK Asia Pacific Journal of Applied Thermal Engineering
+- ELK Asia Pacific Journal of Computer Science and Information Systems
+- ELK Asia Pacific Journal of Finance and Risk Management
+- ELK Asia Pacific Journal of Human Resource Management and Organisational Behaviour
+- ELK Asia Pacific Journal of Leadership and Innovation Management
+- ELK Asia Pacific Journal of Manufacturing Science and Engineering
+- ELK Asia Pacific Journal of Marketing and Retail Management
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

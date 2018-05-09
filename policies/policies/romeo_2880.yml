@@ -1,0 +1,55 @@
+policy-id: romeo_2880
+publisher: Elyns Group
+policy-heading: '[Default policy]'
+journals:
+- Archives of Case Reports in Clinical Medicine
+- Journal of Alternative Medical Research
+- Journal of Biomedical Technology and Research
+- Journal of Dentistry and Orofacial Surgery
+- Journal of Emergency Medicine and Intensive Care
+- Journal of Epidemiology Preventive Medicine
+- Journal of Food, Nutrition and Dietetics
+- Journal of Forensic Medicine and Legal Affairs
+- Journal of Gastroenterology and Hepatobiliary Disorders
+- Journal of Heart Circulation
+- Journal of Neurology and Neurosurgery
+- Journal of Orthopedics, Rheumatology and sports Medicine
+- Journal of Otolaryngology and Reconstructive Surgery
+- Journal of Pediatrics and Mother Care
+- Journal of Stem Cell and Transplantation Biology
+- Women's Health International
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

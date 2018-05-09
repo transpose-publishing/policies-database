@@ -1,0 +1,63 @@
+policy-id: romeo_771
+publisher: Cognizant Communication Corporation
+policy-heading: '[Default policy]'
+journals:
+- Acupuncture and Electro-Therapeutics Research
+- Analgesia
+- Analgesia, An International Journal
+- Bird Behavior
+- Cancer Prevention International
+- Cell Medicine
+- 'Cell Medicine: Part B of Cell Transplantation'
+- Cell Transplantation
+- Event Management
+- Failure and Lessons Learned in Information Technology Management
+- Festival Management and Event Tourism
+- 'Gene Expression: International Journal of Molecular and Cellular Science'
+- Habitation
+- Information Technology in Hospitality
+- Life Support and Biosphere Science
+- Oncology Research Featuring Preclinical and Clincal Cancer Therapeutics
+- Pacific Tourism Review
+- Reviews in Analgesia
+- Technology and Innovation
+- Tourism Analysis
+- Tourism Review International
+- Tourism in Marine Environments
+- Tourism, Culture and Communication
+parent-policies: []
+child-policies:
+- romeo_1720
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

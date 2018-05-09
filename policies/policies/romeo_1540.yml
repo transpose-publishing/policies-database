@@ -1,0 +1,49 @@
+policy-id: romeo_1540
+publisher: BioScientifica
+policy-heading: '[Default policy]'
+journals:
+- Echo Research and Practice
+- Endocrine Connections
+- Endocrine-Related Cancer
+- Endocrinology, Diabetes and Metabolism Case Reports
+- European Journal of Endocrinology
+- Journal of Endocrinology
+- Journal of Molecular Endocrinology
+- Reproduction
+parent-policies: []
+child-policies:
+- romeo_1884
+- romeo_1885
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,116 @@
+policy-id: romeo_40
+publisher: IOP Publishing
+policy-heading: '[Default policy]'
+journals:
+- 2D Materials
+- 'Advances in Natural Sciences: Nanoscience and Nanotechnology'
+- Applied Physics Express
+- Biofabrication
+- Bioinspiration and Biomimetics
+- Biomedical Materials
+- Biomedical Physics and Engineering Express
+- Chinese Physics B
+- Chinese Physics C
+- Chinese Physics Letters
+- Classical and Quantum Gravity
+- Communications in Theoretical Physics
+- Computational Science and Discovery
+- Convergent Science Physical Oncology
+- Environmental Research Letters
+- Flexible and Printed Electronics
+- Fluid Dynamics Research
+- 'IOP Conference Series: Earth and Environmental Science'
+- 'IOP Conference Series: Materials Science and Engineering'
+- Inverse Problems
+- Japanese Journal of Applied Physics
+- Journal of Breath Research
+- Journal of Cosmology and Astroparticle Physics
+- Journal of Geophysics and Engineering
+- Journal of Instrumentation
+- Journal of Micromechanics and Microengineering
+- Journal of Neural Engineering
+- Journal of Optics
+- 'Journal of Optics A: Pure and Applied Optics'
+- 'Journal of Physics A: Mathematical and General'
+- 'Journal of Physics A: Mathematical and Theoretical'
+- 'Journal of Physics B: Atomic, Molecular and Optical Physics'
+- Journal of Physics Communications
+- 'Journal of Physics D: Applied Physics'
+- 'Journal of Physics E: Scientific Instruments'
+- 'Journal of Physics G: Nuclear and Particle Physics'
+- 'Journal of Physics: Condensed Matter'
+- 'Journal of Physics: Conference Series'
+- Journal of Radiological Protection
+- Journal of Semiconductors
+- 'Journal of Statistical Mechanics: Theory and Experiment'
+- Laser Physics Letters
+- Materials Research Express
+- Measurement Science and Technology
+- Methods and Applications in Fluorescence
+- Metrologia
+- Modelling and Simulation in Materials Science and Engineering
+- Nanotechnology
+- New Journal of Physics
+- Nonlinearity
+- Nuclear Fusion
+- Physica Scripta
+- Physical Biology
+- Physics Education
+- Physics in Medicine and Biology
+- Physiological Measurement
+- Plasma Physics and Controlled Fusion
+- Plasma Science and Technology
+- Plasma Sources Science and Technology
+- Publications of the Astronomical Society of the Pacific
+- Quantum Science and Technology
+- Reports on Progress in Physics
+- Research in Astronomy and Astrophysics
+- Science Foundation in China
+- Semiconductor Science and Technology
+- Smart Materials and Structures
+- Superconductor Science and Technology
+- 'Surface Topography: Metrology and Properties'
+- Translational Materials Research
+parent-policies: []
+child-policies:
+- romeo_1275
+- romeo_1470
+- romeo_1471
+- romeo_1511
+- romeo_1809
+- romeo_2940
+- romeo_3129
+- romeo_3131
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,73 @@
+policy-id: romeo_292
+publisher: University of Illinois Press
+policy-heading: '[Default policy]'
+journals:
+- American Journal of Play
+- American Journal of Psychology
+- American Journal of Theology and Philosophy
+- American Literary Realism
+- American Music
+- American Philosophical Quarterly
+- Black Music Research Journal
+- Black Women, Gender and Families
+- Bulletin of the Council for Research in Music Education
+- Feminist Teacher
+- History of Philosophy Quarterly
+- History of the Present
+- Illinois Classical Studies
+- Journal for the Anthropological Study of Human Movement
+- Journal of Aesthetic Education
+- Journal of American Ethnic History
+- Journal of Animal Ethics
+- Journal of Criminal Law and Criminology
+- Journal of Education Finance
+- Journal of English and Germanic Philology
+- Journal of Seventeenth-Century Music
+- Journal of Sport History
+- Journal of the Illinois State Historical Society
+- Law and History Review
+- Music and the Moving Image
+- Northwestern Journal of International Law and Business
+- Northwestern University Law Review
+- Packingtown Review
+- Perspectives on Work
+- Pluralist
+- Public Affairs Quarterly
+- Visual Arts Research
+- World History Connected
+parent-policies: []
+child-policies:
+- romeo_1980
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

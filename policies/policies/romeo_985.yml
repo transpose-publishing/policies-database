@@ -1,0 +1,156 @@
+policy-id: romeo_985
+publisher: WB Saunders
+policy-heading: '[Default policy]'
+journals:
+- Advances in Chronic Kidney Disease
+- Advances in Small Animal Medicine and Surgery
+- American Journal of Emergency Medicine
+- American Journal of Otolaryngology
+- Anesthesiology Clinics
+- Annals of Diagnostic Pathology
+- Applied Nursing Research
+- Archives of Psychiatric Nursing
+- 'Arthroscopy: The Journal of Arthroscopy and Related Surgery'
+- Atlas of The Oral and Maxillofacial Surgery Clinics of North America
+- Cancer Treatment Reviews
+- Cardiac Electrophysiology Clinics
+- Cardiology Clinics
+- Child and Adolescent Psychiatric Clinics of North America
+- Clinical Effectiveness in Nursing
+- Clinical Gastroenterology and Hepatology
+- Clinical Pediatric Emergency Medicine
+- Clinics in Chest Medicine
+- Clinics in Geriatric Medicine
+- Clinics in Laboratory Medicine
+- Clinics in Liver Disease
+- Clinics in Perinatology
+- Clinics in Plastic Surgery
+- Clinics in Podiatric Medicine and Surgery
+- Clinics in Sports Medicine
+- Comprehensive Psychiatry
+- Critical Care Clinics
+- Critical Care Nursing Clinics of North America
+- Dental Clinics of North America
+- Dermatologic Clinics
+- 'Diabetes and Metabolic Syndrome: Clinical Research and Reviews'
+- Digestive and Liver Disease
+- EJSO - European Journal of Surgical Oncology
+- Emergency Medicine Clinics of North America
+- Endocrinology and Metabolism Clinics of North America
+- Facial Plastic Surgery Clinics of North America
+- Foot and Ankle Clinics
+- Gastroenterology Clinics of North America
+- Gastrointestinal Endoscopy Clinics of North America
+- Hand Clinics
+- Heart Failure Clinics
+- Hematology/Oncology Clinics of North America
+- Hospital Medicine Clinics
+- Human Pathology
+- Immunology and Allergy Clinics of North America
+- Infectious Disease Clinics of North America
+- Journal of Cardiothoracic and Vascular Anesthesia
+- Journal of Critical Care
+- Journal of Equine Veterinary Science
+- Journal of Hand Surgery (American Volume)
+- Journal of Hospital Infection
+- Journal of Oral and Maxillofacial Surgery
+- Journal of Pediatric Nursing
+- Journal of PeriAnesthesia Nursing
+- Journal of Professional Nursing
+- Journal of Renal Nutrition
+- Journal of Stroke and Cerebrovascular Diseases
+- Magnetic Resonance Imaging Clinics of North America
+- Medical Clinics of North America
+- Metabolism
+- Neuroimaging Clinics of North America
+- Neurologic Clinics
+- Neurosurgery Clinics of North America
+- Newborn and Infant Nursing Reviews
+- Nursing Clinics of North America
+- Obstetrics and Gynecology Clinics of North America
+- Operative Techniques in Orthopaedics
+- Operative Techniques in Otolaryngology - Head and Neck Surgery
+- Operative Techniques in Sports Medicine
+- Oral and Maxillofacial Surgery Clinics of North America
+- Orthopedic Clinics of North America
+- Otolaryngologic Clinics of North America
+- PET Clinics
+- Pain Management Nursing
+- Pediatric Clinics of North America
+- Perioperative Nursing Clinics
+- Physical Medicine and Rehabilitation Clinics of North America
+- 'Primary Care: Clinics in Office Practice'
+- Progress in Cardiovascular Diseases
+- Psychiatric Clinics of North America
+- Radiologic Clinics of North America
+- Rheumatic Disease Clinics of North America
+- Seminars in Arthroplasty
+- Seminars in Colon and Rectal Surgery
+- Seminars in Cutaneous Medicine and Surgery
+- Seminars in Diagnostic Pathology
+- Seminars in Fetal and Neonatal Medicine
+- Seminars in Nephrology
+- Seminars in Oncology
+- Seminars in Oncology Nursing
+- Seminars in Orthodontics
+- Seminars in Pediatric Neurology
+- Seminars in Pediatric Surgery
+- Seminars in Perinatology
+- Seminars in Radiation Oncology
+- Seminars in Roentgenology
+- Seminars in Spine Surgery
+- Seminars in Thoracic and Cardiovascular Surgery
+- 'Seminars in Thoracic and Cardiovascular Surgery: Pediatric Cardiac Surgery Annual'
+- Seminars in Vascular Surgery
+- Sleep Medicine Clinics
+- Surgical Clinics of North America
+- Surgical Oncology Clinics of North America
+- Surgical Pathology Clinics
+- Techniques in Gastrointestinal Endoscopy
+- Techniques in Regional Anesthesia and Pain Management
+- Techniques in Vascular and Interventional Radiology
+- Thoracic Surgery Clinics
+- Transfusion Medicine Reviews
+- Transplantation Reviews
+- Ultrasound Clinics
+- Urologic Clinics of North America
+- 'Veterinary Clinics of North America: Equine Practice'
+- 'Veterinary Clinics of North America: Exotic Animal Practice'
+- 'Veterinary Clinics of North America: Food Animal Practice'
+- 'Veterinary Clinics of North America: Small Animal Practice'
+parent-policies:
+- romeo_30
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

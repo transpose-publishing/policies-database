@@ -1,0 +1,60 @@
+policy-id: romeo_1425
+publisher: Universidad Politécnica de Valencia (PoliPapers)
+policy-heading: '[Default policy]'
+journals:
+- Applied General Topology
+- Con A de animación
+- Culturas. Revista de Gestión Cultural
+- EGA. Revista de expresión gráfica arquitectónica
+- EME Experimental Illustration, Art and Design
+- Ingeniería del agua
+- International Journal of Production Management and Engineering
+- Loggia, Arquitectura & Restauración
+- Modelling in Science Education and Learning
+- Multidisciplinary Journal for Education, Social and Technological Sciences
+- REDU
+- Revista de Lingüística y Lenguas Aplicadas
+- Revista de Teledetección
+- Revista sobre la infancia y la adolescencia
+- VLC arquitectura
+- Virtual Archaeology Review
+- Working Papers on Operations Management
+- World Rabbit Science
+parent-policies: []
+child-policies:
+- romeo_1426
+- romeo_1427
+- romeo_1428
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

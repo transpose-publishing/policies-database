@@ -1,0 +1,90 @@
+policy-id: romeo_25
+publisher: BMJ Publishing Group
+policy-heading: '[Default policy]'
+journals:
+- Acupuncture in Medicine
+- Annals of the Rheumatic Diseases
+- Archives of Disease in Childhood
+- BMJ
+- BMJ Case Reports
+- BMJ Global Health
+- BMJ Open
+- BMJ Open Diabetes Research and Care
+- BMJ Open Gastroenterology
+- BMJ Open Respiratory Research
+- BMJ Open Science
+- BMJ Paediatrics Open
+- BMJ Quality and Safety
+- BMJ Supportive and Palliative Care
+- British Journal of Ophthalmology
+- British Journal of Sports Medicine
+- Drug and Therapeutics Bulletin
+- Emergency Medicine Journal
+- European Journal of Hospital Pharmacy
+- Evidence Based Medicine
+- Evidence-Based Mental Health
+- Evidence-Based Nursing
+- Frontline Gastroenterology
+- Gut
+- Heart
+- Heart Asia
+- In Practice
+- Injury Prevention
+- Journal of Clinical Pathology
+- Journal of Epidemiology and Community Health
+- Journal of Family Planning and Reproductive Health Care
+- Journal of Medical Ethics
+- Journal of Medical Genetics
+- Journal of NeuroInterventional Surgery
+- Journal of Neurology, Neurosurgery and Psychiatry
+- Lupus Science & Medicine
+- Occupational and Environmental Medicine
+- Open Heart
+- Postgraduate Medical Journal
+- Practical Neurology
+- Quality and Safety in Health Care
+- RMD Open
+- Sexually Transmitted Infections
+- Student BMJ
+- Thorax
+- Tobacco Control
+- Veterinary Record
+- Veterinary Record Open
+parent-policies: []
+child-policies:
+- romeo_1174
+- romeo_1229
+- romeo_3089
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

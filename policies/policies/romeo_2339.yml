@@ -1,0 +1,52 @@
+policy-id: romeo_2339
+publisher: Advanced Research Publications (ADR Publications)
+policy-heading: '[Default policy]'
+journals:
+- Indian Journal of Youth and Adolescent Health
+- International Journal of Genetics and Cancer
+- Journal of Advanced Research in Applied Mechanics and Computational Fluid Dynamics
+- Journal of Advanced Research in Ayurveda, Yoga, Unani, Siddha and Homeopathy
+- Journal of Advanced Research in Civil and Environmental Engineering
+- Journal of Advanced Research in Embedded System
+- Journal of Advanced Research in Humanities and Social Science
+- Journal of Advanced Research in Journalism and Mass Communication
+- Journal of Advanced Research in Library and Information Science
+- Journal of Advanced Research in Manufacturing, Material Science and Metallurgical
+  Engineering
+- Journal of Advanced Research in Medicine
+- Journal of Communicable Diseases
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

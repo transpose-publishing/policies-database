@@ -1,0 +1,69 @@
+policy-id: romeo_1411
+publisher: Universitas Ahmad Dahlan
+policy-heading: '[Default policy]'
+journals:
+- AL-MAKTABAH
+- AL-TURATS
+- Berkala Fisika Indonesia
+- Buletin Teknik Elektro dan Informatika
+- Bulletin of Electrical Engineering and Informatics
+- EDUSAINS
+- EMPATHY Jurnal Fakultas Psikologi
+- FOKUS Jurnal Manajemen Bisnis
+- Forum MIPA
+- HUMANITAS
+- IJEE
+- Indonesian Journal of Electrical Engineering and Informatics
+- JOURNAL OF QUR'AN AND HADITH STUDIES
+- JUSI
+- Journal of Education and Learning
+- Journal of Educational, Health and Community Psychology
+- Journal of Telematics and Informatics
+- Jurnal AHKAM
+- Jurnal Citizenship
+- Jurnal Informatika
+- Konvergensi
+- MIPA EDUKATIKA
+- Manuskripta
+- PHARMAçIANA
+- Psikopedagogia
+- Refleksi
+- 'SOSIO DIDAKTIKA: Social Science Education Journal'
+- SPEKTRUM INDUSTRI
+- Studia Islamika
+- 'TARBIYA: Journal of Education in Muslim Society'
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,80 @@
+policy-id: romeo_914
+publisher: Canadian Center of Science and Education (CCSE)
+policy-heading: '[Default policy]'
+journals:
+- Applied Physics Research
+- Asian Culture and History
+- Asian Social Science
+- Cancer and Clinical Oncology
+- Computer and Information Science
+- Earth Science Research
+- Energy and Environment Research
+- Engineering Management Research
+- English Language Teaching
+- English Language and Literature Studies
+- Environment and Natural Resources Research
+- Environment and Pollution
+- Global Journal of Health Science
+- Higher Education Studies
+- International Business Research
+- International Education Studies
+- International Journal of Biology
+- International Journal of Business and Management
+- International Journal of Chemistry
+- International Journal of Economics and Finance
+- International Journal of English Linguistics
+- International Journal of Marketing Studies
+- International Journal of Psychological Studies
+- International Journal of Statistics and Probability
+- International Law Research
+- Journal of Educational and Developmental Psychology
+- Journal of Food Research
+- Journal of Geography and Geology
+- Journal of Management and Sustainability
+- Journal of Materials Science Research
+- Journal of Mathematics Research
+- Journal of Molecular Biology Research
+- Journal of Plant Studies
+- Journal of Politics and Law
+- Journal of Sustainable Development
+- Mechanical Engineering Research
+- Modern Applied Science
+- Network and Communication Technologies
+- Public Administration Research
+- Review of European Studies
+- Sustainable Agriculture Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

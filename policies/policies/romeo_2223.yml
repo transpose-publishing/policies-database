@@ -1,0 +1,70 @@
+policy-id: romeo_2223
+publisher: Nature Publishing Group
+policy-heading: Open Access Journals - Option C
+journals:
+- Blood Cancer Journal
+- Cell Death and Disease
+- Cell Discovery
+- Clinical and Translational Immunology
+- Emerging Microbes and Infections
+- Experimental and Molecular Medicine
+- International Journal of Oral Science
+- 'Light: Science and Applications'
+- NPG Asia Materials
+- Nutrition and Diabetes
+- Oncogenesis
+- Science of Learning
+- Scientific Data
+- Scientific Reports
+- npj Aging and Mechanisms of Disease
+- npj Biofilms and Microbiomes
+- npj Breast Cancer
+- npj Climate and Atmospheric Science
+- npj Computational Materials
+- npj Flexible Electronics
+- npj Genomic Medicine
+- npj Microgravity
+- npj Parkinson's Disease
+- npj Primary Care Respiratory Medicine
+- npj Quantum Information
+- npj Schizophrenia
+- npj Science of Food
+- npj Science of Learning
+- npj Systems Biology and Applications
+- npj Vaccines
+parent-policies:
+- romeo_54
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

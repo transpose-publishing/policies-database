@@ -1,0 +1,112 @@
+policy-id: romeo_1403
+publisher: SAGE Publications (UK and US)
+policy-heading: Open Access Titles
+journals:
+- AERA Open
+- Academic Pathology
+- Acta Radiologica Open
+- Autism and Developmental Language Impairments
+- Brain and Neuroscience Advances
+- Canadian Journal of Kidney Health and Disease
+- Cardiovascular and Thoracic Open
+- Child Neurology Open
+- Childhood Obesity and Nutrition
+- Chronic Stress
+- Clinical and Applied Thrombosis/Hemostasis
+- Comprehensive Psychology
+- Digital Health
+- Dose-Response
+- Educational Neuroscience
+- European Journal of Inflammation
+- Evolutionary Psychology
+- Foot and Ankle Orthopaedics
+- Geriatric Orthopaedic Surgery and Rehabilitation
+- Gerontology and Geriatric Medicine
+- Global Media and China
+- Global Pediatric Health
+- Global Qualitative Nursing Research
+- Health Psychology Open
+- Health Services Research and Managerial Epidemiology
+- 'INQUIRY: The Journal of Health Care Organization, Provision, and Financing'
+- Innate Immunity
+- International Journal of Immunopathology and Pharmacology
+- International Journal of Micro Air Vehicles
+- International Journal of Ocean and Climate Systems
+- International Journal of Qualitative Methods
+- International Journal of Spray and Combustion Dynamics
+- JRSM Cardiovascular Disease
+- JRSM Open
+- Journal of Algorithms and Computational Technology
+- Journal of Circulating Biomarkers
+- Journal of Computational Multiphase Flows
+- Journal of Concussion
+- Journal of Connectivity
+- Journal of Feline Medicine and Surgery Open Reports
+- Journal of Patient Experience
+- Journal of Rehabilitation and Assistive Technologies Engineering
+- Journal of Reproductive Biotechnology and Fertility
+- Journal of Shoulder and Elbow Arthroplasty
+- Journal of the International Association of Providers of AIDS Care
+- Journal of the Renin-Angiotensin-Aldosterone System
+- MDM Policy and Practice
+- Methodological Innovations
+- Molecular Imaging
+- Molecular Pain
+- Multiple Sclerosis Journal - Experimental, Translational and Clinical
+- Nanobiomedicine
+- Otolaryngology Open
+- PLEURA
+- Proceedings of Singapore Healthcare
+- Rheumatology Practice and Research
+- SAGE Open Medical Case Reports
+- SAGE Open Medicine
+- SAGE Open Nursing
+- Scars, Burns & Healing
+- Sexualization, Media and Society
+- Social Media and Society
+- 'Socius: Sociological Research for a Dynamic World'
+- Therapeutic Advances in Gastroenterology
+- Therapeutic Advances in Medical Oncology
+- Therapeutic Advances in Neurological Disorders
+- Therapeutic Advances in Respiratory Disease
+- Toxicology Research and Application
+- Translational Research in Oral Oncology
+- Trends in Hearing
+- Tropical Conservation Science
+- Women's Health
+parent-policies:
+- romeo_65
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,46 @@
+policy-id: romeo_1297
+publisher: Association of Computer Electronics and Electrical Engineers (ACEEE)
+policy-heading: '[Default policy]'
+journals:
+- ACEEE International Journal on Communication
+- International Journal of Electrical and Power Engineering
+- International Journal of Network Security
+- International Journal of Signal and Image Processing
+- International Journal on Control System and Instrumentation
+- International Journal on Information Technology
+- International Journal on Recent Trends in Engineering and Technology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

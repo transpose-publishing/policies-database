@@ -1,0 +1,68 @@
+policy-id: romeo_348
+publisher: Informa Healthcare
+policy-heading: '[Default policy]'
+journals:
+- Acta Orthopaedica
+- Archives of Physiology and Biochemistry
+- Cutaneous and Ocular Toxicology
+- Developmental Neurorehabilitation
+- Hemoglobin
+- International Journal of Psychiatry in Clinical Practice
+- International Journal of Qualitative Studies on Health and Well-being
+- International Journal of Qualitative Studies on Health and Well-being (QHW)
+- International Journal of Speech-Language Pathology
+- International Review of Psychiatry
+- International Reviews of Immunology
+- Issues in Mental Health Nursing
+- Journal of Aging and Pharmacotherapy
+- Journal of Cancer Pain and Symptom Palliation
+- Journal of Children's Health
+- Journal of Cosmetic and Laser Therapy
+- Journal of Dermatological Treatment
+- Journal of Dietary Supplements
+- Journal of Drug Assessment
+- Journal of Drug Targeting
+- Journal of Enzyme Inhibition and Medicinal Chemistry
+- Journal of Herbal Pharmacotherapy
+- Journal of Immunotoxicology
+- Journal of Intellectual and Developmental Disability
+- Pediatric Hematology-Oncology
+- Scandinavian Journal of Occupational Therapy
+- Scandinavian Journal of Plastic Surgery and Hand Surgery
+parent-policies: []
+child-policies:
+- romeo_2359
+- romeo_297
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

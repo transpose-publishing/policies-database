@@ -1,0 +1,85 @@
+policy-id: romeo_2222
+publisher: SciTechnol
+policy-heading: '[Default policy]'
+journals:
+- 'Analgesia and Resuscitation: Current Research'
+- 'Andrology and Gynecology: Current Research'
+- 'Cell Biology: Research and Therapy'
+- Drug Intoxication and Detoxification
+- Expert Opinion on Environmental Biology
+- 'Geoinformatics and Geostatistics: An Overview'
+- International Journal of Cardiovascular Research
+- International Journal of Evolution
+- International Journal of Ophthalmic Pathology
+- Journa of Computer Engineering and Information Technology
+- Journal of Applied Bioinformatics and Computational Biology
+- Journal of Athletic Enhancement
+- Journal of Biocatalysis and Biotransformation
+- Journal of Biodiversity Management and Forestry
+- Journal of Biomarkers in Drug Development
+- Journal of Business and Hotel Management
+- Journal of Clinical and Experimental Oncology
+- Journal of Defense Studies and Resource Management
+- Journal of Electrical Engineering and Electronic Technology
+- Journal of Fashion Technology and Textile Engineering
+- Journal of Food and Nutritional Disorders
+- Journal of Forensic Toxicology and Pharmacology
+- Journal of Genetic Disorders and Genetic Reports
+- Journal of Genital System and Disorders
+- Journal of Hydrogeology and Hydrologic Engineering
+- Journal of Hypo and Hyperglycemia
+- Journal of Infectious Diseases and Immunological Techniques
+- 'Journal of Liver: Disease and Transplantation'
+- Journal of Marine Biology and Oceanography
+- Journal of Metabonomics and Metabolites
+- Journal of Nanomaterials and Molecular Nanotechnology
+- Journal of Nuclear Energy and Power Generation Technologies
+- Journal of Otology and Rhinology
+- Journal of Pharmaceutics and Drug Delivery Research
+- Journal of Physiobiochemical Metabolism
+- Journal of Plant Physiology and Pathology
+- Journal of Psychotherapy and Psychological Disorders
+- Journal of Regenerative Medicine
+- 'Journal of Sleep Disorders: Treatment and Care'
+- Journal of Tourism Research and Hospitality
+- Journal of Traumatic Stress Disorders and Treatment
+- Journal of Veterinary Science and Medical Diagnosis
+- Journal of Virology and Antiviral Research
+- Journal of Women's Health, Issues and Care
+- Molecular Medicine and Therapeutics
+parent-policies:
+- romeo_672
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,46 @@
+policy-id: romeo_367
+publisher: British Editorial Society of Bone and Joint Surgery
+policy-heading: '[Default policy]'
+journals:
+- Bone and Joint Journal
+- Bone and Joint Research
+- EFORT Open Reviews
+- Journal of Bone and Joint Surgery, British Volume
+- Journal of Children's Orthopaedics
+- Journal of Childrens Orthopaedics
+parent-policies: []
+child-policies:
+- romeo_1436
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

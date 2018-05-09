@@ -1,0 +1,61 @@
+policy-id: romeo_136
+publisher: University of Hawaii Press
+policy-heading: '[Default policy]'
+journals:
+- Archives of Asian Art
+- Asian Perspectives
+- Asian Theatre Journal
+- Azalea
+- Biography
+- Buddhist-Christian Studies
+- China Review International
+- Contemporary Pacific
+- Cross-Currents
+- Journal of Korean Religions
+- Journal of World History
+- Korean Studies
+- Language Documentation and Conservation
+- Oceanic Linguistics
+- Pacific Science
+- Philosophy East and West
+- Review of Japanese Culture and Society
+- U.S.-Japan Women's Journal
+- "US - Japan Women's Journal: English Supplement"
+- Yearbook of the Association of Pacific Coast Geographers
+- Yishu
+parent-policies: []
+child-policies:
+- romeo_2720
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

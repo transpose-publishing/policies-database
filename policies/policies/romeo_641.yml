@@ -1,0 +1,101 @@
+policy-id: romeo_641
+publisher: Universitätsverlag Potsdam
+policy-heading: '[Default policy]'
+journals:
+- Beiträge zur Lehrerbildung
+- Brandenburgische Beiträge zur Hochschuldidaktik
+- Brandenburgische Umweltberichte
+- DIGAREC Series
+- Finanzwissenschaftliche Diskussionsbeiträge / Lehrstuhl für Finanzwissenschaft
+- Forschungspapiere Regierungsorganisation in Westeuropa
+- 'Geographische Revue: Zeitschrift für Literatur und Diskussion'
+- 'Horizonte 21: Umwelt - Energie - Sicherheit'
+- Interdisciplinary Studies on Information Structure
+- Jahresbericht / Menschenrechtszentrum der Universität Potsdam
+- KWI Schriften
+- KWI-Arbeitshefte
+- KWI-Gutachten
+- KWI-Info
+- 'Kentron: Journal zur Lehrerbildung'
+- LLF-Berichte
+- Lehr- und Forschungsberichte, Lehrstuhl für Betriebswirtschaftslehre Schwerpunkt
+  Marketing
+- Linguistics in Potsdam
+- Mathematische Statistik und Wahrscheinlichkeitstheorie
+- MenschenRechtsMagazin
+- Militär und Gesellschaft in der frühen Neuzeit
+- Mobilisierte Kulturen
+- NLD Preprints
+- PaRDeS
+- Perspektiven historischen Denkens und Lernens
+- 'Postprints der Universität Potsdam: Humanwissenschaftliche Reihe'
+- 'Postprints der Universität Potsdam: Mathematisch-Naturwissenschaftliche Reihe'
+- 'Postprints der Universität Potsdam: Philosophische Reihe'
+- 'Postprints der Universität Potsdam: Wirtschafts- und Sozialwissenschaftliche Reihe'
+- Potsdam Cognitive Science Series
+- Potsdamer Beiträge zur Hochschulforschung
+- Potsdamer Beiträge zur Lehrevaluation
+- Potsdamer Beiträge zur Sorabistik
+- Potsdamer Beiträge zur Sozialforschung
+- Potsdamer Diskussionspapiere zur Verwaltungswissenschaft
+- Potsdamer Geographische Forschungen
+- Potsdamer Lateintage
+- Potsdamer Schriften zu Statistik und Wirtschaft
+- Potsdamer Schriften zur Raumwirtschaft
+- Potsdamer Schriftenreihe zur Musikpädagogik
+- Potsdamer Studien zu Staat, Recht und Politik
+- 'Potsdamer Studien zur Frauen- und Geschlechterforschung: Neue Folge'
+- Potsdamer Studien zur Grundschulforschung
+- 'Potsdamer Studientexte: Sonderpädagogik'
+- Praxis Kultur- und Sozialgeographie
+- Preprints des Instituts für Mathematik der Universität Potsdam
+- Pri ha-Pardes
+- Schriften zum deutschen und russischen Strafrecht
+- Schriftenreihe für Public und Nonprofit Management
+- Schriftenreihe zur Modernisierung der Landesverwaltung in Brandenburg
+- Spektrum Patholinguistik
+- Spektrum Patholinguistik - Schriften
+- Statistische Diskussionsbeiträge / Lehrstuhl für Statistik und Ökonometrie
+- Studien zu Grund- und Menschenrechten
+- Technische Berichte des Hasso-Plattner-Instituts für Softwaresystemtechnik der Universität
+  Potsdam
+- VJS-Nachrichten
+- Vortragsreihe / Lehrstuhl für Betriebswirtschaftslehre Schwerpunkt Marketing
+- WeltTrends
+- WeltTrends Papiere
+- WeltTrends Thesis
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

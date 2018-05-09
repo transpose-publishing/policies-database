@@ -1,0 +1,113 @@
+policy-id: romeo_1032
+publisher: Wiley Open Access
+policy-heading: '[Default policy]'
+journals:
+- Advanced Science
+- Aging Cell
+- Annals of Clinical and Translational Neurology
+- Asia and the Pacific Policy Studies
+- Atmospheric Science Letters
+- Australian and New Zealand Journal of Public Health
+- Bioengineering and Translational Medicine
+- Brain and Behavior
+- 'CPT: Pharmacometrics and Systems Pharmacology'
+- Cancer Medicine
+- Cancer Science
+- Cell Biology International Reports
+- ChemistryOpen
+- Clinical Case Reports
+- Clinical and Experimental Dental Research
+- Clinical and Translational Science
+- Conservation Letters
+- Depositional Record
+- EMBO Molecular Medicine
+- ESC Heart Failure
+- Earth's Future
+- Ecology and Evolution
+- Ecosystem Health and Sustainability
+- Energy Science and Engineering
+- Evidence-based Preclinical Medicine
+- Evolution Letters
+- Evolutionary Applications
+- FEBS Open Bio
+- Food Science and Nutrition
+- Food and Energy Security
+- GCB Bioenergy
+- 'Geo: Geography and Environment'
+- Geoscience Data Journal
+- Health Expectations
+- Health Science Reports
+- Hepatology Communications
+- Immunity, Inflammation and Disease
+- Influenza and Other Respiratory Viruses
+- Inside the Cell
+- Journal of Cachexia, Sarcopenia and Muscle
+- Journal of Cellular and Molecular Medicine
+- Journal of Diabetes Investigation
+- Journal of Interdisciplinary Nanomedicine
+- Journal of Medical Radiation Sciences
+- 'Journal of Pathology: Clinical Research'
+- Journal of Veterinary Internal Medicine
+- Journal of the American Heart Association
+- Journal of the American Heart Association Cardiovascular and Cerebrovascular Disease
+- Journal of the International AIDS Society
+- Laryngoscope Investigative Otolaryngology
+- Learning Health Systems
+- Limnology and Oceanography Letters
+- Microbial Biotechnology
+- Microbiology Open
+- MicrobiologyOpen
+- Molecular Genetics and Genomic Medicine
+- Molecular Oncology
+- Molecular Systems Biology
+- Nursing Open
+- Obesity Science and Practice
+- Pharmacology Research and Perspectives
+- Physiological Reports
+- Plant Biotechnology Journal
+- PsychologyOpen
+- Regeneration
+- Remote Sensing in Ecology and Conservation
+- Respirology Case Reports
+- Stem Cells Translational Medicine
+- Thoracic Cancer
+- Veterinary Medicine and Science
+parent-policies:
+- romeo_580
+child-policies:
+- romeo_1445
+- romeo_1760
+- romeo_1761
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

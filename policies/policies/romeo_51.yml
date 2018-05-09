@@ -1,0 +1,81 @@
+policy-id: romeo_51
+publisher: Massachusetts Institute of Technology Press (MIT Press)
+policy-heading: '[Default policy]'
+journals:
+- ARTMargins
+- African Arts
+- American Journal of Health Economics
+- Artificial Life
+- Asian Development Review
+- Asian Economic Papers
+- Computational Linguistics
+- Computational Psychiatry
+- Computer Music Journal
+- Daedalus
+- Design Issues
+- Education Finance and Policy
+- Evolutionary Computation
+- Global Environmental Politics
+- Grey Room
+- Innovations
+- 'Innovations: Technology, Governance, Globalization'
+- International Journal of Learning and Media
+- International Security
+- Journal of Cognitive Neuroscience
+- Journal of Cold War Studies
+- Journal of Interdisciplinary History
+- Leonardo
+- Leonardo Music Journal
+- Leonardo, Journal of Arts, Sciences and Technology
+- Linguistic Inquiry
+- Network Neuroscience
+- Neural Computation
+- New England Quarterly
+- October
+- Open Mind
+- PAJ
+- 'PAJ: A Journal of Performance and Art'
+- Perspectives on Science
+- 'Presence: Teleoperators and Virtual Environments'
+- Review of Economics and Statistics
+- TDR
+parent-policies: []
+child-policies:
+- romeo_1123
+- romeo_1124
+- romeo_1125
+- romeo_2663
+- romeo_3014
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

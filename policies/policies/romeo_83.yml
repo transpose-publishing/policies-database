@@ -1,0 +1,60 @@
+policy-id: romeo_83
+publisher: American Mathematical Society
+policy-heading: '[Default policy]'
+journals:
+- Abstracts of Papers Presented to the AMS
+- Bulletin of the American Mathematical Society
+- Conformal Geometry and Dynamics
+- Journal of Algebraic Geometry
+- Journal of the American Mathematical Society
+- Mathematical Reviews
+- Mathematics of Computation
+- Memoirs of the American Mathematical Society
+- Notices of the American Mathematical Society
+- Proceedings of the American Mathematical Society
+- 'Proceedings of the American Mathematical Society: Series B'
+- Quarterly of Applied Mathematics
+- Representation Theory
+- St. Petersburg Mathematical Journal
+- Sugaku Expositions
+- Theory of Probability and Mathematical Statistics
+- Tranactions of the Moscow Mathematical Society
+- Transactions of the American Mathematical Society
+- 'Transactions of the American Mathematical Society: Series B'
+- Transactions of the Moscow Mathematical Society
+parent-policies: []
+child-policies:
+- romeo_1954
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

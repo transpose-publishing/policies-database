@@ -1,0 +1,56 @@
+policy-id: romeo_1390
+publisher: Ernst und Sohn
+policy-heading: '[Default policy]'
+journals:
+- Bauphysik
+- Bautechnik
+- Beton- und Stahlbetonbau
+- Building Physics
+- Concrete and Reinforced Concrete Structures
+- DIBt Mitteilungen
+- DiBt News
+- EntrepreneurLetter Building and Construction Industry
+- Geomechanics and Tunnelling
+- PÜZ - Verzeichnis der Prüf-, Überwachungs- und Zertifizierungsstellen nach den Landesbauordnungen
+- Stahlbau
+- Steel Construction
+- Steel Structures
+- Structural Engineering
+- UnternehmerBrief Bauwirtschaft
+parent-policies:
+- romeo_580
+child-policies:
+- romeo_1553
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

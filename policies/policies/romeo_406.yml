@@ -1,0 +1,82 @@
+policy-id: romeo_406
+publisher: Thomas Telford (ICE Publishing)
+policy-heading: '[Default policy]'
+journals:
+- Advances in Cement Research
+- Bioinspired, Biomimetic and Nanobiomaterials
+- Civil Engineering Innovation
+- Dams and Reservoirs
+- Emerging Materials Research
+- Environmental Geotechnics
+- Geosynthetics International
+- Geotechnical Research
+- Géotechnique
+- Géotechnique Letters
+- ICE Engineering Division Papers
+- ICE Proceedings
+- 'ICE Proceedings: Engineering Divisions'
+- ICE Selected Engineering Papers
+- ICE Transactions
+- International Journal of Physical Modelling in Geotechnics
+- Journal of Environmental Engineering and Science
+- Journal of the ICE
+- Life of Telford
+- Magazine of Concrete Research
+- Minutes of the Proceedings
+- Nanomaterials and Energy
+- Proceedings of the ICE - Bridge Engineering
+- Proceedings of the ICE - Civil Engineering
+- Proceedings of the ICE - Construction Materials
+- Proceedings of the ICE - Energy
+- Proceedings of the ICE - Engineering History and Heritage
+- Proceedings of the ICE - Engineering Sustainability
+- Proceedings of the ICE - Engineering and Computational Mechanics
+- Proceedings of the ICE - Forensic Engineering
+- Proceedings of the ICE - Geotechnical Engineering
+- Proceedings of the ICE - Ground Improvement
+- Proceedings of the ICE - Management, Procurement and Law
+- Proceedings of the ICE - Maritime Engineering
+- Proceedings of the ICE - Municipal Engineer
+- Proceedings of the ICE - Structures and Buildings
+- Proceedings of the ICE - Transport
+- Proceedings of the ICE - Urban Design and Planning
+- Proceedings of the ICE - Waste and Resource Management
+- Proceedings of the ICE - Water Management
+- Proceedings of the ICE - Water Maritime and Energy
+- Proceedings of the ICE - Water and Maritime Engineering
+parent-policies: []
+child-policies:
+- romeo_1982
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

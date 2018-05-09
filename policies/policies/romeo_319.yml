@@ -1,0 +1,66 @@
+policy-id: romeo_319
+publisher: Humana Press
+policy-heading: '[Default policy]'
+journals:
+- Annals of Ophthalmology
+- Biological Trace Element Research
+- Cardiovascular Toxicology
+- Cell Biochemistry and Biophysics
+- Clinical Reviews in Allergy and Immunology
+- Clinical Reviews in Bone and Mineral Metabolism
+- Comprehensive Therapy
+- Current Reviews in Musculoskeletal Medicine
+- Endocrine
+- Forensic Science, Medicine, and Pathology
+- Head and Neck Pathology
+- Immunologic Research
+- International Journal of Gastrointestinal Cancer
+- Journal of Gastrointestinal Cancer
+- Journal of Molecular Neuroscience
+- Journal of Ocular Biology, Diseases, and Informatics
+- Medical Oncology
+- Methods in Molecular Medicine
+- Molecular Biotechnology
+- Molecular Neurobiology
+- Molecular and Chemical Neuropathology
+- NanoBioTechnology
+- NeuroMolecular Medicine
+- Neurocritical Care
+- Neuroinformatics
+- Stem Cell Reviews and Reports
+parent-policies:
+- romeo_74
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

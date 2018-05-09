@@ -1,0 +1,105 @@
+policy-id: romeo_1423
+publisher: Nomos Verlagsgesellschaft
+policy-heading: '[Default policy]'
+journals:
+- African Law Study Library
+- Blätter der Wohlfahrtspflege
+- Communicatio Socialis
+- Droit en Afrique
+- EWeRK
+- Europarecht
+- European Criminal Law Review
+- Gesundheit und Pflege
+- Gesundheits- und Sozialpolitik
+- Integration
+- Journal for Business, Economics and Ethics
+- Journal for East European Management Studies
+- Journal of European Integration History
+- Jugend Medien Schutz-Report
+- Knowledge Organization
+- Kommunaljurist
+- KritV | CritQ | RCrit
+- Kritische Justiz
+- LKRZ
+- Landes- und Kommunalverwaltung
+- Law in Africa
+- Librairie Africaine d'Etudes Juridiques
+- Medien und Kommunikationswissenschaft
+- Medizin Produkte Recht
+- Neue Justiz
+- Neue Kriminalpolitik
+- Recht in Afrika
+- Rechtspsychologie
+- Rechtswissenschaft
+- SEER
+- STUD.JUR. - Karriere im Recht
+- Sicherheit und Frieden
+- Soziale Welt
+- Sozialrecht aktuell
+- Sozialwirtschaft
+- Sozialwirtschaft aktuell
+- Straßenverkehrsrech
+- Studies in Communication | Media
+- Technikgeschichte
+- Unternehmung
+- Verbraucher und Recht
+- Verfassung und Recht in Übersee
+- Verwaltung and Management
+- Voluntaris
+- ZUM
+- ZUM-RD
+- ZUR
+- Zeitschrift für Ausländerrecht und Ausländerpolitik
+- Zeitschrift für Didaktik der Rechtswissenschaft
+- Zeitschrift für Flüchtlingsforschung
+- Zeitschrift für Friedens- und Konfliktforschung
+- Zeitschrift für Internationale Beziehungen
+- Zeitschrift für Parlamentsfragen
+- Zeitschrift für Politik
+- Zeitschrift für Politikwissenschaft
+- Zeitschrift für Stiftungs- und Vereinswesen
+- Zeitschrift für Wirtschafts- und Unternehmensethik
+- Zeitschrift für die Geschichte der Europäischen Integration
+- Zeitschrift für europarechtliche Studien
+- Zeitschrift für Öffentliches Recht in Norddeutschland
+- Zeitschrift für öffentliche und gemeinwirtschaftliche Unternehmen
+- djbZ
+- info also
+- management revue - Socio-Economic Studies
+parent-policies: []
+child-policies:
+- romeo_1424
+- romeo_729
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

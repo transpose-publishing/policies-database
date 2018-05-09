@@ -1,0 +1,69 @@
+policy-id: romeo_160
+publisher: CSIRO Publishing
+policy-heading: '[Default policy]'
+journals:
+- Animal Production Science
+- Australia and New Zealand Health Policy
+- Australian Health Review
+- Australian Journal of Biological Sciences
+- Australian Journal of Botany
+- Australian Journal of Chemistry
+- Australian Journal of Primary Health
+- Australian Journal of Soil Research
+- Australian Journal of Zoology
+- Australian Mammalogy
+- Australian Systematic Botany
+- Crop and Pasture Science
+- Emu
+- Environmental Chemistry
+- Exploration Geophysics
+- Functional Plant Biology
+- Healthcare Infection
+- Historical Records of Australian Science
+- International Journal of Wildland Fire
+- Invertebrate Systematics
+- Marine and Freshwater Research
+- New South Wales Public Health Bulletin
+- Preview
+- Rangeland Journal
+- Reproduction, Fertility and Development
+- Sexual Health
+- Soil Research
+- South Pacific Journal of Natural Science
+- South Pacific Journal of Natural and Applied Sciences
+- Wildlife Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,83 @@
+policy-id: romeo_712
+publisher: Universidade Federal de Santa Catarina
+policy-heading: '[Default policy]'
+journals:
+- Anuário de Literatura
+- Biotemas
+- Boletim de Pesquisa - NELIC
+- Brazilian Journal of Kinanthropometry and Human Performance
+- Caderno Brasileiro de Ensino de Física
+- Cadernos de Pesquisa Interdisciplinar em Ciências Humanas
+- Cadernos de Tradução
+- Em Debate
+- Em Tese
+- 'Encontros Bibli: Revista Eletrônica de Biblioteconomia e Ciência da Informação'
+- Esboços - Revista do Programa de Pós-Graduação em História da UFSC
+- Estudos Feministas
+- Estudos em Jornalismo e Mídia
+- 'Extensio: Revista Eletrônica de Extensão'
+- 'Fragmentos: Revista de Língua e Literatura Estrangeiras'
+- Fórum Lingüístico
+- Geosul
+- INSULA
+- Ilha Revista de Antropologia
+- Ilha do Desterro
+- Journal of English Language, Literatures in English and Cultural Studies
+- Mafuá - Revista de Literatura em Meio Digital
+- Motrivivência
+- Mundos do Trabalho
+- Outra Travessia
+- Perspectiva
+- Política and Sociedade
+- 'Ponto de Vista: revista de educação e processos inclusivos'
+- Principia
+- 'Revemat: revista eletrônica de educação matemática'
+- Revista Brasileira de Cineantropometria e Desempenho Humano
+- Revista Contemporânea de Contabilidade
+- Revista Internacional Interdisciplinar INTERthesis
+- Revista Katálysis
+- 'Revista Psicologia: Organizações e Trabalho'
+- Revista de Ciências Humanas
+- Revista de Ciências da Administração
+- Scientia Traductionis
+- 'Seqüência: estudos jurídicos e políticos'
+- Texto Digital
+- Textos de Economia
+- Travessia
+- Working Papers em Lingüística
+- ethic@
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

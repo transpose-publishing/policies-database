@@ -1,0 +1,57 @@
+policy-id: romeo_2177
+publisher: Science Publishing Corporation
+policy-heading: '[Default policy]'
+journals:
+- Global Journal of Mathematical Analysis
+- International Journal of Accounting and Economics Studies
+- International Journal of Advanced Astronomy
+- International Journal of Advanced Geosciences
+- International Journal of Advanced Mathematical Sciences
+- International Journal of Advanced Nursing Studies
+- International Journal of Advanced Statistics and Probability
+- International Journal of Applied Mathematical Research
+- International Journal of Basic and Applied Sciences
+- International Journal of Biological Research
+- International Journal of Dental Research
+- International Journal of Engineering and Technology
+- International Journal of Health
+- International Journal of Medicine
+- International Journal of Pharmacology and Toxicology
+- International Journal of Physical Research
+- International Journal of Scientific World
+- Journal of Advanced Computer Science and Technology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,87 @@
+policy-id: romeo_969
+publisher: Universidad de Murcia
+policy-heading: '[Default policy]'
+journals:
+- Agroecología
+- Anales de Biología
+- Anales de Ciencias
+- Anales de Derecho
+- Anales de Documentación
+- Anales de Filología Francesa
+- Anales de Filología Hispánica
+- Anales de Historia Contemporánea
+- Anales de Pedagogía
+- Anales de Prehistoria y Arqueología
+- Anales de Psicología
+- Anales de Veterinaria
+- 'Anales de la Universidad de Murcia: Ciencias'
+- 'Anales de la Universidad de Murcia: Derecho'
+- Antigüedad y Cristianismo
+- Arte y Políticas de Identidad
+- Campus Digital
+- Cartaphilus
+- Contrastes
+- Cuadernos de Arquitectura Romana
+- Cuadernos de Filología Inglesa
+- Cuadernos de Psicología del Deporte
+- Cuadernos de Turismo
+- Daimon
+- Educatio Siglo XXI
+- Enfermería Global
+- Estudios Románicos
+- Eubacteria Digital
+- Glosas Didácticas
+- Glossae
+- Histology and Histopathology
+- Historia Agraria
+- Imafronte
+- International Journal of English Studies
+- Medievalismo
+- Miscelánea Medieval Murciana
+- Monteagudo
+- Myrtia
+- Noticiario de Historia Agraria
+- Papeles de Geografía
+- Res Publica
+- Revista Murciana de Antropología
+- Revista de Investigación Educativa
+- Revista de Investigación Lingüística
+- Revista de Investigación sobre Flamenco
+- Tiempos de Danza
+- Tonos Digital
+parent-policies: []
+child-policies:
+- romeo_1347
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

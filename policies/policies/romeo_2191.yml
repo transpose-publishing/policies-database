@@ -1,0 +1,80 @@
+policy-id: romeo_2191
+publisher: Elsevier
+policy-heading: Creative Commons Attribution Non-Commercial No-Derivatives License
+journals:
+- Advances in Radiation Oncology
+- African Journal of Emergency Medicine
+- Agriculture and Agricultural Science Procedia
+- Alexandria Journal of Medicine
+- Allergology International
+- "Alzheimer's and Dementia: Translational Research and Clinical Interventions"
+- Animal Nutirition
+- Aquatic Procedia
+- Arab Journal of Urology
+- Cellular and Molecular Gastroenterology and Hepatology
+- Contemporary Clinical Trials Communications
+- Energy Procedia
+- Geodesy and Geodynamics
+- HeartRhythm Case Reports
+- International Journal of Infectious Diseases
+- Journal of Materiomics
+- Journal of Pharmacological Sciences
+- Journal of Physiotherapy
+- Journal of Taibah University for Science
+- Journal of Vascular Surgery Cases
+- One Health
+- Physics Procedia
+- Procedia CIRP
+- Procedia Chemistry
+- Procedia Computer Science
+- Procedia Economics and Finance
+- Procedia Engineering
+- Procedia Environmental Sciences
+- Procedia IUTAM
+- Procedia Manufacturing
+- Procedia Social and Behavioral Sciences
+- Procedia Technology
+- Procedia in Vaccinology
+- 'Procedia: Earth and Planetary Science'
+- Progress in Natural Science
+- SSM - Population Health
+- Studies in Mycology
+- Systems Engineering Procedia
+- Translational Oncology
+- Transportation Research Procedia
+parent-policies:
+- romeo_30
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

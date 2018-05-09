@@ -1,0 +1,67 @@
+policy-id: romeo_2184
+publisher: Global Science Research Journals
+policy-heading: '[Default policy]'
+journals:
+- Global Educational Journal of Early Childhood and Adolescent
+- Global Educational Journal of Library and Information Science
+- Global Educational Journal of Science and Technology
+- Global Journal of Agricultural Economics and Econometrics
+- Global Journal of Agricultural Economics, Extension and Rural Development
+- Global Journal of Agricultural Research and Reviews
+- Global Journal of Agriculture and Agricultural Sciences
+- Global Journal of Animal Breeding and Genetics
+- Global Journal of Animal Science, Livestock Production and Animal Breeding
+- Global Journal of Art and Social Science Education
+- Global Journal of Biochemistry and Biotechnology
+- Global Journal of Crop, Soil Science and Plant Breeding
+- Global Journal of Dairy Farming and Milk Production
+- Global Journal of Educational Foundation
+- Global Journal of Fisheries and Aquaculture
+- Global Journal of Food Science and Technology
+- Global Journal of Medical, Physical and Health Education
+- Global Journal of Medicine and Medical Sciences
+- Global Journal of Microbiology Research
+- Global Journal of Neurology and Neurosurgery
+- Global Journal of Pests, Diseases and Crop Protection
+- Global Journal of Plant Breeding and Genetics
+- Global Journal of Pollution and Hazardous Waste management
+- Global Journal of Special Education and Services
+- Global Journal of Vocational and Technical Education
+- Global Research Journal of Education
+- International Journal of Adult and Non Formal Education
+- Journal of Educational Administration and Management
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

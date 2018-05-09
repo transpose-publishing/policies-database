@@ -1,0 +1,84 @@
+policy-id: romeo_927
+publisher: Oldenbourg Verlag
+policy-heading: '[Default policy]'
+journals:
+- Altorientalische Forschungen
+- Archäologisches Nachrichtenblatt
+- Automatisierungstechnik
+- Bildwelten des Wissens
+- Danubiana Carpathica
+- Deutsche Zeitschrift für Philosophie
+- Economic History Yearbook
+- Gegenworte
+- Hegel-Jahrbuch
+- Historische Bibliographie Online
+- Historische Zeitschrift
+- Information Technology
+- Internationales Jahrbuch für Philosophische Anthropologie
+- Jahrbuch für Wirtschaftsgeschichte
+- Klio
+- Militärgeschichtliche Zeitschrift
+- Mitteilungen des Instituts für Österreichische Geschichtsforschung
+- Mittelalter
+- Nietzscheforschung
+- Orientalistische Literaturzeitung
+- Paragrana
+- Philologus
+- Proceedings in Radiochemistry
+- Radiochimica Acta
+- STUF
+- Schriftenreihe der Vierteljahrshefte für Zeitgeschichte
+- Soziologische Revue
+- Statistics and Decisions
+- Statistics and Risk Modeling
+- Südost-Forschungen
+- Südostdeutsches Archiv
+- Südosteuropa
+- Technisches Messen
+- Zeitschrift für Kristallographie
+- Zeitschrift für Kristallographie - New Crystal Structures
+- Zeitschrift für Kristallographie Proceedings
+- Zeitschrift für Kristallographie Supplements
+- Zeitschrift für Medienwissenschaft
+- Zeitschrift für Physikalische Chemie
+- Zeitschrift für Slawistik
+- Zeitschrift für Ägyptische Sprache und Altertumskunde
+- Zurich Studies in the History of Art
+- i-com
+parent-policies:
+- romeo_414
+child-policies:
+- romeo_926
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

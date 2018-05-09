@@ -1,0 +1,71 @@
+policy-id: romeo_913
+publisher: Universidade de Brasília
+policy-heading: '[Default policy]'
+journals:
+- Archai
+- Boletim Meridiano 47
+- Cadernos de Linguagem e Sociedade
+- Contabilidade, Gestão e Governança
+- Em tempo de histórias
+- Gestão e Saúde
+- Linhas Críticas
+- Música em Contexto
+- ParticipAção
+- 'Psicologia: Teoria e Pesquisa'
+- Pólemos
+- Revista Brasileira de Ciência Política
+- Revista Direito and Sensibilidade
+- Revista Direito e Sensibilidade
+- Revista Estudos de Literatura Brasileira Contemporânea
+- Revista Horizontes de Linguistica Aplicada
+- Revista Ibero-Americana de Ciência da Informação
+- Revista Museologia and Interdisciplinaridade
+- Revista Noctua
+- Revista de Direito, Estado e Telecomunicações
+- Revista de Estudos e Pesquisas sobre as Américas
+- Revista dos Estudantes de Direito da Universidade de Brasília
+- SER Social
+- Sociedade e Estado
+- Sustentabilidade em Debate
+- Tempo - Técnica - Território
+- Tempus Actas de Saúde Coletiva
+- 'Textos de História: Revista do Programa de Pós-graduação em História da UnB.'
+- Traduzires
+parent-policies: []
+child-policies:
+- romeo_1348
+- romeo_1349
+- romeo_1350
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

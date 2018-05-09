@@ -1,0 +1,60 @@
+policy-id: romeo_787
+publisher: Erich Schmidt Verlag
+policy-heading: '[Default policy]'
+journals:
+- Archiv
+- BPUVZ
+- BauPortal
+- Bodenschutz
+- Deutsche Sprache
+- Ideenmanagement
+- Immissionsschutz
+- Kranken- und Pflegeversicherung
+- Krisen-, Sanierungs- und Insolvenzberatung
+- Müll und Abfall
+- Personalvertretung
+- Risk, Fraud and Compliance
+- SRTour Steuer- und RechtsBrief Touristik
+- Sozialgerichtsbarkeit
+- Verkehr und Technik
+- ZESAR
+- Zeitschrift Interne Revision
+- Zeitschrift für Corporate Governance
+- Zeitschrift für deutsche Philologie
+- sicher ist sicher - Arbeitsschutz aktuell
+- steuerliche Betriebsprüfung
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

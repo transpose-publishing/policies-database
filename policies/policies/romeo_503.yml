@@ -1,0 +1,56 @@
+policy-id: romeo_503
+publisher: Old City Publishing
+policy-heading: '[Default policy]'
+journals:
+- Adhoc and Sensor Wireless Networks
+- High Temperatures-High Pressures
+- Inorganic Reaction Mechanisms
+- International Journal of Transport Phenomena
+- International Journal of Unconventional Computing
+- Journal of Active and Passive Electronic Devices
+- Journal of Cellular Automata
+- Journal of Experimental Therapeutics and Oncology
+- Journal of Marine Environmental Engineering
+- Journal of Multiple-Valued Logic and Soft Computing
+- Journal of Radiosurgery and SBRT
+- Lasers in Engineering
+- Nonlinear Optics, Quantum Optics
+- Technology, Instruction, Cognition and Learning
+- Transgenics
+- Woman's Art Journal
+- Women's Review of Books
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

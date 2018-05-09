@@ -1,0 +1,94 @@
+policy-id: romeo_166
+publisher: Duke University Press
+policy-heading: '[Default policy]'
+journals:
+- American Literary Scholarship
+- American Literature
+- 'American Speech: A Quarterly of Linguistic Usage'
+- Annals of Functional Analysis
+- Banach Journal of Mathematical Analysis
+- Camera Obscura
+- 'Camera Obscura: Feminism, Culture, and Media Studies'
+- Collected Letters of Thomas and Jane Welsh Carlyle
+- Common Knowledge
+- Comparative Literature
+- Comparative Studies of South Asia, Africa and the Middle East
+- Cultural Politics
+- Duke Mathematical Journal
+- 'East Asian Science, Technology and Society: An International Journal'
+- Eighteenth-Century Life
+- English Language Notes
+- Environmental Humanities
+- Ethnohistory
+- French Historical Studies
+- 'GLQ: A Journal of Lesbian and Gay Studies'
+- Genre
+- Hispanic American Historical Review
+- History of Political Economy
+- Journal of Chinese Literature and Culture
+- Journal of Health Politics, Policy and Law
+- Journal of Medieval and Early Modern Studies
+- Journal of Middle East Women's Studies
+- Journal of Music Theory
+- Kyoto Journal of Mathematics
+- 'Labor: Studies in Working-Class History of the Americas'
+- 'Mediterranean Quarterly: A Journal of Global Issues'
+- 'Modern Language Quarterly: A Journal of Literary History'
+- New German Critique
+- 'Nka: Journal of Contemporary African Art'
+- 'Novel: A Forum on Fiction'
+- 'Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and
+  Culture'
+- Philosophical Review
+- 'Poetics Today: International Journal for Theory and Analysis of Literature and
+  Communication'
+- Public Culture
+- Qui Parle
+- Radical History Review
+- 'Small Axe: A Caribbean Journal of Criticism'
+- Social Text
+- South Atlantic Quarterly
+- 'TSQ: Transgender Studies Quarterly'
+- Theater
+- Tikkun
+- Twentieth-Century Literature
+- World Policy Journal
+- 'boundary 2: an international journal of literature and culture'
+- 'differences: A Journal of Feminist Cultural Studies'
+- minnesota review
+- positions
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

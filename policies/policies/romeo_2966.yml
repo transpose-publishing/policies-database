@@ -1,0 +1,50 @@
+policy-id: romeo_2966
+publisher: Taylor & Francis Open
+policy-heading: Creative Commons Attribution Non-Commercial
+journals:
+- Diabetic Foot and Ankle
+- Infection Ecology and Epidemiology
+- Journal of Community Hospital Internal Medicine Perspectives
+- Journal of Extracellular Vesicles
+- Journal of Oral Microbiology
+- Medical Education Online
+- Nano Reviews and Experiments
+- Polar Research
+- Research in Learning Technology
+parent-policies:
+- romeo_1200
+- romeo_76
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

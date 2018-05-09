@@ -1,0 +1,49 @@
+policy-id: romeo_2999
+publisher: Virginia Tech Libraries
+policy-heading: '[Default policy]'
+journals:
+- ALAN Review
+- International Journal of Recirculating Aquaculture
+- Journal of Career and Technical Education
+- Journal of Research in Music Performance
+- Journal of Technology Education
+- Journal of Technology Studies
+- Philologia
+- 'SPECTRA:'
+- Virginia Libraries
+- Virginia Tech Undergraduate Historical Review
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

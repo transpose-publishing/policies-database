@@ -1,0 +1,57 @@
+policy-id: romeo_1597
+publisher: Universidad Externado de Colombia
+policy-heading: '[Default policy]'
+journals:
+- Anuario Turismo y Sociedad
+- Comunicación y Ciudadanía
+- Con-texto
+- Contexto
+- Derecho Penal y Criminología
+- Divergencia
+- OASIS
+- ODEON
+- OPERA
+- Proyecta
+- Revista Derecho del Estado
+- Revista Digital de Derecho Administrativo
+- Revista La Propiedad Inmaterial
+- Revista Sotavento MBA
+- Revista de Derecho Fiscal
+- Revista de Derecho Privado
+- Revista de Economía Institucional
+- Revista e-mercatoria
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

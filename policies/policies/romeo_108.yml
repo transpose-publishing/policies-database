@@ -1,0 +1,57 @@
+policy-id: romeo_108
+publisher: Optical Society of America
+policy-heading: '[Default policy]'
+journals:
+- Advances in Optics and Photonics
+- Applied Optics
+- Biomedical Optics Express
+- Chinese Optics Letters
+- Journal of Optical Networking
+- Journal of Optical Technology
+- Journal of the Optical Society of America
+- Journal of the Optical Society of America A
+- Journal of the Optical Society of America B
+- Journal of the Optical Society of Korea
+- Optica
+- Optical Materials Express
+- Optics Express
+- Optics Letters
+- Photonics Research
+- Virtual Journal for Biomedical Optics
+parent-policies: []
+child-policies:
+- romeo_2305
+- romeo_2306
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

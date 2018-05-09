@@ -1,0 +1,118 @@
+policy-id: romeo_210
+publisher: Palgrave Macmillan
+policy-heading: '[Default policy]'
+journals:
+- Acta Politica
+- American Journal of Cultural Sociology
+- Annual Abstract of Statistics
+- Asian Business and Management
+- BioSocieties
+- Blue Book
+- British Politics
+- Business Economics
+- Comparative Economic Studies
+- Comparative European Politics
+- Contemporary Political Theory
+- Corporate Reputation Review
+- Crime Prevention and Community Safety
+- Eastern Economic Journal
+- Economic and Labour Market Review
+- European Journal of Development Research
+- European Journal of Information Systems
+- European Political Science
+- Family Spending
+- Feminist Review
+- Financial Statistics
+- French Politics
+- Geneva Papers on Risk and Insurance - Issues and Practice
+- Geneva Risk and Insurance Review
+- Health Statistics Quarterly
+- Health Systems
+- Higher Education Policy
+- IMF Economic Review
+- IMF Staff Papers
+- Interest Groups and Advocacy
+- International Abstracts in Operations Research
+- International Journal of Disclosure and Governance
+- International Journal of Educational Advancement
+- International Politics
+- International Politics Reviews
+- Journal of Asset Management
+- Journal of Banking Regulation
+- Journal of Brand Management
+- Journal of Building Appraisal
+- Journal of Commercial Biotechnology
+- Journal of Database Marketing and Customer Strategy Management
+- Journal of Derivatives and Hedge Funds
+- Journal of Digital Asset Management
+- Journal of Direct, Data and Digital Marketing Practice
+- Journal of Financial Services Marketing
+- Journal of Information Technology
+- Journal of Information Technology Teaching Cases
+- Journal of International Business Studies
+- Journal of International Relations and Development
+- Journal of Marketing Analytics
+- Journal of Public Health Policy
+- Journal of Retail and Leisure Property
+- Journal of Revenue and Pricing Management
+- Journal of Targeting, Measurement and Analysis for Marketing
+- Journal of the Operational Research Society
+- Knowledge Management Research and Practice
+- Latino Studies
+- Maritime Economics and Logistics
+- Migration Statistics Quarterly Report
+- Monthly Digest of Statistics
+- OR Insight
+- Organization Management Journal
+- Palgrave Communications
+- Pensions
+- Place Branding and Public Diplomacy
+- Population Trends
+- Psychoanalysis, Culture and Society
+- Regional Trends
+- Risk Management
+- Security Journal
+- Social Theory and Health
+- Social Trends
+- Subjectivity
+- URBAN DESIGN International
+- United Kingdom Economic Accounts
+- 'postmedieval: a journal of medieval cultural studies'
+parent-policies: []
+child-policies:
+- romeo_2712
+- romeo_2734
+- romeo_2790
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

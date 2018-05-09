@@ -1,0 +1,51 @@
+policy-id: romeo_1081
+publisher: University of Wales Press
+policy-heading: '[Default policy]'
+journals:
+- Contemporary Wales
+- Cyfrwng
+- Cylchgrawn Addysg Cymru
+- Cylchgrawn Addysg Prifysgol Cymru
+- Cylchgrawn Hanes Cymru
+- International Journal of Welsh Writing in English
+- Journal of Celtic Linguistics
+- Llên Cymru
+- Studia Celtica
+- University of Wales Journal of Education
+- Wales Journal of Education
+- Welsh History Review
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

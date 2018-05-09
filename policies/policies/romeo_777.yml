@@ -1,0 +1,82 @@
+policy-id: romeo_777
+publisher: Hemeroteca Científica Catalana
+policy-heading: '[Default policy]'
+journals:
+- Actes d'Història de la Ciència i de la Tècnica
+- Anuari de la Societat Catalana de Filosofia
+- Arxiu de Textos Catalans Antics
+- Butlletí de la Institució Catalana d'Història Natural
+- Butlletí de la Societat Catalana d'Estudis Històrics
+- Butlletí de la Societat Catalana de Matemàtiques
+- Catalan Historical Review
+- Catalan Social Sciences Review
+- Comunicació. Revista de recerca i d'anàlisi
+- Contributions to Science
+- Dossiers Agraris
+- Educació Química
+- "Educació i Història: Revista d'Història de l'Educació"
+- Estudis Romànics
+- Gazeta
+- International Microbiology
+- Lectora
+- Llengua & Literatura
+- Miscel·lània Litúrgica Catalana
+- Mètode
+- Omnis Cellula
+- Quaderns Agraris
+- RECERC
+- Recursos de Física
+- Revista Catalana de Dret Privat
+- Revista Catalana de Micologia
+- Revista Catalana de Musicologia
+- Revista Catalana de Pedagogia
+- Revista Catalana de Sociologia
+- Revista de Dret Històric Català
+- Revista de Física
+- Revista de Tecnologia
+- Revista de la Societat Catalana de Química
+- TAMID
+- Tecnologia i Ciència dels Aliments
+- Terminàlia
+- Treballs de Sociolingüística Catalana
+- Treballs de la Societat Catalana de Biologia
+- Treballs de la Societat Catalana de Geografia
+- 'Ítaca: Quaderns Catalans de Cultura Clàssica'
+parent-policies: []
+child-policies:
+- romeo_1391
+- romeo_1392
+- romeo_1393
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

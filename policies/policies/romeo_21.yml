@@ -1,0 +1,91 @@
+policy-id: romeo_21
+publisher: Association for Computing Machinery (ACM)
+policy-heading: '[Default policy]'
+journals:
+- ACM - Transactions on Speech and Language Processing
+- ACM Computing Surveys
+- ACM Journal on Emerging Technologies in Computing Systems
+- ACM Journal on Experimental Algorithmics
+- ACM Letters on Programming Languages and Systems
+- ACM Transactions of Computing Education
+- ACM Transactions on Accessible Computing
+- ACM Transactions on Algorithms
+- ACM Transactions on Applied Perception
+- ACM Transactions on Architecture and Code Optimization
+- ACM Transactions on Asian Language Information Processing
+- ACM Transactions on Autonomous and Adaptive Systems
+- ACM Transactions on Computation Theory
+- ACM Transactions on Computational Logic
+- ACM Transactions on Computer Systems
+- ACM Transactions on Computer-Human Interaction
+- ACM Transactions on Database Systems
+- ACM Transactions on Economics and Computation
+- ACM Transactions on Embedded Computing Systems
+- ACM Transactions on Graphics
+- ACM Transactions on Information Systems
+- ACM Transactions on Information and System Security
+- ACM Transactions on Intelligent Systems and Technology
+- ACM Transactions on Interactive Intelligent Systems
+- ACM Transactions on Internet Technology
+- ACM Transactions on Knowledge Discovery from Data
+- ACM Transactions on Management Information Systems
+- ACM Transactions on Mathematical Software
+- ACM Transactions on Modeling and Computer Simulation
+- ACM Transactions on Multimedia Computing, Communications and Applications
+- ACM Transactions on Parallel Computing
+- ACM Transactions on Programming Languages and Systems
+- ACM Transactions on Reconfigurable Technology and Systems
+- ACM Transactions on Sensor Networks
+- ACM Transactions on Software Engineering and Methodology
+- ACM Transactions on Spatial Algorithms and Systems
+- ACM Transactions on the Web
+- Collected Algorithms of the ACM
+- Computers and Society
+- Computing Reviews
+- IEEE/ACM Transactions on Networking
+- Journal of Data and Information Quality
+- Journal of End User Computing
+- Journal of the ACM
+- Journal on Computing and Cultural Heritage
+- Journal on Educational Resources in Computing
+- Proceedings of the ACM on Human-Computer Interaction
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+- Proceedings of the ACM on Programming Languages
+- Transactions on Design Automation of Electronic Systems
+- Transactions on Storage
+- Ubiquity
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

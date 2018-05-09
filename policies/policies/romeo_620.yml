@@ -1,0 +1,73 @@
+policy-id: romeo_620
+publisher: Liverpool University Press
+policy-heading: '[Default policy]'
+journals:
+- Australian Journal of French Studies
+- Before Farming
+- British Journal of Canadian Studies
+- Bulletin of Hispanic Studies
+- Byron Journal
+- Catalan Review
+- Comma
+- Contemporary French Civilization
+- Essays in Romanticism
+- European Comic Art
+- European Journal of Language Policy
+- Extrapolation
+- Francosphères
+- Historical Studies in Industrial Relations
+- Hunter Gatherer Research
+- International Development Planning Review
+- Journal of Literary and Cultural Disability Studies
+- Journal of Romance Studies
+- Labour History Review
+- Modern Believing
+- Modern Churchman
+- Modern Languages Open
+- Music, Sound, and the Moving Image
+- Newsletter of the Gypsy Lore Society
+- Quaker Studies
+- Québec Studies
+- Romani Studies
+- Science Fiction Film and Television
+- Sculpture Journal
+- Studia Hibernica
+- Theory and Struggle
+- Town Planning Review
+- Transactions of the Historic Society of Lancashire and Cheshire
+parent-policies: []
+child-policies:
+- romeo_2978
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

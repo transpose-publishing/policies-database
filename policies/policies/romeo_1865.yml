@@ -1,0 +1,49 @@
+policy-id: romeo_1865
+publisher: Universitat de Valencia
+policy-heading: '[Default policy]'
+journals:
+- "@tic. revista d'innovació educativa"
+- Cuadernos Electrónicos de Filosofía del Derecho
+- Didáctica de las Ciencias Experimentales y Sociales
+- Kamchatka
+- Magnificat Cultura i Literatura Medievals
+- Mètode Science Studies Journal
+- SAGVNTVM. Papeles del Laboratorio de Arqueología de Valencia
+- 'Tirant: Butlletí informatiu i bibliogràfic de literatura de cavalleries'
+- eari. educación artística. revista de investigación
+parent-policies: []
+child-policies:
+- romeo_1868
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

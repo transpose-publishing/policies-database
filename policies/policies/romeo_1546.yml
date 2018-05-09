@@ -1,0 +1,46 @@
+policy-id: romeo_1546
+publisher: F1000Research
+policy-heading: '[Default policy]'
+journals:
+- AAS Open Research
+- F1000Research
+- Gates Open Research
+- HRB Open Research
+- MNI Open Research
+- UCL Child Health Open Research
+- Wellcome Open Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

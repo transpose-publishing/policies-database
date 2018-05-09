@@ -1,0 +1,65 @@
+policy-id: romeo_2636
+publisher: Peertechz
+policy-heading: '[Default policy]'
+journals:
+- Archives of Clinical Gastroenterology
+- Archives of Community Medicine and Public Health
+- Archives of Depression and Anxiety
+- Archives of Otolaryngology and Rhinology
+- Archives of Renal Diseases and Management
+- Global Journal of Allergy
+- Global Journal of Anesthesiology
+- Global Journal of Infectious Diseases and Clinical Research
+- Global Journal of Medical and Clinical Case Reports
+- Global Journal of Obesity, Diabetes and Metabolic Syndrome
+- Imaging Journal of Clinical and Medical Sciences
+- International Journal of Agricultural Science and Food Technology
+- International Journal of Aquaculture and Fishery Sciences
+- International Journal of Dermatology and Clinical Research
+- International Journal of Immunotherapy and Cancer Research
+- International Journal of Nanomaterials, Nanotechnology and Nanomedicine
+- International Journal of Oral and Craniofacial Science
+- International Journal of Vascular Surgery and Medicine
+- Journal of Addiction Medicine and Therapeutic Science
+- Journal of Cardiovascular Medicine and Cardiology
+- Journal of Civil Engineering and Environmental Sciences
+- Journal of Clinical Research and Ophthalmology
+- Journal of Dental Problems and Solutions
+- Journal of HIV for Clinical and Scientific Research
+- Journal of Novel Physiotherapy and Physical Rehabilitation
+- Journal of Surgery and Surgical Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,76 @@
+policy-id: romeo_1203
+publisher: David Publishing
+policy-heading: '[Default policy]'
+journals:
+- Chinese Business Review
+- Computer Technology and Application
+- Economics World
+- History Research
+- International Relations and Diplomacy
+- Journal of Agricultural Science and Technology A
+- Journal of Agricultural Science and Technology B
+- Journal of Chemistry and Chemical Engineering
+- Journal of Civil Engineering and Architecture
+- Journal of Earth Science and Engineering
+- Journal of Energy and Power Engineering
+- Journal of Environmental Science and Engineering
+- Journal of Environmental Science and Technology A
+- Journal of Environmental Science and Technology B
+- Journal of Food Science and Engineering
+- Journal of Health Science
+- Journal of Hydraulic Engineering
+- Journal of Life Sciences
+- Journal of Literature and Art Studies
+- Journal of Materials Science and Engineering
+- Journal of Materials Science and Engineering A
+- Journal of Materials Science and Engineering B
+- Journal of Mathematics and System Science
+- Journal of Mechanics Engineering and Automation
+- Journal of Physical Science and Application
+- Journal of Shipping and Ocean Engineering
+- Journal of Sports Science
+- Journal of Tourism and Hospitality Management
+- Journal of Traffic and Transportation Engineering
+- Journalism and Mass Communication
+- Management Studies
+- Philosophy Study
+- Psychology Research
+- Sociology Study
+- US-China Education Review
+- US-China Education Review A
+- US-China Education Review B
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,63 @@
+policy-id: romeo_1759
+publisher: Pontificia Universidad Javeriana, Bogota
+policy-heading: '[Default policy]'
+journals:
+- Ambiente y Desarrollo
+- Apuntes. Revista de estudios sobre patrimonio cultural
+- Cuadernos de Administración
+- Cuadernos de Contabilidad
+- Cuadernos de Desarrollo Rural
+- Cuadernos de Literatura
+- Cuadernos de Música, Artes Visuales y Artes Escénicas
+- Cuadernos de Vivienda y Urbanismo
+- Ingenieria y Universidad
+- 'International Law: Revista Colombiana de Derecho Internacional'
+- 'Investigación en Enfermería: Imagen y Desarrollo'
+- Magis. Revista Internacional de Investigación en Educación
+- Memoria y Sociedad
+- Papel Político
+- Revista Ibero-Latinoamericana de Seguros
+- Revista de la Maestría en Derecho Económico
+- Signo y Pensamiento
+- Theologica Xaveriana
+- Universitas Humanística
+- Universitas Médica
+- Universitas Odontologica
+- Universitas Philosophica
+- Universitas Psychologica
+- Universitas Scientiarum
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

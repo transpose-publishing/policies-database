@@ -1,0 +1,74 @@
+policy-id: romeo_420
+publisher: Future Medicine
+policy-heading: '[Default policy]'
+journals:
+- Aging Health
+- BioTechniques
+- Bioelectronics in Medicine
+- Biomarkers in Medicine
+- Breast Cancer Management
+- CNS Oncology
+- Clinical Practice
+- Colorectal Cancer
+- Concussion
+- Epigenomics
+- Future Cardiology
+- Future Microbiology
+- Future Neurology
+- Future Oncology
+- Future Virology
+- HIV Therapy
+- Hepatic Oncology
+- Imaging in Medicine
+- Immunotherapy
+- International Journal of Endocrine Oncology
+- International Journal of Hematologic Oncology
+- Journal of 3D Printing in Medicine
+- Journal of Comparative Effectiveness Research
+- Lung Cancer Management
+- Melanoma Management
+- Nanomedicine
+- Neurodegenerative Disease Management
+- Pain Management
+- Pediatric Health
+- Personalized Medicine
+- Pharmacogenomics
+- Regenerative Medicine
+- Therapy
+parent-policies: []
+child-policies:
+- romeo_2309
+- romeo_3224
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,60 @@
+policy-id: romeo_1345
+publisher: Universidade Federal do Espírito Santo
+policy-heading: '[Default policy]'
+journals:
+- (Con)textos Linguísticos
+- Anais do Congresso Nacional de Estudos Linguísticos - CONEL
+- Anais do Seminário Nacional da Pós-Graduação em Ciências Sociais
+- Anais do seminário nacional educação, diversidade sexual e direitos humanos
+- Argumentum
+- Cadernos de Pesquisa em Educação
+- Contexto - Revista do Programa de Pós-Graduação em Letras
+- Dimensões
+- GETPol - Anais do Colóquio do Grupo de Estudos de Teoria Política
+- Geografares
+- Global Media Journal
+- Litterae
+- Música e Linguagem
+- PERcursos Linguísticos
+- Revista Eletrônica de Estudos Literários
+- Revista Gestão and Conexões
+- Revista Sinais
+- Revista Ágora
+- Sofia
+- Temporalis
+parent-policies: []
+child-policies:
+- romeo_2300
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

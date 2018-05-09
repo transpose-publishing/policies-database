@@ -1,0 +1,73 @@
+policy-id: romeo_213
+publisher: Academic Journals
+policy-heading: '[Default policy]'
+journals:
+- African Journal of Agricultural Research
+- African Journal of Business Management
+- African Journal of Food Science
+- African Journal of Mathematics and Computer Science Research
+- African Journal of Microbiology Research
+- African Journal of Plant Science
+- African Journal of Pure and Applied Chemistry
+- African journal of biotechnology
+- Biotechnology and Molecular Biology Reviews
+- Educational Research and Reviews
+- International Journal of Biodiversity and Conservation
+- International Journal of Fisheries and Aquaculture
+- International Journal of Genetics and Molecular Biology
+- International Journal of Nutrition and Metabolism
+- International Journal of the Physical Sciences
+- Journal of AIDS and HIV Research
+- Journal of Agricultural Biotechnology and Sustainable Development
+- Journal of Agricultural Extension and Rural Development
+- Journal of Biophysics and Structural Biology
+- Journal of Cell and Animal Biology
+- Journal of Computational Biology and Bioinformatics Research
+- Journal of Dentistry and Oral Hygiene
+- Journal of Development and Agricultural Economics
+- Journal of Economics and International Finance
+- Journal of Electrical and Electronics Engineering Research
+- Journal of Engineering and Technology Research
+- Journal of Entomology and Nematology
+- Journal of Geography and Regional Planning
+- Journal of Geology and Mining Research
+- Journal of Horticulture and Forestry
+- Journal of Media and Communication Studies
+- Journal of Public Health and Epidemiology
+- Journal of Toxicology and Environmental Health Sciences
+- Scientific Research and Essays
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

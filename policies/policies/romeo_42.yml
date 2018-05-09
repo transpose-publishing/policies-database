@@ -1,0 +1,68 @@
+policy-id: romeo_42
+publisher: Institution of Engineering and Technology (IET)
+policy-heading: '[Default policy]'
+journals:
+- Electronics Letters
+- Health Technology Letters
+- IET Biometrics
+- IET Circuits, Devices and Systems
+- IET Communications
+- IET Computer Vision
+- IET Computers and Digital Techniques
+- IET Control Theory and Applications
+- IET Electric Power Applications
+- IET Electrical Systems in Transportation
+- IET Generation, Transmission and Distribution
+- IET Image Processing
+- IET Information Security
+- IET Intelligent Transport Systems
+- IET Microwaves, Antennas and Propagation
+- IET Nanobiotechnology
+- IET Networks
+- IET Optoelectronics
+- IET Power Electronics
+- IET Radar, Sonar and Navigation
+- IET Renewable Power Generation
+- IET Science, Measurements and Technology
+- IET Signal Processing
+- IET Software
+- IET Systems Biology
+- IET Wireless Sensor Systems
+- Journal of Engineering
+- Micro and Nano Letters
+parent-policies: []
+child-policies:
+- romeo_2737
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,50 @@
+policy-id: romeo_9
+publisher: American Meteorological Society
+policy-heading: '[Default policy]'
+journals:
+- Bulletin of the American Meteorological Society
+- Journal of Applied Meteorology
+- Journal of Applied Meteorology and Climatology
+- Journal of Atmospheric and Oceanic Technology
+- Journal of Climate
+- Journal of Hydrometeorology
+- Journal of Physical Oceanography
+- Journal of the Atmospheric Sciences
+- Monthly Weather Review
+- Weather and Forecasting
+- Weather, Climate, and Society
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

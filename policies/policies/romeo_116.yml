@@ -1,0 +1,65 @@
+policy-id: romeo_116
+publisher: American Society of Mechanical Engineers (ASME)
+policy-heading: '[Default policy]'
+journals:
+- Applied Mechanics Reviews
+- Journal of Applied Mechanics
+- Journal of Biomechanical Engineering
+- Journal of Computational and Nonlinear Dynamics
+- Journal of Computing and Information Science in Engineering
+- Journal of Dynamic Systems, Measurement, and Control
+- Journal of Electronic Packaging
+- Journal of Energy Resources Technology
+- Journal of Engineering Materials and Technology
+- Journal of Engineering for Gas Turbines and Power
+- Journal of Fluids Engineering
+- Journal of Fuel Cell Science and Technology
+- Journal of Heat Transfer
+- Journal of Manufacturing Science and Engineering
+- Journal of Mechanical Design
+- Journal of Mechanisms and Robotics
+- Journal of Medical Devices
+- Journal of Micro and Nano-Manufacturing
+- Journal of Nanotechnology in Engineering and Medicine
+- Journal of Offshore Mechanics and Arctic Engineering
+- Journal of Pressure Vessel Technology
+- Journal of Solar Energy Engineering
+- Journal of Thermal Science and Engineering Applications
+- Journal of Tribology
+- Journal of Turbomachinery
+- Journal of Vibration and Acoustics
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

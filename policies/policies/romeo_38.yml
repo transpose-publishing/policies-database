@@ -1,0 +1,207 @@
+policy-id: romeo_38
+publisher: Institute of Electrical and Electronics Engineers (IEEE)
+policy-heading: '[Default policy]'
+journals:
+- Canadian Journal of Electrical and Computer Engineering
+- Communications Surveys and Tutorials, IEEE Communications Society
+- Computer
+- Computing in Science and Engineering
+- EEE Transactions on Manufacturing Technology
+- Engineering Science and Education Journal
+- IEEE Access
+- IEEE Aerospace and Electronic Systems Magazine
+- IEEE Annals of the History of Computing
+- IEEE Antennas and Propagation Magazine
+- IEEE Antennas and Wireless Propagation Letters
+- IEEE Communications Letters
+- IEEE Communications Magazine
+- IEEE Communications Surveys and Tutorials
+- IEEE Computational Intelligence Magazine
+- IEEE Computer Architecture Letters
+- IEEE Computer Graphics and Applications
+- IEEE Consumer Electronics Magazine
+- IEEE Control Systems Magazine
+- IEEE Design and Test of Computers
+- IEEE Electrical Insulation Magazine
+- IEEE Electron Device Letters
+- IEEE Embedded Systems Letters
+- IEEE Engineering Management Review
+- IEEE Geoscience and Remote Sensing Letters
+- IEEE Industrial Electronics Magazine
+- IEEE Industry Applications Magazine
+- IEEE Instrumentation and Measurement Magazine
+- IEEE Intelligent Systems
+- IEEE Intelligent Transportation Systems Magazine
+- IEEE International Ultrasonics Symposium
+- IEEE Internet Computing
+- IEEE Internet of Things
+- IEEE Journal of Emerging and Selected Topics in Circuits and Systems
+- IEEE Journal of Oceanic Engineering
+- IEEE Journal of Photovoltaics
+- IEEE Journal of Quantum Electronics
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE Journal of Selected Topics in Quantum Electronics
+- IEEE Journal of Selected Topics in Signal Processing
+- IEEE Journal of Solid-State Circuits
+- IEEE Journal of Translational Engineering in Health and Medicine
+- IEEE Journal of the Electron Devices Society
+- IEEE Journal on Selected Areas in Communications
+- IEEE Latin America Transactions
+- IEEE Life Sciences Letters
+- IEEE Micro
+- IEEE Microwave Magazine
+- IEEE Microwave and Wireless Components Letters
+- IEEE MultiMedia
+- IEEE Nanotechnology Magazine
+- IEEE Network
+- IEEE Pervasive Computing
+- IEEE Photonics Journal
+- IEEE Photonics Technology Letters
+- IEEE Potentials
+- IEEE Power Electronics Letters
+- IEEE Pulse
+- IEEE Reviews in Biomedical Engineering
+- IEEE Robotics and Automation Magazine
+- IEEE Security and Privacy Magazine
+- IEEE Sensors Journal
+- IEEE Signal Processing Letters
+- IEEE Software
+- IEEE Spectrum
+- IEEE Systems Journal
+- IEEE Transactions on Advanced Packaging
+- IEEE Transactions on Aerospace and Electronic Systems
+- IEEE Transactions on Affective Computing
+- IEEE Transactions on Antennas and Propagation
+- IEEE Transactions on Applied Superconductivity
+- IEEE Transactions on Audio, Speech and Language Processing
+- IEEE Transactions on Automatic Control
+- IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Autonomous Mental Development
+- IEEE Transactions on Biomedical Circuits and Systems
+- IEEE Transactions on Biomedical Engineering
+- IEEE Transactions on Broadcasting
+- 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+- 'IEEE Transactions on Circuits and Systems II: Express Briefs'
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Cloud Computing
+- IEEE Transactions on Cognitive and Developmental Systems
+- IEEE Transactions on Communications
+- IEEE Transactions on Components and Packaging Technologies
+- IEEE Transactions on Components, Packaging, and Manufacturing Technology
+- IEEE Transactions on Computational Intelligence and AI in Games
+- IEEE Transactions on Computational Social Systems
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+- IEEE Transactions on Computers
+- IEEE Transactions on Consumer Electronics
+- IEEE Transactions on Control Systems Technology
+- IEEE Transactions on Dependable and Secure Computing
+- IEEE Transactions on Device and Materials Reliability
+- IEEE Transactions on Dielectrics and Electrical Insulation
+- IEEE Transactions on Education
+- IEEE Transactions on Electromagnetic Compatibility
+- IEEE Transactions on Electron Devices
+- IEEE Transactions on Electronics Packaging Manufacturing
+- IEEE Transactions on Emerging Topics in Computing
+- IEEE Transactions on Energy Conversion
+- IEEE Transactions on Engineering Management
+- IEEE Transactions on Evolutionary Computation
+- IEEE Transactions on Fuzzy Systems
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Transactions on Haptics
+- IEEE Transactions on Human-Machine Systems
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Industry Applications
+- IEEE Transactions on Information Forensics and Security
+- IEEE Transactions on Information Technology in Biomedicine
+- IEEE Transactions on Information Theory
+- IEEE Transactions on Instrumentation and Measurement
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Learning Technologies
+- IEEE Transactions on Magnetics
+- IEEE Transactions on Medical Imaging
+- IEEE Transactions on Microwave Theory and Techniques
+- IEEE Transactions on Mobile Computing
+- IEEE Transactions on Multimedia
+- IEEE Transactions on NanoBioscience
+- IEEE Transactions on Nanotechnology
+- IEEE Transactions on Network and Service Management
+- IEEE Transactions on Neural Networks
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering
+- IEEE Transactions on Nuclear Science
+- IEEE Transactions on Parallel and Distributed Systems
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE Transactions on Plasma Science
+- IEEE Transactions on Power Delivery
+- IEEE Transactions on Power Electronics
+- IEEE Transactions on Power Systems
+- IEEE Transactions on Professional Communication
+- IEEE Transactions on Reliability
+- IEEE Transactions on Robotics
+- IEEE Transactions on Semiconductor Manufacturing
+- IEEE Transactions on Services Computing
+- IEEE Transactions on Signal Processing
+- IEEE Transactions on Smart Grid
+- IEEE Transactions on Software Engineering
+- IEEE Transactions on Sustainable Energy
+- 'IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems and Humans'
+- 'IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics'
+- 'IEEE Transactions on Systems, Man, and Cybernetics, Part C: Applications and Reviews'
+- IEEE Transactions on Terahertz Science & Technology
+- IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+- IEEE Transactions on Visualization and Computer Graphics
+- IEEE Transactions on Wireless Communications
+- IEEE Wireless Communications Letters
+- IEEE/ACM Transactions on Audio, Speech and Language Processing
+- IEEE/ACM Transactions on Computational Biology and Bioinformatics
+- IEEE/ASME Transactions on Mechatronics
+- IEEE/OSA Journal of Optical Communications and Networking
+- IT Professional
+- Journal of Display Technology
+- Journal of Lightwave Technology
+- Journal of Microelectromechanical Systems
+- Journal of Optical Communications and Networking
+- Proceedings of IEEE Sensors
+- Proceedings of International Joint Conference on Neural Networks
+- Proceedings of the IEEE
+- Tsinghua Science and Technology
+parent-policies: []
+child-policies:
+- romeo_1533
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

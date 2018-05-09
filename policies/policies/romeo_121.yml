@@ -1,0 +1,114 @@
+policy-id: romeo_121
+publisher: Maney Publishing
+policy-heading: '[Default policy]'
+journals:
+- Annals of Tropical Paediatrics
+- 'Black Theology: An International Journal'
+- Brontë Studies
+- Bubble Science, Engineering and Technology
+- Bulletin of the Council for British Research in the Levant
+- Cartographic Journal
+- Clay Technology
+- Cochlear Implants International
+- Conservation and Management of Archaeological Sites
+- Corrosion Engineering, Science and Technology
+- Critical Horizons
+- Dutch Crossing
+- Energy Materials
+- English Heritage Historical Review
+- Family and Community History
+- Folk Life
+- Forum for Anthropology and Culture
+- Hardy Review
+- Heritage and Society
+- Historical Metallurgy
+- Imaging Science Journal
+- International Heat Treatment and Surface Engineering
+- International Journal for the History of Engineering and Technology
+- International Journal of Cast Metals Research, The
+- International Journal of Developmental Disabilities
+- International Journal of Healthcare Management
+- International Journal of Occupational and Environmental Health
+- International Musculoskeletal Medicine
+- International Wood Products Journal
+- Italian Culture
+- Italianist
+- Journal of Bryology
+- Journal of Care Services Management
+- Journal of Chemotherapy
+- Journal of Communication in Healthcare
+- Journal of Field Archaeology
+- Journal of Histotechnology
+- Journal of Management and Marketing in Healthcare
+- Journal of Manual and Manipulative Therapy
+- Journal of Spinal Cord Medicine
+- Journal of the British Archaeological Association
+- Levant
+- Manual of Environmental Policy
+- Medical Writing
+- Midland History
+- Ming Studies
+- Mining Technology
+- 'Names: A Journal of Onomastics'
+- Neurological Research
+- Northern History
+- Nutritional Neuroscience
+- Packaging Professional
+- Packaging, Transport, Storage and Security of Radioactive Material
+- Pain Clinic
+- Pharmaceutical Programming
+- Plastics, Rubber and Composites
+- Powder Metallurgy
+- Progress in Palliative Care
+- Public Archaeology
+- Publications of the Thoresby Society
+- Romance Studies
+- Science and Technology of Welding and Joining
+- Seventeenth-Century French Studies
+- Slavonica
+- Studies in Conservation
+- Surface Engineering
+- T'ang Studies
+- 'Tel Aviv: Journal of the Institute of Archaeology of Tel Aviv University'
+- Textile History
+- Twentieth-Century China
+- Usus Antiquior
+- Vernacular Architecture
+- WFOT Bulletin
+- War and Society
+- Yorkshire Archaeological Journal
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

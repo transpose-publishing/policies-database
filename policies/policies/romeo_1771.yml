@@ -1,0 +1,71 @@
+policy-id: romeo_1771
+publisher: Academic Publishing House Researcher (Научный издательский дом Исследов)
+policy-heading: '[Default policy]'
+journals:
+- Central European Journal of Botany
+- Central European Journal of Zoology
+- Crusader
+- European Geographical Studies
+- European Journal of Contemporary Education
+- European Journal of Economic Studies
+- European Journal of Medicine
+- European Journal of Molecular Biotechnology
+- European Journal of Philosophical Research
+- European Journal of Physical Education and Sport
+- European Journal of Psychological Studies
+- European Journal of Technology and Design
+- European Reviews of Chemical Research
+- History and Historians in the Context of the Time
+- Mathematical Design and Technical Aesthetics
+- Modeling of Artificial Intelligence
+- Nanotechnology Research and Practice
+- Propaganda in the World and Local Conflicts
+- 'Refereed Journal: History and Archaeology in Countries of Black Sea Basin'
+- Rssian Journal of Biological Research
+- Russian Journal of Astrophysical Research. Series A
+- Russian Journal of Mathematical Research. Series A
+- Russian Journal of Political Studies
+- Russian Journal of Sociology
+- Russkaya starina
+- Russkii arkhiv
+- Tourism Education Studies and Practice
+- Vestnik policii
+- Voprosy filosofii i psikhologii
+- Zhurnal Ministerstva narodnogo prosveshcheniya
+- Военный сборник
+- Русский архив
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

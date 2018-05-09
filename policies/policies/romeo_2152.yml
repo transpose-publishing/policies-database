@@ -1,0 +1,52 @@
+policy-id: romeo_2152
+publisher: Scienpress
+policy-heading: '[Default policy]'
+journals:
+- Advances in Management and Applied Economics
+- Business and Entrepreneurship Journal
+- Communications in Mathematical Finance
+- International Journal Of Occupational Health and Public Health Nursing
+- International Journal of Health Research and Innovation
+- Journal of Applied Finance and Banking
+- Journal of Applied Mathematics and Bioinformatics
+- Journal of Applied Medical Sciences
+- Journal of Computations and Modelling
+- Journal of Earth Sciences and Geotechnical Engineering
+- Journal of Finance and Investment Analysis
+- Journal of Statistical and Econometric Methods
+- Theoretical Mathematics and Applications
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

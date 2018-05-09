@@ -1,0 +1,73 @@
+policy-id: romeo_2234
+publisher: Alma Mater Studiorum - Università di Bologna (University of Bologna)
+policy-heading: '[Default policy]'
+journals:
+- Almatourism
+- Annali Sismondi
+- Antropologia e Teatro. Rivista di Studi
+- Bruno Pini Mathematical Analysis Seminar
+- Confluenze
+- Conservation Science in Cultural Heritage
+- Danza e Ricerca
+- EQA
+- Encyclopaideia
+- Figure
+- Governare la paura
+- INTRECCI d'arte
+- IN_BO
+- IpoTesi di Preistoria
+- Journal of Formalized Reasoning
+- Labour and Law Issues
+- Montesquieu.it
+- Musica Docta
+- PsicoArt
+- Ricerche di Pedagogia e Didattica
+- Scienza e Politica
+- Series
+- Statistica
+- Studi Tributari Europei
+parent-policies: []
+child-policies:
+- romeo_2235
+- romeo_2236
+- romeo_2237
+- romeo_2238
+- romeo_2756
+- romeo_2766
+- romeo_2767
+- romeo_2768
+- romeo_2769
+- romeo_2770
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

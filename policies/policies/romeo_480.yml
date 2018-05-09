@@ -1,0 +1,70 @@
+policy-id: romeo_480
+publisher: Global Science Books
+policy-heading: '[Default policy]'
+journals:
+- Advances in Gene, Molecular and Cell Therapy
+- African Journal of Plant Science and Biotechnology
+- Americas Journal of Plant Science and Biotechnology
+- Asian and Australasian Journal of Plant Science and Biotechnology
+- Bioremediation, Biodiversity and Bioavailability
+- Dynamic Biochemistry, Process Biotechnology and Molecular Biology
+- Dynamic Cell Biology
+- Dynamic Soil, Dynamic Plant
+- European Journal of Plant Science and Biotechnology
+- Floriculture and Ornamental Biotechnology
+- Food
+- Fresh Produce
+- Fruit, Vegetable and Cereal Science and Biotechnology
+- Functional Development and Embryology
+- Functional Ecosystems and Communities
+- Functional Plant Science and Biotechnology
+- Genes, Genomes and Genomics
+- International Journal of Biomedical and Pharmaceutical Sciences
+- International Journal of Plant Breeding
+- International Journal of Plant Developmental Biology
+- Japanese Journal of Plant Science
+- Medicinal and Aromatic Plant Science and Biotechnology
+- Middle Eastern and Russian Journal of Plant Science and Biotechnology
+- Orchid Science and Biotechnology
+- Pest Technology
+- Plant Stress
+- Plant Viruses
+- Seed Science and Biotechnology
+- Terrestrial and Aquatic Environmental Toxicology
+- Transgenic Plant Journal
+- Tree and Forestry Science and Biotechnology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,72 @@
+policy-id: romeo_1205
+publisher: Società Editrice il Mulino
+policy-heading: '[Default policy]'
+journals:
+- Aedon
+- Amministrare
+- Analisi giuridica dell'economia
+- Annali dell'Istituto storico italo-germanico in Trento
+- Autonomie locali e servizi sociali
+- Banca Impresa Società
+- Comunicazione politica
+- Contemporanea
+- Cristianesimo nella storia
+- Diritti umani e diritto internazionale
+- Diritto pubblico
+- Diritto pubblico comparato ed europeo
+- Economia dei servizi
+- Economia della cultura
+- Economia politica
+- Etnografia e ricerca qualitativa
+- Journal of Financial Management Markets and Institutions
+- Memoria e ricerca
+- Micro & macro marketing
+- Nuova informazione bibliografica
+- Politica e società
+- Politiche sociali
+- Problemi dell'informazione
+- Psiche
+- Quaderni di ricerca sull'artigianato
+- Reti, saperi, linguaggi
+- Rivista italiana degli economisti
+- Rivista italiana di politiche pubbliche
+- Rivista italiana di scienza politica
+- Riviste - Rivista italiana degli economisti
+- Storia del pensiero politico
+- Tendenze nuove
+- avventura
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

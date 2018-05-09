@@ -1,0 +1,54 @@
+policy-id: romeo_3023
+publisher: Cosmos Scholars Publishing House
+policy-heading: '[Default policy]'
+journals:
+- Global Journal of Anthropology Research
+- Global Journal of Hematology and Blood Transfusion
+- International Journal of Advanced Applied Physics Research
+- International Journal of Cardiology and Lipidology Research
+- International Journal of Food Processing Technology
+- International Journal of Membrane Science and Technology
+- International Journal of Nuclear Medicine Research
+- International journal of Gynecology, Obstetrics and Neonatal Care
+- Journal of Advanced Catalysis Science and Technology
+- Journal of Advanced Neuroscience Research
+- Journal of Advances in Biomedical Engineering and Technology
+- Journal of Clinical Medicine Research Updates
+- Journal of Computer Science Technology Updates
+- Journal of Translational Proteomics Research
+- World Journal of Oncology Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,74 @@
+policy-id: romeo_14
+publisher: American Society of Civil Engineers
+policy-heading: '[Default policy]'
+journals:
+- Geotechnical Special Publications
+- International Journal of Geomechanics
+- Journal of Aerospace Engineering
+- Journal of Architectural Engineering
+- Journal of Bridge Engineering
+- Journal of Cold Regions Engineering
+- Journal of Composites for Construction
+- Journal of Computing in Civil Engineering
+- Journal of Construction Engineering and Management
+- Journal of Energy Engineering
+- Journal of Engineering Mechanics
+- Journal of Environmental Engineering
+- Journal of Geotechnical and Geoenvironmental Engineering
+- Journal of Hazardous, Toxic, and Radioactive Waste
+- Journal of Hydrologic Engineering
+- Journal of Infrastructure Systems
+- Journal of Irrigation and Drainage Engineering
+- Journal of Legal Affairs and Dispute Resolution in Engineering and Construction
+- Journal of Management in Engineering
+- Journal of Materials in Civil Engineering
+- Journal of Nanomechanics and Micromechanic
+- Journal of Performance of Constructed Facilities
+- Journal of Pipeline Systems Engineering and Practice
+- Journal of Professional Issues in Engineering Education and Practice
+- Journal of Structural Engineering
+- Journal of Surveying Engineering
+- Journal of Transportation Engineering
+- Journal of Urban Planning and Development
+- Journal of Water Resources Planning and Management
+- Journal of Waterway, Port, Coastal, and Ocean Engineering
+- Leadership and Management in Engineering
+- Natural Hazards Review
+- Practice Periodical on Structural Design and Construction
+- Proceedings of the International Conference on Coastal Engineering
+parent-policies: []
+child-policies:
+- romeo_1227
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

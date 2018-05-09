@@ -1,0 +1,66 @@
+policy-id: romeo_7
+publisher: AIP Publishing
+policy-heading: '[Default policy]'
+journals:
+- AIP Advances
+- AIP Conference Proceedings
+- APL Materials
+- 'APL: Organic Electronics and Photonics'
+- Applied Physics Letters
+- Applied Physics Reviews
+- Biointerphases
+- Biomicrofluidics
+- Chaos
+- Chinese Journal of Chemical Physics
+- 'JCP: Biochemical Physics'
+- Journal of Applied Physics
+- Journal of Chemical Physics
+- Journal of Mathematical Physics
+- Journal of Physical and Chemical Reference Data
+- Journal of Renewable and Sustainable Energy
+- Journal of Rheology
+- Journal of Vacuum Science and Technology A
+- Journal of Vacuum Science and Technology B
+- Low Temperature Physics
+- Physics Teacher
+- Physics of Fluids
+- Physics of Plasmas
+- Review of Scientific Instruments
+- Structural Dynamics
+- Surface Science Spectra
+parent-policies: []
+child-policies:
+- romeo_1383
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

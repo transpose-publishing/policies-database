@@ -1,0 +1,58 @@
+policy-id: romeo_1424
+publisher: Nomos Verlagsgesellschaft
+policy-heading: No PDF
+journals:
+- EWeRK
+- Europarecht
+- Jugend Medien Schutz-Report
+- Kommunaljurist
+- LKRZ
+- Landes- und Kommunalverwaltung
+- Medizin Produkte Recht
+- Neue Justiz
+- Sozialrecht aktuell
+- Straßenverkehrsrech
+- Verbraucher und Recht
+- ZUM
+- ZUM-RD
+- ZUR
+- Zeitschrift für Ausländerrecht und Ausländerpolitik
+- Zeitschrift für Stiftungs- und Vereinswesen
+- Zeitschrift für Öffentliches Recht in Norddeutschland
+- info also
+parent-policies:
+- romeo_1423
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,84 @@
+policy-id: romeo_266
+publisher: Edinburgh University Press
+policy-heading: '[Default policy]'
+journals:
+- African Journal of International and Comparative Law
+- Architectural Heritage
+- Archives of Natural History
+- Ben Jonson Journal
+- Britain and the World
+- 'Britain and the World: Historical Journal of The British Scholar Society'
+- Comparative Critical Studies
+- Corpora
+- Costume
+- Cultural History
+- Dance Research
+- Deleuze Studies
+- Derrida Today
+- Edinburgh Law Review
+- Film-Philosophy
+- Holy Land Studies
+- Innes Review
+- International Journal of Humanities and Arts Computing
+- International Journal of Humanities and Arts Computing (formerly the Journal of
+  History and Computing
+- International Research in Children's Literature
+- Irish University Review
+- Journal of Beckett Studies
+- Journal of British Cinema and Television
+- Journal of Qur'anic Studies
+- Journal of Scottish Historical Studies
+- Journal of Scottish Philosophy
+- Katherine Mansfield Studies
+- Modernist Cultures
+- New Soundtrack
+- Northern Scotland
+- Nottingham French Studies
+- Oxford Literary Review
+- Paragraph
+- Psychoanalysis and History
+- Romanticism
+- Scottish Affairs
+- Scottish Archaeological Journal
+- Scottish Historical Review
+- Somatechnics
+- Studies in World Christianity
+- Translation and Literature
+- Victoriographies
+- Word Structure
+parent-policies: []
+child-policies:
+- romeo_2894
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

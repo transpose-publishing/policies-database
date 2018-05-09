@@ -1,0 +1,123 @@
+policy-id: romeo_79
+publisher: Wiley-VCH Verlag
+policy-heading: '[Default policy]'
+journals:
+- Acta Biotechnologica
+- Acta Chimica Sinica
+- Acta Polymerica
+- Acta hydrochimica et hydrobiologica
+- Advances in Electrochemical Science and Engineering
+- Annali di Chimica
+- Applied Numerical Analysis and Computational Mathematics
+- Archiv der Pharmazie
+- Asian Journal of Organic Chemistry
+- Bauregelliste A, Bauregelliste B und Liste C
+- Berichte zur Wissenschaftsgeschichte
+- Biologie in unserer Zeit
+- Biometrical Journal
+- Biotechnology Journal
+- CHEMKON
+- CIT plus
+- ChemInform
+- Chemical Vapor Deposition
+- Chemie Ingenieur Technik
+- Chemie Ingenieur Technik - CIT
+- Chemistry and Biodiversity
+- Chemistry in Life Sciences
+- Chinese Journal of Chemistry
+- Contributions to Plasma Physics
+- Crystal Research and Technology
+- Deutsche Entomologische Zeitschrift
+- ELECTROPHORESIS
+- Energy Technology
+- Feddes Repertorium
+- Fortschritte der Physik
+- GAMM-Mitteilungen
+- GAMM-Reports
+- GIT Labor-Fachzeitschrift
+- GIT Spezial Separation
+- Gene Function and Disease
+- Geowissenschaftliche Reihe
+- International Review of Hydrobiology
+- Israel Journal of Chemistry
+- Journal for Water and Wastewater Research
+- Journal of Basic Microbiology
+- Journal of Biophotonics
+- Journal of Plant Nutrition and Soil Science
+- Journal of the Chinese Chemical Society
+- Laser Technik Journal
+- Laser and Photonics Reviews
+- Lebensmittelchemie
+- Lipid Technology
+- Macromolecular Materials and Engineering
+- Macromolecular Rapid Communications
+- Macromolecular Reaction Engineering
+- Macromolecular Symposia
+- Macromolecular Theory and Simulations
+- Materials Science and Engineering Technology
+- Materialwissenschaft und Werkstofftechnik
+- Materias Science and Engineering Technology
+- Mathematical Logic Quarterly
+- Mathematical News
+- Mathematische Nachrichten
+- Mauerwerk
+- Mitteilungen der Deutschen Entomologischen Gesellschaft
+- Molecular Informatics
+- Optik and Photonik
+- PAMM
+- PROTEOMICS - Clinical Applications
+- Physik in unserer Zeit
+- Plasma Processes and Polymers
+- Progress of Physics
+- Propellants, Explosives, Pyrotechnics
+- QSAR and Combinatorial Science
+- RISKNEWS
+- ReinRaumTechnik
+- Sensors Update
+- Signal Transduction
+- Single Molecules
+- Starch/Stärke
+- Steel Research International
+- Structural Concrete
+- Vakuum in Forschung und Praxis
+- Vom Wasser
+- forschung
+- geotechnik
+- german research
+- human_ontogenetics
+parent-policies: []
+child-policies:
+- romeo_1554
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,54 @@
+policy-id: romeo_1290
+publisher: Institute of Advanced Engineering and Science
+policy-heading: '[Default policy]'
+journals:
+- International Journal of Advances in Applied Science
+- International Journal of Applied Power Engineering
+- International Journal of Cloud Computing and Services Science
+- International Journal of Electrical and Computer Engineering
+- International Journal of Evaluation and Research in Education
+- International Journal of Informatics and Communication Technology
+- International Journal of Information and Network Security
+- International Journal of Nano Device, Sensor and Systems
+- International Journal of Power Electronics and Drive Systems
+- International Journal of Public Health Science
+- International Journal of Reconfigurable and Embedded Systems
+- International Journal of Robotics and Automation
+- International Journal of Social Networking and Virtual Communities
+- TELKOMNIKA (Telecommunication, Computing, Electronics and Control)
+- TELKOMNIKA Indonesian Journal of Electrical Engineering
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

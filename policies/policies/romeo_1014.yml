@@ -1,0 +1,76 @@
+policy-id: romeo_1014
+publisher: SCIENCEDOMAIN International
+policy-heading: '[Default policy]'
+journals:
+- Advances in Research
+- American Chemical Science Journal
+- American Journal of Experimental Agriculture
+- American Journal of TROPICAL MEDICINE and Public Health
+- Annual Research and Review in Biology
+- Annual Review and Research in Biology
+- Asian Journal of Agricultural Extension, Economics and Sociology
+- British Biotechnology Journal
+- British Journal of Applied Science and Technology
+- British Journal of Economics, Management and Trade
+- British Journal of Education, Society and Behavioural Science
+- British Journal of Educational Research
+- British Journal of Environment and Climate Change
+- British Journal of Mathematics and Computer Science
+- British Journal of Medicine and Medical Research
+- British Journal of Pharmaceutical Research
+- British Microbiology Research Journal
+- 'Cardiology and Angiology: An International Journal'
+- European Journal of Food Research and Review
+- European Journal of Medicinal Plants
+- European Journal of Nutrition and Food Safety
+- International Blood Research and Reviews
+- International Journal of Biochemistry Research and Review
+- International Journal of Medical and Pharmaceutical Case Reports
+- International Journal of Plant and Soil Science
+- International Journal of TROPICAL DISEASE and Health
+- International Neuropsychiatric Disease Journal
+- International Research Journal of Pure and Applied Chemistry
+- International STD Research and Reviews
+- Journal of Advances in Biology and Biotechnology
+- Journal of Advances in Medical and Pharmaceutical Sciences
+- Journal of Agriculture and Ecology Research International
+- Journal of Applied Life Sciences International
+- Journal of Scientific Research and Reports
+- 'Ophthalmology Research: An International Journal'
+- Physical Review and Research International
+- Physical Science International Journal
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,175 @@
+policy-id: romeo_242
+publisher: Karger Publishers
+policy-heading: '[Default policy]'
+journals:
+- Acta Anatomica
+- Acta Cytologica
+- Acta Haematologica
+- American Journal of Nephrology
+- Annales Nestlé (Ed. española)
+- Annales Nestlé (Ed. française)
+- Annales Nestlé (English ed.)
+- Annals of Neurosciences
+- Annals of Nutrition and Metabolism
+- Audiology and Neurotology
+- Audiology and Neurotology Extra
+- Biomedicine Hub
+- Blood Purification
+- Brain, Behavior and Evolution
+- Breast Care
+- CardioRenal Medicine
+- Cardiology
+- Caries Research
+- Case Reports in Dermatology
+- Case Reports in Gastroenterology
+- Case Reports in Nephrology and Dialysis
+- Case Reports in Neurology
+- Case Reports in Oncology
+- Case Reports in Ophthalmology
+- Case Reports in Virology and Infectious Diseases
+- Case report in Acute Medicine
+- Case report in Clinical Nutrition
+- Case report in Orthopedic  Research
+- Cells Tissues Organs
+- Cellular Physiology and Biochemistry
+- Cerebrovascular Diseases
+- Cerebrovascular Diseases Extra
+- Chemotherapy
+- Complementary Medicine Research
+- Current Urology
+- Cytogenetic and Genome Research
+- Dementia and Geriatric Cognitive Disorders
+- Dementia and Geriatric Cognitive Disorders Extra
+- Dermatology
+- Dermatopathology
+- Developmental Neuroscience
+- Digestion
+- Digestive Diseases
+- Digestive Surgery
+- Digital Biomarkers
+- Dubai Medical Journal
+- European Addiction Research
+- European Neurology
+- European Surgical Research
+- European Thyroid Journal
+- Fetal Diagnosis and Therapy
+- Folia Phoniatrica et Logopaedica
+- Folia Primatologica
+- Food Science and Technology Research
+- Forschende Komplementärmedizin
+- GE - Portuguese Journal of Gastroenterology
+- Gastrointestinal Tumors
+- Gerontology
+- Gynecologic Investigation
+- Gynecologic and Obstetric Investigation
+- Gynecologic and Obstetric Review
+- Gynäkologisch-geburtshilfliche Rundschau
+- Hormone Research in Paediatrics
+- Human Development
+- Human Heredity
+- Inflammatory Intestinal Diseases
+- Integrative Medicine International
+- International Archives of Allergy and Applied Immunology
+- International Archives of Allergy and Immunology
+- International Journal of Diabetes and Metabolism
+- Interventional Neurology
+- Intervirology
+- Journal of Innate Immunity
+- Journal of Molecular Microbiology and Biotechnology
+- Journal of Nutrigenetics and Nutrigenomics
+- Journal of Vascular Research
+- Karger Kompass Dermatologie
+- Karger Kompass Onkologie
+- Karger Kompass Ophthalmologie
+- Karger Kompass Pneumologie
+- Kidney Diseases
+- Kidney and Blood Pressure Research
+- Lifestyle Genomics
+- Liver Cancer
+- Medical Epigenetics
+- Medical Principles and Practice
+- Molecular Neuropsychiatry
+- Molecular Syndromology
+- Neonatology
+- Nephron
+- Nephron Clinical Practice
+- Nephron Experimental Nephrology
+- Nephron Extra
+- Nephron Physiology
+- Neurodegenerative Diseases
+- Neuroembryology and Aging
+- Neuroendocrinology
+- Neuroepidemiology
+- Neuroimmunomodulation
+- Neuropsychobiology
+- Neurosignals
+- ORL
+- Obesity Facts
+- Ocular Oncology and Pathology
+- Oncology
+- Oncology Research and Treatment
+- Onkologie
+- Ophthalmic Research
+- Ophthalmologica
+- Ophthalmologica Extra
+- Pathobiology
+- Pathophysiology of Haemostasis and Thrombosis
+- Pediatric Neurosurgery
+- Pharmacology
+- Phonetica
+- Portuguese Journal of Public Health
+- Psychopathology
+- Psychotherapy and Psychosomatics
+- Public Health Genomics
+- Pulse
+- Research in Complementary Medicine
+- Respiration
+- Revue de gynécologie-obstétrique
+- Schweizerische Zeitschrift für Ganzheitsmedizin
+- Sexual Development
+- Skin Appendage Disorders
+- Skin Pharmacology and Physiology
+- Stereotactic and Functional Neurosurgery
+- Swiss Journal of Integrative Medicine
+- Transfusion Medicine and Hemotherapy
+- Urologia Internationalis
+- Verhaltenstherapie
+- Visceral Medicine
+- Viszeralmedizin
+parent-policies: []
+child-policies:
+- romeo_1601
+- romeo_2803
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

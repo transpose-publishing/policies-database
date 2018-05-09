@@ -1,0 +1,86 @@
+policy-id: romeo_1838
+publisher: Cambridge University Press (CUP)
+policy-heading: No Cambridge Open
+journals:
+- Abstracts of Working Papers in Economics
+- Albion
+- American Journal of Alternative Agriculture
+- Animal Science
+- Arbor Clinical Nutrition Updates
+- Archaeologia
+- BSAP Occasional Publication
+- Biofilms
+- Breast Cancer Online
+- British Journal of Anaesthetic and Recovery Nursing
+- Bulletin International des Societes de la Croix-Rouge
+- Bulletin of Entomological Research Supplement Series
+- Bulletin of the British Association for American Studies
+- Bulletin of the British Society for the History of Science
+- Bulletin of the International Institute of Social History
+- CORD Conference Proceedings
+- Camden Fourth Series
+- Camden New Series
+- Camden Old Series
+- Camden Third Series
+- Chinese Journal of Agricultural Biotechnology
+- Congress on Research in Dance
+- Diamond Light Soure Proceedings
+- Edinburgh Mathematical Notes
+- Equine and Comparative Exercise Physiology
+- International Review for Social History
+- International Review of Poultry Science
+- Journal of Southeast Asian History
+- Journal of the Institute of Actuaries
+- Journal of the Plainsong and Mediaeval Music Society
+- MRS Internet Journal of Nitride Semiconductor Research
+- Nurse Prescriber
+- Papers of the American Society of Church History
+- Proceedings of the British Society of Animal Production
+- Proceedings of the Royal Society of Edinburgh
+- 'Proceedings of the Royal Society of Edinburgh. Section B: Biology'
+- Proceedings of the Society of Antiquaries of London
+- Progress in Neurotherapeutics and Neuropsychopharmacology
+- Prospects
+- Psychological Medicine Monograph Supplement
+- Reproductive Medicine Review
+- Revista Internacional de la Cruz Roja
+- Thalamus and Related Systems
+- Transactions of the Actuarial Society of Edinburgh
+- Transactions of the Faculty of Actuaries
+- Transactions of the Royal Asiatic Society of Great Britain and Ireland
+parent-policies:
+- romeo_27
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

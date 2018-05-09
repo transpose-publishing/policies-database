@@ -1,0 +1,50 @@
+policy-id: romeo_814
+publisher: Società Italiana di Fisica
+policy-heading: '[Default policy]'
+journals:
+- Giornale di Fisica
+- Il Nuovo Cimento C - Colloquia on Physics
+- Il Nuovo Saggiatore
+- Lettere Al Nuovo Cimento
+- Nuovo Cimento
+- Nuovo Cimento A
+- Nuovo Cimento B
+- Nuovo Cimento C
+- Nuovo Cimento D
+- Quaderni di Storia della Fisica
+- Rivista del Nuovo Cimento
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

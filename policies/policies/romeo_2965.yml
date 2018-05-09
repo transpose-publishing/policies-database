@@ -1,0 +1,58 @@
+policy-id: romeo_2965
+publisher: Taylor & Francis Open
+policy-heading: Creative Commons Attribution
+journals:
+- Education Inquiry
+- Ethics and Global Politics
+- European Clinical Respiratory Journal
+- European Journal of Psychotraumatology
+- European Zoological Journal
+- Food and Nutrition Research
+- Global Health Action
+- International Journal of Circumpolar Health
+- Journal of Aesthetics and Culture
+- Journal of European CME
+- Libyan Journal of Medicine
+- Microbial Ecology in Health and Disease
+- Pathobiology of Aging and Age-related Diseases
+- Society, Health and Vulnerability
+- Socioaffective Neuroscience and Psychology
+- Tellus A
+- Tellus B
+parent-policies:
+- romeo_1200
+- romeo_76
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

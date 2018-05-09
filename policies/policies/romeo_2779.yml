@@ -1,0 +1,67 @@
+policy-id: romeo_2779
+publisher: Universitetsforlaget (Scandinavian University Press)
+policy-heading: Creative Commons Attribution Non-Commercial
+journals:
+- Arbeiderhistorie
+- Edda
+- Heimen
+- Historisk Tidsskrift
+- Kritisk juss
+- Kunst og Kultur
+- Nordic Journal of Digital Literacy
+- Nordisk poesi. Tidsskrift for lyrikkforskning
+- Nordisk politiforskning
+- Nordisk välfärdsforskning | Nordic Welfare Research
+- Norsk Antropologisk tidsskrift
+- Norsk Filosofisk tidsskrift
+- Norsk Litteraturvitenskapelig Tidsskrift
+- Norsk medietidsskrift
+- Norsk museumstidsskrift
+- Norsk sosiologisk tidsskrift
+- Norsk statsvitenskapelig tidsskrift
+- Oslo Law Review
+- Scandinavian Poetry. Journal of Poetry Research
+- Studia Musicologica Norvegica
+- Søkelys på arbeidslivet
+- Teologisk tidsskrift
+- Tidsskrift for Samfunnsforskning
+- Tidsskrift for kjønnsforskning
+- Tidsskrift for omsorgsforskning
+- Tidsskrift for velferdsforskning
+- Uniped - Tidsskrift for universitets- og høgskolepedagogikk
+parent-policies:
+- romeo_519
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,70 @@
+policy-id: romeo_1044
+publisher: GERFLINT
+policy-heading: '[Default policy]'
+journals:
+- Synergies Afrique Centrale et de l'Ouest
+- Synergies Afrique des Grands Lacs
+- Synergies Algérie
+- Synergies Amérique du Nord
+- Synergies Argentine
+- Synergies Brésil
+- Synergies Canada
+- Synergies Chili
+- Synergies Chine
+- Synergies Corée
+- Synergies Espagne
+- Synergies Europe
+- Synergies France
+- Synergies Inde
+- Synergies Italie
+- Synergies Mexique
+- Synergies Monde
+- Synergies Monde Arabe
+- Synergies Monde Méditerranéen
+- Synergies Pays Germanophones
+- Synergies Pays Riverains de la Baltique
+- Synergies Pays Riverains du Mékong
+- Synergies Pays Scandinaves
+- Synergies Pologne
+- Synergies Portugal
+- Synergies Roumanie
+- Synergies Royaume Uni et Irlande
+- Synergies Sud-Est européen
+- Synergies Tunisie
+- Synergies Turquie
+- Synergies Venezuela
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

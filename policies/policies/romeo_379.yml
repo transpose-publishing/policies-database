@@ -1,0 +1,72 @@
+policy-id: romeo_379
+publisher: Current Medicine Group
+policy-heading: '[Default policy]'
+journals:
+- Current Allergy and Asthma Reports
+- Current Atherosclerosis Reports
+- Current Attention Disorders Reports
+- Current Bladder Dysfunction Reports
+- Current Breast Cancer Reports
+- Current Cardiology Reports
+- Current Cardiovascular Imaging Reports
+- Current Cardiovascular Risk Reports
+- Current Colorectal Cancer Reports
+- Current Diabetes Reports
+- Current Fungal Infection Reports
+- Current GERD Reports
+- Current Gastroenterology Reports
+- Current HIV/AIDS Reports
+- Current Heart Failure Reports
+- Current Hematologic Malignancy Reports
+- Current Hepatitis Reports
+- Current Hypertension Reports
+- Current Infectious Disease Reports
+- Current Neurology and Neuroscience Reports
+- Current Oncology Reports
+- Current Osteoporosis Reports
+- Current Pain and Headache Reports
+- Current Prostate Reports
+- Current Psychiatry Reports
+- Current Psychosis and Therapeutics Reports
+- Current Rheumatology Reports
+- Current Sexual Health Reports
+- Current Treatment Options in Cardiovascular Medicine
+- Current Treatment Options in Gastroenterology
+- Current Treatment Options in Neurology
+- Current Urology Reports
+parent-policies:
+- romeo_74
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

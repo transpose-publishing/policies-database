@@ -1,0 +1,128 @@
+policy-id: romeo_63
+publisher: Royal Society of Chemistry
+policy-heading: '[Default policy]'
+journals:
+- Analyst
+- Analytical Communications
+- Analytical Methods
+- Analytical Proceedings
+- Annual Reports Section A :Inorganic Chemistry
+- 'Annual Reports Section B: Organic Chemistry'
+- 'Annual Reports Section C: Physical Chemistry'
+- Annual Reports on Analytical Atomic Spectroscopy
+- Annual Reports on the Progress of Chemistry
+- 'Annual Reports on the Progress of Chemistry, Section A: General Physical and Inorganic
+  Chemistry'
+- 'Annual Reports on the Progress of Chemistry, Section A: Physical and Inorganic
+  Chemistry'
+- Catalysis Science and Technology
+- Chemical Communications
+- Chemical Communications (London)
+- Chemical Science
+- Chemical Society Reviews
+- Chemistry Education Research and Practice
+- Contemporary Organic Synthesis
+- CrystEngComm
+- Dalton Transactions
+- Discussions of the Faraday Society
+- Education in Chemistry
+- Energy and Environmental Science
+- 'Environmental Science: Nano'
+- 'Environmental Science: Processes and Impacts'
+- 'Environmental Science: Water Research & Technology'
+- Faraday Discussions
+- Faraday Discussions of the Chemical Society
+- Faraday Special Discussions of the Chemical Society
+- Faraday Symposia of the Chemical Society
+- Food and Function
+- Green Chemistry
+- Journal and Proceedings of the Royal Institute of Chemistry
+- Journal of Analytical Atomic Spectrometry
+- Journal of Environmental Monitoring
+- Journal of Materials Chemistry
+- Journal of Materials Chemistry A
+- Journal of Materials Chemistry B
+- Journal of Materials Chemistry C
+- Journal of the Chemical Society
+- 'Journal of the Chemical Society A: Inorganic, Physical, Theoretical'
+- 'Journal of the Chemical Society B: Physical Organic'
+- 'Journal of the Chemical Society C: Organic'
+- 'Journal of the Chemical Society D: Chemical Communications'
+- Journal of the Chemical Society, Abstract
+- Journal of the Chemical Society, Chemical Communications
+- Journal of the Chemical Society, Faraday Transactions
+- 'Journal of the Chemical Society, Faraday Transactions 1: Physical Chemistry in
+  Condensed Phases'
+- 'Journal of the Chemical Society, Faraday Transactions 2: Molecular and Chemical
+  Physics'
+- Journal of the Chemical Society, Perkin Transactions 2
+- Journal of the Chemical Society, Transactions
+- Journal of the Chemical Society. Perkin transactions 1
+- Journal of the Royal Institute of Chemistry
+- Lab on a Chip
+- MedChemComm
+- Memoirs and Proceedings of the Chemical Society
+- Metallomics
+- Molecular BioSystems
+- Nanoscale
+- Natural Product Reports
+- New Journal of Chemistry
+- Organic and Biomolecular Chemistry
+- Pesticide Outlook
+- Photochemical & Photobiological Sciences Photochemical and Photobiological Sciences
+- PhysChemComm
+- Physical Chemistry Chemical Physics
+- Polymer Chemistry
+- Proceedings of the Analytical Division of the Chemical Society
+- Proceedings of the Chemical Society
+- Proceedings of the Chemical Society, London
+- Proceedings of the Institute of Chemistry of Great Britain and Ireland
+- Proceedings of the Society for Analytical Chemistry
+- Quarterly Journal of the Chemical Society of London
+- Quarterly Reviews Chemical Society
+- RSC Advances
+- Reaction Chemistry and Engineering
+- Royal Institute of Chemistry, Reviews
+- Selected Annual Reviews of the Analytical Sciences
+- Soft Matter
+- Special Discussions of the Faraday Society
+- Sustainable Energy and Fuels
+- Symposia of the Faraday Society
+- Transactions of the Faraday Society
+parent-policies: []
+child-policies:
+- romeo_2773
+- romeo_3239
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

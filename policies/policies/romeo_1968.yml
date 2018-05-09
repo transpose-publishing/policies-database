@@ -1,0 +1,48 @@
+policy-id: romeo_1968
+publisher: Volgogradskii Gosudarstvennyi Universitet (Volgograd State University)
+policy-heading: '[Default policy]'
+journals:
+- Science Journal of Volgograd State University. History. Area Studies. International
+  Relations
+- Science Journal of Volgograd State University. Linguistics
+- Science Journal of Volgograd State University. Mathematics. Physics
+- Science Journal of Volgograd State University. Natural Sciences
+- 'Science Journal of Volgograd State University: Global Economic System'
+- 'Science Journal of Volgograd State University: Technology and innovations'
+- 'Science Journal of Vologograd State University: Global Economic System'
+- Вестник Волгоградского государственног&
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

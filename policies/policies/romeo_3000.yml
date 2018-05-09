@@ -1,0 +1,46 @@
+policy-id: romeo_3000
+publisher: Virtus Interpress
+policy-heading: '[Default policy]'
+journals:
+- 'Corporate Board: role, duties and composition'
+- Corporate Governance and Organizational Behavior Review
+- Corporate Governance and Sustainability Review
+- Corporate Ownership and Control
+- Journal of Governance and Regulation
+- 'Risk Governance and Control: Financial Markets & Institutions'
+parent-policies: []
+child-policies:
+- romeo_3120
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

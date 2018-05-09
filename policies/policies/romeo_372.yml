@@ -1,0 +1,128 @@
+policy-id: romeo_372
+publisher: John Benjamins Publishing
+policy-heading: '[Default policy]'
+journals:
+- AILA Review
+- Annual Review of Cognitive Linguistics
+- Annual Review of Language Acquisition
+- Archív Orientální Quarterly
+- Asia-Pacific Language Variation
+- Australian Review of Applied Linguistics
+- Babel
+- Belgian Journal of Linguistics
+- 'Bestia: Yearbook of the Beast Fable Society'
+- Bochumer Philosophisches Jahrbuch für Antike und Mittelalter
+- Byzantinoslavica
+- Cahiers Naturalistes
+- Chinese Language and Discourse
+- Cognitive Linguistic Studies
+- Concepts and Transformation
+- Consciousness and Emotion
+- Constructions and Frames
+- Czech Literature
+- Diachronica
+- Document Design
+- Dutch Journal of Applied Linguistics
+- EUROSLA Yearbook
+- English Text Construction
+- English World-Wide
+- Evolution of Communication
+- Functions of Language
+- Gesture
+- Historiographia Linguistica
+- ITL
+- Information Design Journal
+- Information Design Journal and Document Design
+- Interaction Studies
+- International Journal of Chinese Linguistics
+- International Journal of Cognition and Technology
+- International Journal of Corpus Linguistics
+- International Journal of Language and Culture
+- International Journal of Learner Corpus Research
+- International Review of Chinese Linguistics
+- Interpreting
+- Journal of African and Asian Studies
+- Journal of Argumentation in Context
+- Journal of Asian Pacific Communication
+- Journal of Greek Linguistics
+- Journal of Historical Linguistics
+- Journal of Historical Pragmatics
+- Journal of Immersion and Content-Based Language Education
+- Journal of Language Aggression and Conflict
+- Journal of Language and Politics
+- Journal of Language and Sexuality
+- Journal of Pidgin and Creole Languages
+- Journal of Second Language Pronunciation
+- Korean Linguistics
+- Langage, Interaction et Acquisition
+- Language International
+- Language Problems and Language Planning
+- Language and Dialogue
+- Language, Interaction and Acquisition
+- Languages in Contrast
+- Linguistic Approaches to Bilingualism
+- Linguistic Landscape
+- Linguistic Variation
+- Linguistic Variation Yearbook
+- Linguistica Pragensia
+- Linguistics in the Netherlands
+- Lingvisticæ Investigationes
+- Litteraria Pragensia
+- Mental Lexicon
+- Metaphor and the Social World
+- Narrative Inquiry
+- Pragmatics
+- Pragmatics and Cognition
+- Pragmatics and Society
+- Reinardus
+- Review of Cognitive Linguistics
+- Revue Romane
+- Revue des revues
+- Scientific Study of Literature
+- Sign Language and Linguistics
+- Spanish in Context
+- Studies in Language
+- Svět Literatury
+- Target
+- Terminology
+- Translation Spaces
+- Translation and Interpreting Studies
+- Written Language and Literacy
+- Časopis pro Moderní Filologii
+- Česká Literatura
+parent-policies: []
+child-policies:
+- romeo_2095
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

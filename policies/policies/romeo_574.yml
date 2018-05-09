@@ -1,0 +1,53 @@
+policy-id: romeo_574
+publisher: University of Pennsylvania Press (Penn Press)
+policy-heading: '[Default policy]'
+journals:
+- Change Over Time
+- Dissent
+- Early American Studies
+- Eighteenth Century
+- Hispanic Review
+- Humanity
+- Huntington Library Quarterly
+- Jewish Quarterly Review
+- Journal for Early Modern Cultural Studies
+- Journal of Ecumenical Studies
+- Journal of the Early Republic
+- Journal of the History of Ideas
+- Magic, Ritual, and Witchcraft
+- Revista Hispánica Moderna
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

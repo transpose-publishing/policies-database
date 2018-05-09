@@ -1,0 +1,49 @@
+policy-id: romeo_1277
+publisher: EDP Sciences
+policy-heading: EPJ
+journals:
+- European Physical Journal - Special Topics
+- European Physical Journal A
+- 'European Physical Journal A: Hadrons and Nuclei'
+- European Physical Journal B
+- 'European Physical Journal B: Condensed Matter and Complex Systems'
+- European Physical Journal D
+- European Physical Journal E
+- European Physical Journal H
+- European Physical Journal Plus
+parent-policies:
+- romeo_137
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

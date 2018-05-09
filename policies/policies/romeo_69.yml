@@ -1,0 +1,47 @@
+policy-id: romeo_69
+publisher: Microbiology Society
+policy-heading: '[Default policy]'
+journals:
+- International Journal of Systematic and Evolutionary Microbiology
+- JMM Case Reports
+- Journal of General Virology
+- Journal of Medical Microbiology
+- Microbial Genomics
+parent-policies: []
+child-policies:
+- romeo_1782
+- romeo_2441
+- romeo_2702
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

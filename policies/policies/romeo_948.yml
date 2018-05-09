@@ -1,0 +1,255 @@
+policy-id: romeo_948
+publisher: SpringerOpen
+policy-heading: '[Default policy]'
+journals:
+- 3 Biotech
+- 3D Printing in Medicine
+- 3D-Printed Materials and Systems
+- AAPS Open
+- Advanced Modeling and Simulation in Engineering Sciences
+- Advanced Structural and Chemical Imaging
+- Advances in Difference Equations
+- Advances in Integrative Omics and Applied Biotechnology
+- Agricultural and Food Economics
+- Applied Adhesion Science
+- Applied Informatics
+- Applied Network Science
+- Applied Water Science
+- Arabian Journal of Mathematics
+- Asia Pacific Journal on Computational Engineering
+- Asia-Pacific Science Education
+- Asian Journal of Gambling Issues and Public Health
+- Asian Journal of German and European Studies
+- Asian-Pacific Journal of Second and Foreign Language Education
+- Autoimmunity Highlights
+- Bandung Journal of the Global South
+- Biophysics Reports
+- Bioresources and Bioprocessing
+- Botanical Studies
+- Boundary Value Problems
+- Brain Informatics
+- Brazilian Journal of Science and Technology
+- Bulletin of Mathematical Sciences
+- Business Research
+- Cancer Nanotechnology
+- Carbon Balance and Management
+- China Finance and Economic Review
+- China Journal of Economic Research
+- Chinese Science Bulletin
+- City, Territory and Architecture
+- Clinical Phytoscience
+- Clinical and Translational Medicine
+- 'Cognitive Research: Principles and Implications'
+- 'Cognitive Research: Principles and Implications - a SpringerOpen journal'
+- Communications in Mobile Computing
+- Comparative Migration Studies
+- Complex Adaptive Systems Modeling
+- Complex Analysis and its Synergies
+- Complex and Intelligent Systems
+- Computational Astrophysics and Cosmology
+- Computational Cognitive Science
+- Computational Social Networks
+- Computational Visual Media
+- Crime Science
+- Crisis Communications
+- Critical Ultrasound Journal
+- Data Science and Engineering
+- Decision Analytics
+- EJNMMI Physics
+- EJNMMI Radiopharmacy and Chemistry
+- EURASIP Journal on Advances in Signal Processing
+- EURASIP Journal on Bioinformatics and Systems Biology
+- Earth Perspectives
+- Earth, Planets and Space
+- Earthquake Science
+- Ecological Processes
+- Empirical Research in Vocational Education and Training
+- Energy, Sustainability and Society
+- Environmental Sciences Europe
+- Environmental Systems Research
+- European Journal of Futures Research
+- European Transport Research Review
+- Evidence-Based Endodontics
+- Fashion and Textiles
+- Fields Mathematics Education Journal
+- Financial Innovation
+- Fire Science Reviews
+- Fixed Point Theory and Applications
+- Forest Ecosystems
+- Friction
+- Functional Linguistics
+- Future Cities and Environment
+- Geoenvironmental Disasters
+- Geoscience Letters
+- Geothermal Energy
+- HUGO Journal
+- Health Economics Review
+- Health and Justice
+- Human-Centric Computing and Information Sciences
+- IZA Journal of Development and Migration
+- IZA Journal of European Labor Studies
+- IZA Journal of Labor Economics
+- IZA Journal of Labor Policy
+- IZA Journal of Labor and Development
+- IZA Journal of Migration
+- In Silico Cell and Tissue Science
+- In Silico Pharmacology
+- Infrastructure Complexity
+- Injury Epidemiology
+- Innovative Infrastructure Solutions
+- Insights into Imaging
+- Integrating Materials and Manufacturing Innovation
+- Intensive Care Medicine Experimental
+- International Aquatic Research
+- International Journal Of Recycling of Organic Waste in Agriculture
+- International Journal for Educational Integrity
+- International Journal of Advanced Structural Engineering
+- International Journal of Bipolar Disorders
+- International Journal of Child Care and Education Policy
+- International Journal of Coal Science and Technology
+- International Journal of Concrete Structures and Materials
+- International Journal of Dharma Studies
+- International Journal of Disaster Risk Science
+- International Journal of Emergency Medicine
+- International Journal of Energy and Environmental Engineering
+- International Journal of Food Contamination
+- International Journal of Geo-Engineering
+- International Journal of Implant Dentistry
+- International Journal of Industrial Chemistry
+- International Journal of Mechanical and Materials Engineering
+- International Journal of Quality Innovation
+- International Journal of STEM Education
+- International Nano Letters
+- International Transactions on Systems Science and Applications
+- JA Clinical Reports
+- Journal Of Big Data
+- Journal of Advanced Ceramics
+- Journal of Analytical Science and Technology
+- Journal of Applied Volcanology
+- Journal of Chinese Management
+- Journal of Chinese Sociology
+- Journal of Chinese Studies
+- Journal of Cloud Computing
+- 'Journal of Cloud Computing: Advances, Systems and Applications'
+- Journal of Computational Surgery
+- Journal of Economic Structures
+- Journal of Experimental Orthopaedics
+- Journal of Frugal Innovation
+- Journal of Global Entrepreneurship Research
+- Journal of Industrial Engineering International
+- Journal of Inequalities and Applications
+- Journal of Innovation and Entrepreneurship
+- Journal of Interaction Science
+- Journal of International Humanitarian Action
+- Journal of Internet Services and Applications
+- Journal of Mathematics in Industry
+- Journal of Modern Power Systems and Clean Energy
+- Journal of Modern Transportation
+- Journal of Nanostructure in Chemistry
+- 'Journal of Open Innovation: Technology, Market, and Complexity'
+- Journal of Orthopaedics and Traumatology
+- Journal of Orthopedics and Traumatology
+- Journal of Patient-Reported Outcomes
+- Journal of Shipping and Trade
+- Journal of Software Engineering Research and Development
+- Journal of Solid State Lighting
+- Journal of Statistical Distributions and Applications
+- Journal of Theoretical and Applied Physics
+- Journal of Trust Management
+- Journal of Uncertainty Analysis and Applications
+- Journal of the Brazilian Computer Society
+- Language Testing in Asia
+- Large-scale Assessments in Education
+- Latin American Economic Review
+- Life Sciences, Society and Policy
+- Lingua Sinica
+- Living Reviews in Relativity
+- Living Reviews in Solar Physics
+- Logistics Research
+- Maritime Studies
+- Materials for Renewable and Sustainable Energy
+- Mathematical Sciences
+- Mathematics-in-Industry Case Studies
+- Maxillofacial Plastic and Reconstructive Surgery
+- Mechanics of Advanced Materials and Modern Processes
+- Micro and Nano Systems Letters
+- Molecular and Cellular Pediatrics
+- Multilingual Education
+- Nano Convergence
+- Nano-Micro Letters
+- Nanoscale Research Letters
+- Natural Products and Bioprospecting
+- New Zealand Journal of Forestry Science
+- Open Geospatial Data, Software and Standards
+- Optical Nanoscopy
+- Organic and Medicinal Chemistry Letters
+- Pacific Journal of Mathematics for Industry
+- Petroleum Science
+- Progress in Biomaterials
+- Progress in Earth and Planetary Science
+- Progress in Orthodontics
+- Protein and Cell
+- 'Psicologia: Reflexão e Crítica'
+- 'Psychology: Research and Review'
+- ROBOMECH Journal
+- Renewables Wind, Water, and Solar
+- Research and Practice in Technology Enhanced Learning
+- Research in Number Theory
+- Revista Chilena de Historia Natural
+- Rice
+- Robotics and Biomimetics
+- SERIEs
+- 'SERIEs: Journal of the Spanish Economic Association'
+- Scalable Computing
+- Science China Life Sciences
+- Scientific Phone Apps and Mobile Devices
+- Smart Learning Environments
+- Smart Water
+- Sports Medicine - Open
+- SpringerPlus
+- Surgical Case Reports
+- Technology, Innovation and Education
+- Textiles and Clothing Sustainability
+- Translational Respiratory Medicine
+- Triple Helix
+- Urban Rail Transit
+- Video Journal of Education and Pedagogy
+- Vietnam Journal of Computer Science
+- Visualization in Engineering
+- 'mUX: The Journal of Mobile User Experience'
+parent-policies:
+- romeo_74
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

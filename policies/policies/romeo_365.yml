@@ -1,0 +1,101 @@
+policy-id: romeo_365
+publisher: Akadémiai Kiadó
+policy-heading: '[Default policy]'
+journals:
+- Across Languages and Cultures
+- Acta Agronomica Hungarica
+- Acta Alimentaria
+- Acta Antiqua
+- Acta Biologica Hungarica
+- Acta Botanica Hungarica
+- Acta Chromatographica
+- Acta Ethnographica Hungarica
+- Acta Geodaetica et Geophysica Hungarica
+- Acta Geologica Hungarica
+- Acta Historiae Artium
+- Acta Microbiologica et Immunologica Hungarica
+- Acta Oeconomica
+- Acta Orientalia
+- Acta Physiologica Hungarica
+- Acta Phytopathologica et Entomologica Hungarica
+- Acta Veterinaria Hungarica
+- Agrokémia és Talajtan
+- Akadémiai Értesítö
+- Antik Tanulmányok
+- Archaeologiai Értesitö
+- Central European Geology
+- Cereal Research Communications
+- Clinical and Experimental Medical Journal
+- Community Ecology
+- European Journal of Mental Health
+- European Journal of Microbiology and Immunology
+- Hungarian Journal of Surgery
+- Hungarian Medical Journal
+- Hungarian Studies
+- Interventional Medicine and Applied Science
+- Journal of Behavioral Addictions
+- Journal of Cultural and Evolutionary Psychology
+- Journal of Evolutionary Psychology
+- Journal of Flow Chemistry
+- Journal of Planar Chromatography
+- Learning and Perception
+- Magyar Onkológia
+- Magyar Pszichológiai Szemle
+- Magyar Sebészet
+- Magyar Terminológia
+- Mentálhigiéné es Pszichoszomatika
+- Müvészettörténeti Értesitö
+- Nanopages
+- Növénytermelés
+- Orvosi Hetilap
+- Pollack Periodica
+- Progress in Agricultural Engineering Sciences
+- Pszichológia
+- Reaction Kinetics, Mechanisms and Catalysis
+- Review of Sociology
+- Selection
+- Society and Economy
+- Studia Musicologica
+- Studia Musicologica Academiae Scientiarum Hungaricae
+- Studia Scientiarum Mathematicarum Hungarica
+- Studia Slavica
+- Társadalom és Gazdaság
+- Társadalomkutatás
+- Verbum
+- Épités - Épitészettudomány
+parent-policies: []
+child-policies:
+- romeo_3112
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,75 @@
+policy-id: romeo_2936
+publisher: Edizioni Minerva Medica
+policy-heading: '[Default policy]'
+journals:
+- Acta Phlebologica
+- Acta Vulnologica
+- Chirurgia
+- Esperienze Dermatologiche
+- European Journal of Physical and Rehabilitation Medicine
+- Gazzetta Medica Italiana Archivo per le Scienze Mediche
+- Giornale Italiano di Dermatologia e Venereologia
+- International Angiology
+- Italian Journal of Maxillofacial Surgery
+- Italian Journal of Vascular and Endovascular Surgery
+- Journal of Cardiovascular Surgery
+- Journal of Maxillofacial Trauma
+- Journal of Neurosurgical Sciences
+- Journal of Sports Medicine and Physical Fitness
+- MR Gionale Italiano di Medicina Riabilitativa
+- Medicina dello Sport
+- Medicina e Chirurgia della Caviglia e del Piede
+- Minerva Anestesiologica
+- Minerva Biotechnologica
+- Minerva Cardioangliologica
+- Minerva Chirurgica
+- Minerva Endocrinologica
+- Minerva Gastroenterologica e Dietologica
+- Minerva Ginecologica
+- Minerva Medica
+- Minerva Medicolegale
+- Minerva Oftalmologica
+- Minerva Ortopedica e Traumatologica
+- Minerva Pediatrica
+- Minerva Pneumologica
+- Minerva Psichiatrica
+- Minerva Stomatologica
+- Minerva Urologica e Nefrologica
+- Otorinolaringologia
+- Panminerva Medica
+- Quarterly Journal of Nuclear Medicine and Molecular Imaging
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

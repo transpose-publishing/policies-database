@@ -1,0 +1,115 @@
+policy-id: romeo_2188
+publisher: Science and Education Publishing
+policy-heading: '[Default policy]'
+journals:
+- American Journal of Applied Mathematics and Statistics
+- American Journal of Applied Psychology
+- American Journal of Biomedical Research
+- American Journal of Cancer Prevention
+- American Journal of Civil Engineering and Architecture
+- American Journal of Clinical Medicine Research
+- American Journal of Educational Research
+- American Journal of Electrical and Electronic Engineering
+- American Journal of Energy Research
+- American Journal of Environmental Protection
+- American Journal of Epidemiology and Infectious Disease
+- American Journal of Food Science and Technology
+- American Journal of Food and Nutrition
+- American Journal of Infectious Diseases and Microbiology
+- American Journal of Information Systems
+- American Journal of Materials Engineering and Technology
+- American Journal of Materials Science and Engineering
+- American Journal of Mathematical Analysis
+- American Journal of Mechanical Engineering
+- American Journal of Medical Case Reports
+- American Journal of Medical Sciences and Medicine
+- American Journal of Medical and Biological Research
+- American Journal of Medicine Studies
+- American Journal of Microbiological Research
+- American Journal of Modeling and Optimization
+- American Journal of Nanomaterials
+- American Journal of Numerical Analysis
+- American Journal of Pharmacological Sciences
+- American Journal of Public Health Research
+- American Journal of Rural Development
+- American Journal of Sensor Technology
+- American Journal of Sports Science and Medicine
+- American Journal of Systems and Software
+- American Journal of Water Resources
+- American Journal of Zoological Research
+- Applied Ecology and Environmental Sciences
+- Applied Mathematics and Physics
+- Automatic Control and Information Sciences
+- Biomedical Science and Engineering
+- Chemical Engineering and Science
+- International Journal of Celiac Disease
+- International Journal of Clinical Nutrition
+- International Journal of Dental Sciences and Research
+- International Journal of Econometrics and Financial Management
+- International Journal of Environmental Bioremediation and Biodegradation
+- International Journal of Physics
+- International Transaction of Electrical and Computer Engineers System
+- Journal of Applied and Environmental Microbiology
+- Journal of Automation and Control
+- Journal of Behavioural Economics, Finance, Entrepreneurship, Accounting and Transport
+- Journal of Biomedical Engineering and Technology
+- Journal of Business and Management Sciences
+- Journal of Cancer Research and Treatment
+- Journal of Computer Networks
+- Journal of Computer Sciences and Applications
+- Journal of Environment Pollution and Human Health
+- Journal of Finance and Accounting
+- Journal of Finance and Economics
+- Journal of Food Security
+- Journal of Food and Nutrition Research
+- Journal of Geosciences and Geomatics
+- Journal of Materials Physics and Chemistry
+- Journal of Mathematical Sciences and Applications
+- Journal of Optoelectronics Engineering
+- Journal of Physical Activity Research
+- Journal of Polymer and Biopolymer Physics Chemistry
+- Materials Science and Metallurgy Engineering
+- Nanoscience and Nanotechnology Research
+- Physics and Materials Chemistry
+- Research in Plant Sciences
+- Research in Psychology and Behavioral Sciences
+- Sustainable Energy
+- Turkish Journal of Analysis and Number Theory
+- Wireless and Mobile Technologies
+- World Journal of Agricultural Research
+- World Journal of Analytical Chemistry
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

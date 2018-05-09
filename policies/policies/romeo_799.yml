@@ -1,0 +1,54 @@
+policy-id: romeo_799
+publisher: Slack
+policy-heading: '[Default policy]'
+journals:
+- AAOHN Journal
+- Athletic Training and Sports Health Care
+- Journal of Continuing Education in Nursing
+- Journal of Gerontological Nursing
+- Journal of Nursing Education
+- Journal of Pediatric Ophthalmology and Strabismus
+- Journal of Psychosocial Nursing and Mental Health Services
+- Journal of Refractive Surgery
+- OSLIRetina
+- 'OTJR: Occupation, Participation and Health'
+- Ophthalmic Surgery, Lasers and Imaging
+- Orthopedics
+- Pediatric Annals
+- Psychiatric Annals
+- Research in Gerontological Nursing
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,52 @@
+policy-id: romeo_710
+publisher: Informing Science Institute
+policy-heading: '[Default policy]'
+journals:
+- Informing Faculty
+- Informing Science
+- Interdisciplinary Journal of E-Learning and Learning Objects
+- Interdisciplinary Journal of Information, Knowledge, and Management
+- Interdisciplinary Journal of e-Skills and Lifelong Learning
+- International Journal of Doctoral Studies
+- Issues in Informing Science and Information Technology
+- Journal for the Study of Postsecondary and Tertiary Education
+- 'Journal of Information Technology Education: Discussion Cases'
+- 'Journal of Information Technology Education: Innovations in Practice'
+- 'Journal of Information Technology Education: Research'
+- Journal of Information, Information Technology, and Organizations
+- Proceedings of the InSITE Conference
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

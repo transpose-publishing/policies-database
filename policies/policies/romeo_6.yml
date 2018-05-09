@@ -1,0 +1,63 @@
+policy-id: romeo_6
+publisher: American Geophysical Union (AGU)
+policy-heading: '[Default policy]'
+journals:
+- Earth Interactions
+- Geochemistry, Geophysics, Geosystems
+- Geophysical Research Letters
+- Global Biogeochemical Cycles
+- International Journal of Geomagnetism and Aeronomy
+- Journal of Advances in Modeling Earth Systems
+- Journal of Advances in Modelling Earth Systems
+- Journal of Geophysical Research
+- Journal of Geophysical Research. Solid Earth
+- 'Journal of Geophysical Research: Atmospheres'
+- 'Journal of Geophysical Research: Biogeosciences'
+- 'Journal of Geophysical Research: Earth Surface'
+- 'Journal of Geophysical Research: Oceans'
+- 'Journal of Geophysical Research: Planets'
+- 'Journal of Geophysical Research: Space Physics'
+- Nonlinear Processes in Geophysics
+- Paleoceanography
+- Radio Science
+- Reviews of Geophysics
+- Russian Journal of Earth Science
+- Space Weather
+- Space Weather Quarterly
+- Tectonics
+- Water Resources Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

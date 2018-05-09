@@ -1,0 +1,71 @@
+policy-id: romeo_110
+publisher: American Anthropological Association
+policy-heading: '[Default policy]'
+journals:
+- American Anthropologist
+- American Ethnologist
+- Annals of Anthropological Practice
+- Anthropology News
+- Anthropology and Education Quarterly
+- Anthropology and Humanism
+- Anthropology of Consciousness
+- Anthropology of Work Review
+- Archeological Papers of the American Anthropological Association
+- Bulletin of the National Association of Student Anthropologists
+- CSAS Bulletin
+- Central Issues in Anthropology
+- City and Society
+- Culture and Agriculture
+- Ethnographic Praxis in Industry Conference Proceedings
+- Ethos
+- General Anthropology
+- Journal of Latin American and Caribbean Anthropology
+- Journal of Linguistic Anthropology
+- Journal of the Society for the Anthropology of Europe
+- Medical Anthropology Quarterly
+- Mensajero
+- Museum Anthropology
+- NAPA Bulletin
+- North American Dialogue
+- Nutritional Anthropology
+- 'PoLAR: Political and Legal Anthropology Review'
+- SOLGAN
+- Teaching Anthropology
+- Transforming Anthropology
+- Visual Anthropology Review
+- Voices
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,74 @@
+policy-id: romeo_945
+publisher: Asian Network for Scientific Information (ANSINET)
+policy-heading: '[Default policy]'
+journals:
+- Asian Journal of Algebra
+- Asian Journal of Clinical Nutrition
+- Asian Journal of Crop Science
+- Asian Journal of Epidemiology
+- Asian Journal of Mathematics and Statistics
+- Asian Journal of Plant Sciences
+- Asian Journal of Scientific Research
+- Asian Journal of Textile
+- Biotechnology
+- Current Research in Bacteriology
+- Hematologia
+- Information Technology Journal
+- International Journal of Applied Economics and Finance
+- International Journal of Botany
+- International Journal of Meat Science
+- International Journal of Oceanography and Marine Ecological System
+- International Journal of Osteoporosis and Metabolic Disorders
+- International Journal of Pharmacology
+- International Journal of Poultry Science
+- International Journal of Thermal and Fluid Sciences
+- Journal of Agronomy
+- Journal of Applied Sciences
+- Journal of Biological Sciences
+- Journal of Environmental Science and Technology
+- Journal of Food Resource Science
+- Journal of Medical Sciences
+- Pakistan Journal of Biological Sciences
+- Pakistan Journal of Nutrition
+- Plant Pathology Journal
+- Research Journal of Immunology
+- Research Journal of Mutagenesis
+- Research Journal of Obstetrics and Gynecology
+- Trends in Agricultural Economics
+- Trends in Bioinformatics
+- Trends in Molecular Sciences
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,48 @@
+policy-id: romeo_264
+publisher: Royal Society of New Zealand
+policy-heading: '[Default policy]'
+journals:
+- Journal of the Royal Society of New Zealand
+- 'Kotuitui: New Zealand Journal of Social Sciences Online'
+- 'Kōtuitui: New Zealand Journal of Social Sciences Online'
+- New Zealand Journal of Agricultural Research
+- New Zealand Journal of Botany
+- New Zealand Journal of Crop and Horticultural Science
+- New Zealand Journal of Geology and Geophysics
+- New Zealand Journal of Marine and Freshwater Research
+- New Zealand Journal of Zoology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,49 @@
+policy-id: romeo_2099
+publisher: ABC Journals
+policy-heading: '[Default policy]'
+journals:
+- ABC Journal of Advanced Research
+- American Journal of Trade and Policy
+- Asia Pacific Journal of Energy and Environment
+- Asian Accoutning and Auditing Advancement
+- Asian Business Review
+- Asian Journal of Applied Science and Engineering
+- Asian Journal of Humanity, Art and Literature
+- Global Disclosure of Economics and Business
+- International Journal of Reciprocal Symmetry and Theoretical Physics
+- Malaysian Journal of Medical and Biological Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

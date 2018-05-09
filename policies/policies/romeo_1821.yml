@@ -1,0 +1,47 @@
+policy-id: romeo_1821
+publisher: Academic Research Group
+policy-heading: '[Default policy]'
+journals:
+- Business, Management and Economics Research
+- English Literature and Language Review
+- International Journal of Economics and Financial Research
+- Journal of Agriculture and Crops
+- Journal of Social Sciences Research
+- Journal of Social Sciences Research, The
+- Journal of Young Medical Researchers
+- Scientific Review
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

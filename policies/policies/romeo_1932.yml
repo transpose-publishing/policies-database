@@ -1,0 +1,72 @@
+policy-id: romeo_1932
+publisher: Firenze University Press
+policy-heading: '[Default policy]'
+journals:
+- Acta Herpetologica
+- Advances in Horticultural Science
+- Aestimum e Pubblicazioni Ce.S.E.T.
+- Aisthesis. Pratiche, linguaggi e saperi dell'estetico
+- Annali del Dipartimento di Filosofia - Nuova Serie
+- Annali di Storia di Firenze
+- Bio-based and Applied Economics
+- Cromohs
+- Economia e diritto agroalimentare
+- Form@re
+- Ill Colle di Galileo
+- Italian Journal of Anatomy and Embryology
+- Journal of Early Modern Studies
+- LEA - Lingue e Letterature d'Oriente e d'Occidente
+- Musica/Tecnologia
+- Phenomenology and Mind
+- Phytopathologia Mediterranea
+- Prometheus
+- Quaderni della Ri-Vista
+- Quaderni di Linguistica e Studi Orientali
+- Reti Medievali - Rivista
+- Ri-Vista. Ricerche per la progettazione del paesaggio
+- Rivista Italiana di Educazione Familiare
+- Rivista di Studi Sudasiatici
+- Scrineum
+- SocietàMutamentoPolitica
+- Storia delle Donne
+- Studi Slavistici
+- Studi irlandesi. A Journal of Irish Studies
+- Studi sulla formazione
+- Techne. Journal of Technology for Architecture and Environment
+- Tutor
+parent-policies: []
+child-policies:
+- romeo_1933
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

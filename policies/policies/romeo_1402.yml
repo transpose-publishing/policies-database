@@ -1,0 +1,58 @@
+policy-id: romeo_1402
+publisher: SAGE Publications (UK and US)
+policy-heading: Creative Commons Attribution
+journals:
+- ASN NEURO
+- Advances in Mechanical Engineering
+- Energy Exploration and Exploitation
+- Human Genomics and Proteomics
+- International Journal of Advanced Robotic Systems
+- International Journal of Distributed Sensor Networks
+- International Journal of Engineering Business Management
+- Journal of Dental Biomechanics
+- Journal of Inborn Errors of Metabolism and Screening
+- Journal of Investigative Medicine High Impact Case Reports
+- Journal of Low Frequency Noise, Vibration and Active Control
+- Journal of Tissue Engineering
+- Low Frequency Noise, Vibration and Active Control
+- Measurement and Control
+- Nanomaterials and Nanotechnology
+- SAGE Open
+- SAGE Open Engineering
+- i-Perception
+parent-policies:
+- romeo_65
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

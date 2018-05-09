@@ -1,0 +1,44 @@
+policy-id: romeo_2478
+publisher: Society of Digital Information and Wireless Communications (SDIWC)
+policy-heading: '[Default policy]'
+journals:
+- International Journal of Cyber-Security and Digital Forensics
+- International Journal of E-Learning and Educational Technologies in the Digital
+  Media
+- SDIWC International Journal of Digital Information and Wireless Communications
+- SDIWC International Journal of New Computer Architectures and Their Applications
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

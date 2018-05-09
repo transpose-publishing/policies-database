@@ -1,0 +1,70 @@
+policy-id: romeo_2129
+publisher: Cambridge University Press (CUP)
+policy-heading: STM Journals - No Cambridge Open
+journals:
+- ANZIAM Journal
+- Advances in Animal Biosciences
+- Animal Genetic Resources
+- Australian Journal of Guidance and Counselling
+- Australian Journal of Rehabilitation Counselling
+- Behaviour Change
+- Brain Impairment
+- Bulletin of the Australian Mathematical Society
+- Canadian Journal of Neurological Sciences
+- Environmental Practice
+- Geologie en Mijnbouw
+- Glasgow Mathematical Journal
+- International Journal of Disability Management
+- Journal Canadien des Sciences Neurologiques
+- Journal of Dairy Research
+- Journal of K-Theory
+- Journal of Psychologists and Counsellors in Schools
+- Journal of the Australian Mathematical Society
+- MRS Bulletin
+- MRS Online Proceedings Library
+- Mathematical Proceedings
+- Microscopy Today
+- Netherlands Journal of Geosciences
+- Powder Diffraction
+- Prehospital and Disaster Medicine
+- Proceedings of the International Astronomical Union
+- 'Proceedings of the Royal Society of Edinburgh: Section A Mathematics'
+- Recursos genéticos animales
+- Resources génétiques animales
+- World's Poultry Science Journal
+parent-policies:
+- romeo_27
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

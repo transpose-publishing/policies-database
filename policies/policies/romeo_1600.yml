@@ -1,0 +1,123 @@
+policy-id: romeo_1600
+publisher: Taylor & Francis (Routledge)
+policy-heading: SSH Titles - no Open Select
+journals:
+- Academy of Management Annals
+- Action in Teacher Education
+- Adelphi Papers
+- Adelphi Series
+- Africa Education Review
+- African Historical Review
+- African Journalism Studies
+- African Security Review
+- Agenda
+- Agrekon
+- American Foreign Policy Interests
+- Art Bulletin
+- Art Journal
+- 'Asian Affairs: An American Review'
+- Biodemography and Social Biology
+- Cape Town Convention Journal
+- Childhood Education
+- 'Communicatio: South African Journal for Communication Theory and Research'
+- Comparative Legal History
+- 'Congress and the Presidency: A Journal of Capital Studies'
+- Critical Inquiry in Language Studies
+- Economic History of Developing Regions
+- 'Ecquid Novi: African Journalism Studies'
+- Education as Change
+- Educational Forum
+- Educational Studies
+- 'English Academy Review: Southern African Journal of English Studies'
+- English Studies in Africa
+- European Competition Journal
+- European Societies
+- First World War Studies
+- International Journal of Construction Education and Research
+- Italian Studies
+- Journal of Behavioral Finance
+- Journal of Broadcasting and Electronic Media
+- Journal of Corporate Law Studies
+- Journal of Dance Education
+- Journal of Early Childhood Teacher Education
+- Journal of Hospitality and Tourism Education
+- Journal of Literary Studies
+- Journal of Media Law
+- Journal of Physical Education, Recreation and Dance
+- Journal of Private International Law
+- Journal of Radio and Audio Media
+- Journal of the Indian Ocean Region
+- Judicial Review
+- Jurisprudence
+- Kappa Delta Pi Record
+- Kings Law Journal
+- Law and Financial Markets Review
+- Law and Humanities
+- Law, Innovation and Technology
+- Legal Ethics
+- Library and Information History
+- Macroeconomics and Finance in Emerging Market Economies
+- Maritime Affairs
+- Military Balance
+- Multicultural Perspectives
+- Muziki
+- New Political Science
+- North American Actuarial Journal
+- Oxford University Commonwealth Law Journal
+- Peking University Law Journal
+- Philosophical Papers
+- Poem
+- Review of African Political Economy
+- Science and Global Security
+- 'Scrutiny2: Issues in English Studies in Southern Africa'
+- Sociological Focus
+- South African Historical Journal
+- Strategic Analysis
+- Strategic Comments
+- Strategic Survey
+- Strategies
+- Survival
+- Teacher Educator
+- Theory Into Practice
+- Theory and Research in Social Education
+- Transnational Legal Theory
+- Visitor Studies
+- Women's Studies in Communication
+- World Journal of VAT/GST Law
+parent-policies:
+- romeo_193
+- romeo_76
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

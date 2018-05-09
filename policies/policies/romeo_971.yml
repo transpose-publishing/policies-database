@@ -1,0 +1,79 @@
+policy-id: romeo_971
+publisher: AOSIS
+policy-heading: '[Default policy]'
+journals:
+- Acta Commercii
+- Africa's Public Service Delivery and Performance Review
+- African Evaluation Journal
+- African Journal of Disability
+- African Journal of Laboratory Medicine
+- African Journal of Primary Health Care and Family Medicine
+- African Vision and Eye Health
+- Bothalia - African Biodiversity and Conservation
+- Curationis
+- HTS Teologiese Studies/Theological Studies
+- Health SA Gesondheid
+- In die Skriflig
+- International Journal of Machine Learning and Application
+- Journal of Economic and Financial Sciences
+- Journal of Insulin Resistance
+- Journal of Medicinal Plants for Economic Development
+- Journal of Transport and Supply Chain Management
+- Journal of the South African Veterinary Association
+- Jàmbá
+- Koedoe
+- Literator
+- Onderstepoort Journal of Veterinary Research
+- Open Journal of Implant Dentistry
+- Pythagoras
+- Reading and Writing
+- SA Journal of Human Resource Management
+- SA Journal of Industrial Psychology
+- SA Tydskrif van Menslikehulpbronbestuur
+- SA Tydskrif vir Bedryfsielkunde
+- South African Journal of Childhood Education
+- South African Journal of Communication Disorders
+- South African Journal of Economic and Management Sciences
+- South African Journal of Information Management
+- South African Journal of Oncology
+- South African Journal of Physiotherapy
+- South African Journal of Psychiatry
+- Southern African Journal of Entrepreneurship and Small Business Management
+- TD
+- Transformation in Higher Education
+- Verbum et Ecclesia
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

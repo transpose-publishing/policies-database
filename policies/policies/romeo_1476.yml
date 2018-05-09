@@ -1,0 +1,86 @@
+policy-id: romeo_1476
+publisher: Oxford University Press (OUP)
+policy-heading: Policy B - Oxford Open Option D
+journals:
+- Acta Biochimica et Biophysica Sinica
+- Aesthetic Surgery Journal
+- Age and Ageing
+- Alcohol and Alcoholism
+- American Journal of Hypertension
+- Annals of Occupational Hygiene
+- Annals of the Entomological Society of America
+- Biological Journal of the Linnean Society
+- British Medical Bulletin
+- Environmental Entomology
+- European Journal of Orthodontics
+- FEMS Immunology and Medical Microbiology
+- FEMS Microbiology Ecology
+- FEMS Microbiology Letters
+- FEMS Microbiology Reviews
+- FEMS Yeast Research
+- Family Practice
+- Gerontologist
+- Health Education Research
+- Health Policy and Planning
+- Health Promotion International
+- Insect Systematics and Diversity
+- International Journal for Quality in Health Care
+- International Journal of Epidemiology
+- 'JNCI: Journal of the National Cancer Institute'
+- Journal of Crustacean Biology
+- Journal of Deaf Studies and Deaf Education
+- Journal of Economic Entomology
+- Journal of Language Evolution
+- Journal of Medical Entomology
+- Journal of Molecular Cell Biology
+- Journal of Pediatric Psychology
+- Journal of Plant Ecology
+- Journal of Public Health
+- Journal of Tropical Pediatrics
+- Journals of Gerontology, Series A
+- Journals of Gerontology, Series B
+- Molecular Plant
+- Neurosurgery
+- Occupational Medicine
+- Paediatrics and Child Health
+- Pathogens and Disease
+- 'QJM: An International Journal of Medicine'
+- Schizophrenia Bulletin
+- Toxicological Sciences
+- Zoological Journal of the Linnean Society
+parent-policies:
+- romeo_55
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

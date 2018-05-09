@@ -1,0 +1,72 @@
+policy-id: romeo_2053
+publisher: Wiley
+policy-heading: 12 months - No Online Open
+journals:
+- Barnläkaren
+- ChemBioEng Reviews
+- Chemical Record
+- Chemie in unserer Zeit
+- Cochrane Library
+- Economic Outlook
+- 'Electronics and Communications in Japan Part I: Communications'
+- 'Electronics and Communications in Japan Part II: Electronics'
+- 'Electronics and Communications in Japan Part III: Fundamental Electronic Science'
+- IEEJ Transactions on Electrical and Electronic Engineering
+- Japan Journal of Nursing Science
+- Journal of Chinese Philosophy
+- Journal of Dermatology
+- Journal of Engineering Education
+- Journal of Inorganic and General Chemistry
+- Journal of Neurobiology
+- Journal of Obstetrics and Gynaecology Research
+- Journal of Vector Ecology
+- Journal of the Society for Information Display
+- Microscopy and Analysis (Americas)
+- Microscopy and Analysis (Asia/Pacific)
+- Microscopy and Analysis (EMEA issue)
+- Microscopy and Analysis (Europe)
+- Microscopy and Analysis (UK)
+- Modern Law Review
+- Oil and Energy Trends
+- 'Oil and Energy Trends: Annual Statistical Review'
+- Political Quarterly
+- Sexual Medicine Reviews
+- Therapeutic Apheresis and Dialysis
+- World Oil Trade
+- World Psychiatry
+parent-policies:
+- romeo_580
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

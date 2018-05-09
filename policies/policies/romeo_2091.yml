@@ -1,0 +1,45 @@
+policy-id: romeo_2091
+publisher: National Inquiry Services Centre (NISC)
+policy-heading: 18 month embargo
+journals:
+- African Journal of Science, Technology, Innovation and Development
+- Anthropology Southern Africa
+- Eastern African Literary and Cultural Studies
+- Research in Hospitality Management
+- South African Journal of African Languages
+parent-policies:
+- romeo_568
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

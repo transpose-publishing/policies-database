@@ -1,0 +1,159 @@
+policy-id: romeo_990
+publisher: Elsevier España (Elsevier Doyma)
+policy-heading: '[Default policy]'
+journals:
+- Acta Otorrinolaringologica
+- Acta Otorrinolaringológica Española
+- Actas Dermo-Sifiliográficas
+- Actas Dermo-Sifiliográficas (English Edition)
+- Actas Urológicas Españolas
+- Actas Urológicas Españolas (English Edition)
+- Actividad Dietética
+- Allergologia et Immunopathologia
+- Anales de Pediatría
+- Anales de Pediatría Continuada
+- Angiología
+- Apunts Medicina de l'Esport
+- Archivos de Cardiología de México
+- Archivos de la Sociedad Española de Oftalmología (English Edition)
+- Atención Primaria
+- Calidad Asistencial
+- Cardiocore
+- Cirugía Española
+- Clínica e Investigación en Arteriosclerosis
+- Clínica e Investigación en Ginecología y Obstetricia
+- Cuadernos de Economía y Dirección de la Empresa
+- Diagnóstico prenatal
+- Diálisis y Trasplante
+- Endocrinología y Nutrición
+- Endocrinología y Nutrición (English Edition)
+- Endoscopia
+- Enfermedades Infecciosas y Microbiología Clínica
+- Enfermería Clínica
+- Enfermería Intensiva
+- FMC - Formación Médica Continuada en Atención Primaria
+- Farmacia Hospitalaria (English Edition)
+- Farmacia profesional
+- Farmacéuticos de Atención Primaria
+- Fisioterapia
+- Formación Médica Continuada en Atención Primaria
+- Gaceta Mexicana de Oncología
+- Gaceta Médica de Bilbao
+- Gaceta Sanitaria
+- Gastroenterología y Hepatología
+- Gastroenterología y Hepatología Continuada
+- Hipertensión y Riesgo Vascular
+- Imagen Diagnóstica
+- Inmunología
+- International Medical Review on Down Syndrome
+- Investigaciones de Historia Económica
+- JANO, Medicina y Humanidades
+- Laboratorio Clínico
+- Medicina Clínica
+- Medicina Intensiva
+- Medicina Intensiva (English Edition)
+- Medicina Paliativa
+- Medicina Universitaria
+- Neurología
+- Neurología (English Edition)
+- Neurología Argentina
+- Nosocomio
+- Nursing
+- Offarm
+- Osteopatía Científica
+- Piel
+- Prehospital Emergency Care (Edición Española)
+- Progresos de Obstetricia y Ginecología
+- Psiquiatría Biológica
+- Quintessence
+- Quintessence Técnica
+- REEMO
+- Radiología
+- Radiología (English Edition)
+- Rehabilitación
+- Rehabilitación Psicosocial
+- Reumatología Clínica
+- Reumatología Clínica (English Edition)
+- Revista Alergia México
+- Revista Andaluza de Medicina del Deporte
+- Revista Científica de la Sociedad Española de Enfermería Neurológica
+- Revista Clínica Española
+- Revista Española de Cardiología
+- Revista Española de Cardiología (English Edition)
+- Revista Española de Cardiología Suplementos
+- Revista Española de Cirugía Oral y Maxilofacial
+- Revista Española de Cirugía Ortopédica y Traumatología
+- Revista Española de Enfermedades Metabólicas Óseas
+- Revista Española de Geriatría y Gerontología
+- Revista Española de Medicina Legal
+- Revista Española de Medicina Nuclear
+- Revista Española de Nutrición Comunitaria
+- Revista Española de Nutrición Humana y Dietética
+- Revista Española de Patología
+- Revista Iberoamericana de Automática e Informática Industrial RIAI
+- Revista Iberoamericana de Fisioterapia y Kinesiologia
+- Revista Iberoamericana de Micología
+- Revista Internacional de Acupuntura
+- Revista Internacional de Andrología
+- Revista Mexicana de Oftalmología
+- Revista Mexicana de Urología
+- Revista Médica Internacional sobre el Síndrome de Down
+- Revista Médica de Homeopatía
+- Revista Médica del Hospital General de Mexico
+- Revista Portuguesa de Cardiología
+- Revista Portuguesa de Estomatologia, Medicina Dentária e Cirugia Maxilofacial
+- Revista Portuguesa de Estomatologia, Medicina Dentária e Cirurgia Maxilofacial
+- Revista de Administración Sanitaria Siglo XXI
+- Revista de Calidad Asistencial
+- Revista de Gastroenterología de México
+- Revista de Logopedia, Foniatría y Audiología
+- Revista de Patología Respiratoria
+- Revista de Psiquiatría y Salud Mental
+- Revista de Psiquiatría y Salud Mental (English Edition)
+- Revista de la Sociedad Andaluza de Traumatología y Ortopedia
+- Revista de la Sociedad Española del Dolor
+- Revista del Laboratorio Clínico
+- Semergen - Medicina de Familia
+- Seminarios de la Fundación Española de Reumatología
+- Spanish Review of Financial Economics
+- Trastornos Adictivos
+- Técnicas Quirúrgicas en Ortopedia y Traumatología
+- Vacunas
+- Vacunas. Investigación y Práctica
+- Vigilia-Sueño
+parent-policies:
+- romeo_30
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

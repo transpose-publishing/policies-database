@@ -1,0 +1,82 @@
+policy-id: romeo_686
+publisher: Universidad Nacional de Colombia
+policy-heading: '[Default policy]'
+journals:
+- Acta Agronómica
+- Acta Biológica Colombiana
+- Agronomía Colombiana
+- Anuario Colombiano de Historia Social y de la Cultura
+- Avances Recursos Hidráulicos
+- Avances en Enfermería
+- Avances en Sistemas e Informática
+- Bitácora urbano-territorial
+- Boletín del Observatorio en Salud
+- Caldasia
+- Ciencia Política
+- Cuadernos de Economía
+- Cuadernos de Geografía - Revista Colombiana de Geografía
+- DYNA
+- Desde el Jardín de Freud Revista de Psicoanálisis
+- Earth Sciences Research Journal
+- Energética
+- Ensayos de Economía
+- Forma y Función
+- Gestión y Ambiente
+- HiSTOReLo. Revista de historia regional y local
+- Historia y Sociedad
+- Ideas y valores
+- Ingeniería e Investigación
+- Innovar
+- MOMENTO - Revista de Física
+- Maguaré
+- Morfolia
+- Mundo Amazónico
+- PROFILE Issues in Teachers' Professional Development
+- 'Palimpsestvs: Revista de la Facultad de Ciencias Humanas'
+- Revista Boletín Ciencias de la Tierra
+- Revista Colombiana de Biotecnología
+- Revista Colombiana de Ciencias Químico Farmacéuticas
+- Revista Colombiana de Estadística
+- Revista Colombiana de Psicología
+- Revista Colombiana de Química
+- Revista Colombiana de Sociología
+- Revista Facultad de Medicina
+- Revista Trabajo Social
+- Revista de Salud Pública
+- Revista de la Facultad de Medicina Veterinaria y de Zootecnia
+parent-policies: []
+child-policies:
+- romeo_1681
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

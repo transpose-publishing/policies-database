@@ -1,0 +1,52 @@
+policy-id: romeo_1469
+publisher: EDP Open
+policy-heading: '[Default policy]'
+journals:
+- Cahiers Agricultures
+- Ciência e Técnica Vitivinícola
+- EPJ Applied Metamaterials
+- EPJ N - Nuclear Sciences and Technologies
+- Manufacturing Review
+- OCL
+- Oil and Gas Science and Technology
+- Oilseeds and fats, Crops and Lipids
+- Parasite
+- Renewable Energy and Environmental Sustainability
+- SICOT-J
+- Sustainable Buildings
+parent-policies:
+- romeo_137
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

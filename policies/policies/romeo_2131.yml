@@ -1,0 +1,70 @@
+policy-id: romeo_2131
+publisher: Science Publications
+policy-heading: '[Default policy]'
+journals:
+- American Journal of Agricultural and Biological Sciences
+- American Journal of Animal and Veterinary Sciences
+- American Journal of Applied Sciences
+- American Journal of Biochemistry and Biotechnology
+- American Journal of Bioinformatics
+- American Journal of Biostatistics
+- American Journal of Economics and Business Administration
+- American Journal of Engineering and Applied Sciences
+- American Journal of Environmental Sciences
+- American Journal of Geoscience
+- American Journal of Immunology
+- American Journal of Infectious Diseases
+- American Journal of Microbiology
+- American Journal of Nanotechnology
+- American Journal of Neuroscience
+- American Journal of Pharmacology and Toxicology
+- American Journal of Space Science
+- American Journal of Virology
+- American Medical Journal
+- Current Research in Dentistry
+- Current Research in Drug Discovery
+- Current Research in Psychology
+- Energy Research Journal
+- International Journal of Research in Nursing
+- International Journal of Structural Glass and Advanced Materials Research
+- Journal of Computer Science
+- Journal of Mathematics and Statistics
+- Journal of Organic and Biomolecular Simulations
+- Journal of Social Sciences
+- OnLine Journal of Biological Sciences
+- Physics International
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,52 @@
+policy-id: romeo_815
+publisher: Purdue University Press
+policy-heading: '[Default policy]'
+journals:
+- 'CLCWeb: Comparative Literature and Culture'
+- 'Claritas: Journal of Dialogue and Culture'
+- 'Education and Culture: The Journal of the John Dewey Society'
+- First Opinions, Second Reactions
+- Interdisciplinary Journal of Problem-based Learning
+- Journal of Aviation Technology and Engineering
+- Journal of Human Performance in Extreme Environments
+- Journal of Pre-College Engineering Education Research
+- Journal of Problem Solving
+- Journal of Purdue Undergraduate Research
+- 'Shofar: An Interdisciplinary Journal of Jewish Studies'
+parent-policies: []
+child-policies:
+- romeo_2884
+- romeo_2885
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,57 @@
+policy-id: romeo_16
+publisher: American Society for Microbiology
+policy-heading: '[Default policy]'
+journals:
+- Antimicrobial Agents and Chemotherapy
+- Applied and Environmental Microbiology
+- Clinical Microbiology Reviews
+- Clinical and Diagnostic Laboratory Immunology
+- Clinical and Vaccine Immunology
+- Eukaryotic Cell
+- Genome Announcements
+- Infection and Immunity
+- Journal of Bacteriology
+- Journal of Clinical Microbiology
+- Journal of Virology
+- Microbiology Spectrum
+- Microbiology and Molecular Biology Reviews
+- Molecular and Cellular Biology
+- mBio
+- mSphere
+- mSystems
+parent-policies: []
+child-policies:
+- romeo_1629
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

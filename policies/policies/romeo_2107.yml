@@ -1,0 +1,75 @@
+policy-id: romeo_2107
+publisher: Thieme Open
+policy-heading: '[Default policy]'
+journals:
+- American Journal of Perinatology Reports
+- Brazilian Neurosurgery
+- CMTR Open
+- CRC
+- Craniomaxillofacial Trauma and Reconstruction Open
+- 'Current Research: Concussion'
+- Endoscopy International Open
+- European Journal of Pediatric Surgery Reports
+- Experimental and Clinical Endocrinology and Diabetes Reports
+- International Archives of Otorhinolaryngology
+- JAO
+- JCS
+- Journal of Academic Ophthalmology
+- Journal of Brachial Plexus and Peripheral Nerve Injury
+- Journal of Child Science
+- Journal of Clinical and Academic Ophthalmology
+- Journal of Knee Surgery Reports
+- Journal of Neurological Surgery Reports
+- Journal of Reconstructive Microsurgery Open
+- Metabolism and Nutrition in Oncology
+- PMIO
+- Planta Medica International Open
+- Planta Medica Letters
+- RBGO
+- RBGO Gynecology and Obstetrics
+- Revista Brasileira de Ginecologia e Obstetrícia
+- SMIO
+- Sports Medicine International Open
+- Surgery Journal
+- SynOpen
+- TSCR
+- TSJ
+- Thoracic and Cardiovascular Surgeon Reports
+- Ultrasound International Open
+parent-policies:
+- romeo_366
+child-policies:
+- romeo_2972
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

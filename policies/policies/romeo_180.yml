@@ -1,0 +1,61 @@
+policy-id: romeo_180
+publisher: Scientific Journals International (SJI)
+policy-heading: '[Default policy]'
+journals:
+- Journal of Accounting, Taxation and Performance Evaluation
+- Journal of Advertising, Public Relations and Marketing
+- Journal of Agricultural, Food and Environmental Sciences
+- Journal of Business and Public Affairs
+- Journal of Creative Work
+- Journal of Dentistry, Oral Medicine and Dental Education
+- Journal of Dissertations
+- Journal of Economics, Banking and Finance
+- Journal of Education and Human Development
+- Journal of Humanities and Social Sciences
+- Journal of Interdisciplinary and Multidisciplinary Research
+- Journal of International and Cross-Cultural Studies
+- Journal of Law, Ethics and Intellectual Property
+- Journal of Literature, Language and Linguistics
+- Journal of Medical and Biological Sciences
+- Journal of Multicultural, Gender and Minority Studies
+- Journal of Nursing, Allied Health and Health Education
+- Journal of Psychiatry, Psychology and Mental Health
+- Journal of Research Methods and Methodological Issues
+- Journal of Reviews International
+- Journal of Sports and Recreation Research and Education
+- Journal of Unconventional Theories and Research
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

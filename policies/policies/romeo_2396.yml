@@ -1,0 +1,48 @@
+policy-id: romeo_2396
+publisher: Chitkara University Publications
+policy-heading: '[Default policy]'
+journals:
+- Creative Space
+- Issues and Ideas in Education
+- Journal of Chemistry, Environmental Sciences and its Applications
+- Journal of Multidisciplinary Research in Healthcare
+- Journal of Nuclear Physics, Material Sciences, Radiation and Applications
+- Journal of Pharmaceutical Technology, Research and Management
+- Journal of Technology Management for Growing Economies
+- Journal of Today's Ideas - Tomorrow's Technologies
+- Mathematical Journal of Interdisciplinary Sciences
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

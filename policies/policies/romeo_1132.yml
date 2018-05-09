@@ -1,0 +1,91 @@
+policy-id: romeo_1132
+publisher: Ubiquity Press
+policy-heading: '[Default policy]'
+journals:
+- ARENA Journal of Architectural Research
+- Ancient Asia
+- Archaeology International
+- Architectural Histories
+- Bulletin of the History of Archaeology
+- 'Citizen Science: Theory and Practice'
+- Cultural Science Journal
+- Data Science Journal
+- Digital Medievalist
+- Glocality
+- Glossa
+- Governance in Africa
+- Health Psychology Bulletin
+- Insights
+- International Journal of Driving Science
+- International Journal of Integrated Care
+- International Journal of Orthoplastic Surgery
+- International Review of Social Psychology
+- Journal Belge de Radiologie
+- Journal of Circadian Rhythms
+- Journal of Cognition
+- Journal of Conservation and Museum Studies
+- Journal of European Psychology Students
+- Journal of Molecular Signaling
+- Journal of Open Archaeology Data
+- Journal of Open Hardware
+- Journal of Open Humanities Data
+- Journal of Open Psychology Data
+- Journal of Open Research Software
+- Journal of Portuguese Linguistics
+- Journal of Terrorism Research
+- Journal of the Belgian Society of Radiology
+- 'KULA: Knowledge Creation, Dissemination, and Preservation Studies'
+- Laboratory Phonology
+- 'MaHKUscript: Journal of Fine Art Research'
+- Merkourios
+- Middle Atlantic Review of Latin American Studies
+- Open Health Data
+- Open Journal of Bioresources
+- Open Quaternary
+- Opticon1826
+- Papers from the Institute of Archaeology
+- Present Pasts
+- Psychologica Belgica
+- Scandinavian Journal of Military Studies
+- Secularism and Nonreligion
+- Serials
+- Stability
+- Transactions of the International Society for Music Information Retrieval
+- ULA
+- Utrecht Journal of International and European Law
+- 'Worldwide Waste: Journal of Interdisciplinary Studies'
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,46 @@
+policy-id: romeo_1468
+publisher: Elsevier (Cell Press)
+policy-heading: OAJ
+journals:
+- Cell Reports
+- Molecular Therapy - Methods and Clinical Development
+- Molecular Therapy - Nucleic Acids
+- Molecular Therapy - Oncolytics
+- Stem Cell Reports
+parent-policies:
+- romeo_131
+- romeo_30
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

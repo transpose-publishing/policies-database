@@ -1,0 +1,130 @@
+policy-id: romeo_2130
+publisher: Cambridge University Press (CUP)
+policy-heading: HSS Journals - No Cambridge Open
+journals:
+- AJS Review
+- Africa Bibliography
+- African Studies Review
+- Americas
+- Annual of the British School at Athens
+- Antiquaries Journal
+- Archaeological Reports
+- Asian Journal of Comparative Law
+- Australasian Journal of Organisational Psychology
+- Australasian Journal of Special Education
+- Australian Journal of Environmental Education
+- Austrian History Yearbook
+- Britannia
+- British Catholic History
+- Business History Review
+- Byzantine and Modern Greek Studies
+- Cambridge Classical Journal
+- Camden Fifth Series
+- Canadian Journal of Law and Jurisprudence
+- Canadian Journal of Linguistics
+- Canadian Journal of Political Science
+- Central European History
+- Children Australia
+- 'Church History: Studies in Christianity and Culture'
+- Classical Quarterly
+- Classical Review
+- Dance Research Journal
+- 'Du Bois Review: Social Science Research on Race'
+- Early China
+- Ecclesiastical Law Journal
+- European Constitutional Law Review
+- Financial History Review
+- Government and Opposition
+- Greece and Rome
+- Harvard Theological Review
+- Hegel Bulletin
+- History in Africa
+- Horizons
+- International Journal of Cultural Property
+- International Labor and Working-Class History
+- International Organization
+- International Review of Social History
+- International Review of the Red Cross
+- International and Comparative Law Quarterly
+- Itinerario
+- Journal of Asian Studies
+- Journal of Economic History
+- Journal of Experimental Political Science
+- Journal of Germanic Linguistics
+- Journal of Hellenic Studies
+- Journal of Law and Religion
+- Journal of Linguistic Geography
+- Journal of Linguistics
+- Journal of Management and Organization
+- Journal of Policy History
+- Journal of Roman Studies
+- Journal of Southeast Asian Studies
+- Journal of Wine Economics
+- Journal of the Gilded Age and Progressive Era
+- Journal of the History of Economic Thought
+- Kantian Review
+- Legal Studies
+- Libyan Studies
+- Management and Organization Review
+- Netherlands Yearbook of International Law
+- Network Science
+- New Surveys in the Classics
+- 'PS: Political Science and Politics'
+- Papers of the British School at Rome
+- Perspectives on Politics
+- Philosophy
+- Political Science Research and Methods
+- Politics and Gender
+- Politics and Religion
+- Ramus
+- Review of Middle East Studies
+- Revista de Historia Económica
+- Revue canadienne de linguistique
+- Revue canadienne de science politique
+- Royal Institute of Philosophy Supplement
+- Royal Institute of Philosophy Supplements
+- Social Philosophy and Policy
+- 'TRaNS: Trans-Regional and -National Studies of Southeast Asia'
+- Theatre Research International
+- Theatre Survey
+- Think
+- Traditio
+- World Politics
+- World Trade Review
+- Yearbook of International Humanitarian Law
+parent-policies:
+- romeo_27
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,104 @@
+policy-id: romeo_3007
+publisher: Termedia Publishing
+policy-heading: '[Default policy]'
+journals:
+- Advances in Dermatology and Allergology
+- Advances in Head and Neck Surgery
+- Advances in Interventional Cardiology
+- Archives of Forensic Medicine and Criminology
+- Archives of Medical Science
+- Archives of Medical Science - Atherosclerotic Diseases
+- Archives of Medical Science - Civilization Diseases
+- Archiwum Medycyny Sądowej i Kryminologii
+- BioTechnologia
+- Biology of Sport
+- Cardio-Diabetological Review
+- Central European Journal of Immunology
+- Clinical and Experimental Hepatology
+- Contemporary Oncology
+- Current Issues in Personality Psychology
+- Dermatology Review
+- Family Medicine & Primary Care Review
+- Folia Neuropathologica
+- Gastroenterology Review
+- General Practitioner
+- Ginekologia Praktyczna
+- Guide for GPs
+- Health Manager
+- Health Problems of Civilization
+- Health Psychology Report
+- Journal of Contemporary Brachytherapy
+- Journal of Health Inequalities
+- Kardiochirurgia i Torakochirurgia Polska
+- Kardiologia Oparta na Faktach
+- Kardiologia na co Dzień
+- Lekarz POZ
+- Medical Studies
+- Medycyna Paliatywna
+- Menedżer Zdrowia
+- Menopause Review
+- Neuropsychiatria i Neuropsychologia
+- Neuropsychiatry and Neuropsychology
+- Nutrition, Obesity and Metabolic Surgery
+- Palliative Medicine
+- Phlebological Review
+- Pielęgniarstwo Chirurgiczne i Angiologiczne
+- Polish Journal of Pathology
+- Polish Journal of Thoracic and Cardiovascular Surgery
+- Postępy Dermatologii i Alergologii
+- Postępy w Kardiologii Interwencyjnej
+- Postępy w chirurgii głowy i szyi
+- Practical Gynaecology
+- Przegląd Dermatologiczny
+- Przegląd Gastroenterologiczny
+- Przegląd Kardiodiabetologiczny
+- Przegląd Menopauzalny
+- Przewodnik Lekarza
+- Psychoonkologia
+- Reumatologia
+- Reumatologia News
+- Rheumatology
+- Studia Medyczne
+- Surgical and Vascular Nursing
+- Videosurgery and Other Miniinvasive Techniques
+- Wideochirurgia i inne techniki małoinwazyjne
+- Wielkopolska Izba Lekarska - Biuletyn Informacyjny
+- Współczesna Onkologia
+- eOnkologiaNews
+- ePrzewodnikLekarza
+- eReumatologiaNews
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

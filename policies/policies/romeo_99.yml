@@ -1,0 +1,46 @@
+policy-id: romeo_99
+publisher: Association for the Advancement of Computing in Education
+policy-heading: '[Default policy]'
+journals:
+- AACE Journal
+- Contemporary Issues in Technology and Teacher Education
+- International Journal on E-Learning
+- Journal of Computers in Mathematics and Science Teaching
+- Journal of Educational Multimedia and Hypermedia
+- Journal of Interactive Learning Research
+- Journal of Technology and Teacher Education
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,62 @@
+policy-id: romeo_689
+publisher: German Medical Science
+policy-heading: '[Default policy]'
+journals:
+- GMS Current Posters in Otorhinolaryngology - Head and Neck Surgery
+- GMS Current Topics in Computer and Robot Assisted Surgery
+- GMS Current Topics in Otorhinolaryngology - Head and Neck Surgery
+- GMS German Medical Science - an Interdisciplinary Journal
+- GMS German Plastic, Reconstructive and Aesthetic Surgery - Burn and Hand Surgery
+- GMS Health Technology Assessment
+- GMS Hygiene and Infection Control
+- GMS Infectious Diseases
+- GMS Interdisciplinary Plastic and Reconstructive Surgery DGPW
+- GMS Journal for Medical Education
+- GMS Krankenhaushygiene Interdisziplinär
+- GMS Medizin - Bibliothek - Information
+- GMS Medizinische Informatik, Biometrie und Epidemiologie
+- GMS Mitteilungen aus der AWMF
+- GMS Onkologische Rehabilitation und Sozialmedizin
+- GMS Ophthalmology Cases
+- GMS Psycho-Social-Medicine
+- GMS Thoracic Surgical Science
+- GMS Verbrennungsmedizin
+- GMS Zeitschrift für Medizinische Ausbildung
+- GMS Zeitschrift zur Förderung der Qualitätssicherung in medizinischen Laboratorien
+- German Journal for Medical Education
+parent-policies: []
+child-policies:
+- romeo_2263
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

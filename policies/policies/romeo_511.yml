@@ -1,0 +1,47 @@
+policy-id: romeo_511
+publisher: WIT Press
+policy-heading: '[Default policy]'
+journals:
+- International Journal of Computational Methods and Experimental Measurements
+- International Journal of Design and Nature and Ecodynamics
+- International Journal of Energy Production and Management
+- International Journal of Environmental Impacts
+- International Journal of Heritage Architecture
+- International Journal of Safety and Security Engineering
+- International Journal of Sustainable Development and Planning
+- International Journal of Transport Development and Integration
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

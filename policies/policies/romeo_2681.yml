@@ -1,0 +1,50 @@
+policy-id: romeo_2681
+publisher: Universidade do Sul de Santa Catarina
+policy-heading: '[Default policy]'
+journals:
+- Cadernos Acadêmicos
+- Cadernos de Naturologia e Terapias Complementares
+- Journal of Research in Dentistry
+- Linguagem em (Dis)curso
+- Poiésis - Revista do Programa de Pós-Graduação em Educação
+- Revista Científica Ciência em Curso
+- Revista Crítica Cultural
+- Revista Eletrônica de Estratégia & Negócios
+- Revista Gestão & Sustentabilidade Ambiental
+- Revista Memorare
+- Unisul de Fato e de Direito
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,127 @@
+policy-id: romeo_2127
+publisher: Cambridge University Press (CUP)
+policy-heading: STM Journals
+journals:
+- AI EDAM
+- Acta Neuropsychiatrica
+- Acta Numerica
+- Aeronautical Journal
+- Animal Health Research Reviews
+- Antarctic Science
+- Behavioral and Brain Sciences
+- Bird Conservation International
+- Bulletin of Entomological Research
+- CNS Spectrums
+- Cambridge Quarterly of Healthcare Ethics
+- Canadian Entomologist
+- Canadian Journal of Emergency Medicine
+- Cardiology in the Young
+- Combinatorics, Probability and Computing
+- Development and Psychopathology
+- Disaster Medicine and Public Health Preparedness
+- Earth and Environmental Science Transactions of the Royal Society of Edinburgh
+- Environmental Conservation
+- Epidemiology and Infection
+- Epidemiology and Psychiatric Sciences
+- Ergodic Theory and Dynamical Systems
+- European Journal of Applied Mathematics
+- Experimental Agriculture
+- Expert Reviews in Molecular Medicine
+- Fetal and Maternal Medicine Review
+- Genetics Research
+- Geological Magazine
+- Infection Control and Hospital Epidemiology
+- International Journal of Astrobiology
+- International Journal of Microwave and Wireless Technologies
+- International Journal of Tropical Insect Science
+- International Psychogeriatrics
+- Irish Journal of Psychological Medicine
+- Journal of Agricultural Science
+- Journal of Applied Animal Nutrition
+- Journal of Biosocial Science
+- Journal of Developmental Origins of Health and Disease
+- Journal of Fluid Mechanics
+- Journal of Functional Programming
+- Journal of Helminthology
+- Journal of Laryngology and Otology
+- Journal of Materials Research
+- Journal of Mechanics
+- Journal of Navigation
+- Journal of Plasma Physics
+- Journal of Radiotherapy in Practice
+- Journal of Relationships Research
+- Journal of Smoking Cessation
+- Journal of Tropical Ecology
+- Journal of Tropical Psychology
+- Journal of the Institute of Mathematics of Jussieu
+- Journal of the Marine Biological Association of the UK
+- Knowledge Engineering Review
+- Laser and Particle Beams
+- Lichenologist
+- MRS Communications
+- MRS Energy and Sustainability
+- Marine Biodiversity Records
+- Mathematical Structures in Computer Science
+- Microscopy and Microanalysis
+- Nagoya Mathematical Journal
+- Natural Language Engineering
+- Neuron Glia Biology
+- Oryx
+- Palliative and Supportive Care
+- Parasitology
+- Plant Genetic Resources
+- Polar Record
+- Primary Health Care Research and Development
+- Probability in the Engineering and Informational Sciences
+- Proceedings of the Edinburgh Mathematical Society
+- Proceedings of the Prehistoric Society
+- Psychological Medicine
+- Publications of the Astronomical Society of Australia
+- Quarterly Reviews of Biophysics
+- Quaternary Research
+- Renewable Agriculture and Food Systems
+- Reviews in Clinical Gerontology
+- Robotica
+- Seed Science Research
+- Spanish Journal of Psychology
+- Theory and Practice of Logic Programming
+- Visual Neuroscience
+- Wireless Power Transfer
+- Zygote
+- animal
+parent-policies:
+- romeo_27
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

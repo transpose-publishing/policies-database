@@ -1,0 +1,67 @@
+policy-id: romeo_604
+publisher: Presses Universitaires de France
+policy-heading: '[Default policy]'
+journals:
+- Actes de savoirs
+- Actuel Marx
+- Année Sociologique
+- Année balzacienne
+- Année épigraphique
+- Cahiers Internationaux de Sociologie
+- Cités
+- Diogène
+- Droits, Revue française de théorie, de philosophie et de cultures juridiques
+- Ethnologie française
+- Guerres mondiales et conflits contemporains
+- Linguistique
+- Nouvelle revue d'esthétique
+- Psychiatrie de l'enfant
+- Relations internationales
+- Revue archéologique
+- Revue d'Assyriologie et d'archéologie orientale
+- Revue d'histoire littéraire de la France
+- Revue de métaphysique et de morale
+- Revue française de droit constitutionnel
+- Revue française de psychanalyse
+- Revue française de psychosomatique
+- Revue historique
+- Revue philosophique de la France et de l'étranger
+- Rue Descartes
+- Travail humain
+- XVIIe siècle
+- Études philosophiques
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

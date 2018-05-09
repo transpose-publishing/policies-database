@@ -1,0 +1,72 @@
+policy-id: romeo_300
+publisher: Human Kinetics
+policy-heading: '[Default policy]'
+journals:
+- Active Aging Today
+- Adapted Physical Activity Quarterly
+- CSSM
+- Case Studies in Sport Management
+- ISCJ
+- International Journal inf Golf Science
+- International Journal of Aquatic Research and Education
+- International Journal of Athletic Therapy and Training
+- International Journal of Sport Communication
+- International Journal of Sport Nutrition and Exercise Metabolism
+- International Journal of Sports Physiology and Performance
+- International Sport Coaching Journal
+- JLAS
+- Journal of Aging and Physical Activity
+- Journal of Applied Biomechanics
+- Journal of Clinical Sport Psychology
+- Journal of Intercollegiate Sport
+- Journal of Legal Aspects of Sport
+- Journal of Motor Learning and Development
+- Journal of Physical Activity and Health
+- Journal of Sport Management
+- Journal of Sport Rehabilitation
+- Journal of Sport and Exercise Psychology
+- Journal of Teaching in Physical Education
+- Motor Control
+- Pediatric Exercise Science
+- Recreational Sport Journal
+- SMEJ
+- Sociology of Sport Journal
+- Sport History Review
+- Sport Management Education Journal
+- Sport Psychologist
+- Women in Sport and Physical Activity Journal
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

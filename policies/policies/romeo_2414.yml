@@ -1,0 +1,47 @@
+policy-id: romeo_2414
+publisher: Universidad de Jaén, Centro de Profesorado Sagrada Familia de Ubenda
+policy-heading: '[Default policy]'
+journals:
+- Agua y Territorio
+- Grove - Working Papers on English Studies
+- Journal of Nematode Morphology and Systematics
+- Revista Electrónica de Investigación y Docencia
+- Revista Estudios Jurídicos. Segunda Época
+- Revista de Antropología Experimental
+parent-policies: []
+child-policies:
+- romeo_2825
+- romeo_2826
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

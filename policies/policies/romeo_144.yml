@@ -1,0 +1,55 @@
+policy-id: romeo_144
+publisher: Multi-Science Publishing
+policy-heading: '[Default policy]'
+journals:
+- Biomass Bulletin
+- Building Acoustics
+- International Journal of Aeroacoustics
+- International Journal of Aerospace Innovations
+- International Journal of Emerging Multidisciplinary Fluid Sciences
+- International Journal of Flow Control
+- International Journal of Heritage in the Digital Era
+- International Journal of Hypersonics
+- International Journal of Micro-Nano Scale Transport
+- International Journal of Protective Structures
+- International Journal of Transportation Science and Technology
+- Noise Notes
+- Noise and Vibration Bulletin
+- Noise and Vibration Worldwide
+- Noise and Vibration in Industry
+- Wind Engineering Abstracts
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

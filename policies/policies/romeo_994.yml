@@ -1,0 +1,144 @@
+policy-id: romeo_994
+publisher: Bioinfo Publications
+policy-heading: '[Default policy]'
+journals:
+- Advances in Computational Research
+- Advances in Information Mining
+- Advances in Medical Informatics
+- BIOINFO Aquatic Ecosystem
+- BIOINFO Business Economics
+- BIOINFO Business Management
+- BIOINFO Computational Mathematics
+- BIOINFO Computational Optimization
+- BIOINFO Computer Engineering
+- BIOINFO Drug Targets
+- BIOINFO Environment and Pollution
+- BIOINFO Financial Management
+- BIOINFO Genetic Programming
+- BIOINFO Journal of Proteomics
+- BIOINFO Mechanical Engineering
+- BIOINFO Medical Imaging
+- BIOINFO Optimization Theory and Applications
+- BIOINFO Pharmaceutical Biotechnology
+- BIOINFO Project Management
+- BIOINFO Renewable and Sustainable Energy
+- BIOINFO Security Informatics
+- BIOINFO Sensor Networks
+- BIOINFO Sociology
+- BIOINFO Soft Computing
+- BIOINFO Systems Engineering
+- BIOINFO Vaccine Sciences
+- Food science and Technology Letters
+- Geoscience Research
+- Information Science and Technology
+- International Journal of Advances in Embedded Systems
+- International Journal of Agriculture Sciences
+- International Journal of Bioinformatics Research
+- International Journal of Biotechnology Applications
+- International Journal of Chemical Research
+- International Journal of Computational Biology
+- International Journal of Computational Intelligence Techniques
+- International Journal of Cryptography and Security
+- International Journal of Cybernetics and Systemics
+- International Journal of Drug Discovery
+- International Journal of Economics and Business Modeling
+- International Journal of Genetics
+- International Journal of Genomics and Proteomics
+- International Journal of Humanity and Social Sciences
+- International Journal of Immunology Research
+- International Journal of Knowledge Engineering
+- International Journal of Machine Intelligence
+- International Journal of Medical and Clinical Research
+- International Journal of Microbiology Research
+- International Journal of Molecular Biology
+- International Journal of Multimedia
+- International Journal of Networking
+- International Journal of Neural Networks
+- International Journal of Parallel and Distributed Systems
+- International Journal of Parasitology Research
+- International Journal of Pharmaceuticals Analysis
+- International Journal of Public Health and Human Rights
+- International Journal of Robotics Applications
+- International Journal of Speech and Language Processing
+- International Journal of Systems Biology
+- International Journal of Wireless Communication
+- International Journal of Zoology Research
+- Journal of Analytical Techniques
+- Journal of Artificial Intelligence
+- Journal of Arts and Culture
+- Journal of Biomedical and Bioengineering
+- Journal of Biometrics
+- Journal of Biotechnology Letters
+- Journal of Botanical Research
+- Journal of Business Excellence
+- Journal of Clinical Research Letters
+- Journal of Computational Linguistics
+- Journal of Computational Simulation and Modeling
+- Journal of Crop Science
+- Journal of Data Mining and Knowledge Discovery
+- Journal of Ecology and Environmental Sciences
+- Journal of Education
+- Journal of Electronic and Electrical Engineering
+- Journal of Enzyme Research
+- Journal of Fisheries and Aquaculture
+- Journal of Grid and Distributed Computing
+- Journal of High Performance Computing
+- Journal of Horticulture Letters
+- Journal of Infectious Diseases Letters
+- Journal of Information Systems and Communication
+- Journal of Information and Operations Management
+- Journal of Intelligence Systems
+- Journal of Machine Learning Technologies
+- Journal of Pathology Research
+- Journal of Pattern Intelligence
+- Journal of Pharmacognosy
+- Journal of Pharmacology Research
+- Journal of Physics
+- Journal of Plant Genomics
+- Journal of Policy and Organisational Management
+- Journal of Signal and Image Processing
+- Journal of Soil Science
+- Journal of Statistics and Mathematics
+- Journal of Toxicology Research
+- Journal of Virology Research
+- Medical Case Reports
+- Nanotechnology and Nanoscience
+- Neuroscience Research Letters
+- Software Engineering
+- Veterinary Science Research
+- World Research Journal of Applied Medicinal Chemistry
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

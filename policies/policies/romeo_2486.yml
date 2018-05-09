@@ -1,0 +1,51 @@
+policy-id: romeo_2486
+publisher: Universidad Pedagógica y Tecnológica de Colombia, Facultad de Ingeniería
+policy-heading: '[Default policy]'
+journals:
+- Business Concern (Inquietud Empresarial)
+- Colombian Journal of Horticultural Science (Revista Colombiana de Ciencias Hortícolas)
+- Enletawa Journal
+- Health and Society (Salud & Sociedad)
+- Health magazine, History and Health On-Line (Revista Salud, Historia Y Sanidad On-Line)
+- History and memory (Historia y MEMORIA)
+- Journal of Hispanic language (Cuadernos de Lingüística Hispánica)
+- Journal of Psychology (Cuadernos de Psicopedagogía )
+- Notes of Cenes (Revista Apuntes del CENES)
+- Research and Development Engineering (Ingeniería Investigación y Desarrollo)
+- Science and agriculture (Revista Ciencia y Agricultura )
+- Science in development (Revista Ciencia en Desarrollo)
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

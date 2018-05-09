@@ -1,0 +1,93 @@
+policy-id: romeo_600
+publisher: Frontiers Media
+policy-heading: '[Default policy]'
+journals:
+- Frontiers in Aging Neuroscience
+- Frontiers in Astronomy and Space Sciences
+- Frontiers in Behavioral Neuroscience
+- Frontiers in Bioengineering and Biotechnology
+- Frontiers in Built Environment
+- Frontiers in Cardiovascular Medicine
+- Frontiers in Cell and Developmental Biology
+- Frontiers in Cellular Neuroscience
+- Frontiers in Cellular and Infection Microbiology
+- Frontiers in Chemistry
+- Frontiers in Computational Neuroscience
+- Frontiers in Digital Humanities
+- Frontiers in Earth Science
+- Frontiers in Ecology Evolution
+- Frontiers in Ecology and Evolution
+- Frontiers in Endocrinology
+- Frontiers in Energy Research
+- Frontiers in Environmental Science
+- Frontiers in Evolutionary Neuroscience
+- Frontiers in Genetics
+- Frontiers in Human Neuroscience
+- Frontiers in ICT
+- Frontiers in Immunology
+- Frontiers in Integrative Neuroscience
+- Frontiers in Marine Science
+- Frontiers in Materials
+- Frontiers in Mechanical Engineering
+- Frontiers in Medicine
+- Frontiers in Microbiology
+- Frontiers in Molecular Biosciences
+- Frontiers in Molecular Neuroscience
+- Frontiers in Neural Circuits
+- Frontiers in Neuroanatomy
+- Frontiers in Neuroenergetics
+- Frontiers in Neuroengineering
+- Frontiers in Neuroinformatics
+- Frontiers in Neurology
+- Frontiers in Neurorobotics
+- Frontiers in Neuroscience
+- Frontiers in Nutrition
+- Frontiers in Oncology
+- Frontiers in Pediatrics
+- Frontiers in Pharmacology
+- Frontiers in Physics
+- Frontiers in Physiology
+- Frontiers in Plant Science
+- Frontiers in Psychiatry
+- Frontiers in Psychology
+- Frontiers in Public Health
+- Frontiers in Robotics and AI
+- Frontiers in Surgery
+- Frontiers in Synaptic Neuroscience
+- Frontiers in Systems Neuroscience
+- Frontiers in Veterinary Science
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,61 @@
+policy-id: romeo_473
+publisher: Wichtig
+policy-heading: '[Default policy]'
+journals:
+- European Journal of Ophthalmology
+- Geriatric and Medical Intelligence
+- Giornale Italiano di Nefrologia
+- Giornale di Tecniche Nefrologiche e Dialitiche
+- Global and Regional Health Technology Assessment
+- Heart International
+- Hip International
+- Journal of Applied Biomaterials and Biomechanics
+- Journal of Applied Biomaterials and Functional Materials
+- Journal of Endometriosis
+- Journal of Endometriosis and Pelvic Pain Disorders
+- Journal of Scleroderma and Related Disorders
+- Journal of Vascular Access
+- Nephrology @ Point of Care
+- Nephrology Research and Reviews
+- Nephrology Reviews
+- Nutritional Therapy and Metabolism
+- Tumori Journal
+- Urologia
+- international Journal of Biological Markers
+parent-policies: []
+child-policies:
+- romeo_2762
+- romeo_2763
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

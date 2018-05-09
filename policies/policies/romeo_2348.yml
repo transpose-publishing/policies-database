@@ -1,0 +1,62 @@
+policy-id: romeo_2348
+publisher: Utrecht University Library Open Access Journals (Uopen Journals)
+policy-heading: '[Default policy]'
+journals:
+- De Zeventiende Eeuw. Cultuur in de Nederlanden in interdisciplinair perspectief
+- Early Modern Low Countries
+- Incontri. Rivista europea di studi italiani
+- International Journal for Court Administration
+- International Journal for History, Culture and Modernity
+- International Journal of the Commons
+- Journal of Social Intervention
+- Journal of Social and Economic History
+- RELIEF - Revue Électronique de Littérature Française
+- Religion and Gender
+- "Studium: Tijdschrift voor Wetenschaps- en Universiteits-geschiedenis | Revue d'Histoire\
+  \ des Sciences et des Universités"
+- Tijdschrift voor Sociale en Economische Geschiedenis
+- Tijdschrift voor Tijdschriftstudies
+- Utrecht Law Review
+parent-policies: []
+child-policies:
+- romeo_2350
+- romeo_2352
+- romeo_2353
+- romeo_2354
+- romeo_2355
+- romeo_2356
+- romeo_2357
+- romeo_2358
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

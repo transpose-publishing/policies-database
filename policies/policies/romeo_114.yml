@@ -1,0 +1,63 @@
+policy-id: romeo_114
+publisher: Adis
+policy-heading: '[Default policy]'
+journals:
+- American Journal of Cancer
+- American Journal of Drug Delivery
+- American Journal of Pharmacogenomics
+- Applied Bioinformatics
+- BioDrugs
+- Disease Management & Health Outcomes
+- Drugs - Real World Outcomes
+- Drugs and Aging
+- Drugs and Therapy Perspectives
+- Evidence-Based Integrative Medicine
+- Giornale Italiano di Health Technology Assessment
+- Inpharma Weekly
+- International Journal of Pharmaceutical Medicine
+- Molecular Diagnosis
+- Molecular Diagnosis and Therapy
+- Pharmaceutical and Diagnostic Innovation
+- Pharmacoeconomics Italian Research Articles
+- Pulmonary Therapy
+- Rheumatology and Therapy
+- Toxicological Reviews
+- Treatments in Endocrinology
+- Treatments in Respiratory Medicine
+parent-policies:
+- romeo_74
+child-policies:
+- romeo_2822
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

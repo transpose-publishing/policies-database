@@ -1,0 +1,57 @@
+policy-id: romeo_2051
+publisher: Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de
+  la Educación
+policy-heading: '[Default policy]'
+journals:
+- Anuario del Instituto de Historia Argentina
+- Archivos de Ciencias de la Educación
+- Auster
+- Clio and Asociados
+- Cuestiones de sociología
+- Educación Física y Ciencia
+- Geograficando
+- Mundo Agrario
+- Olivar
+- Orbis Tertius
+- Palabra Clave
+- Revista Latinoamericana de Metodología de las Ciencias Sociales
+- Revista de filosofía y teoría política
+- SYNTHESIS
+- Sociedades Precapitalistas
+- Sociohistórica. Cuadernos del CISH
+- Trabajos y Comunicaciones
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

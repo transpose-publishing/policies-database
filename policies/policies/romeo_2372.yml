@@ -1,0 +1,67 @@
+policy-id: romeo_2372
+publisher: Begell House
+policy-heading: Engineering Titles
+journals:
+- Atomization and Sprays
+- 'Composites: Mechanics, Computations, Applications, An International Journal'
+- Computational Thermal Sciences
+- Heat Exchanger Design Updates
+- Heat Pipe Science and Technology
+- Heat Transfer Research
+- High Temperature Material Processes (An International Quarterly of High-Technology
+  Plasma Processes)
+- Hybrid Methods in Engineering
+- International Journal for Multiscale Computational Engineering
+- International Journal for Uncertainty Quantification
+- International Journal of Energetic Materials and Chemical Propulsion
+- International Journal of Energy for a Clean Environment
+- International Journal of Fluid Mechanics Research
+- Journal of Automation and Information Sciences
+- Journal of Enhanced Heat Transfer
+- Journal of Flow Visualization and Image Processing
+- Journal of Porous Media
+- Journal of Women and Minorities in Science and Engineering
+- Multiphase Science and Technology
+- 'Nanomechanics Science and Technology: An International Journal'
+- Radio Physics and Radio Astronomy
+- Special Topics and Reviews in Porous Media - An International Journal
+- Telecommunications and Radio Engineering
+- TsAGI Science Journal
+- Visualization of Mechanical Processes
+- Visualization, Image Processing and Computation in Biomedicine - NEW FOR 2012
+parent-policies:
+- romeo_418
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

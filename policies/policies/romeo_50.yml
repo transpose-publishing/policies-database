@@ -1,0 +1,116 @@
+policy-id: romeo_50
+publisher: Mary Ann Liebert
+policy-heading: '[Default policy]'
+journals:
+- AIDS Patient Care and STDs
+- AIDS Research and Human Retroviruses
+- ASSAY and Drug Development Technologies
+- Alternative and Complementary Therapies
+- Antioxidants and Redox Signaling
+- Applied In Vitro Toxicology
+- Astrobiology
+- Bariatric Nursing and Surgical Patient Care
+- Big Data
+- BioResearch Open Access
+- Biopreservation and Biobanking
+- 'Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science'
+- Biotechnology Law Report
+- Brain Connectivity
+- Breastfeeding Medicine
+- Cancer Biotherapy and Radiopharmaceuticals
+- Cannabis and Cannabinoid Research
+- Case Reports in Pancreatic Cancer
+- Cellular Reprogramming
+- Childhood Obesity
+- Cyberpsychology, Behavior, and Social Networking
+- DNA and Cell Biology
+- Diabetes Technology and Therapeutics
+- Ecopsychology
+- 'Election Law Journal: Rules, Politics, and Policy'
+- Environmental Engineering Science
+- Environmental Justice
+- Foodborne Pathogens and Disease
+- Games for Health Journal
+- Gaming Law Review and Economics
+- Gender and the Genome
+- Genetic Testing and Molecular Biomarkers
+- High Altitude Medicine and Biology
+- Human Gene Therapy
+- Hybridoma
+- Industrial Biotechnology
+- Journal of Adolescent and Young Adult Oncology
+- Journal of Aerosol Medicine and Pulmonary Drug Delivery
+- Journal of Alternative and Complementary Medicine
+- Journal of Caffeine Research
+- Journal of Child and Adolescent Psychopharmacology
+- Journal of Computational Biology
+- Journal of Endourology Case Reports
+- Journal of Endourology and Part B, Videourology
+- Journal of Gynecologic Surgery
+- Journal of Interferon and Cytokine Research
+- Journal of Laparoendoscopic and Advanced Surgical Techniques
+- Journal of Medicinal Food
+- Journal of Neurotrauma
+- Journal of Ocular Pharmacology and Therapeutics
+- Journal of Palliative Medicine
+- Journal of Women's Health
+- LGBT Health
+- Lymphatic Research and Biology
+- Medical Acupuncture
+- Metabolic Syndrome and Related Disorders
+- Microbial Drug Resistance
+- OMICS
+- Obesity and Weight Management
+- Oligonucleotides
+- Pediatric Allergy, Immunology, and Pulmonology
+- Photomedicine and Laser Surgery
+- Population Health Management
+- Rejuvenation Research
+- Soft Robotics
+- Stem Cells and Development
+- Surgical Infections
+- Surgical Infections Case Reports
+- Telemedicine and e-Health
+- Therapeutic Hypothermia and Temperature Management
+- Thyroid
+- 'Tissue Engineering: Parts A, B, and C'
+- Transgender Health
+- Vector-Borne and Zoonotic Diseases
+- Viral Immunology
+- Zebrafish
+parent-policies: []
+child-policies:
+- romeo_1948
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,46 @@
+policy-id: romeo_29
+publisher: Company of Biologists
+policy-heading: '[Default policy]'
+journals:
+- Biology Open
+- Development
+- Disease Models and Mechanisms
+- Journal of Cell Science
+- Journal of Experimental Biology
+parent-policies: []
+child-policies:
+- romeo_1589
+- romeo_2082
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,90 @@
+policy-id: romeo_1240
+publisher: Universitas Diponegoro
+policy-heading: '[Default policy]'
+journals:
+- BIOMA
+- Berkala Fisika
+- Buletin Oseanografi Marina
+- Bulletin of Chemical Reaction Engineering and Catalysis
+- Enclosure
+- FORUM
+- Geoplanning Journal
+- 'Geoplanning: Journal of Geomatics and Planning'
+- 'ILMU KELAUTAN: Indonesian Journal of Marine Sciences'
+- IZUMI
+- Indonesian Journal of Naval Architecture
+- International Journal of Marine and Aquatic Resource Conservation and Co-existence
+- International Journal of Renewable Energy Development
+- International Journal of Science and Engineering
+- J@TI (Teknik Industri)
+- JOURNAL OF COASTAL DEVELOPMENT
+- JURNAL ADMINISTRASI BISNIS
+- JURNAL AKUNTANSI DAN AUDITING
+- JURNAL ANATOMI FISIOLOGI
+- JURNAL DINAMIKA EKONOMI PEMBANGUNAN
+- JURNAL GIZI INDONESIA
+- JURNAL KESEHATAN LINGKUNGAN INDONESIA
+- JURNAL MANAJEMEN, AKUNTANSI & SISTEM INFORMASI
+- JURNAL MASYARAKAT INFORMATIKA
+- JURNAL PEMBANGUNAN WILAYAH & KOTA
+- JURNAL PROMOSI KESEHATAN INDONESIA
+- JURNAL SAINS PEMASARAN INDONESIA
+- JURNAL SAINTEK PERIKANAN
+- JURNAL SOSIAL EKONOMI PETERNAKAN
+- Journal of the Indonesian Tropical Animal Agriculture
+- Jurnal Ilmu Lingkungan
+- Jurnal Sains dan Matematika
+- Jurnal Sistem Infromasi Bisnis
+- Jurnal Sistem Komputer
+- Jurnal Tataloka
+- KAJIAN SASTRA
+- KIMIA SAINS DAN APLIKASI
+- Kapal
+- MASALAH-MASALAH HUKUM
+- MEDIA KESEHATAN MASYARAKAT INDONESIA
+- MEDIA KOMUNIKASI TEKNIK SIPIL
+- MEDIA STATISTIKA
+- METANA
+- MODUL
+- Nurse Media
+- PAROLE - Journal of Linguistics and Education
+- REAKTOR
+- Rotasi
+- Sabda
+- TEKNIK
+- Waste Technology
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

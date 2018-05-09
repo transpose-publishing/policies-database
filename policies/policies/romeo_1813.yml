@@ -1,0 +1,47 @@
+policy-id: romeo_1813
+publisher: Australian International Academic Centre (AIAC)
+policy-heading: '[Default policy]'
+journals:
+- Advances in Bioscience and Clinical Medicine
+- Advances in Language and Literary Studies
+- International Journal of Applied Electronics in Physics and Robotics
+- International Journal of Applied Linguistics and English Literature
+- International Journal of Comparative Literature and Translation Studies
+- International Journal of Education and Literacy Studies
+- International Journal of Finance and Accounting Studies
+- International Journal of Kinesiology and Sports Science
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

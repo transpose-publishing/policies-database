@@ -1,0 +1,55 @@
+policy-id: romeo_703
+publisher: New Prairie Press
+policy-heading: '[Default policy]'
+journals:
+- Baltic International Yearbook of Cognition, Logic and Communication
+- 'Crossing Borders: An Interdisciplinary Journal of Undergraduate Scholarship'
+- Fungal Genetics Reports
+- GDR Bulletin
+- Journal for the History of Analytical Philosophy
+- Journal of Financial Therapy
+- Kansas Library Association College and University Libraries Section Proceedings
+- Online Journal of Rural Research and Policy
+- Oz
+- Prairie Journal of Educational Research
+- Studies in 20th and 21st Century Literature
+parent-policies: []
+child-policies:
+- romeo_2715
+- romeo_2716
+- romeo_2717
+- romeo_2718
+- romeo_2719
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

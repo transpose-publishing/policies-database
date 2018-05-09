@@ -1,0 +1,179 @@
+policy-id: romeo_1326
+publisher: Hans Publishers (汉斯出版社)
+policy-heading: '[Default policy]'
+journals:
+- Advances in Analytical Chemistry
+- Advances in Applied Mathematics
+- Advances in Clinical Medicine
+- Advances in Condensed Matter Physics
+- Advances in Education
+- Advances in Energy and Power Engineering
+- Advances in Environmental Protection
+- Advances in Geosciences
+- Advances in Material Chemistry
+- Advances in Microbiology
+- Advances in Philosophy
+- Advances in Physical Sciences
+- Advances in Porous Flow
+- Advances in Psychology
+- Advances in Social Sciences
+- Aging Research
+- Applied Physics
+- Art Research Letters
+- Artificial Intelligence and Robotics Research
+- Asian Case Reports in Emergency Medicine
+- Astronomy and Astrophysics
+- Biophysics
+- Bioprocess
+- Botanical Research
+- Business and Globalization
+- Chinese Traditional Culture
+- Clean Coal and Energy
+- Climate Change Research Letters
+- Communication on Contemporary Anthropology
+- Computer Science and Application
+- Creative Education Studies
+- Credit
+- E-Commerce Letters
+- Electromagnetic Analysis and Applications
+- Emergence and Transfer of Wealth
+- Finance
+- Geographical Science Research
+- Geomatics Science and Technology
+- Hans Journal of Agricultural Sciences
+- Hans Journal of Biomedicine
+- Hans Journal of Chemical Engineering and Technology
+- Hans Journal of Computational Biology
+- Hans Journal of Data Mining
+- Hans Journal of Food and Nutrition Science
+- Hans Journal of Medicinal Chemistry
+- Hans Journal of Nanotechnology
+- Hans Journal of Ophthalmology
+- Hans Journal of Soil Science
+- Hans Journal of Surgery
+- Hans Journal of Wireless Communications
+- Immunology Studies
+- Instrumentation and Equipments
+- International Journal of Ecology
+- International Journal of Fluid Dynamics
+- International Journal of Psychiatry and Neurology
+- Journal of Advances in Physical Chemistry
+- Journal of Aerospace Science and Technology
+- Journal of Clinical Personalized Medicine
+- Journal of Image and Signal Processing
+- Journal of Organic Chemistry Research
+- Journal of Physiology Studies
+- Journal of Security and Safety Technology
+- Journal of Sensor Technology and Application
+- Journal of Water Resources Research
+- Journalism and Communications
+- Management Science and Engineering
+- Material Sciences
+- Mechanical Engineering and Technology
+- Medical Diagnosis
+- Metallurgical Engineering
+- Mine Engineering
+- Modeling and Simulation
+- Modern Anthropology
+- Modern Linguistics
+- Modern Management
+- Modern Marketing
+- Modern Physics
+- Nuclear Science and Technology
+- Nursing Science
+- Open Journal of Acoustics and Vibration
+- Open Journal of Circuits and Systems
+- Open Journal of Fisheries Research
+- Open Journal of Legal Science
+- Open Journal of Soil and Water Conservation
+- Open journal of Historical Studies
+- Open journal of Nature Science
+- Operations Research and Fuzziology
+- Optoelectronics
+- Pharmacy Information
+- Pure Mathematics
+- Software Engineering and Applications
+- Statistics and Applications
+- Studies in Synthetic Chemistry
+- Study abroad and Immigration
+- Traditional Chinese Medicine
+- Transmission and Distribution Engineering and Technology
+- Urbanization and Land Use
+- Vocational Education
+- Water pollution and treatment
+- World Economic Research
+- World Journal of Cancer Research
+- World Journal of Forestry
+- World Literature Studies
+- 世界生态学
+- 世界经济探索
+- 世界肿瘤研究
+- 中医学
+- 光电子
+- 医学诊断
+- 可持续发展
+- 可持续能源
+- 国际神经精神科学杂志
+- 图像与信号处理
+- 外科
+- 建模与仿真
+- 护理学
+- 数据挖掘
+- 无线通信
+- 智能电网
+- 机械工程与技术
+- 材料科学
+- 林业世界
+- 水资源研究
+- 物理化学进展
+- 现代市场营销
+- 现代物理
+- 现代管理
+- 理论数学
+- 留学与移民
+- 眼科学
+- 管理科学与工程
+- 纳米技术
+- 统计学与应用
+- 职业教育
+- 药物资讯
+- 计算生物学
+- 软件工程与应用
+- 输配电工程与技术
+- 运筹与模糊学
+- 食品与营养科学
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

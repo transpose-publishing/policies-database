@@ -1,0 +1,84 @@
+policy-id: romeo_1298
+publisher: Bohn Stafleu van Loghum
+policy-heading: '[Default policy]'
+journals:
+- Bijblijven
+- Bijzijn XL
+- Critical Care
+- Denkbeeld
+- Directieve Therapie
+- Huisarts en Wetenschap
+- JGZ Tijdschrift voor jeugdgezondheidszorg
+- Jeugd en Co
+- Jeugd en Co Kennis
+- Jeugdbeleid
+- Kind and Adolescent
+- Kind and Adolescent Praktijk
+- Maatwerk
+- Medisch Farmaceutische Mededelingen
+- Mondhygienisten vademecum
+- Nederlands Tijdschrift voor Evidence Based Practice
+- Nederlands Tijdschrift voor Traumatologie
+- Netherlands Journal of Psychology
+- Neuropraxis
+- Onderwijs en Gezondheidszorg
+- Pallium
+- Psychologie and Gezondheid
+- Psychopraktijk
+- Psychopraxis
+- Skipr
+- Standby
+- Stimulus
+- Supervisie en coaching
+- SynthesHis
+- TSG
+- Tandartspraktijk
+- Tijdschrift voor Bedrijfs- en Verzekeringsgeneeskunde
+- Tijdschrift voor Gerontologie en Geriatrie
+- Tijdschrift voor Gezondheidsrecht
+- Tijdschrift voor Gezondheidswetenschappen
+- Tijdschrift voor Kindergeneeskunde
+- Tijdschrift voor Medisch Onderwijs
+- Tijdschrift voor Neuropsychiatrie en Gedragsneurologie
+- Tijdschrift voor Ouderengeneeskunde
+- Tijdschrift voor Praktijkondersteuning
+- Tijdschrift voor Psychotherapie
+- Tijdschrift voor Urologie
+- Verslaving
+- Zorg en Financiering
+parent-policies:
+- romeo_74
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:

@@ -1,0 +1,53 @@
+policy-id: romeo_134
+publisher: INFORMS (Institute for Operations Research and Management Sciences)
+policy-heading: '[Default policy]'
+journals:
+- Decision Analysis
+- Group Decision and Negotiation
+- INFORMS Journal on Computing
+- INFORMS Transactions on Education
+- Information Systems Research
+- Management Science
+- Manufacturing and Service Operations Management
+- Marketing Science
+- Mathematics of Operations Research
+- Operations Research
+- Organization Science
+- Service Science
+- Stochastic Models
+- Transportation Science
+parent-policies: []
+child-policies: []
+flag-romeopub:
+peer-review-url:
+open-reports:
+identities-revealed:
+identities-published:
+co-review-url:
+co-review-policy:
+co-review-invited:
+co-review-field:
+transfer-policy:
+review-structure:
+separate-structure:
+credit-url:
+orcid-peer-review:
+prearchiving:
+prerestrictions:
+- 
+copyrightlinkurl:
+conditions:
+- 
+preprint-url:
+preprint-version:
+preprint-time:
+preprint-citation:
+acceptable-servers:
+preprint-media:
+preprint-media-url:
+preprint-licensing:
+preprint-licensing-url:
+scoop-protection:
+scoop-protection-url:
+community-reviews:
+community-reviews-url:
