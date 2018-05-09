@@ -53,14 +53,9 @@ Then use `conda activate policies-database` and `conda deactivate` to activate o
 With the environment activated, you can validate YAML policy files with the following commands:
 
 ```sh
-# Validate test YAML policies
+# Validate a test YAML policies
 pykwalify \
-  --data-file policies/test-policies/*.yml \
-  --schema-file policies/schema.yml
-
-# Validate YAML policies
-pykwalify \
-  --data-file policies/policies/*.yml \
+  --data-file policies/test-policies/test-policy-id-only.yml \
   --schema-file policies/schema.yml
 ```
 

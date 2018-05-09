@@ -19,9 +19,11 @@ script:
     --ExecutePreprocessor.timeout=-1
     --ExecutePreprocessor.kernel_name=python
     romeo/*.ipynb
-  - pykwalify
-    --data-file=policies/test-policies/*.yml
-    --schema-file=policies/schema.yml
+  - for file in policies/test-policies/*.yml
+    do
+      echo "$file"
+      pykwalify --data-file="$file" --schema-file=policies/schema.yml
+    done
   # - pykwalify
   #   --data-file=policies/policies/*.yml
   #   --schema-file=policies/schema.yml
