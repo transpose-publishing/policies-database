@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_21
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Association for Computing Machinery (ACM)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - ACM - Transactions on Speech and Language Processing
   - ACM Computing Surveys
@@ -62,13 +62,13 @@ journals:
   - Transactions on Storage
   - Ubiquity
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -110,19 +110,32 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.acm.org/publications/policies/copyright-policy
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's pre-print on non-peer review servers prior to submission to journal
+  - Author's pre-prints can be deposited on public repositories as long as accompanied
+    by ACM copyright notice upon transfer of copyright
+  - Author's Post-print on author's personal website, institutional repository, open
+    access repository, employer's website or funder's mandated repository only
+  - Non commercial use
+  - Publisher's version/PDF cannot be used
+  - Publisher copyright and source must be acknowledged
+  - Must link to publisher version with statement that this is the definitive version
+    and DOI
+  - Must state that version on repository is the authors version
+  - Set statement "&#169; ACM, YYYY. This is the author's version of the work. It
+    is posted here by permission of ACM for your personal use. Not for redistribution.
+    The definitive version was published in PUBLICATION, {VOL#, ISS#, (DATE)} http://doi.acm.org/10.1145/nnnnnn.nnnnnn"
 
 # Preprint policy url (valid url)
 preprint-url:

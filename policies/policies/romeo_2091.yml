@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_2091
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: National Inquiry Services Centre (NISC)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: 18 month embargo
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - African Journal of Science, Technology, Innovation and Development
   - Anthropology Southern Africa
@@ -15,14 +15,14 @@ journals:
   - Research in Hospitality Management
   - South African Journal of African Languages
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_568
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -64,19 +64,28 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.nisc.co.za/openaccess
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - On authors personal website and departmental website immediately
+  - On Institutional Repositories, social media repositories (Research Gate) and subject
+    repositories 18 months embargo
+  - Set statement to accompany pre-print and post-print (see policy)
+  - Must link to publisher version
+  - Published source must be acknowledged
+  - Publisher's version/PDF cannot be used
+  - NIH Authors articles will be automatically submitted to PubMed Central after 12
+    months
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

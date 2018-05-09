@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_1471
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: IOP Publishing
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: Hybrid Open Access
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - 2D Materials
   - Biofabrication
@@ -51,14 +51,14 @@ journals:
   - 'Surface Topography: Metrology and Properties'
   - Translational Materials Research
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_40
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -100,19 +100,37 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://ioppublishing.org/wp-content/uploads/2016/05/J-VAR-LF-0216-Author-Rights-New-5.pdf
+  - http://iopscience.iop.org/info/page/openaccess
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Pre-print on author's personal website, repository, scientific social network,
+    arXiv or non-commercial website
+  - Pre-print can not be updated after submission
+  - Post-print on author's personal website immediately
+  - Post-print on institutional website, institutional repository, subject-based repository,
+    PubMed Central, non-commercial scientific social network or third party eprint
+    servers after 12 months embargo
+  - Post-print on arxiv or Bioarxiv after
+  - Publisher's version/PDF cannot be used
+  - Published source must be acknowledged with citation
+  - Must link to publisher version with DOI
+  - Set statements to accompany different versions (see policy)
+  - Post-print is not permitted on commercial scientific social networks e.g. ResearchGate,
+    Mendely and Academia.edu
+  - Articles can not be deposited under an open access license or creative commons
+    license
+  - Publisher last reviewed on 01/09/2016
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

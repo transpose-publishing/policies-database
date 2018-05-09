@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_204
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: American Association for Cancer Research
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Cancer Discovery
   - Cancer Epidemiology, Biomarkers and Prevention
@@ -18,13 +18,13 @@ journals:
   - Molecular Cancer Research
   - Molecular Cancer Therapeutics
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -66,19 +66,30 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://aacrjournals.org/content/authors/editorial-policies#online
+  - http://aacrjournals.org/content/authors/copyright-permissions-and-access
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's pre-print on institutional website or pre-print server, such as bioRxiv
+  - Authors final version may be deposited on institutional website or institutional
+    repository only, if required by institution
+  - Published source must be acknowledged
+  - Must link to the publisher PDF of article on journal website
+  - NIH authors may post authors' own version in PubMed Central for release 12 months
+    after publication or have it deposited on their behalf by the publisher
+  - HHMI, Wellcome Trust, Cancer Research UK and UK Medical Research Council authors
+    may deposit authors own version in Europe PMC for release 6 months after publication
+    or have it deposited on their behalf by the publisher
+  - Publisher last reviewed on 06/12/2016
 
 # Preprint policy url (valid url)
 preprint-url:

@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_62
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Royal Society, The
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Biographical Memoirs of the Fellows of the Royal Society
   - Biology Letters
@@ -31,14 +31,14 @@ journals:
     character. Royal Society (Great Britain)
   - Royal Society Open Science
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies:
   - romeo_1307
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -80,19 +80,27 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - https://royalsociety.org/journals/authors/licence-to-publish/
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's pre-print on free public servers
+  - Author's post-print on author's personal website, institutional website, institutional
+    repository, PubMed Central or not-for-profit open access repository
+  - Author's post-print can be deposited on acceptance
+  - Publisher's version/PDF cannot be used
+  - Published source must be acknowledged with citation close to title of article
+  - Must link to publisher version close to title of article
+  - Eligible UK authors may deposit in Open Depot
+  - Publisher last contacted on 17/08/2017
 
 # Preprint policy url (valid url)
 preprint-url:

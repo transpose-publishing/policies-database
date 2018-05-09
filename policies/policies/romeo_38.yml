@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_38
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Institute of Electrical and Electronics Engineers (IEEE)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Canadian Journal of Electrical and Computer Engineering
   - Communications Surveys and Tutorials, IEEE Communications Society
@@ -178,14 +178,14 @@ journals:
   - Proceedings of the IEEE
   - Tsinghua Science and Technology
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies:
   - romeo_1533
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -227,19 +227,44 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.ieee.org/publications_standards/publications/rights/rights_policies.html
+  - http://www.ieee.org/documents/ieeecopyrightform.pdf
+  - http://www.ieee.org/publications_standards/publications/rights/copyrightpolicy.html
+  - https://www.ieee.org/publications_standards/publications/rights/paperversionpolicy.html
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's pre-print on any website or pre-print server
+  - Author's post-print on author's personal website or employer's website or IEEE
+    approved not-for-profit third party (8.1.9.G.2 ) website
+  - Author's pre-print must be replaced by the accepted version, if on the author's
+    personal website, employer's websites, arXiv, IEEE-approved third-party, not-for
+    profit server, funder repository
+  - Author's pre-print must removed on third-party servers
+  - Author's pre-print must be accompanied with set phrase (see policy) before acceptance
+  - Author's pre-print must be accompanied with set phrase (see policy) when accepted
+    for publication
+  - If funding agency rules apply, authors may post author's post-print version on
+    funder's designated repository or institutional repository, in compliance with
+    their funding agency rules. A maximum embargo of 24 months may be required
+  - IEEE recognizes that posting requirements and embargo periods vary by funder,
+    and IEEE authors may comply with requirements to deposit their accepted manuscripts
+    in funding agency repositories where the embargo is less than 24 months.
+  - Publisher copyright and source must be acknowledged with citation (see policy)
+  - Must link to publisher version with DOI
+  - Publisher's version/PDF cannot be used
+  - Author's post-print on scholarly collaboration networks that have signed STM Sharing
+    Principles
+  - Publisher retains copyright
+  - Publisher last contacted on 24/01/2018
 
 # Preprint policy url (valid url)
 preprint-url:

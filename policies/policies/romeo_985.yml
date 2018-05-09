@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_985
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: WB Saunders
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Advances in Chronic Kidney Disease
   - Advances in Small Animal Medicine and Surgery
@@ -126,14 +126,14 @@ journals:
   - 'Veterinary Clinics of North America: Food Animal Practice'
   - 'Veterinary Clinics of North America: Small Animal Practice'
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_30
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -175,19 +175,42 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.elsevier.com/connect/elsevier-updates-its-policies-perspectives-and-services-on-article-sharing
+  - http://www.elsevier.com/about/company-information/policies/sharing
+  - http://www.elsevier.com/about/policies/policy-faq
+  - http://www.elsevier.com/about/open-access/green-open-access
+  - https://www.elsevier.com/__data/assets/pdf_file/0005/78476/external-embargo-list.pdf
+  - http://www.elsevier.com/about/company-information/policies/sharing/how-to-attach-a-user-license
+  - http://www.elsevier.com/about/open-access/open-access-policies/funding-body-agreements
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Pre-print allowed on any website or open access repository
+  - Voluntary deposit by author of authors post-print allowed on institutions open
+    scholarly website including Institutional Repository, without embargo, where there
+    is not a policy or mandate
+  - Deposit due to Funding Body, Institutional and Governmental policy or mandate
+    only allowed where separate agreement between repository and the publisher exists.
+  - Permitted deposit due to Funding Body, Institutional and Governmental policy or
+    mandate, may be required to comply with embargo periods of 12 months to 48 months
+  - Set statement to accompany deposit
+  - Published source must be acknowledged
+  - Must link to journal home page or articles' DOI
+  - Publisher's version/PDF cannot be used
+  - Articles in some journals can be made Open Access on payment of additional charge
+  - NIH Authors articles will be submitted to PubMed Central after 12 months
+  - Authors who are required to deposit in subject-based repositories may also use
+    Sponsorship Option
+  - Publisher last reviewed on 03/07/2015
+  - "'WB Saunders' is an imprint of ''"
 
 # Preprint policy url (valid url)
 preprint-url:

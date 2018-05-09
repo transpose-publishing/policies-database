@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_3
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: American Association for the Advancement of Science
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Science
   - Science Advances
@@ -16,14 +16,14 @@ journals:
   - Science Signaling
   - Science Translational Medicine
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies:
   - romeo_2297
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -65,19 +65,36 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.sciencemag.org/site/feature/contribinfo/prep/lic_info.pdf
+  - http://www.sciencemag.org/site/help/authors/pmc.xhtml
+  - http://www.sciencemag.org/site/feature/contribinfo/faq/index.xhtml#prioronline_faq
+  - http://www.sciencemag.org/site/feature/contribinfo/prep/gen_info.xhtml
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Pre-print may be considered prior publication
+  - Pre-print on not-for-profit preprint servers where allowed, please contact editors
+    for clarification
+  - Cannot archive until publication
+  - Authors retain copyright
+  - On author's personal website or institutional repository
+  - Publisher's version/PDF cannot be used
+  - Must link to publisher version
+  - Set statement must accompany post-print (see policy)
+  - Published source must be acknowledged with DOI
+  - Authors covered by funding agency rules, may post author's post-print in PubMed
+    Central or funder's designated repository after a 6 month embargo
+  - Authors covered by funding agency rules, must state on submission, for article
+    to be released in PubMed Central or funder's designated repository after 6 months
+    after publication.
 
 # Preprint policy url (valid url)
 preprint-url:

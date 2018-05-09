@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_16
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: American Society for Microbiology
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Antimicrobial Agents and Chemotherapy
   - Applied and Environmental Microbiology
@@ -27,14 +27,14 @@ journals:
   - mSphere
   - mSystems
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies:
   - romeo_1629
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -76,19 +76,33 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://journals.asm.org/site/misc/ASM_Author_Statement.xhtml
+  - http://aac.asm.org/site/misc/journal-ita_edi.xhtml#02
+  - http://journals.asm.org/site/misc/announcements_March2015.xhtml
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's pre-print on recognised non profit pre-print archives
+  - Author's post-print on funder's repositories, institutional repository or subject-based
+    repositories
+  - Non-commercial
+  - Publisher's version/PDF may be used
+  - Publisher's version/PDF may be used after 6 months embargo
+  - Publisher's version/PDF may be used on author's personal website or employers
+    website
+  - Recommended that author's post-prints submitted to PubMed or institutional repositories
+    are made available 6 months after publication
+  - Author's pre-print must be updated with citation and DOI upon publication
+  - Publisher last contacted on 21/05/2015
+  - Publisher last reviewed on 15/09/2015
 
 # Preprint policy url (valid url)
 preprint-url:

@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_1533
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Institute of Electrical and Electronics Engineers (IEEE)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: OAJ
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - IEEE Access
   - IEEE Journal of Translational Engineering in Health and Medicine
@@ -15,14 +15,14 @@ journals:
   - IEEE Life Sciences Letters
   - IEEE Photonics Journal
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_38
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -64,19 +64,44 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://open.ieee.org/
+  - http://www.ieee.org/publications_standards/publications/rights/oacf.html
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's pre-print on Author's personal website, employers website or publicly
+    accessible server
+  - Publisher's version/PDF on author's personal website, employer's website or funder's
+    designated website
+  - Author's pre-print must be removed upon publication of final version and replaced
+    with either Author'' post-print or Publisher's Version/ PDF
+  - Author's pre-print must be accompanied with set-phrase, once submitted to IEEE
+    for publication ("This work has been submitted to the IEEE for possible publication.
+    Copyright may be transferred without notice, after which this version may no longer
+    be accessible")
+  - Author's pre-print must be accompanied with set-phrase, when accepted by IEEE
+    for publication ("(c) 20xx IEEE. Personal use of this material is permitted. Permission
+    from IEEE must be obtained for all other users, including reprinting/ republishing
+    this material for advertising or promotional purposes, creating new collective
+    works for resale or redistribution to servers or lists, or reuse of any copyrighted
+    components of this work in other works.")
+  - IEEE must be informed as to the electronic address of the pre-print
+  - Publisher copyright and source must be acknowledged with citation (see above set
+    statement)
+  - Must link to publisher version with DOI
+  - Publisher's version/PDF may be used
+  - Publisher copyright and source must be acknowledged
+  - Creative Commons Attribution License is available if required by funding agency
+  - All titles are open access journals
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

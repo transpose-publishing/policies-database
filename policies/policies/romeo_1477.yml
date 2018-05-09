@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_1477
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Oxford University Press (OUP)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: Policy C - Option A
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Conservation Physiology
   - Database
@@ -15,14 +15,14 @@ journals:
   - Progress of Theoretical and Experimental Physics
   - Regenerative Biomaterials
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_55
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -64,19 +64,39 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.oxfordjournals.org/en/access-purchase/rights-and-permissions/self-archiving-policyc.html
+  - http://www.oxfordjournals.org/access_purchase/publication_rights.html
+  - http://www.oxfordjournals.org/news/2008/08/04/nih_deposits.html
+  - http://www.oxfordjournals.org/for_authors/repositories.html
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Creative Commons Attribution License
+  - Pre-print on author's personal website, employers website or subject repository
+  - Pre-print can only be posted prior to acceptance
+  - Pre-print must be accompanied by set statement (see link)
+  - Pre-print must not be replaced with post-print, instead a link to published version
+    with amended set statement should be made
+  - Post-print in Institutional repositories or Central repositories
+  - Publisher's version/PDF must be used
+  - Publisher's version/PDF on institutional repository or centrally organised repositories
+  - Published source must be acknowledged
+  - Must link to publisher version
+  - Set phrase to accompany archived copy (see policy)
+  - Eligible authors may deposit in OpenDepot
+  - Publisher will deposit on behalf of NIH, HHMI, UK MRC, Telethon and Wellcome Trust
+    funded authors to PubMed Central and Europe PMC
+  - All titles are open access journals
+  - Progress of Theoretical and Experimental Physics is a participant in SCOAP3
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

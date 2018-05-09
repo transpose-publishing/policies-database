@@ -1,24 +1,24 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_2944
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Elsevier
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: 36 months
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Business Horizons
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_30
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -60,19 +60,35 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.elsevier.com/connect/elsevier-updates-its-policies-perspectives-and-services-on-article-sharing
+  - http://www.elsevier.com/about/company-information/policies/sharing
+  - https://www.elsevier.com/about/our-business/policies/sharing/policy-faq
+  - http://www.elsevier.com/about/open-access/green-open-access
+  - https://www.elsevier.com/__data/assets/pdf_file/0005/78476/external-embargo-list.pdf
+  - https://www.elsevier.com/__data/assets/pdf_file/0011/78473/EmbargoPeriods_Dec2017.pdf
+  - https://www.elsevier.com/about/open-science/open-access/agreements
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Authors pre-print on any website, including arXiv and RePEC
+  - Author's post-print on author's personal website immediately
+  - Author's post-print on open access repository after an embargo period of 36 months
+  - Permitted deposit due to Funding Body, Institutional and Governmental policy or
+    mandate, may be required to comply with embargo periods of 36 months
+  - Author's post-print may be used to update arXiv and RepEC
+  - Publisher's version/PDF cannot be used
+  - Must link to publisher version with DOI
+  - Author's post-print must be released with a Creative Commons Attribution Non-Commercial
+    No Derivatives License
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

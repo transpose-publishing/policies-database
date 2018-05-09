@@ -2,30 +2,30 @@ type: map
 mapping:
   policy-id:
     type: str
-    desc: "Policy ID from SHERPA/RoMEO (with `romeo_` preprended)"
+    desc: "Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit"
   publisher:
     type: str
-    desc: publisher name from SHERAP/RoMEO
+    desc: publisher name from SHERAP/RoMEO. Do not edit
   policy-heading:
     type: str
-    desc: policy heading from SHERAP/RoMEO
+    desc: policy heading from SHERAP/RoMEO. Do not edit
   journals:
     type: seq
-    desc: A list of the journals from SHERPA/RoMEO associated with this romeo policy
+    desc: A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
     sequence:
       - type: str
   parent-policies:
     type: seq
-    desc: A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+    desc: A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
     sequence:
       - type: str
   child-policies:
     type: seq
-    desc: A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+    desc: A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
     sequence:
       - type: str
   flag-romeo:
-    desc: If this policy does not apply to the journals listed above, leave a note here.
+    desc: Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
     type: str
   
   # OPEN PEER REVIEW
@@ -86,26 +86,25 @@ mapping:
     desc: "Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)"
 
   # PREPRINTS
-  #
-  #-------------Info between these lines is from SHERPA/RoMEO (users should not not edit) --------------------
   prearchiving:
     type: str
     enum: [can, cannot, restricted, unclear]
-    desc: "Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)"
+    desc: "Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit."
   prerestrictions:
     type: seq
-    desc: "Preprint restrictions (from SHERPA/RoMEO: prerestrictions)"
+    desc: "Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)"
     sequence:
       - type: str
-  copyrightlinkurl:
-    type: str
-    desc: "Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)"
+  copyright-urls:
+    type: seq
+    desc: "Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)"
+    sequence:
+      - type: str
   conditions:
     type: seq
-    desc: "Conditions (from SHERPA/RoMEO: conditions)"
+    desc: "Conditions (from SHERPA/RoMEO: conditions, so do not edit)"
     sequence:
       - type: str
-  #-----------------------------------------------------------------------------------------------
   preprint-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema

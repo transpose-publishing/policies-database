@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_2261
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Lippincott, Williams & Wilkins
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: No Hybrid Open Access
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - ACSM's Health and Fitness Journal
   - Academic Physician and Scientist
@@ -101,14 +101,14 @@ journals:
   - Topics in Language Disorders
   - Topics in Pain Management
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_48
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -150,19 +150,34 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://edmgr.ovid.com/apjo/accounts/copyrightTransfer.pdf
+  - http://journals.lww.com/_layouts/oaks.journals/nih.aspx
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Some journals have separate policies, please check with each journal directly
+  - Pre-print must be removed upon acceptance for publication
+  - Post-print may be deposited in personal website or institutional repository
+  - Publisher's version/PDF cannot be used
+  - Must include statement that it is not the final published version
+  - Published source must be acknowledged with full citation
+  - Set statement to accompany deposit
+  - Must link to publisher version
+  - NIH authors will have their accepted manuscripts transmitted to PubMed Central
+    on their behalf after a 12 months embargo (see policy for details)
+  - Wellcome Trust and HHMI authors will have their accepted manuscripts transmitted
+    to PubMed Central on their behalf after a 6 months embargo (see policy for details)
+  - RCUK authors articles will be released as Creative Commons Attribution Non-Commercial
+    No Derivatives after 6 months
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_51
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Massachusetts Institute of Technology Press (MIT Press)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - ARTMargins
   - African Arts
@@ -47,10 +47,10 @@ journals:
   - Review of Economics and Statistics
   - TDR
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies:
   - romeo_1123
   - romeo_1124
@@ -58,7 +58,7 @@ child-policies:
   - romeo_2663
   - romeo_3014
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -100,19 +100,30 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - https://www.mitpressjournals.org/for_authors
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's Post-print must be accompanied by acknowledgement of acceptance for publication
+    in Journal
+  - On author's personal website,  institutional repository or subject repository
+  - Publisher copyright and source must be acknowledged with citation
+  - Must link to journal homepage
+  - Publisher's version/PDF may be used after 3 months embargo for STM titles
+  - Publisher's version/PDF may be used after 6 months embargo for other titles
+  - Publisher's version/PDF may be used after 12 months embargo for Economic titles
+  - Publisher's version/PDF may be used
+  - If funding agency rules apply, authors may post articles in PubMed Central immediately
+    after publication, but may be subject to journal embargoes
+  - Deposit in Researchgate or Academia is not permitted
 
 # Preprint policy url (valid url)
 preprint-url:

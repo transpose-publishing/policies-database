@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_3184
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Cambridge University Press (CUP)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: PDF Allowed SR
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - ASTIN Bulletin
   - Behavioural and Cognitive Psychotherapy
@@ -15,14 +15,14 @@ journals:
   - Comparative Studies in Society and History
   - Journal of the International Neuropsychological Society
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_27
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -64,19 +64,35 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://journals.cambridge.org/action/displaySpecialPage?pageId=4608
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's Pre-print on author's personal website, departmental website, social
+    media websites, institutional repository, non-commercial subject-based repositories,
+    such as PubMed Central, Europe PMC or arXiv
+  - Author's post-print on author's personal website, departmental website, institutional
+    repository, non-commercial subject-based repositories, such as PubMed Central,
+    Europe PMC or arXiv, on acceptance of publication
+  - Publisher's version/PDF may be used
+  - Publisher's version/PDF may be used on author's personal website, departmental
+    website or institutional repository, on publication
+  - Publisher's version/PDF may be used on non-commercial subject-based repositories,
+    such as PubMed Central, Europe PMC or arXiv, on acceptance of publication, 12
+    months embargo
+  - Published abstract may be deposited
+  - Pre-print to record acceptance for publication
+  - Publisher copyright and source must be acknowledged
+  - Must link to publisher version or journal website
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

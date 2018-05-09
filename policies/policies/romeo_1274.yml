@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_1274
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Elsevier
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: Lancet
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Lancet
   - Lancet (North American Edition)
@@ -23,14 +23,14 @@ journals:
   - Lancet Psychiatry
   - Lancet Respiratory Medicine
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_30
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -72,19 +72,35 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://download.thelancet.com/flatcontentassets/authors/lancet-information-for-authors.pdf
+  - http://www.thelancet.com/lancet/information-for-authors/disclosure-of-results
+  - http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2813%2960720-5/fulltext
+  - http://www.thelancet.com/lancet-information-for-authors/after-publication
+  - https://www.elsevier.com/__data/assets/pdf_file/0005/78476/external-embargo-list.pdf
+  - https://www.elsevier.com/__data/assets/pdf_file/0011/78473/EmbargoPeriods_Dec2017.pdf
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Pre-print on author's personal website or pre-print server
+  - Post-print on author's personal website or institutional website
+  - Publisher copyright and source must be acknowledged
+  - Must link to publisher version
+  - Publisher's version/PDF cannot be used
+  - If required by funding agency, authors may deposit in any repository after 6 months
+    embargo
+  - NIH funded authors may deposit in any repository after 12 months embargo
+  - Author's post-print must be released with a Creative Commons Attribution Non-Commercial
+    No Derivatives License
+  - Publisher last reviewed on 01/07/2016
+  - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
 preprint-url:

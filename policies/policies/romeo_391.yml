@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_391
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Medizinverlage Stuttgart (Thieme Publishing Imprint)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Deutsche Heilpraktiker Zeitschrift
   - Deutsche Zeitschrift für Osteopathie
@@ -20,14 +20,14 @@ journals:
   - Zeitschrift für Orthomolekulare Medizin
   - team.konkret
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_366
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies: []
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -69,19 +69,28 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: cannot
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - https://www.thieme.de/de/synlett/publishing-policies-58895.htm
+  - https://www.thieme.de/statics/dokumente/thieme/final/de/dokumente/zw_synthesis/CFZ-Thieme-Institutional-Repositories-Policy.pdf
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Author's post-print or Publisher's version/PDF on author's personal website immediately
+  - Author's post-print in Institutional Repository and PubMed Central after 12 months
+    embargo
+  - Publisher's version/PDF can be used on author's personal website only
+  - Publisher copyright and source must be acknowledged
+  - Link to Publisher version (www.thieme-connect.com) must be included if article
+    has been published online
+  - Publisher last contacted on 31/03/2015
+  - "'Medizinverlage Stuttgart (Thieme Publishing Imprint)' is an imprint of ''"
 
 # Preprint policy url (valid url)
 preprint-url:

@@ -1,13 +1,13 @@
-# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_55
 
-# publisher name from SHERAP/RoMEO
+# publisher name from SHERAP/RoMEO. Do not edit
 publisher: Oxford University Press (OUP)
 
-# policy heading from SHERAP/RoMEO
+# policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
-# A list of the journals from SHERPA/RoMEO associated with this romeo policy
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Acta Biochimica et Biophysica Sinica
   - Adaptation
@@ -413,10 +413,10 @@ journals:
   - Yearbook of International Environmental Law
   - Zoological Journal of the Linnean Society
 
-# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
-# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
 child-policies:
   - romeo_1105
   - romeo_1106
@@ -490,7 +490,7 @@ child-policies:
   - romeo_3091
   - romeo_3238
 
-# If this policy does not apply to the journals listed above, leave a note here.
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
 # Peer review policy url (valid url)
@@ -532,19 +532,38 @@ credit-url:
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
-prearchiving:
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
-prerestrictions:
-  - 
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
-copyrightlinkurl:
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.oxfordjournals.org/access_purchase/self-archiving_policya.html
+  - http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html
+  - http://www.oxfordjournals.org/access_purchase/publication_rights.html
+  - http://www.oxfordjournals.org/news/2008/08/04/nih_deposits.html
+  - http://www.oxfordjournals.org/for_authors/repositories.html
 
-# Conditions (from SHERPA/RoMEO: conditions)
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
 conditions:
-  - 
+  - Pre-print can only be posted prior to acceptance
+  - Pre-print must be accompanied by set statement (see link)
+  - Pre-print must not be replaced with post-print, instead a link to published version
+    with amended set statement should be made
+  - Pre-print on author's personal website, employer website, free public server or
+    pre-prints in subject area
+  - Post-print in Institutional repositories or Central repositories
+  - Publisher version cannot be used except for Nucleic Acids Research articles
+  - Published source must be acknowledged
+  - Must link to publisher version
+  - Set phrase to accompany archived copy (see policy)
+  - Articles in some journals can be made Open Access on payment of additional charge
+  - Eligible UK authors may deposit in OpenDepot
+  - Publisher will deposit on behalf of NIH funded authors to PubMed Central, Nucleic
+    Acids Research authors must pay their fee first
+  - Some titles may use different policies
 
 # Preprint policy url (valid url)
 preprint-url:
