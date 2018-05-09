@@ -1,8 +1,8 @@
 type: map
 mapping:
   #-------------Info between these lines is from SHERPA/RoMEO (users should not not edit) --------------------
-  # Policy ID from SHERPA/RoMEO
-  romeopub:
+  # Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
+  policy-id:
     type: str
   # A list of the journals from SHERPA/RoMEO associated with this romeopub- "jtitle"
   journals:

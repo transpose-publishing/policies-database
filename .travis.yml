@@ -22,6 +22,6 @@ script:
   - pykwalify
     --data-file=policies/test-policies/*.yml
     --schema-file=policies/schema.yml
-  - pykwalify
-    --data-file=policies/policies/*.yml
-    --schema-file=policies/schema.yml
+  # - pykwalify
+  #   --data-file=policies/policies/*.yml
+  #   --schema-file=policies/schema.yml
