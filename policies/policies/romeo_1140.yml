@@ -1,1037 +1,1111 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_1140
+
+# publisher name from SHERAP/RoMEO
 publisher: Taylor & Francis (Routledge)
+
+# policy heading from SHERAP/RoMEO
 policy-heading: SSH Titles
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- AAG Review of Books
-- 'ANQ: A Quarterly Journal of Short Articles, Notes and Reviews'
-- Accounting Education
-- Accounting History Review
-- Accounting and Business Research
-- Accounting in Europe
-- Acta Agriculturæ Scandinavica, Section C - Food Economics
-- Acta Borealia
-- Acta Linguistica Hafniensia
-- 'Action Learning: Research and Practice'
-- Administrative Theory and Praxis
-- Advances in the History of Rhetoric
-- Africa Review
-- African Geographical Review
-- African Identities
-- African Security
-- African Studies
-- African and Black Diaspora
-- Al-Masaq
-- American Communist History
-- American Journal of Distance Education
-- American Journalism
-- American Nineteenth Century History
-- American Review of Canadian Studies
-- Anatolia
-- Angelaki
-- Annals of Leisure Research
-- Anthropological Forum
-- Anthropology and Archeology of Eurasia
-- Anthropology and Medicine
-- Anthrozoös
-- Applied Economics
-- Applied Economics Letters
-- Applied Environmental Education and Communication
-- Applied Financial Economics
-- Applied Mathematical Finance
-- Applied Measurement in Education
-- Applied Mobilities
-- Archaeological Journal
-- Architectural Theory Review
-- Architecture and Culture
-- Arms and Armour
-- Arts Education Policy Review
-- Asia Pacific Business Review
-- Asia Pacific Journal of Anthropology
-- Asia Pacific Journal of Education
-- Asia Pacific Journal of Social Work and Development
-- Asia Pacific Journal of Sport and Social Science
-- Asia Pacific Journal of Tourism Research
-- Asia Pacific Review
-- Asia-Pacific Journal of Accounting and Economics
-- Asia-Pacific Journal of Health, Sport and Physical Education
-- Asia-Pacific Journal of Teacher Education
-- Asian Affairs
-- Asian Anthropology
-- Asian Ethnicity
-- Asian Geographer
-- Asian Journal of Communication
-- Asian Journal of Political Science
-- Asian Journal of Technology Innovation
-- Asian Philosophy
-- Asian Population Studies
-- Asian Security
-- Asian Studies Review
-- Assessment and Evaluation in Higher Education
-- Assessment in Education
-- Astropolitics
-- Atlantic Journal of Communication
-- Atlantic Studies
-- Australasian Journal of Philosophy
-- Australian Feminist Law Journal
-- Australian Feminist Studies
-- Australian Geographer
-- Australian Historical Studies
-- Australian Journal of International Affairs
-- Australian Journal of Learning Difficulties
-- Australian Journal of Linguistics
-- Australian Journal of Political Science
-- Australian Planner
-- Auto/Biography Studies
-- 'Azania: Archaeological Research in Africa'
-- Bilingual Research Journal
-- Black Scholar
-- British Journal for the History of Philosophy
-- British Journal of Educational Studies
-- British Journal of Middle Eastern Studies
-- British Journal of Religious Education
-- British Journal of Sociology of Education
-- Bulletin of Indonesian Economic Studies
-- Bulletin of Spanish Studies
-- Bulletin of the Atomic Scientists
-- Business History
-- Cambridge Journal of Education
-- Cambridge Review of International Affairs
-- Canadian Foreign Policy Journal
-- Canadian Journal of African Studies
-- Canadian Journal of Development Studies
-- Canadian Journal of Philosophy
-- Canadian Journal of Science, Mathematics and Technology Education
-- Canadian Slavonic Papers
-- Capitalism Nature Socialism
-- Celebrity Studies
-- Central Asian Survey
-- Challenge
-- 'Change: The Magazine of Higher Learning'
-- Changing English
-- Childhood in the Past
-- China Economic Journal
-- China Journal of Accounting Studies
-- Chinese Economy
-- Chinese Education and Society
-- Chinese Historical Review
-- Chinese Journal of Communication
-- Chinese Law and Government
-- Chinese Sociological Review
-- Chinese Sociology and Anthropology
-- Chinese Studies in History
-- Christian Higher Education
-- Citizenship Studies
-- City
-- Civil Wars
-- Classroom Discourse
-- 'Clearing House: A Journal of Educational Strategies, Issues and Ideas'
-- Cognition and Instruction
-- Cold War History
-- College Teaching
-- Commonwealth Law Bulletin
-- Communication Booknotes Quarterly
-- Communication Education
-- Communication Law and Policy
-- Communication Methods and Measures
-- Communication Monographs
-- Communication Quarterly
-- Communication Reports
-- Communication Research Reports
-- Communication Review
-- Communication Studies
-- Communication Teacher
-- Communication and Critical/Cultural Studies
-- Community College Journal of Research and Practice
-- Community Development
-- Community, Work and Family
-- Comparative Education
-- Comparative Strategy
-- 'Compare: A Journal of Comparative and International Education'
-- Computer Assisted Language Learning
-- Computer Science Education
-- Computers in the Schools
-- Conflict, Security and Development
-- Contemporary Arab Affairs
-- Contemporary British History
-- Contemporary Buddhism
-- Contemporary Chinese Thought
-- Contemporary French and Francophone Studies
-- Contemporary Justice Review
-- Contemporary Music Review
-- Contemporary Politics
-- Contemporary Security Policy
-- Contemporary Social Science
-- Contemporary South Asia
-- Contemporary Theatre Review
-- Continuum
-- Creativity Research Journal
-- Criminal Justice Ethics
-- Criminal Justice Matters
-- Criminal Justice Studies
-- Critical African Studies
-- 'Critical Arts: A Journal of South-North Cultural Studies'
-- Critical Asian Studies
-- Critical Discourse Studies
-- Critical Policy Studies
-- Critical Review
-- Critical Review of International Social and Political Philosophy
-- Critical Studies in Education
-- Critical Studies in Media Communication
-- Critical Studies on Terrorism
-- Critique
-- 'Critique: Journal of Socialist Theory'
-- Cultura y Educación. Culture and Education
-- Cultural Studies
-- Cultural Trends
-- Cultural and Social History
-- Culture and Organization
-- Culture and Religion
-- Culture, Theory and Critique
-- Current
-- Current Issues in Language Planning
-- Current Issues in Tourism
-- Curriculum Journal
-- Dance Chronicle
-- Danish Journal of Archaeology
-- Deafness and Education International
-- 'Debatte: Journal of Contemporary Central and Eastern Europe'
-- Defence Studies
-- Defence and Peace Economics
-- Defense and Security Analysis
-- Democracy and Security
-- Democratization
-- Design Journal
-- Design Philosophy Papers
-- Design and Culture
-- Development Southern Africa
-- Development in Practice
-- Deviant Behavior
-- Diaspora Studies
-- Diaspora, Indigenous, and Minority Education
-- Digital Creativity
-- Digital Journalism
-- Diplomacy and Statecraft
-- Disability and Society
-- Discourse Processes
-- Distance Education
-- Distinktion
-- Dress
-- Early Child Development and Care
-- Early Education and Development
-- Early Medieval China
-- Early Modern French Studies
-- Early Popular Visual Culture
-- Early Years
-- East European Jewish Affairs
-- East European Politics
-- Eastern European Economics
-- Ecology of Food and Nutrition
-- Economic Systems Research
-- Economics of Innovation and New Technology
-- Economy and Society
-- Education 3-13
-- Education Economics
-- Educational Action Research
-- Educational Assessment
-- Educational Gerontology
-- Educational Management Abstracts
-- Educational Media International
-- Educational Philosophy and Theory
-- Educational Psychologist
-- Educational Psychology
-- Educational Psychology in Practice
-- Educational Research
-- Educational Research Abstracts online (ERA)
-- Educational Research and Evaluation
-- Educational Review
-- Educational Technology Abstracts
-- Emerging Markets Finance and Trade
-- Emotional and Behavioural Difficulties
-- English Studies
-- Entrepreneurship and Regional Development
-- Environmental Archaeology
-- Environmental Claims Journal
-- Environmental Education Research
-- Environmental Politics
-- Equity and Excellence in Education
-- Ethics and Education
-- Ethics, Policy and Environment
-- Ethnic and Racial Studies
-- Ethnography and Education
-- Ethnomusicology Forum
-- Ethnopolitics
-- Ethnos
-- Eurasian Geography and Economics
-- Europe-Asia Studies
-- European Accounting Review
-- European Early Childhood Education Research Journal
-- European Education
-- European Journal of Cultural and Political Sociology
-- European Journal of English Studies
-- European Journal of Finance
-- European Journal of Higher Education
-- European Journal of Special Needs Education
-- European Journal of Teacher Education
-- European Journal of the History of Economic Thought
-- European Legacy
-- European Planning Studies
-- European Review of History
-- European Romantic Review
-- European Security
-- European Sport Management Quarterly
-- Exceptionality
-- Exemplaria
-- Explicator
-- Fabrications
-- Fashion Practice
-- Fashion Theory
-- Feminist Economics
-- Feminist Media Studies
-- First Amendment Studies
-- Folklore
-- Food Economics
-- Food and Foodways
-- Food, Culture and Society
-- Forum for Development Studies
-- Gender and Development
-- Gender and Education
-- Geografisk Tidsskrift-Danish Journal of Geography
-- Geography Teacher
-- Geopolitics
-- German Politics
-- Germanic Review
-- Global Change, Peace and Security
-- Global Crime
-- Global Discourse
-- 'Global Discourse: An Interdisciplinary Journal of Current Affairs and Applied Contemporary
-  Thought'
-- Global Economic Review
-- Global Society
-- Globalisation, Societies and Education
-- Globalizations
-- Green Letters
-- 'Green Letters: Studies in Ecocriticism'
-- Health Communication
-- Health Marketing Quarterly
-- High Ability Studies
-- Higher Education Research and Development
-- 'Historic Environment: Policy and Practice'
-- Historical Journal of Film, Radio and Television
-- 'Historical Methods: A Journal of Quantitative and Interdisciplinary History'
-- History and Anthropology
-- History and Technology
-- History of Education
-- History of Photography
-- History of the Family
-- 'History: Reviews of New Books'
-- Holocaust Studies
-- Home Cultures
-- Housing Policy Debate
-- Housing Studies
-- Housing and Society
-- Housing, Theory and Society
-- Howard Journal of Communications
-- Human Dimensions of Wildlife
-- Human Resource Development International
-- Ibsen Studies
-- Identities
-- Imago Mundi
-- Immigrants and Minorities
-- India Review
-- Indonesia and the Malay World
-- Industrial Archaeology Review
-- Industry and Innovation
-- Information and Communications Technology Law
-- Information, Communication and Society
-- Innovation
-- Innovation and Development
-- Innovation in Language Learning and Teaching
-- 'Innovation: Management, Policy and Practice'
-- 'Innovation: The European Journal of Social Science Research'
-- Innovations in Education and Teaching International
-- Inquiry
-- Intellectual History Review
-- Intelligence and National Security
-- Inter-Asia Cultural Studies
-- Interactive Learning Environments
-- Intercultural Education
-- Interiors
-- International Affairs Forum
-- International Critical Thought
-- International Economic Journal
-- International Feminist Journal of Politics
-- International History Review
-- International Interactions
-- International Journal for Academic Development
-- International Journal for the Practice and Theory of Creative Writing
-- International Journal for the Study of the Christian Church
-- International Journal of Advertising
-- International Journal of African Renaissance Studies
-- International Journal of Bilingual Education and Bilingualism
-- International Journal of Children's Spirituality
-- International Journal of Comparative and Applied Criminal Justice
-- International Journal of Cultural Policy
-- International Journal of Disability, Development and Education
-- International Journal of Early Years Education
-- International Journal of Electronic Commerce
-- International Journal of Hospitality and Tourism Administration
-- International Journal of Housing Policy
-- International Journal of Human Resource Management
-- International Journal of Human Rights
-- International Journal of Inclusive Education
-- International Journal of Intelligence and Counter Intelligence
-- International Journal of Intelligence, Security, and Public Affairs
-- International Journal of Leadership in Education
-- International Journal of Lifelong Education
-- International Journal of Listening
-- International Journal of Multilingualism
-- International Journal of Pedagogies and Learning
-- International Journal of Performance Analysis in Sport
-- International Journal of Performance Arts and Digital Media
-- International Journal of Philosophical Studies
-- International Journal of Philosophy and Theology
-- International Journal of Play
-- International Journal of Political Economy
-- International Journal of Public Administration
-- International Journal of Qualitative Studies in Education
-- International Journal of Research and Method in Education
-- International Journal of Science Education
-- 'International Journal of Science Education, Part B: Communication and Public Engagement'
-- International Journal of Social Research Methodology
-- International Journal of Sociology
-- International Journal of Sport Policy and Politics
-- International Journal of Strategic Communication
-- International Journal of Training Research
-- International Journal of Urban Sciences
-- International Journal of Water Resources Development
-- International Journal of the Economics of Business
-- International Journal of the History of Sport
-- International Journal of the Legal Profession
-- International Journal on Media Management
-- International Multilingual Research Journal
-- International Peacekeeping
-- International Planning Studies
-- International Public Management Journal
-- International Research in Geographical and Environmental Education
-- International Review of Applied Economics
-- International Review of Law, Computers and Technology
-- International Review of Retail, Distribution and Consumer Research
-- International Review of Sociology
-- International Spectator
-- International Studies in Catholic Education
-- International Studies in Sociology of Education
-- International Studies in the Philosophy of Science
-- International Studies of Management and Organization
-- International Trade Journal
-- Interpreter and Translator Trainer
-- 'Interventions: International Journal of Postcolonial Studies'
-- Iran
-- Iranian Studies
-- Irish Educational Studies
-- Irish Political Studies
-- Irish Studies Review
-- Islam and Christian-Muslim Relations
-- Israel Affairs
-- Japan Forum
-- Japanese Economy
-- Japanese Studies
-- Jazz Perspectives
-- Jewish Culture and History
-- Jewish Quarterly
-- Journal for Cultural Research
-- Journal for Maritime Research
-- Journal for the Study of Spirituality
-- Journal of Adventure Education and Outdoor Learning
-- Journal of Advertising
-- Journal of African Business
-- Journal of African Cultural Studies
-- Journal of African Diaspora Archaeology and Heritage
-- Journal of Agricultural Education and Extension
-- Journal of Applied Communication Research
-- Journal of Applied Security Research
-- Journal of Arabian Studies
-- Journal of Architectural Conservation
-- Journal of Architectural Education
-- Journal of Architecture
-- Journal of Architecture and Urbanism
-- Journal of Arts Management, Law, and Society
-- Journal of Asia-Pacific Business
-- Journal of Asian Public Policy
-- Journal of Australian Studies
-- Journal of Balkan and Near Eastern Studies
-- Journal of Baltic Studies
-- Journal of Beliefs and Values
-- Journal of Biological Education
-- Journal of Borderlands Studies
-- Journal of Business to Business Marketing
-- Journal of Change Management
-- Journal of Children and Media
-- Journal of Children and Poverty
-- Journal of China Tourism Research
-- Journal of Chinese Economic and Business Studies
-- Journal of Civil Society
-- Journal of Comparative Asian Development
-- Journal of Conflict Archaeology
-- Journal of Contemporary African Studies
-- Journal of Contemporary Asia
-- Journal of Contemporary China
-- Journal of Contemporary European Studies
-- Journal of Contemporary Religion
-- Journal of Continuing Higher Education
-- Journal of Convention and Event Tourism
-- Journal of Crime and Justice
-- Journal of Criminal Justice Education
-- Journal of Cultural Economy
-- Journal of Current Issues and Research in Advertising
-- Journal of Curriculum Studies
-- Journal of Curriculum and Pedagogy
-- Journal of Development Effectiveness
-- Journal of Development Studies
-- Journal of East-West Business
-- Journal of Eastern African Studies
-- Journal of Economic Education
-- Journal of Economic Issues
-- Journal of Economic Methodology
-- Journal of Economic Policy Reform
-- Journal of Ecotourism
-- Journal of Education Policy
-- Journal of Education and Work
-- Journal of Education for Business
-- Journal of Education for Students Placed at Risk
-- Journal of Education for Teaching
-- Journal of Educational Administration and History
-- Journal of Educational Research
-- Journal of Educational and Psychological Consultation
-- Journal of Elections, Public Opinion and Parties
-- Journal of Environmental Education
-- Journal of Ethnic and Migration Studies
-- Journal of Ethnicity in Criminal Justice
-- Journal of European Integration
-- Journal of European Public Policy
-- Journal of Experimental Education
-- Journal of Family Communication
-- Journal of Food Products Marketing
-- Journal of Foodservice Business Research
-- Journal of Further and Higher Education
-- Journal of Gender Studies
-- Journal of Genocide Research
-- Journal of Geography
-- Journal of Global Ethics
-- Journal of Global Fashion Marketing
-- Journal of Global Marketing
-- Journal of Global Scholars of Marketing Science
-- Journal of Graphic Novels and Comics
-- Journal of Heritage Tourism
-- Journal of Higher Education Policy and Management
-- Journal of Hospitality Financial Management
-- Journal of Hospitality Marketing and Management
-- Journal of Housing for the Elderly
-- Journal of Human Development and Capabilities
-- Journal of Human Resources in Hospitality and Tourism
-- Journal of Human Rights
-- Journal of Iberian and Latin American Research
-- Journal of Iberian and Latin American Studies
-- Journal of Imperial and Commonwealth History
-- Journal of Information Technology and Politics
-- Journal of Interactive Advertising
-- Journal of Intercultural Communication Research
-- Journal of Intercultural Studies
-- Journal of International Communication
-- Journal of International Consumer Marketing
-- Journal of International Food and Agribusiness Marketing
-- Journal of International Trade and Economic Development
-- Journal of International Wildlife Law and Policy
-- Journal of International and Intercultural Communication
-- Journal of Internet Commerce
-- Journal of Intervention and Statebuilding
-- Journal of Island and Coastal Archaeology
-- Journal of Israeli History
-- Journal of Japanese and Korean Cinema
-- Journal of Jewish Education
-- Journal of Landscape Architecture
-- Journal of Language, Identity and Education
-- Journal of Latin American Cultural Studies
-- Journal of Latinos and Education
-- Journal of Legal History
-- Journal of Legal Pluralism and Unofficial Law
-- Journal of Legislative Studies
-- Journal of Management Information Systems
-- Journal of Management, Spirituality and Religion
-- Journal of Marketing Channels
-- Journal of Marketing Communications
-- Journal of Marketing Management
-- Journal of Marketing Theory and Practice
-- Journal of Marketing for Higher Education
-- Journal of Mass Media Ethics
-- Journal of Mathematical Sociology
-- Journal of Media Economics
-- Journal of Media and Religion
-- Journal of Medieval History
-- Journal of Medieval Iberian Studies
-- Journal of Military Ethics
-- Journal of Modern Chinese History
-- Journal of Modern Craft
-- Journal of Modern Italian Studies
-- Journal of Modern Jewish Studies
-- Journal of Moral Education
-- Journal of Multicultural Discourses
-- Journal of Multilingual and Multicultural Development
-- Journal of Musicological Research
-- Journal of Muslim Minority Affairs
-- Journal of New Music Research
-- Journal of Nonprofit and Public Sector Marketing
-- Journal of Offender Rehabilitation
-- Journal of Pacific History
-- Journal of Peace Education
-- Journal of Peacebuilding and Development
-- Journal of Peasant Studies
-- Journal of Personal Selling and Sales Management
-- Journal of Police Crisis Negotiations
-- Journal of Policing, Intelligence and Counter Terrorism
-- Journal of Policy Research in Tourism, Leisure and Events
-- Journal of Political Ideologies
-- Journal of Political Marketing
-- Journal of Political Power
-- Journal of Political Science Education
-- Journal of Popular Film and Television
-- Journal of Post Keynesian Economics
-- Journal of Postcolonial Writing
-- Journal of Poverty
-- Journal of Promotion Management
-- Journal of Property Research
-- Journal of Public Relations Research
-- Journal of Quality Assurance in Hospitality and Tourism
-- Journal of Quantitative Linguistics
-- Journal of Relationship Marketing
-- Journal of Research in Childhood Education
-- Journal of Research on Christian Education
-- Journal of Research on Educational Effectiveness
-- Journal of Risk Research
-- Journal of Russian and East European Psychology
-- Journal of Scandinavian Studies in Criminology and Crime Prevention
-- Journal of School Choice
-- Journal of Slavic Military Studies
-- Journal of Small Business and Entrepreneurship
-- Journal of Social Entrepreneurship
-- Journal of Southern African Studies
-- Journal of Spanish Cultural Studies
-- Journal of Sport and Tourism
-- Journal of Strategic Marketing
-- Journal of Strategic Studies
-- Journal of Sustainable Tourism
-- Journal of Teaching in International Business
-- Journal of Teaching in Travel and Tourism
-- Journal of Textile Design Research and Practice
-- Journal of Tourism History
-- Journal of Tourism and Cultural Change
-- Journal of Transatlantic Studies
-- Journal of Transnational Management
-- Journal of Travel and Tourism Marketing
-- Journal of Trust Research
-- Journal of Urban Affairs
-- Journal of Urban Design
-- Journal of Urban Technology
-- Journal of Urbanism
-- Journal of Visual Art Practice
-- Journal of Wine Research
-- Journal of Women, Politics and Policy
-- Journal of World Languages
-- Journal of Youth Studies
-- Journal of the American Planning Association
-- Journal of the Asia Pacific Economy
-- Journal of the Institute of Conservation
-- Journal of the Learning Sciences
-- Journal of the Middle East and Africa
-- Journal of the Musical Arts in Africa
-- Journal of the Philosophy of Sport
-- Journal of the Royal Musical Association
-- Journal of the Society of Archivists
-- Journal on the Use of Force and International Law
-- Journalism Practice
-- Journalism Studies
-- Jung Journal
-- Justice Quarterly
-- Justice System Journal
-- Keats-Shelley Review
-- Konsthistorisk tidskrift/Journal of Art History
-- 'LIT: Literature Interpretation Theory'
-- Labor History
-- Labour and Industry
-- Landscape History
-- Landscape Research
-- Language Assessment Quarterly
-- Language Awareness
-- Language Learning Journal
-- 'Language Matters: Studies in the Languages of Africa'
-- Language and Education
-- Language and History
-- Language and Intercultural Communication
-- Language, Culture and Curriculum
-- Latin American Business Review
-- Latin American and Caribbean Ethnic Studies
-- Law Teacher
-- Leadership and Policy in Schools
-- Learning, Media and Technology
-- Leisure
-- Leisure Sciences
-- Leisure Studies
-- Life Writing
-- Literacy Research and Instruction
-- Liturgy
-- Local Government Studies
-- Loisir
-- London Review of Education
-- Luxury
-- Management and Organizational History
-- Managing Leisure
-- Mariner's Mirror
-- Maritime Policy and Management
-- Marketing Education Review
-- Mass Communication and Society
-- Material Religion
-- Mathematical Population Studies
-- Mathematical Thinking and Learning
-- Measurement in Physical Education and Exercise Science
-- Media History
-- Media Psychology
-- Medical Anthropology
-- Medicine, Conflict and Survival
-- Medieval Archaeology
-- Medieval Sermon Studies
-- Mediterranean Historical Review
-- Mediterranean Politics
-- Mentoring and Tutoring
-- Middle East Critique
-- Middle Eastern Literatures
-- Middle Eastern Studies
-- Migration and Development
-- Mind, Culture, and Activity
-- Mobilities
-- Modern and Contemporary France
-- Monumenta Serica
-- Multicultural Education Abstracts
-- Museum Management and Curatorship
-- Music Education Research
-- Musicology Australia
-- NHSA Dialog
-- NORA
-- NORMA - Nordisk tidsskrift for maskulinitetsstudier
-- National Identities
-- Nationalism and Ethnic Politics
-- Nationalities Papers
-- New Educator
-- New Political Economy
-- New Review of Film and Television Studies
-- New Writing
-- New Zealand Economic Papers
-- Nineteenth-Century Contexts
-- Nonproliferation Review
-- Nordic Journal of Human Rights
-- Nordisk Tidsskrift for Menneskerettigheter
-- Norsk Geografisk Tidsskrift
-- Norsk Geografisk Tidsskrift - Norwegian Journal of Geography
-- Norwegian Archaeological Review
-- Norwegian Journal of Geography
-- 'Open Learning: The Journal of Open and Distance Learning'
-- Oxford Development Studies
-- Oxford German Studies
-- Oxford Review of Education
-- Pacific Review
-- Paedagogica Historica
-- Palestine Exploration Quarterly
-- Parallax
-- Parliaments, Estates and Representation
-- Pastoral Care in Education
-- Patterns of Prejudice
-- Peabody Journal of Education
-- Peace Review
-- Peacebuilding
-- 'Pedagogies: An International Journal'
-- Performance Research
-- Perspectives on European Politics and Society
-- Perspectives on Political Science
-- 'Perspectives: Policy and Practice in Higher Education'
-- 'Perspectives: Studies in Translatology'
-- Philippine Political Science Journal
-- Philosophical Explorations
-- Philosophical Psychology
-- Photographies
-- Photography and Culture
-- Physical Education and Sport Pedagogy
-- Planning Perspectives
-- Planning Practice and Research
-- Planning Theory and Practice
-- Polar Journal
-- Police Practice and Research
-- Policing and Society
-- Policy Studies
-- Political Communication
-- Political Theology
-- Politics, Groups and Identities
-- Politics, Religion and Ideology
-- Politikon
-- Popular Communication
-- Popular Music and Society
-- Population Studies
-- Post-Communist Economies
-- Post-Medieval Archaeology
-- Post-Soviet Affairs
-- Postcolonial Studies
-- 'Preventing School Failure: Alternative Education for Children and Youth'
-- Problems of Economic Transition
-- Problems of Post-Communism
-- Professional Development in Education
-- Professional Geographer
-- Prose Studies
-- Public Art Dialogue
-- Public Integrity
-- Public Management Review
-- Public Money and Management
-- Public Performance and Management Review
-- Publications of the English Goethe Society
-- Qualitative Research Reports in Communication
-- Qualitative Research in Sport, Exercise and Health
-- Quality in Higher Education
-- Quantitative Finance
-- Quarterly Journal of Speech
-- Quarterly Review of Film and Video
-- Quest
-- RUSI Journal
-- Race Ethnicity and Education
-- Reading Psychology
-- Reading and Writing Quarterly
-- Records and Information Management Report
-- Reflective Practice
-- Reformation and Renaissance Review
-- Regional Studies
-- Regional and Federal Studies
-- Religion
-- Religion and Education
-- Religion, State and Society
-- Religious Education
-- Representation
-- Research Papers in Education
-- Research Quarterly for Exercise and Sport
-- Research in Dance Education
-- 'Research in Drama Education: The Journal of Applied Theatre and Performance'
-- Research in Mathematics Education
-- Research in Post-Compulsory Education
-- Research in Science and Technological Education
-- Research in Sports Medicine
-- Research into Higher Education Abstracts
-- Research on Language and Social Interaction
-- Research-Technology Management
-- Resilience
-- Restorative Justice
-- Rethinking History
-- Rethinking Marxism
-- Review of Communication
-- Review of Education, Pedagogy and Cultural Studies
-- Review of Faith and International Affairs
-- Review of International Political Economy
-- Review of Political Economy
-- Review of Social Economy
-- Reviews in Anthropology
-- Revolutionary Russia
-- Revue canadienne d'études du développement
-- Revue canadienne des slavistes
-- Revue canadienne des études africaines
-- Revue d'Intégration Européenne
-- Revue européenne d'histoire
-- Rhetoric Review
-- Rhetoric Society Quarterly
-- Rock Music Studies
-- Roeper Review
-- Romance Quarterly
-- Round Table
-- Royal Musical Association Research Chronicle
-- Rural Society
-- Rural Theology
-- Russian Education and Society
-- Russian Politics and Law
-- Russian Social Science Review
-- Russian Studies in History
-- Russian Studies in Literature
-- Russian Studies in Philosophy
-- Safundi
-- Scandinavian Actuarial Journal
-- Scandinavian Journal of Educational Research
-- Scandinavian Journal of History
-- Scandinavian Journal of Hospitality and Tourism
-- Scandinavian Journal of the Old Testament
-- Scando-Slavica
-- School Effectiveness and School Improvement
-- School Leadership and Management
-- 'Science Activities: Classroom Projects and Curriculum Ideas'
-- Science and Medicine in Football
-- Scientific Studies of Reading
-- 'Security Index: A Russian Journal on International Security'
-- Security Studies
-- Senses and Society
-- Service Industries Journal
-- Services Marketing Quarterly
-- Settler Colonial Studies
-- Seventeenth Century
-- Sex Education
-- 'Sikh Formations: Religion, Culture, Theory'
-- Sixties
-- Slavery and Abolition
-- Small Enterprise Research
-- Small Wars and Insurgencies
-- Soccer and Society
-- Social Dynamics
-- Social Epistemology
-- Social History
-- Social Identities
-- Social Movement Studies
-- Social Sciences in China
-- Social Semiotics
-- Social Studies
-- Social and Environmental Accountability Journal
-- Socialism and Democracy
-- Society and Natural Resources
-- Sociological Research
-- Sociological Spectrum
-- Sociology of Education Abstracts
-- Sound Studies
-- South African Journal of International Affairs
-- South African Journal on Human Rights
-- South African Theatre Journal
-- 'South Asia: Journal of South Asian Studies'
-- South Asian Diaspora
-- South Asian History and Culture
-- South Asian Popular Culture
-- South Asian Studies
-- Southeast European and Black Sea Studies
-- Southern African Linguistics and Applied Language Studies
-- Southern Communication Journal
-- Space and Polity
-- Spatial Economic Analysis
-- Special Educational Needs Abstracts
-- Sport in History
-- Sport in Society
-- Sport, Education and Society
-- Sport, Ethics and Philosophy
-- Sports Biomechanics
-- Sports Coaching Review
-- Sports Technology
-- Stanislavski Studies
-- Statutes and Decisions
-- Studia Neophilologica
-- Studia Theologica
-- Studies in Conflict and Terrorism
-- Studies in Continuing Education
-- Studies in Documentary Film
-- Studies in Eastern European Cinema
-- Studies in European Cinema
-- Studies in French Cinema
-- Studies in Higher Education
-- Studies in Science Education
-- Studies in Theatre and Performance
-- Studies in Travel Writing
-- Studies in the Education of Adults
-- Studies in the History of Gardens and Designed Landscapes
-- Studies on Women and Gender Abstracts
-- Studying Teacher Education
-- Symbolae Osloenses
-- Symposium
-- Teacher Development
-- 'Teachers and Teaching: Theory and Practice'
-- Teaching Artist Journal
-- Teaching Education
-- Teaching and Learning in Medicine
-- Teaching in Higher Education
-- Technical Communication Quarterly
-- Technology Analysis and Strategic Management
-- Technology, Pedagogy and Education
-- 'Terrae Incognitae: The Journal for the History of Discoveries'
-- Territory, Politics, Governance
-- Terrorism and Political Violence
-- Tertiary Education and Management
-- Text and Performance Quarterly
-- Textile
-- Textual Practice
-- Theatre and Performance Design
-- Theatre, Dance and Performance Training
-- Theology and Science
-- Theory and Practice of Legislation
-- Theory and Practise of Legislation
-- Third Text
-- Third World Quarterly
-- Time and Mind
-- Total Quality Management and Business Excellence
-- Tourism Geographies
-- Tourism Recreation Research
-- Town Planning and Architecture
-- Translation Review
-- Translation Studies
-- 'Translator: Studies in Intercultural Communication'
-- Transport Reviews
-- Transportation Planning and Technology
-- Turkish Studies
-- Urban Policy and Research
-- Urban Research and Practice
-- Venture Capital
-- Victims and Offenders
-- Visual Anthropology
-- Visual Communication Quarterly
-- Visual Culture in Britain
-- Visual Resources
-- Visual Studies
-- Vocational Education and Training Abstracts
-- Wasafiri
-- Washington Quarterly
-- Water International
-- West European Politics
-- Western Journal of Communication
-- Whitehall Papers
-- Women and Criminal Justice
-- Women and Performance
-- Women's History Review
-- Women's Studies
-- Women's Writing
-- 'Women: A Cultural Review'
-- Word
-- Word and Image
-- World Archaeology
-- World Art
-- World Leisure Journal
-- Youth Theatre Journal
-- disP - The Planning Review
+  - AAG Review of Books
+  - 'ANQ: A Quarterly Journal of Short Articles, Notes and Reviews'
+  - Accounting Education
+  - Accounting History Review
+  - Accounting and Business Research
+  - Accounting in Europe
+  - Acta Agriculturæ Scandinavica, Section C - Food Economics
+  - Acta Borealia
+  - Acta Linguistica Hafniensia
+  - 'Action Learning: Research and Practice'
+  - Administrative Theory and Praxis
+  - Advances in the History of Rhetoric
+  - Africa Review
+  - African Geographical Review
+  - African Identities
+  - African Security
+  - African Studies
+  - African and Black Diaspora
+  - Al-Masaq
+  - American Communist History
+  - American Journal of Distance Education
+  - American Journalism
+  - American Nineteenth Century History
+  - American Review of Canadian Studies
+  - Anatolia
+  - Angelaki
+  - Annals of Leisure Research
+  - Anthropological Forum
+  - Anthropology and Archeology of Eurasia
+  - Anthropology and Medicine
+  - Anthrozoös
+  - Applied Economics
+  - Applied Economics Letters
+  - Applied Environmental Education and Communication
+  - Applied Financial Economics
+  - Applied Mathematical Finance
+  - Applied Measurement in Education
+  - Applied Mobilities
+  - Archaeological Journal
+  - Architectural Theory Review
+  - Architecture and Culture
+  - Arms and Armour
+  - Arts Education Policy Review
+  - Asia Pacific Business Review
+  - Asia Pacific Journal of Anthropology
+  - Asia Pacific Journal of Education
+  - Asia Pacific Journal of Social Work and Development
+  - Asia Pacific Journal of Sport and Social Science
+  - Asia Pacific Journal of Tourism Research
+  - Asia Pacific Review
+  - Asia-Pacific Journal of Accounting and Economics
+  - Asia-Pacific Journal of Health, Sport and Physical Education
+  - Asia-Pacific Journal of Teacher Education
+  - Asian Affairs
+  - Asian Anthropology
+  - Asian Ethnicity
+  - Asian Geographer
+  - Asian Journal of Communication
+  - Asian Journal of Political Science
+  - Asian Journal of Technology Innovation
+  - Asian Philosophy
+  - Asian Population Studies
+  - Asian Security
+  - Asian Studies Review
+  - Assessment and Evaluation in Higher Education
+  - Assessment in Education
+  - Astropolitics
+  - Atlantic Journal of Communication
+  - Atlantic Studies
+  - Australasian Journal of Philosophy
+  - Australian Feminist Law Journal
+  - Australian Feminist Studies
+  - Australian Geographer
+  - Australian Historical Studies
+  - Australian Journal of International Affairs
+  - Australian Journal of Learning Difficulties
+  - Australian Journal of Linguistics
+  - Australian Journal of Political Science
+  - Australian Planner
+  - Auto/Biography Studies
+  - 'Azania: Archaeological Research in Africa'
+  - Bilingual Research Journal
+  - Black Scholar
+  - British Journal for the History of Philosophy
+  - British Journal of Educational Studies
+  - British Journal of Middle Eastern Studies
+  - British Journal of Religious Education
+  - British Journal of Sociology of Education
+  - Bulletin of Indonesian Economic Studies
+  - Bulletin of Spanish Studies
+  - Bulletin of the Atomic Scientists
+  - Business History
+  - Cambridge Journal of Education
+  - Cambridge Review of International Affairs
+  - Canadian Foreign Policy Journal
+  - Canadian Journal of African Studies
+  - Canadian Journal of Development Studies
+  - Canadian Journal of Philosophy
+  - Canadian Journal of Science, Mathematics and Technology Education
+  - Canadian Slavonic Papers
+  - Capitalism Nature Socialism
+  - Celebrity Studies
+  - Central Asian Survey
+  - Challenge
+  - 'Change: The Magazine of Higher Learning'
+  - Changing English
+  - Childhood in the Past
+  - China Economic Journal
+  - China Journal of Accounting Studies
+  - Chinese Economy
+  - Chinese Education and Society
+  - Chinese Historical Review
+  - Chinese Journal of Communication
+  - Chinese Law and Government
+  - Chinese Sociological Review
+  - Chinese Sociology and Anthropology
+  - Chinese Studies in History
+  - Christian Higher Education
+  - Citizenship Studies
+  - City
+  - Civil Wars
+  - Classroom Discourse
+  - 'Clearing House: A Journal of Educational Strategies, Issues and Ideas'
+  - Cognition and Instruction
+  - Cold War History
+  - College Teaching
+  - Commonwealth Law Bulletin
+  - Communication Booknotes Quarterly
+  - Communication Education
+  - Communication Law and Policy
+  - Communication Methods and Measures
+  - Communication Monographs
+  - Communication Quarterly
+  - Communication Reports
+  - Communication Research Reports
+  - Communication Review
+  - Communication Studies
+  - Communication Teacher
+  - Communication and Critical/Cultural Studies
+  - Community College Journal of Research and Practice
+  - Community Development
+  - Community, Work and Family
+  - Comparative Education
+  - Comparative Strategy
+  - 'Compare: A Journal of Comparative and International Education'
+  - Computer Assisted Language Learning
+  - Computer Science Education
+  - Computers in the Schools
+  - Conflict, Security and Development
+  - Contemporary Arab Affairs
+  - Contemporary British History
+  - Contemporary Buddhism
+  - Contemporary Chinese Thought
+  - Contemporary French and Francophone Studies
+  - Contemporary Justice Review
+  - Contemporary Music Review
+  - Contemporary Politics
+  - Contemporary Security Policy
+  - Contemporary Social Science
+  - Contemporary South Asia
+  - Contemporary Theatre Review
+  - Continuum
+  - Creativity Research Journal
+  - Criminal Justice Ethics
+  - Criminal Justice Matters
+  - Criminal Justice Studies
+  - Critical African Studies
+  - 'Critical Arts: A Journal of South-North Cultural Studies'
+  - Critical Asian Studies
+  - Critical Discourse Studies
+  - Critical Policy Studies
+  - Critical Review
+  - Critical Review of International Social and Political Philosophy
+  - Critical Studies in Education
+  - Critical Studies in Media Communication
+  - Critical Studies on Terrorism
+  - Critique
+  - 'Critique: Journal of Socialist Theory'
+  - Cultura y Educación. Culture and Education
+  - Cultural Studies
+  - Cultural Trends
+  - Cultural and Social History
+  - Culture and Organization
+  - Culture and Religion
+  - Culture, Theory and Critique
+  - Current
+  - Current Issues in Language Planning
+  - Current Issues in Tourism
+  - Curriculum Journal
+  - Dance Chronicle
+  - Danish Journal of Archaeology
+  - Deafness and Education International
+  - 'Debatte: Journal of Contemporary Central and Eastern Europe'
+  - Defence Studies
+  - Defence and Peace Economics
+  - Defense and Security Analysis
+  - Democracy and Security
+  - Democratization
+  - Design Journal
+  - Design Philosophy Papers
+  - Design and Culture
+  - Development Southern Africa
+  - Development in Practice
+  - Deviant Behavior
+  - Diaspora Studies
+  - Diaspora, Indigenous, and Minority Education
+  - Digital Creativity
+  - Digital Journalism
+  - Diplomacy and Statecraft
+  - Disability and Society
+  - Discourse Processes
+  - Distance Education
+  - Distinktion
+  - Dress
+  - Early Child Development and Care
+  - Early Education and Development
+  - Early Medieval China
+  - Early Modern French Studies
+  - Early Popular Visual Culture
+  - Early Years
+  - East European Jewish Affairs
+  - East European Politics
+  - Eastern European Economics
+  - Ecology of Food and Nutrition
+  - Economic Systems Research
+  - Economics of Innovation and New Technology
+  - Economy and Society
+  - Education 3-13
+  - Education Economics
+  - Educational Action Research
+  - Educational Assessment
+  - Educational Gerontology
+  - Educational Management Abstracts
+  - Educational Media International
+  - Educational Philosophy and Theory
+  - Educational Psychologist
+  - Educational Psychology
+  - Educational Psychology in Practice
+  - Educational Research
+  - Educational Research Abstracts online (ERA)
+  - Educational Research and Evaluation
+  - Educational Review
+  - Educational Technology Abstracts
+  - Emerging Markets Finance and Trade
+  - Emotional and Behavioural Difficulties
+  - English Studies
+  - Entrepreneurship and Regional Development
+  - Environmental Archaeology
+  - Environmental Claims Journal
+  - Environmental Education Research
+  - Environmental Politics
+  - Equity and Excellence in Education
+  - Ethics and Education
+  - Ethics, Policy and Environment
+  - Ethnic and Racial Studies
+  - Ethnography and Education
+  - Ethnomusicology Forum
+  - Ethnopolitics
+  - Ethnos
+  - Eurasian Geography and Economics
+  - Europe-Asia Studies
+  - European Accounting Review
+  - European Early Childhood Education Research Journal
+  - European Education
+  - European Journal of Cultural and Political Sociology
+  - European Journal of English Studies
+  - European Journal of Finance
+  - European Journal of Higher Education
+  - European Journal of Special Needs Education
+  - European Journal of Teacher Education
+  - European Journal of the History of Economic Thought
+  - European Legacy
+  - European Planning Studies
+  - European Review of History
+  - European Romantic Review
+  - European Security
+  - European Sport Management Quarterly
+  - Exceptionality
+  - Exemplaria
+  - Explicator
+  - Fabrications
+  - Fashion Practice
+  - Fashion Theory
+  - Feminist Economics
+  - Feminist Media Studies
+  - First Amendment Studies
+  - Folklore
+  - Food Economics
+  - Food and Foodways
+  - Food, Culture and Society
+  - Forum for Development Studies
+  - Gender and Development
+  - Gender and Education
+  - Geografisk Tidsskrift-Danish Journal of Geography
+  - Geography Teacher
+  - Geopolitics
+  - German Politics
+  - Germanic Review
+  - Global Change, Peace and Security
+  - Global Crime
+  - Global Discourse
+  - 'Global Discourse: An Interdisciplinary Journal of Current Affairs and Applied
+    Contemporary Thought'
+  - Global Economic Review
+  - Global Society
+  - Globalisation, Societies and Education
+  - Globalizations
+  - Green Letters
+  - 'Green Letters: Studies in Ecocriticism'
+  - Health Communication
+  - Health Marketing Quarterly
+  - High Ability Studies
+  - Higher Education Research and Development
+  - 'Historic Environment: Policy and Practice'
+  - Historical Journal of Film, Radio and Television
+  - 'Historical Methods: A Journal of Quantitative and Interdisciplinary History'
+  - History and Anthropology
+  - History and Technology
+  - History of Education
+  - History of Photography
+  - History of the Family
+  - 'History: Reviews of New Books'
+  - Holocaust Studies
+  - Home Cultures
+  - Housing Policy Debate
+  - Housing Studies
+  - Housing and Society
+  - Housing, Theory and Society
+  - Howard Journal of Communications
+  - Human Dimensions of Wildlife
+  - Human Resource Development International
+  - Ibsen Studies
+  - Identities
+  - Imago Mundi
+  - Immigrants and Minorities
+  - India Review
+  - Indonesia and the Malay World
+  - Industrial Archaeology Review
+  - Industry and Innovation
+  - Information and Communications Technology Law
+  - Information, Communication and Society
+  - Innovation
+  - Innovation and Development
+  - Innovation in Language Learning and Teaching
+  - 'Innovation: Management, Policy and Practice'
+  - 'Innovation: The European Journal of Social Science Research'
+  - Innovations in Education and Teaching International
+  - Inquiry
+  - Intellectual History Review
+  - Intelligence and National Security
+  - Inter-Asia Cultural Studies
+  - Interactive Learning Environments
+  - Intercultural Education
+  - Interiors
+  - International Affairs Forum
+  - International Critical Thought
+  - International Economic Journal
+  - International Feminist Journal of Politics
+  - International History Review
+  - International Interactions
+  - International Journal for Academic Development
+  - International Journal for the Practice and Theory of Creative Writing
+  - International Journal for the Study of the Christian Church
+  - International Journal of Advertising
+  - International Journal of African Renaissance Studies
+  - International Journal of Bilingual Education and Bilingualism
+  - International Journal of Children's Spirituality
+  - International Journal of Comparative and Applied Criminal Justice
+  - International Journal of Cultural Policy
+  - International Journal of Disability, Development and Education
+  - International Journal of Early Years Education
+  - International Journal of Electronic Commerce
+  - International Journal of Hospitality and Tourism Administration
+  - International Journal of Housing Policy
+  - International Journal of Human Resource Management
+  - International Journal of Human Rights
+  - International Journal of Inclusive Education
+  - International Journal of Intelligence and Counter Intelligence
+  - International Journal of Intelligence, Security, and Public Affairs
+  - International Journal of Leadership in Education
+  - International Journal of Lifelong Education
+  - International Journal of Listening
+  - International Journal of Multilingualism
+  - International Journal of Pedagogies and Learning
+  - International Journal of Performance Analysis in Sport
+  - International Journal of Performance Arts and Digital Media
+  - International Journal of Philosophical Studies
+  - International Journal of Philosophy and Theology
+  - International Journal of Play
+  - International Journal of Political Economy
+  - International Journal of Public Administration
+  - International Journal of Qualitative Studies in Education
+  - International Journal of Research and Method in Education
+  - International Journal of Science Education
+  - 'International Journal of Science Education, Part B: Communication and Public
+    Engagement'
+  - International Journal of Social Research Methodology
+  - International Journal of Sociology
+  - International Journal of Sport Policy and Politics
+  - International Journal of Strategic Communication
+  - International Journal of Training Research
+  - International Journal of Urban Sciences
+  - International Journal of Water Resources Development
+  - International Journal of the Economics of Business
+  - International Journal of the History of Sport
+  - International Journal of the Legal Profession
+  - International Journal on Media Management
+  - International Multilingual Research Journal
+  - International Peacekeeping
+  - International Planning Studies
+  - International Public Management Journal
+  - International Research in Geographical and Environmental Education
+  - International Review of Applied Economics
+  - International Review of Law, Computers and Technology
+  - International Review of Retail, Distribution and Consumer Research
+  - International Review of Sociology
+  - International Spectator
+  - International Studies in Catholic Education
+  - International Studies in Sociology of Education
+  - International Studies in the Philosophy of Science
+  - International Studies of Management and Organization
+  - International Trade Journal
+  - Interpreter and Translator Trainer
+  - 'Interventions: International Journal of Postcolonial Studies'
+  - Iran
+  - Iranian Studies
+  - Irish Educational Studies
+  - Irish Political Studies
+  - Irish Studies Review
+  - Islam and Christian-Muslim Relations
+  - Israel Affairs
+  - Japan Forum
+  - Japanese Economy
+  - Japanese Studies
+  - Jazz Perspectives
+  - Jewish Culture and History
+  - Jewish Quarterly
+  - Journal for Cultural Research
+  - Journal for Maritime Research
+  - Journal for the Study of Spirituality
+  - Journal of Adventure Education and Outdoor Learning
+  - Journal of Advertising
+  - Journal of African Business
+  - Journal of African Cultural Studies
+  - Journal of African Diaspora Archaeology and Heritage
+  - Journal of Agricultural Education and Extension
+  - Journal of Applied Communication Research
+  - Journal of Applied Security Research
+  - Journal of Arabian Studies
+  - Journal of Architectural Conservation
+  - Journal of Architectural Education
+  - Journal of Architecture
+  - Journal of Architecture and Urbanism
+  - Journal of Arts Management, Law, and Society
+  - Journal of Asia-Pacific Business
+  - Journal of Asian Public Policy
+  - Journal of Australian Studies
+  - Journal of Balkan and Near Eastern Studies
+  - Journal of Baltic Studies
+  - Journal of Beliefs and Values
+  - Journal of Biological Education
+  - Journal of Borderlands Studies
+  - Journal of Business to Business Marketing
+  - Journal of Change Management
+  - Journal of Children and Media
+  - Journal of Children and Poverty
+  - Journal of China Tourism Research
+  - Journal of Chinese Economic and Business Studies
+  - Journal of Civil Society
+  - Journal of Comparative Asian Development
+  - Journal of Conflict Archaeology
+  - Journal of Contemporary African Studies
+  - Journal of Contemporary Asia
+  - Journal of Contemporary China
+  - Journal of Contemporary European Studies
+  - Journal of Contemporary Religion
+  - Journal of Continuing Higher Education
+  - Journal of Convention and Event Tourism
+  - Journal of Crime and Justice
+  - Journal of Criminal Justice Education
+  - Journal of Cultural Economy
+  - Journal of Current Issues and Research in Advertising
+  - Journal of Curriculum Studies
+  - Journal of Curriculum and Pedagogy
+  - Journal of Development Effectiveness
+  - Journal of Development Studies
+  - Journal of East-West Business
+  - Journal of Eastern African Studies
+  - Journal of Economic Education
+  - Journal of Economic Issues
+  - Journal of Economic Methodology
+  - Journal of Economic Policy Reform
+  - Journal of Ecotourism
+  - Journal of Education Policy
+  - Journal of Education and Work
+  - Journal of Education for Business
+  - Journal of Education for Students Placed at Risk
+  - Journal of Education for Teaching
+  - Journal of Educational Administration and History
+  - Journal of Educational Research
+  - Journal of Educational and Psychological Consultation
+  - Journal of Elections, Public Opinion and Parties
+  - Journal of Environmental Education
+  - Journal of Ethnic and Migration Studies
+  - Journal of Ethnicity in Criminal Justice
+  - Journal of European Integration
+  - Journal of European Public Policy
+  - Journal of Experimental Education
+  - Journal of Family Communication
+  - Journal of Food Products Marketing
+  - Journal of Foodservice Business Research
+  - Journal of Further and Higher Education
+  - Journal of Gender Studies
+  - Journal of Genocide Research
+  - Journal of Geography
+  - Journal of Global Ethics
+  - Journal of Global Fashion Marketing
+  - Journal of Global Marketing
+  - Journal of Global Scholars of Marketing Science
+  - Journal of Graphic Novels and Comics
+  - Journal of Heritage Tourism
+  - Journal of Higher Education Policy and Management
+  - Journal of Hospitality Financial Management
+  - Journal of Hospitality Marketing and Management
+  - Journal of Housing for the Elderly
+  - Journal of Human Development and Capabilities
+  - Journal of Human Resources in Hospitality and Tourism
+  - Journal of Human Rights
+  - Journal of Iberian and Latin American Research
+  - Journal of Iberian and Latin American Studies
+  - Journal of Imperial and Commonwealth History
+  - Journal of Information Technology and Politics
+  - Journal of Interactive Advertising
+  - Journal of Intercultural Communication Research
+  - Journal of Intercultural Studies
+  - Journal of International Communication
+  - Journal of International Consumer Marketing
+  - Journal of International Food and Agribusiness Marketing
+  - Journal of International Trade and Economic Development
+  - Journal of International Wildlife Law and Policy
+  - Journal of International and Intercultural Communication
+  - Journal of Internet Commerce
+  - Journal of Intervention and Statebuilding
+  - Journal of Island and Coastal Archaeology
+  - Journal of Israeli History
+  - Journal of Japanese and Korean Cinema
+  - Journal of Jewish Education
+  - Journal of Landscape Architecture
+  - Journal of Language, Identity and Education
+  - Journal of Latin American Cultural Studies
+  - Journal of Latinos and Education
+  - Journal of Legal History
+  - Journal of Legal Pluralism and Unofficial Law
+  - Journal of Legislative Studies
+  - Journal of Management Information Systems
+  - Journal of Management, Spirituality and Religion
+  - Journal of Marketing Channels
+  - Journal of Marketing Communications
+  - Journal of Marketing Management
+  - Journal of Marketing Theory and Practice
+  - Journal of Marketing for Higher Education
+  - Journal of Mass Media Ethics
+  - Journal of Mathematical Sociology
+  - Journal of Media Economics
+  - Journal of Media and Religion
+  - Journal of Medieval History
+  - Journal of Medieval Iberian Studies
+  - Journal of Military Ethics
+  - Journal of Modern Chinese History
+  - Journal of Modern Craft
+  - Journal of Modern Italian Studies
+  - Journal of Modern Jewish Studies
+  - Journal of Moral Education
+  - Journal of Multicultural Discourses
+  - Journal of Multilingual and Multicultural Development
+  - Journal of Musicological Research
+  - Journal of Muslim Minority Affairs
+  - Journal of New Music Research
+  - Journal of Nonprofit and Public Sector Marketing
+  - Journal of Offender Rehabilitation
+  - Journal of Pacific History
+  - Journal of Peace Education
+  - Journal of Peacebuilding and Development
+  - Journal of Peasant Studies
+  - Journal of Personal Selling and Sales Management
+  - Journal of Police Crisis Negotiations
+  - Journal of Policing, Intelligence and Counter Terrorism
+  - Journal of Policy Research in Tourism, Leisure and Events
+  - Journal of Political Ideologies
+  - Journal of Political Marketing
+  - Journal of Political Power
+  - Journal of Political Science Education
+  - Journal of Popular Film and Television
+  - Journal of Post Keynesian Economics
+  - Journal of Postcolonial Writing
+  - Journal of Poverty
+  - Journal of Promotion Management
+  - Journal of Property Research
+  - Journal of Public Relations Research
+  - Journal of Quality Assurance in Hospitality and Tourism
+  - Journal of Quantitative Linguistics
+  - Journal of Relationship Marketing
+  - Journal of Research in Childhood Education
+  - Journal of Research on Christian Education
+  - Journal of Research on Educational Effectiveness
+  - Journal of Risk Research
+  - Journal of Russian and East European Psychology
+  - Journal of Scandinavian Studies in Criminology and Crime Prevention
+  - Journal of School Choice
+  - Journal of Slavic Military Studies
+  - Journal of Small Business and Entrepreneurship
+  - Journal of Social Entrepreneurship
+  - Journal of Southern African Studies
+  - Journal of Spanish Cultural Studies
+  - Journal of Sport and Tourism
+  - Journal of Strategic Marketing
+  - Journal of Strategic Studies
+  - Journal of Sustainable Tourism
+  - Journal of Teaching in International Business
+  - Journal of Teaching in Travel and Tourism
+  - Journal of Textile Design Research and Practice
+  - Journal of Tourism History
+  - Journal of Tourism and Cultural Change
+  - Journal of Transatlantic Studies
+  - Journal of Transnational Management
+  - Journal of Travel and Tourism Marketing
+  - Journal of Trust Research
+  - Journal of Urban Affairs
+  - Journal of Urban Design
+  - Journal of Urban Technology
+  - Journal of Urbanism
+  - Journal of Visual Art Practice
+  - Journal of Wine Research
+  - Journal of Women, Politics and Policy
+  - Journal of World Languages
+  - Journal of Youth Studies
+  - Journal of the American Planning Association
+  - Journal of the Asia Pacific Economy
+  - Journal of the Institute of Conservation
+  - Journal of the Learning Sciences
+  - Journal of the Middle East and Africa
+  - Journal of the Musical Arts in Africa
+  - Journal of the Philosophy of Sport
+  - Journal of the Royal Musical Association
+  - Journal of the Society of Archivists
+  - Journal on the Use of Force and International Law
+  - Journalism Practice
+  - Journalism Studies
+  - Jung Journal
+  - Justice Quarterly
+  - Justice System Journal
+  - Keats-Shelley Review
+  - Konsthistorisk tidskrift/Journal of Art History
+  - 'LIT: Literature Interpretation Theory'
+  - Labor History
+  - Labour and Industry
+  - Landscape History
+  - Landscape Research
+  - Language Assessment Quarterly
+  - Language Awareness
+  - Language Learning Journal
+  - 'Language Matters: Studies in the Languages of Africa'
+  - Language and Education
+  - Language and History
+  - Language and Intercultural Communication
+  - Language, Culture and Curriculum
+  - Latin American Business Review
+  - Latin American and Caribbean Ethnic Studies
+  - Law Teacher
+  - Leadership and Policy in Schools
+  - Learning, Media and Technology
+  - Leisure
+  - Leisure Sciences
+  - Leisure Studies
+  - Life Writing
+  - Literacy Research and Instruction
+  - Liturgy
+  - Local Government Studies
+  - Loisir
+  - London Review of Education
+  - Luxury
+  - Management and Organizational History
+  - Managing Leisure
+  - Mariner's Mirror
+  - Maritime Policy and Management
+  - Marketing Education Review
+  - Mass Communication and Society
+  - Material Religion
+  - Mathematical Population Studies
+  - Mathematical Thinking and Learning
+  - Measurement in Physical Education and Exercise Science
+  - Media History
+  - Media Psychology
+  - Medical Anthropology
+  - Medicine, Conflict and Survival
+  - Medieval Archaeology
+  - Medieval Sermon Studies
+  - Mediterranean Historical Review
+  - Mediterranean Politics
+  - Mentoring and Tutoring
+  - Middle East Critique
+  - Middle Eastern Literatures
+  - Middle Eastern Studies
+  - Migration and Development
+  - Mind, Culture, and Activity
+  - Mobilities
+  - Modern and Contemporary France
+  - Monumenta Serica
+  - Multicultural Education Abstracts
+  - Museum Management and Curatorship
+  - Music Education Research
+  - Musicology Australia
+  - NHSA Dialog
+  - NORA
+  - NORMA - Nordisk tidsskrift for maskulinitetsstudier
+  - National Identities
+  - Nationalism and Ethnic Politics
+  - Nationalities Papers
+  - New Educator
+  - New Political Economy
+  - New Review of Film and Television Studies
+  - New Writing
+  - New Zealand Economic Papers
+  - Nineteenth-Century Contexts
+  - Nonproliferation Review
+  - Nordic Journal of Human Rights
+  - Nordisk Tidsskrift for Menneskerettigheter
+  - Norsk Geografisk Tidsskrift
+  - Norsk Geografisk Tidsskrift - Norwegian Journal of Geography
+  - Norwegian Archaeological Review
+  - Norwegian Journal of Geography
+  - 'Open Learning: The Journal of Open and Distance Learning'
+  - Oxford Development Studies
+  - Oxford German Studies
+  - Oxford Review of Education
+  - Pacific Review
+  - Paedagogica Historica
+  - Palestine Exploration Quarterly
+  - Parallax
+  - Parliaments, Estates and Representation
+  - Pastoral Care in Education
+  - Patterns of Prejudice
+  - Peabody Journal of Education
+  - Peace Review
+  - Peacebuilding
+  - 'Pedagogies: An International Journal'
+  - Performance Research
+  - Perspectives on European Politics and Society
+  - Perspectives on Political Science
+  - 'Perspectives: Policy and Practice in Higher Education'
+  - 'Perspectives: Studies in Translatology'
+  - Philippine Political Science Journal
+  - Philosophical Explorations
+  - Philosophical Psychology
+  - Photographies
+  - Photography and Culture
+  - Physical Education and Sport Pedagogy
+  - Planning Perspectives
+  - Planning Practice and Research
+  - Planning Theory and Practice
+  - Polar Journal
+  - Police Practice and Research
+  - Policing and Society
+  - Policy Studies
+  - Political Communication
+  - Political Theology
+  - Politics, Groups and Identities
+  - Politics, Religion and Ideology
+  - Politikon
+  - Popular Communication
+  - Popular Music and Society
+  - Population Studies
+  - Post-Communist Economies
+  - Post-Medieval Archaeology
+  - Post-Soviet Affairs
+  - Postcolonial Studies
+  - 'Preventing School Failure: Alternative Education for Children and Youth'
+  - Problems of Economic Transition
+  - Problems of Post-Communism
+  - Professional Development in Education
+  - Professional Geographer
+  - Prose Studies
+  - Public Art Dialogue
+  - Public Integrity
+  - Public Management Review
+  - Public Money and Management
+  - Public Performance and Management Review
+  - Publications of the English Goethe Society
+  - Qualitative Research Reports in Communication
+  - Qualitative Research in Sport, Exercise and Health
+  - Quality in Higher Education
+  - Quantitative Finance
+  - Quarterly Journal of Speech
+  - Quarterly Review of Film and Video
+  - Quest
+  - RUSI Journal
+  - Race Ethnicity and Education
+  - Reading Psychology
+  - Reading and Writing Quarterly
+  - Records and Information Management Report
+  - Reflective Practice
+  - Reformation and Renaissance Review
+  - Regional Studies
+  - Regional and Federal Studies
+  - Religion
+  - Religion and Education
+  - Religion, State and Society
+  - Religious Education
+  - Representation
+  - Research Papers in Education
+  - Research Quarterly for Exercise and Sport
+  - Research in Dance Education
+  - 'Research in Drama Education: The Journal of Applied Theatre and Performance'
+  - Research in Mathematics Education
+  - Research in Post-Compulsory Education
+  - Research in Science and Technological Education
+  - Research in Sports Medicine
+  - Research into Higher Education Abstracts
+  - Research on Language and Social Interaction
+  - Research-Technology Management
+  - Resilience
+  - Restorative Justice
+  - Rethinking History
+  - Rethinking Marxism
+  - Review of Communication
+  - Review of Education, Pedagogy and Cultural Studies
+  - Review of Faith and International Affairs
+  - Review of International Political Economy
+  - Review of Political Economy
+  - Review of Social Economy
+  - Reviews in Anthropology
+  - Revolutionary Russia
+  - Revue canadienne d'études du développement
+  - Revue canadienne des slavistes
+  - Revue canadienne des études africaines
+  - Revue d'Intégration Européenne
+  - Revue européenne d'histoire
+  - Rhetoric Review
+  - Rhetoric Society Quarterly
+  - Rock Music Studies
+  - Roeper Review
+  - Romance Quarterly
+  - Round Table
+  - Royal Musical Association Research Chronicle
+  - Rural Society
+  - Rural Theology
+  - Russian Education and Society
+  - Russian Politics and Law
+  - Russian Social Science Review
+  - Russian Studies in History
+  - Russian Studies in Literature
+  - Russian Studies in Philosophy
+  - Safundi
+  - Scandinavian Actuarial Journal
+  - Scandinavian Journal of Educational Research
+  - Scandinavian Journal of History
+  - Scandinavian Journal of Hospitality and Tourism
+  - Scandinavian Journal of the Old Testament
+  - Scando-Slavica
+  - School Effectiveness and School Improvement
+  - School Leadership and Management
+  - 'Science Activities: Classroom Projects and Curriculum Ideas'
+  - Science and Medicine in Football
+  - Scientific Studies of Reading
+  - 'Security Index: A Russian Journal on International Security'
+  - Security Studies
+  - Senses and Society
+  - Service Industries Journal
+  - Services Marketing Quarterly
+  - Settler Colonial Studies
+  - Seventeenth Century
+  - Sex Education
+  - 'Sikh Formations: Religion, Culture, Theory'
+  - Sixties
+  - Slavery and Abolition
+  - Small Enterprise Research
+  - Small Wars and Insurgencies
+  - Soccer and Society
+  - Social Dynamics
+  - Social Epistemology
+  - Social History
+  - Social Identities
+  - Social Movement Studies
+  - Social Sciences in China
+  - Social Semiotics
+  - Social Studies
+  - Social and Environmental Accountability Journal
+  - Socialism and Democracy
+  - Society and Natural Resources
+  - Sociological Research
+  - Sociological Spectrum
+  - Sociology of Education Abstracts
+  - Sound Studies
+  - South African Journal of International Affairs
+  - South African Journal on Human Rights
+  - South African Theatre Journal
+  - 'South Asia: Journal of South Asian Studies'
+  - South Asian Diaspora
+  - South Asian History and Culture
+  - South Asian Popular Culture
+  - South Asian Studies
+  - Southeast European and Black Sea Studies
+  - Southern African Linguistics and Applied Language Studies
+  - Southern Communication Journal
+  - Space and Polity
+  - Spatial Economic Analysis
+  - Special Educational Needs Abstracts
+  - Sport in History
+  - Sport in Society
+  - Sport, Education and Society
+  - Sport, Ethics and Philosophy
+  - Sports Biomechanics
+  - Sports Coaching Review
+  - Sports Technology
+  - Stanislavski Studies
+  - Statutes and Decisions
+  - Studia Neophilologica
+  - Studia Theologica
+  - Studies in Conflict and Terrorism
+  - Studies in Continuing Education
+  - Studies in Documentary Film
+  - Studies in Eastern European Cinema
+  - Studies in European Cinema
+  - Studies in French Cinema
+  - Studies in Higher Education
+  - Studies in Science Education
+  - Studies in Theatre and Performance
+  - Studies in Travel Writing
+  - Studies in the Education of Adults
+  - Studies in the History of Gardens and Designed Landscapes
+  - Studies on Women and Gender Abstracts
+  - Studying Teacher Education
+  - Symbolae Osloenses
+  - Symposium
+  - Teacher Development
+  - 'Teachers and Teaching: Theory and Practice'
+  - Teaching Artist Journal
+  - Teaching Education
+  - Teaching and Learning in Medicine
+  - Teaching in Higher Education
+  - Technical Communication Quarterly
+  - Technology Analysis and Strategic Management
+  - Technology, Pedagogy and Education
+  - 'Terrae Incognitae: The Journal for the History of Discoveries'
+  - Territory, Politics, Governance
+  - Terrorism and Political Violence
+  - Tertiary Education and Management
+  - Text and Performance Quarterly
+  - Textile
+  - Textual Practice
+  - Theatre and Performance Design
+  - Theatre, Dance and Performance Training
+  - Theology and Science
+  - Theory and Practice of Legislation
+  - Theory and Practise of Legislation
+  - Third Text
+  - Third World Quarterly
+  - Time and Mind
+  - Total Quality Management and Business Excellence
+  - Tourism Geographies
+  - Tourism Recreation Research
+  - Town Planning and Architecture
+  - Translation Review
+  - Translation Studies
+  - 'Translator: Studies in Intercultural Communication'
+  - Transport Reviews
+  - Transportation Planning and Technology
+  - Turkish Studies
+  - Urban Policy and Research
+  - Urban Research and Practice
+  - Venture Capital
+  - Victims and Offenders
+  - Visual Anthropology
+  - Visual Communication Quarterly
+  - Visual Culture in Britain
+  - Visual Resources
+  - Visual Studies
+  - Vocational Education and Training Abstracts
+  - Wasafiri
+  - Washington Quarterly
+  - Water International
+  - West European Politics
+  - Western Journal of Communication
+  - Whitehall Papers
+  - Women and Criminal Justice
+  - Women and Performance
+  - Women's History Review
+  - Women's Studies
+  - Women's Writing
+  - 'Women: A Cultural Review'
+  - Word
+  - Word and Image
+  - World Archaeology
+  - World Art
+  - World Leisure Journal
+  - Youth Theatre Journal
+  - disP - The Planning Review
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies:
-- romeo_193
-- romeo_76
+  - romeo_193
+  - romeo_76
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

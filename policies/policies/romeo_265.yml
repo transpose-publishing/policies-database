@@ -1,181 +1,254 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_265
+
+# publisher name from SHERAP/RoMEO
 publisher: Elsevier Masson
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- ALTER. European Journal of Disability research, Journal européen de recherche sur
-  le handicap
-- Additives for Polymers
-- Ageing Research Reviews
-- Aggression and Violent Behavior
-- Agricultural Sciences in China
-- Agricultural Systems
-- Agricultural Water Management
-- Agricultural and Forest Meteorology
-- Agriculture, Ecosystems and Environment
-- Alcohol
-- Alpha Omegan
-- 'Alter: European Journal of Disability Research'
-- 'Alter: Journal Européen de Recherche sur le Handicap'
-- Ambulatory Pediatrics
-- Ambulatory Surgery
-- American Journal of Ophthalmology
-- American Journal of Orthodontics and Dentofacial Orthopedics
-- American Journal of Preventive Medicine
-- Anaerobe
-- Anaesthesia and Intensive Care Medicine
-- Anales de Cirugía Vascular
-- Analytica Chimica Acta
-- Analytical Biochemistry
-- Anatomy, Anthropology, Embryology and Histology (Section 1 EMBASE)
-- Anesthesiology (Section 24 EMBASE)
-- Animal Behaviour
-- Animal Feed Science and Technology
-- Animal Reproduction Science
-- Annales d'Endocrinologie
-- Annales d'Urologie
-- Annales de Cardiologie et d'Angéiologie
-- Annales de Chirurgie
-- Annales de Chirurgie Plastique Esthétique
-- Annales de Paléontologie
-- Annales de Pathologie
-- Annales de chirurgie vasculaire
-- Annals of Epidemiology
-- Annals of Nuclear Energy
-- Annals of Physical and Rehabilitation Medicine
-- Annals of Physics
-- Annals of Pure and Applied Logic
-- Annals of Tourism Research
-- Annals of Vascular Surgery
-- Antibiotiques
-- Antiviral Research
-- Archives des Maladies Professionnelles et de L'Environnement
-- Archives des Maladies du Coeur et des Vaisseaux - Pratique
-- Archives of Cardiovascular Diseases
-- Cahiers de L'Audition
-- Cancer Radiothérapie
-- Chirurgie de la Main
-- Clinics and Research in Hepatology and Gastroenterology
-- Comptes Rendus Biologies
-- Comptes Rendus Chimie
-- Comptes Rendus Géoscience
-- Comptes Rendus Mathématique
-- Comptes Rendus Mécanique
-- Comptes Rendus Palevol
-- Comptes Rendus Physique
-- Diabetes and Metabolism
-- Diagnostic and Interventional Imaging
-- Douleurs
-- Droit, Déontologie et Soin
-- Encéphale
-- Epidemiology and Public Health
-- European Annals of Otorhinolaryngology, Head and Neck Diseases
-- European Journal of Emergencies
-- Feuillets de Radiologie
-- Gastroentérologie Clinique et Biologique
-- Gynécologie Obstétrique and Fertilité
-- Gynécologie Obstétrique et Fertilité
-- Hérodote
-- IRBM News
-- Imagerie de la Femme
-- Inter bloc
-- International Orthodontics
-- JCC Open
-- Joint Bone Spine
-- Journal Européen des Urgences
-- Journal Français D'Ophtalmologie
-- Journal de Chirurgie Viscé
-- Journal de Chirurgie Viscérale
-- Journal de Gynécologie Obstétrique et Biologie de la Reproduction
-- Journal de Mycologie Médicale
-- Journal de Neuroradiologie
-- Journal de Radiologie
-- Journal de Radiologie diagnostique et interventionnelle
-- Journal de Réadaptation Médicale
-- Journal de Thérapie Comportementale et Cognitive
-- Journal de Traumatologie du Sport
-- Journal des Anti-Infectieux
-- Journal des Maladies Vasculaires
-- Journal of Neuroradiology
-- Journal of Visceral Surgery
-- Kinésithérapie, la revue
-- Morphologie
-- Motricité Cérébrale
-- Médecine Palliative
-- Médecine des Maladies Métaboliques
-- Médecine du Sommeil
-- Médecine et Longévité
-- 'NPG: Neurologie - Psychiatrie - Gériatrie'
-- Neurochirurgie
-- Option/Bio
-- Ortho Magazine
-- 'Orthopaedics and Traumatology: Surgery and Research'
-- Oxymag
-- Pharmacien Hospitalier
-- Pharmacien Hospitalier et Clinicien
-- Praticien en Anesthésie Réanimation
-- Pratique Médicale et Chirurgicale de l'Animal de Compagnie
-- Pratique neurologique - FMC
-- Pratiques Médicale et Chirurgicale de l'Animal de Compagnie
-- Presse Médicale
-- Progrès en Urologie
-- Progrès en Urologie-FMC
-- Psychologie du travail et des organisations
-- Research and Clinics in Hepatology and Gastroenterology
-- Revue Neurologique
-- Revue Sage-Femme
-- Revue d'Epidémiologie et de Santé Publique
-- Revue d'Homéopathie
-- Revue de Chirurgie Orthopédique et Réparatrice de l'Appareil Moteur
-- Revue de Chirurgie Orthopédique et Traumatologique
-- Revue de L'Infirmière
-- Revue de Pneumologie Clinique
-- Revue de Stomatologie et de Chirurgie Maxillo-Faciale
-- Revue des Maladies Respiratoires
-- Revue des Maladies Respiratoires Actualités
-- Revue du Podologue
-- Revue du Rhumatisme monographies
-- Soins
-- Soins Aides-Soignantes
-- Soins Cadres
-- Soins Cadres de Santé
-- Soins Gérontologie
-- Soins Psychiatrie
-- Soins Pédiatrie/Puériculture
-- nnales de Dermatologie et de Vénéréologie
-- Éthique et Santé
+  - ALTER. European Journal of Disability research, Journal européen de recherche
+    sur le handicap
+  - Additives for Polymers
+  - Ageing Research Reviews
+  - Aggression and Violent Behavior
+  - Agricultural Sciences in China
+  - Agricultural Systems
+  - Agricultural Water Management
+  - Agricultural and Forest Meteorology
+  - Agriculture, Ecosystems and Environment
+  - Alcohol
+  - Alpha Omegan
+  - 'Alter: European Journal of Disability Research'
+  - 'Alter: Journal Européen de Recherche sur le Handicap'
+  - Ambulatory Pediatrics
+  - Ambulatory Surgery
+  - American Journal of Ophthalmology
+  - American Journal of Orthodontics and Dentofacial Orthopedics
+  - American Journal of Preventive Medicine
+  - Anaerobe
+  - Anaesthesia and Intensive Care Medicine
+  - Anales de Cirugía Vascular
+  - Analytica Chimica Acta
+  - Analytical Biochemistry
+  - Anatomy, Anthropology, Embryology and Histology (Section 1 EMBASE)
+  - Anesthesiology (Section 24 EMBASE)
+  - Animal Behaviour
+  - Animal Feed Science and Technology
+  - Animal Reproduction Science
+  - Annales d'Endocrinologie
+  - Annales d'Urologie
+  - Annales de Cardiologie et d'Angéiologie
+  - Annales de Chirurgie
+  - Annales de Chirurgie Plastique Esthétique
+  - Annales de Paléontologie
+  - Annales de Pathologie
+  - Annales de chirurgie vasculaire
+  - Annals of Epidemiology
+  - Annals of Nuclear Energy
+  - Annals of Physical and Rehabilitation Medicine
+  - Annals of Physics
+  - Annals of Pure and Applied Logic
+  - Annals of Tourism Research
+  - Annals of Vascular Surgery
+  - Antibiotiques
+  - Antiviral Research
+  - Archives des Maladies Professionnelles et de L'Environnement
+  - Archives des Maladies du Coeur et des Vaisseaux - Pratique
+  - Archives of Cardiovascular Diseases
+  - Cahiers de L'Audition
+  - Cancer Radiothérapie
+  - Chirurgie de la Main
+  - Clinics and Research in Hepatology and Gastroenterology
+  - Comptes Rendus Biologies
+  - Comptes Rendus Chimie
+  - Comptes Rendus Géoscience
+  - Comptes Rendus Mathématique
+  - Comptes Rendus Mécanique
+  - Comptes Rendus Palevol
+  - Comptes Rendus Physique
+  - Diabetes and Metabolism
+  - Diagnostic and Interventional Imaging
+  - Douleurs
+  - Droit, Déontologie et Soin
+  - Encéphale
+  - Epidemiology and Public Health
+  - European Annals of Otorhinolaryngology, Head and Neck Diseases
+  - European Journal of Emergencies
+  - Feuillets de Radiologie
+  - Gastroentérologie Clinique et Biologique
+  - Gynécologie Obstétrique and Fertilité
+  - Gynécologie Obstétrique et Fertilité
+  - Hérodote
+  - IRBM News
+  - Imagerie de la Femme
+  - Inter bloc
+  - International Orthodontics
+  - JCC Open
+  - Joint Bone Spine
+  - Journal Européen des Urgences
+  - Journal Français D'Ophtalmologie
+  - Journal de Chirurgie Viscé
+  - Journal de Chirurgie Viscérale
+  - Journal de Gynécologie Obstétrique et Biologie de la Reproduction
+  - Journal de Mycologie Médicale
+  - Journal de Neuroradiologie
+  - Journal de Radiologie
+  - Journal de Radiologie diagnostique et interventionnelle
+  - Journal de Réadaptation Médicale
+  - Journal de Thérapie Comportementale et Cognitive
+  - Journal de Traumatologie du Sport
+  - Journal des Anti-Infectieux
+  - Journal des Maladies Vasculaires
+  - Journal of Neuroradiology
+  - Journal of Visceral Surgery
+  - Kinésithérapie, la revue
+  - Morphologie
+  - Motricité Cérébrale
+  - Médecine Palliative
+  - Médecine des Maladies Métaboliques
+  - Médecine du Sommeil
+  - Médecine et Longévité
+  - 'NPG: Neurologie - Psychiatrie - Gériatrie'
+  - Neurochirurgie
+  - Option/Bio
+  - Ortho Magazine
+  - 'Orthopaedics and Traumatology: Surgery and Research'
+  - Oxymag
+  - Pharmacien Hospitalier
+  - Pharmacien Hospitalier et Clinicien
+  - Praticien en Anesthésie Réanimation
+  - Pratique Médicale et Chirurgicale de l'Animal de Compagnie
+  - Pratique neurologique - FMC
+  - Pratiques Médicale et Chirurgicale de l'Animal de Compagnie
+  - Presse Médicale
+  - Progrès en Urologie
+  - Progrès en Urologie-FMC
+  - Psychologie du travail et des organisations
+  - Research and Clinics in Hepatology and Gastroenterology
+  - Revue Neurologique
+  - Revue Sage-Femme
+  - Revue d'Epidémiologie et de Santé Publique
+  - Revue d'Homéopathie
+  - Revue de Chirurgie Orthopédique et Réparatrice de l'Appareil Moteur
+  - Revue de Chirurgie Orthopédique et Traumatologique
+  - Revue de L'Infirmière
+  - Revue de Pneumologie Clinique
+  - Revue de Stomatologie et de Chirurgie Maxillo-Faciale
+  - Revue des Maladies Respiratoires
+  - Revue des Maladies Respiratoires Actualités
+  - Revue du Podologue
+  - Revue du Rhumatisme monographies
+  - Soins
+  - Soins Aides-Soignantes
+  - Soins Cadres
+  - Soins Cadres de Santé
+  - Soins Gérontologie
+  - Soins Psychiatrie
+  - Soins Pédiatrie/Puériculture
+  - nnales de Dermatologie et de Vénéréologie
+  - Éthique et Santé
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies:
-- romeo_30
+  - romeo_30
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

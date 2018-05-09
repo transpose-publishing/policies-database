@@ -1,460 +1,533 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_31
+
+# publisher name from SHERAP/RoMEO
 publisher: Emerald
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- A Life in the Day
-- Academia Revista Latinoamericana de Administración
-- Academic and Library Computing
-- Accounting Research Journal
-- Accounting, Auditing and Accountability Journal
-- Advances in Autism
-- Advances in Dual Diagnosis
-- Advances in International Management
-- Advances in Librarianship
-- Advances in Mental Health and Intellectual Disabilities
-- Advances in Mental Health and Learning Disabilities
-- African Journal of Economic and Management Studies
-- Agricultural Finance Review
-- Aircraft Engineering and Aerospace Technology
-- American Journal of Business
-- American Journal of Police
-- Annals in Social Responsibility
-- Anti-Corrosion Methods and Materials
-- Antidote
-- 'Arts Marketing: An International Journal'
-- Arts and the Market
-- Asia Pacific International Journal of Marketing
-- Asia Pacific Journal of Innovation and Entrepreneurship
-- Asia Pacific Journal of Marketing and Logistics
-- Asia-Pacific Journal of Business Administration
-- Asian Association of Open Universities Journal
-- Asian Education and Development Studies
-- Asian Journal on Quality
-- Asian Libraries
-- Asian Review of Accounting
-- Aslib Journal of Information Management
-- Aslib Proceedings
-- Assembly Automation
-- BLL Review
-- Balance Sheet
-- Baltic Journal of Management
-- Benchmarking
-- Benchmarking for Quality Management and Technology
-- Bottom Line
-- British Food Journal
-- British Journal of Clinical Governance
-- British Journal of Forensic Practice
-- Built Environment Project and Asset Management
-- Business Process Management Journal
-- Business Process Re-engineering and Management Journal
-- Business Strategy Series
-- CASE Journal
-- 'COMPEL: The International Journal for Computation and Mathematics in Electrical
-  and Electronic Engineering'
-- Campus-Wide Information Systems
-- Career Development International
-- China Agricultural Economic Review
-- China Finance Review International
-- Chinese Management Studies
-- Circuit World
-- Clinical Governance
-- Clinical Performance and Quality Healthcare
-- Collection Building
-- 'Competitiveness Review: An International Business Journal incorporating Journal
-  of Global Competitiveness'
-- 'Construction Innovation: Information, Process, Management'
-- 'Corporate Communications: An International Journal'
-- 'Cross Cultural Management: An International Journal'
-- Cross Cultural and Strategic Management
-- Darden Business Publishing Cases
-- Development and Learning in Organizations
-- Digital Library Perspectives
-- Digital Policy, Regulation and Governance
-- 'Direct Marketing: An International Journal'
-- Disaster Prevention and Management
-- Drugs and Alcohol Today
-- Education and Training
-- 'Education, Business and Society: Contemporary Middle Eastern Issues'
-- Electronic Library
-- Electronic Resources Review
-- Emerald Emerging Markets Case Studies
-- Employee Counselling Today
-- Employee Relations
-- Empowerment in Organizations
-- Engineering Computations
-- Engineering, Construction and Architectural Management
-- 'English Teaching: Practice & Critique'
-- Environmental Management and Health
-- Equal Opportunities International
-- 'Equality, Diversity and Inclusion: An International Journal'
-- Ethnicity and Inequalities in Health and Social Care
-- EuroMed Journal of Business
-- European Business Review
-- European Journal of Innovation Management
-- European Journal of Marketing
-- European Journal of Training and Development
-- Evidence-based HRM
-- Executive Development
-- Facilities
-- 'Gender in Management: An International Journal'
-- 'Grey Systems: Theory and Application'
-- Handbook of Business Strategy
-- Health Education
-- Health Manpower Management
-- Higher Education, Skills and Work-based Learning
-- History of Education Review
-- Housing, Care and Support
-- Human Resource Management International Digest
-- Humanomics
-- IMP Journal
-- Indian Growth and Development Review
-- Industrial Lubrication and Tribology
-- Industrial Management
-- Industrial Management and Data Systems
-- 'Industrial Robot: An International Journal'
-- Industrial and Commercial Training
-- Information Discovery and Delivery
-- Information Management and Computer Security
-- Information Technology and People
-- Information and Computer Security
-- Information and Learning Science
-- Integrated Manufacturing Systems
-- Interactive Technology and Smart Education
-- Interlending Review
-- Interlending and Document Supply
-- International Journal for Lesson and Learning Studies
-- International Journal for Researcher Development
-- International Journal of Accounting and Information Management
-- International Journal of Advertising and Marketing to Children
-- International Journal of Agile Management Systems
-- International Journal of Bank Marketing
-- International Journal of Building Pathology and Adaptation
-- International Journal of Career Management
-- International Journal of Climate Change Strategies and Management
-- International Journal of Clothing Science and Technology
-- International Journal of Commerce and Management
-- International Journal of Comparative Education and Development
-- International Journal of Conflict Management
-- International Journal of Contemporary Hospitality Management
-- International Journal of Culture, Tourism and Hospitality Research
-- International Journal of Development Issues
-- International Journal of Disaster Resilience in the Built Environment
-- International Journal of Educational Management
-- International Journal of Emergency Services
-- International Journal of Emerging Markets
-- International Journal of Energy Sector Management
-- International Journal of Entrepreneurial Behaviour and Research
-- International Journal of Event and Festival Management
-- International Journal of Gender and Entrepreneurship
-- International Journal of Health Care Quality Assurance
-- International Journal of Health Governance
-- International Journal of Housing Markets and Analysis
-- International Journal of Human Rights in Healthcare
-- International Journal of Information and Learning Technology
-- International Journal of Innovation Science
-- International Journal of Intelligent Computing and Cybernetics
-- International Journal of Intelligent Unmanned Systems
-- International Journal of Islamic and Middle Eastern Finance and Management
-- International Journal of Law and Management
-- International Journal of Law in the Built Environment
-- International Journal of Leadership in Public Services
-- International Journal of Lean Six Sigma
-- International Journal of Logistics Management, The
-- International Journal of Managerial Finance
-- International Journal of Managing Projects in Business
-- International Journal of Manpower
-- International Journal of Mentoring and Coaching in Education
-- International Journal of Migration, Health and Social Care
-- International Journal of Numerical Methods for Heat and Fluid Flow
-- International Journal of Operations and Production Management
-- International Journal of Organizational Analysis
-- International Journal of Pervasive Computing and Communications
-- International Journal of Pharmaceutical and Healthcare Marketing
-- International Journal of Physical Distribution
-- International Journal of Physical Distribution and Logistics Management
-- International Journal of Physical Distribution and Materials Management
-- International Journal of Prisoner Health
-- International Journal of Productivity and Performance Management
-- International Journal of Public Leadership
-- International Journal of Public Sector Management
-- International Journal of Quality Science
-- International Journal of Quality and Reliability Management
-- International Journal of Quality and Service Sciences
-- International Journal of Retail and Distribution Management
-- International Journal of Service Industry Management
-- International Journal of Social Economics
-- International Journal of Sociology and Social Policy
-- International Journal of Sports Marketing and Sponsorship
-- International Journal of Structural Integrity
-- International Journal of Sustainability in Higher Education
-- International Journal of Tourism Cities
-- International Journal of Web Information Systems
-- International Journal of Wine Business Research
-- International Journal of Wine Marketing
-- International Journal of Workplace Health Management
-- International Journal on Grey Literature
-- International Marketing Review
-- Internet Research
-- Journal for Multicultural Education
-- Journal of Accounting and Organizational Change
-- Journal of Accounting in Emerging Economies
-- Journal of Adult Protection
-- Journal of Advances in Management Research
-- Journal of Aggression, Conflict and Peace Research
-- Journal of Agribusiness in Developing and Emerging Economies
-- Journal of Applied Accounting Research
-- Journal of Applied Research in Higher Education
-- Journal of Asia Business Studies
-- Journal of Assistive Technologies
-- Journal of Behavioral Strategy
-- Journal of Business Strategy
-- Journal of Business and Industrial Marketing
-- Journal of Centrum Cathedra
-- Journal of Children's Services
-- Journal of Chinese Economic and Foreign Trade Studies
-- Journal of Chinese Entrepreneurship
-- Journal of Chinese Human Resource Management
-- Journal of Clinical Effectiveness
-- Journal of Communication Management
-- Journal of Consumer Marketing
-- Journal of Corporate Real Estate
-- Journal of Criminal Psychology
-- Journal of Criminological Research, Policy and Practice
-- Journal of Cultural Heritage Management and Sustainable Development
-- Journal of Documentation
-- Journal of Economic Studies
-- Journal of Economic and Administrative Sciences
-- Journal of Educational Administration
-- Journal of Enabling Technologies
-- Journal of Engineering, Design and Technology
-- Journal of Enterprise Information Management
-- 'Journal of Enterprising Communities: People and Places in the Global Economy'
-- Journal of Entrepreneurship and Public Policy
-- Journal of Entrepreneurship in Emerging Economies
-- Journal of European Industrial Training
-- Journal of European Real Estate Research
-- Journal of Facilities Management
-- Journal of Family Business Management
-- Journal of Fashion Marketing and Management
-- Journal of Financial Crime
-- Journal of Financial Economic Policy
-- Journal of Financial Management of Property and Construction
-- Journal of Financial Regulation and Compliance
-- Journal of Financial Reporting and Accounting
-- Journal of Forensic Practice
-- Journal of Global Mobility
-- Journal of Global Operations and Strategic Sourcing
-- Journal of Global Responsibility
-- Journal of Health Organization and Management
-- Journal of Historical Research in Marketing
-- Journal of Hospitality and Tourism Technology
-- Journal of Human Resource Costing and Accounting
-- Journal of Humanitarian Logistics and Supply Chain Management
-- Journal of Indian Business Research
-- Journal of Information, Communication and Ethics in Society
-- Journal of Integrated Care
-- Journal of Intellectual Capital
-- Journal of Intellectual Disabilities and Offending Behaviour
-- Journal of International Education in Business
-- Journal of International Trade Law and Policy
-- Journal of Investment Compliance
-- Journal of Islamic Accounting and Business Research
-- Journal of Islamic Marketing
-- Journal of Knowledge Management
-- Journal of Knowledge-based Innovation in China
-- Journal of Korea Trade
-- Journal of Learning Disabilities and Offending Behaviour
-- Journal of Management Development
-- Journal of Management History
-- Journal of Management History (Archive)
-- Journal of Management in Medicine
-- Journal of Managerial Psychology
-- Journal of Manufacturing Technology Management
-- 'Journal of Marketing Practice: Applied Marketing Science'
-- Journal of Mental Health Training, Education and Practice
-- Journal of Modelling in Management
-- Journal of Money Laundering Control
-- Journal of Organizational Change Management
-- 'Journal of Organizational Effectiveness: People and Performance'
-- Journal of Organizational Ethnography
-- Journal of Place Management and Development
-- Journal of Product and Brand Management
-- Journal of Professional Capital and Community
-- Journal of Property Finance
-- Journal of Property Investment and Finance
-- Journal of Property Valuation and Investment
-- Journal of Public Mental Health
-- Journal of Quality in Maintenance Engineering
-- Journal of Research in Innovative Teaching and Learning
-- Journal of Research in Interactive Marketing
-- Journal of Research in Marketing and Entrepreneurship
-- Journal of Risk Finance
-- Journal of Science and Technology Policy Management
-- Journal of Science and Technology Policy in China
-- Journal of Service Management
-- Journal of Service Theory and Practice
-- Journal of Services Marketing
-- Journal of Small Business and Enterprise Development
-- Journal of Social Marketing
-- Journal of Strategy and Management
-- Journal of Structural Fire Engineering
-- Journal of Systems and Information Technology
-- Journal of Technology Management in China
-- Journal of Tourism Futures
-- Journal of Valuation
-- Journal of Work-Applied Management
-- Journal of Workplace Learning
-- Kellogg School of Management Cases
-- Kybernetes
-- Leadership and Organization Development Journal
-- Leadership in Health Services
-- Learning Organization, The
-- Librarian Career Development
-- Library Consortium Management
-- Library Hi Tech
-- Library Hi Tech News
-- Library Management
-- Library Review
-- Library Workstation Report
-- Library Workstation and PC Report
-- Logistics Information Management
-- Logistics World
-- M300 and PC Report
-- Management Decision
-- Management Development Review
-- Management Research News
-- Management Research Review
-- 'Management Research: The Journal of the Iberoamerican Academy of Management'
-- 'Management of Environmental Quality: An International Journal'
-- Managerial Auditing Journal
-- Managerial Finance
-- Managerial Law
-- Managing Service Quality
-- Maritime Business Review
-- Marketing Intelligence and Planning
-- Measuring Business Excellence
-- Meditari
-- Meditari Accountancy Research
-- Mental Health Review Journal
-- Mental Health and Social Inclusion
-- Microelectronics International
-- Multicultural Education and Technology Journal
-- Multidiscipline Modeling in Materials and Structures
-- Multinational Business Review
-- Nankai Business Review International
-- New Library World
-- Nutrition and Food Science
-- OCLC Micro
-- OCLC Systems and Services
-- Office Technology and People
-- On the Horizon
-- Online Information Review
-- Online Review
-- Online and CD-Rom Review
-- Organizational Analysis
-- Pacific Accounting Review
-- 'Participation and Empowerment: An International Journal'
-- Performance Measurement and Metrics
-- Personnel Review
-- Pigment and Resin Technology
-- Planning Review
-- 'Police Studies: International Review of Police Development'
-- 'Policing: An International Journal of Police Strategies and Management'
-- Pricing Strategy and Practice
-- Privacy and Data Protection
-- Program
-- Property Management
-- 'Qualitative Market Research: An International Journal'
-- Qualitative Research Journal
-- Qualitative Research in Accounting and Management
-- Qualitative Research in Financial Markets
-- Qualitative Research in Organizations and Management
-- Quality Assurance in Education
-- Quality in Ageing and Older Adults
-- Rapid Prototyping Journal
-- Records Management Journal
-- Reference Reviews
-- Reference Services Review
-- Research Journal of Textile and Apparel
-- Research on Economic Inequality
-- Retail and Distribution Management
-- Review of Accounting and Finance
-- Review of Behavioural Finance
-- Review of International Business and Strategy
-- Safer Communities
-- Sensor Review
-- Smart and Sustainable Built Environment
-- Social Care and Neurodisability
-- Social Enterprise Journal
-- Social Responsibility Journal
-- Social Transformations in Chinese Societies
-- Society and Business Review
-- Soldering and Surface Mount Technology
-- South Asian Journal of Business Studies
-- 'Sport, Business and Management: An International Journal'
-- Strategic Direction
-- Strategic HR Review
-- Strategy and Leadership
-- Studies in Economics and Finance
-- Studies in Graduate and Postdoctoral Education
-- Studies in Law, Politics and Society
-- Studies in Symbolic Interaction
-- Supply Chain Management
-- Sustainability Accounting, Management and Policy Journal
-- TQM Journal
-- TQM Magazine
-- Team Performance Management
-- Therapeutic Communities
-- Tizard Learning Disability Review
-- Tourist Review
-- Training Strategies for Tomorrow
-- Training for Quality
-- 'Transforming Government: People, Process and Policy'
-- VINE Journal of Information and Knowledge Management Systems
-- Women In Management Review
-- Work Study
-- Working with Older People
-- World Class Design to Manufacture
-- World Journal of Engineering
-- World Journal of Entrepreneurship, Management and Sustainable Development
-- World Journal of Science, Technology and Sustainable Development
-- Worldwide Hospitality and Tourism Themes
-- Young Consumers
-- critical perspectives on international business
-- foresight
-- info
+  - A Life in the Day
+  - Academia Revista Latinoamericana de Administración
+  - Academic and Library Computing
+  - Accounting Research Journal
+  - Accounting, Auditing and Accountability Journal
+  - Advances in Autism
+  - Advances in Dual Diagnosis
+  - Advances in International Management
+  - Advances in Librarianship
+  - Advances in Mental Health and Intellectual Disabilities
+  - Advances in Mental Health and Learning Disabilities
+  - African Journal of Economic and Management Studies
+  - Agricultural Finance Review
+  - Aircraft Engineering and Aerospace Technology
+  - American Journal of Business
+  - American Journal of Police
+  - Annals in Social Responsibility
+  - Anti-Corrosion Methods and Materials
+  - Antidote
+  - 'Arts Marketing: An International Journal'
+  - Arts and the Market
+  - Asia Pacific International Journal of Marketing
+  - Asia Pacific Journal of Innovation and Entrepreneurship
+  - Asia Pacific Journal of Marketing and Logistics
+  - Asia-Pacific Journal of Business Administration
+  - Asian Association of Open Universities Journal
+  - Asian Education and Development Studies
+  - Asian Journal on Quality
+  - Asian Libraries
+  - Asian Review of Accounting
+  - Aslib Journal of Information Management
+  - Aslib Proceedings
+  - Assembly Automation
+  - BLL Review
+  - Balance Sheet
+  - Baltic Journal of Management
+  - Benchmarking
+  - Benchmarking for Quality Management and Technology
+  - Bottom Line
+  - British Food Journal
+  - British Journal of Clinical Governance
+  - British Journal of Forensic Practice
+  - Built Environment Project and Asset Management
+  - Business Process Management Journal
+  - Business Process Re-engineering and Management Journal
+  - Business Strategy Series
+  - CASE Journal
+  - 'COMPEL: The International Journal for Computation and Mathematics in Electrical
+    and Electronic Engineering'
+  - Campus-Wide Information Systems
+  - Career Development International
+  - China Agricultural Economic Review
+  - China Finance Review International
+  - Chinese Management Studies
+  - Circuit World
+  - Clinical Governance
+  - Clinical Performance and Quality Healthcare
+  - Collection Building
+  - 'Competitiveness Review: An International Business Journal incorporating Journal
+    of Global Competitiveness'
+  - 'Construction Innovation: Information, Process, Management'
+  - 'Corporate Communications: An International Journal'
+  - 'Cross Cultural Management: An International Journal'
+  - Cross Cultural and Strategic Management
+  - Darden Business Publishing Cases
+  - Development and Learning in Organizations
+  - Digital Library Perspectives
+  - Digital Policy, Regulation and Governance
+  - 'Direct Marketing: An International Journal'
+  - Disaster Prevention and Management
+  - Drugs and Alcohol Today
+  - Education and Training
+  - 'Education, Business and Society: Contemporary Middle Eastern Issues'
+  - Electronic Library
+  - Electronic Resources Review
+  - Emerald Emerging Markets Case Studies
+  - Employee Counselling Today
+  - Employee Relations
+  - Empowerment in Organizations
+  - Engineering Computations
+  - Engineering, Construction and Architectural Management
+  - 'English Teaching: Practice & Critique'
+  - Environmental Management and Health
+  - Equal Opportunities International
+  - 'Equality, Diversity and Inclusion: An International Journal'
+  - Ethnicity and Inequalities in Health and Social Care
+  - EuroMed Journal of Business
+  - European Business Review
+  - European Journal of Innovation Management
+  - European Journal of Marketing
+  - European Journal of Training and Development
+  - Evidence-based HRM
+  - Executive Development
+  - Facilities
+  - 'Gender in Management: An International Journal'
+  - 'Grey Systems: Theory and Application'
+  - Handbook of Business Strategy
+  - Health Education
+  - Health Manpower Management
+  - Higher Education, Skills and Work-based Learning
+  - History of Education Review
+  - Housing, Care and Support
+  - Human Resource Management International Digest
+  - Humanomics
+  - IMP Journal
+  - Indian Growth and Development Review
+  - Industrial Lubrication and Tribology
+  - Industrial Management
+  - Industrial Management and Data Systems
+  - 'Industrial Robot: An International Journal'
+  - Industrial and Commercial Training
+  - Information Discovery and Delivery
+  - Information Management and Computer Security
+  - Information Technology and People
+  - Information and Computer Security
+  - Information and Learning Science
+  - Integrated Manufacturing Systems
+  - Interactive Technology and Smart Education
+  - Interlending Review
+  - Interlending and Document Supply
+  - International Journal for Lesson and Learning Studies
+  - International Journal for Researcher Development
+  - International Journal of Accounting and Information Management
+  - International Journal of Advertising and Marketing to Children
+  - International Journal of Agile Management Systems
+  - International Journal of Bank Marketing
+  - International Journal of Building Pathology and Adaptation
+  - International Journal of Career Management
+  - International Journal of Climate Change Strategies and Management
+  - International Journal of Clothing Science and Technology
+  - International Journal of Commerce and Management
+  - International Journal of Comparative Education and Development
+  - International Journal of Conflict Management
+  - International Journal of Contemporary Hospitality Management
+  - International Journal of Culture, Tourism and Hospitality Research
+  - International Journal of Development Issues
+  - International Journal of Disaster Resilience in the Built Environment
+  - International Journal of Educational Management
+  - International Journal of Emergency Services
+  - International Journal of Emerging Markets
+  - International Journal of Energy Sector Management
+  - International Journal of Entrepreneurial Behaviour and Research
+  - International Journal of Event and Festival Management
+  - International Journal of Gender and Entrepreneurship
+  - International Journal of Health Care Quality Assurance
+  - International Journal of Health Governance
+  - International Journal of Housing Markets and Analysis
+  - International Journal of Human Rights in Healthcare
+  - International Journal of Information and Learning Technology
+  - International Journal of Innovation Science
+  - International Journal of Intelligent Computing and Cybernetics
+  - International Journal of Intelligent Unmanned Systems
+  - International Journal of Islamic and Middle Eastern Finance and Management
+  - International Journal of Law and Management
+  - International Journal of Law in the Built Environment
+  - International Journal of Leadership in Public Services
+  - International Journal of Lean Six Sigma
+  - International Journal of Logistics Management, The
+  - International Journal of Managerial Finance
+  - International Journal of Managing Projects in Business
+  - International Journal of Manpower
+  - International Journal of Mentoring and Coaching in Education
+  - International Journal of Migration, Health and Social Care
+  - International Journal of Numerical Methods for Heat and Fluid Flow
+  - International Journal of Operations and Production Management
+  - International Journal of Organizational Analysis
+  - International Journal of Pervasive Computing and Communications
+  - International Journal of Pharmaceutical and Healthcare Marketing
+  - International Journal of Physical Distribution
+  - International Journal of Physical Distribution and Logistics Management
+  - International Journal of Physical Distribution and Materials Management
+  - International Journal of Prisoner Health
+  - International Journal of Productivity and Performance Management
+  - International Journal of Public Leadership
+  - International Journal of Public Sector Management
+  - International Journal of Quality Science
+  - International Journal of Quality and Reliability Management
+  - International Journal of Quality and Service Sciences
+  - International Journal of Retail and Distribution Management
+  - International Journal of Service Industry Management
+  - International Journal of Social Economics
+  - International Journal of Sociology and Social Policy
+  - International Journal of Sports Marketing and Sponsorship
+  - International Journal of Structural Integrity
+  - International Journal of Sustainability in Higher Education
+  - International Journal of Tourism Cities
+  - International Journal of Web Information Systems
+  - International Journal of Wine Business Research
+  - International Journal of Wine Marketing
+  - International Journal of Workplace Health Management
+  - International Journal on Grey Literature
+  - International Marketing Review
+  - Internet Research
+  - Journal for Multicultural Education
+  - Journal of Accounting and Organizational Change
+  - Journal of Accounting in Emerging Economies
+  - Journal of Adult Protection
+  - Journal of Advances in Management Research
+  - Journal of Aggression, Conflict and Peace Research
+  - Journal of Agribusiness in Developing and Emerging Economies
+  - Journal of Applied Accounting Research
+  - Journal of Applied Research in Higher Education
+  - Journal of Asia Business Studies
+  - Journal of Assistive Technologies
+  - Journal of Behavioral Strategy
+  - Journal of Business Strategy
+  - Journal of Business and Industrial Marketing
+  - Journal of Centrum Cathedra
+  - Journal of Children's Services
+  - Journal of Chinese Economic and Foreign Trade Studies
+  - Journal of Chinese Entrepreneurship
+  - Journal of Chinese Human Resource Management
+  - Journal of Clinical Effectiveness
+  - Journal of Communication Management
+  - Journal of Consumer Marketing
+  - Journal of Corporate Real Estate
+  - Journal of Criminal Psychology
+  - Journal of Criminological Research, Policy and Practice
+  - Journal of Cultural Heritage Management and Sustainable Development
+  - Journal of Documentation
+  - Journal of Economic Studies
+  - Journal of Economic and Administrative Sciences
+  - Journal of Educational Administration
+  - Journal of Enabling Technologies
+  - Journal of Engineering, Design and Technology
+  - Journal of Enterprise Information Management
+  - 'Journal of Enterprising Communities: People and Places in the Global Economy'
+  - Journal of Entrepreneurship and Public Policy
+  - Journal of Entrepreneurship in Emerging Economies
+  - Journal of European Industrial Training
+  - Journal of European Real Estate Research
+  - Journal of Facilities Management
+  - Journal of Family Business Management
+  - Journal of Fashion Marketing and Management
+  - Journal of Financial Crime
+  - Journal of Financial Economic Policy
+  - Journal of Financial Management of Property and Construction
+  - Journal of Financial Regulation and Compliance
+  - Journal of Financial Reporting and Accounting
+  - Journal of Forensic Practice
+  - Journal of Global Mobility
+  - Journal of Global Operations and Strategic Sourcing
+  - Journal of Global Responsibility
+  - Journal of Health Organization and Management
+  - Journal of Historical Research in Marketing
+  - Journal of Hospitality and Tourism Technology
+  - Journal of Human Resource Costing and Accounting
+  - Journal of Humanitarian Logistics and Supply Chain Management
+  - Journal of Indian Business Research
+  - Journal of Information, Communication and Ethics in Society
+  - Journal of Integrated Care
+  - Journal of Intellectual Capital
+  - Journal of Intellectual Disabilities and Offending Behaviour
+  - Journal of International Education in Business
+  - Journal of International Trade Law and Policy
+  - Journal of Investment Compliance
+  - Journal of Islamic Accounting and Business Research
+  - Journal of Islamic Marketing
+  - Journal of Knowledge Management
+  - Journal of Knowledge-based Innovation in China
+  - Journal of Korea Trade
+  - Journal of Learning Disabilities and Offending Behaviour
+  - Journal of Management Development
+  - Journal of Management History
+  - Journal of Management History (Archive)
+  - Journal of Management in Medicine
+  - Journal of Managerial Psychology
+  - Journal of Manufacturing Technology Management
+  - 'Journal of Marketing Practice: Applied Marketing Science'
+  - Journal of Mental Health Training, Education and Practice
+  - Journal of Modelling in Management
+  - Journal of Money Laundering Control
+  - Journal of Organizational Change Management
+  - 'Journal of Organizational Effectiveness: People and Performance'
+  - Journal of Organizational Ethnography
+  - Journal of Place Management and Development
+  - Journal of Product and Brand Management
+  - Journal of Professional Capital and Community
+  - Journal of Property Finance
+  - Journal of Property Investment and Finance
+  - Journal of Property Valuation and Investment
+  - Journal of Public Mental Health
+  - Journal of Quality in Maintenance Engineering
+  - Journal of Research in Innovative Teaching and Learning
+  - Journal of Research in Interactive Marketing
+  - Journal of Research in Marketing and Entrepreneurship
+  - Journal of Risk Finance
+  - Journal of Science and Technology Policy Management
+  - Journal of Science and Technology Policy in China
+  - Journal of Service Management
+  - Journal of Service Theory and Practice
+  - Journal of Services Marketing
+  - Journal of Small Business and Enterprise Development
+  - Journal of Social Marketing
+  - Journal of Strategy and Management
+  - Journal of Structural Fire Engineering
+  - Journal of Systems and Information Technology
+  - Journal of Technology Management in China
+  - Journal of Tourism Futures
+  - Journal of Valuation
+  - Journal of Work-Applied Management
+  - Journal of Workplace Learning
+  - Kellogg School of Management Cases
+  - Kybernetes
+  - Leadership and Organization Development Journal
+  - Leadership in Health Services
+  - Learning Organization, The
+  - Librarian Career Development
+  - Library Consortium Management
+  - Library Hi Tech
+  - Library Hi Tech News
+  - Library Management
+  - Library Review
+  - Library Workstation Report
+  - Library Workstation and PC Report
+  - Logistics Information Management
+  - Logistics World
+  - M300 and PC Report
+  - Management Decision
+  - Management Development Review
+  - Management Research News
+  - Management Research Review
+  - 'Management Research: The Journal of the Iberoamerican Academy of Management'
+  - 'Management of Environmental Quality: An International Journal'
+  - Managerial Auditing Journal
+  - Managerial Finance
+  - Managerial Law
+  - Managing Service Quality
+  - Maritime Business Review
+  - Marketing Intelligence and Planning
+  - Measuring Business Excellence
+  - Meditari
+  - Meditari Accountancy Research
+  - Mental Health Review Journal
+  - Mental Health and Social Inclusion
+  - Microelectronics International
+  - Multicultural Education and Technology Journal
+  - Multidiscipline Modeling in Materials and Structures
+  - Multinational Business Review
+  - Nankai Business Review International
+  - New Library World
+  - Nutrition and Food Science
+  - OCLC Micro
+  - OCLC Systems and Services
+  - Office Technology and People
+  - On the Horizon
+  - Online Information Review
+  - Online Review
+  - Online and CD-Rom Review
+  - Organizational Analysis
+  - Pacific Accounting Review
+  - 'Participation and Empowerment: An International Journal'
+  - Performance Measurement and Metrics
+  - Personnel Review
+  - Pigment and Resin Technology
+  - Planning Review
+  - 'Police Studies: International Review of Police Development'
+  - 'Policing: An International Journal of Police Strategies and Management'
+  - Pricing Strategy and Practice
+  - Privacy and Data Protection
+  - Program
+  - Property Management
+  - 'Qualitative Market Research: An International Journal'
+  - Qualitative Research Journal
+  - Qualitative Research in Accounting and Management
+  - Qualitative Research in Financial Markets
+  - Qualitative Research in Organizations and Management
+  - Quality Assurance in Education
+  - Quality in Ageing and Older Adults
+  - Rapid Prototyping Journal
+  - Records Management Journal
+  - Reference Reviews
+  - Reference Services Review
+  - Research Journal of Textile and Apparel
+  - Research on Economic Inequality
+  - Retail and Distribution Management
+  - Review of Accounting and Finance
+  - Review of Behavioural Finance
+  - Review of International Business and Strategy
+  - Safer Communities
+  - Sensor Review
+  - Smart and Sustainable Built Environment
+  - Social Care and Neurodisability
+  - Social Enterprise Journal
+  - Social Responsibility Journal
+  - Social Transformations in Chinese Societies
+  - Society and Business Review
+  - Soldering and Surface Mount Technology
+  - South Asian Journal of Business Studies
+  - 'Sport, Business and Management: An International Journal'
+  - Strategic Direction
+  - Strategic HR Review
+  - Strategy and Leadership
+  - Studies in Economics and Finance
+  - Studies in Graduate and Postdoctoral Education
+  - Studies in Law, Politics and Society
+  - Studies in Symbolic Interaction
+  - Supply Chain Management
+  - Sustainability Accounting, Management and Policy Journal
+  - TQM Journal
+  - TQM Magazine
+  - Team Performance Management
+  - Therapeutic Communities
+  - Tizard Learning Disability Review
+  - Tourist Review
+  - Training Strategies for Tomorrow
+  - Training for Quality
+  - 'Transforming Government: People, Process and Policy'
+  - VINE Journal of Information and Knowledge Management Systems
+  - Women In Management Review
+  - Work Study
+  - Working with Older People
+  - World Class Design to Manufacture
+  - World Journal of Engineering
+  - World Journal of Entrepreneurship, Management and Sustainable Development
+  - World Journal of Science, Technology and Sustainable Development
+  - Worldwide Hospitality and Tourism Themes
+  - Young Consumers
+  - critical perspectives on international business
+  - foresight
+  - info
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

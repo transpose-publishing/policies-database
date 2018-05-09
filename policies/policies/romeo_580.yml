@@ -1,1741 +1,1816 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_580
+
+# publisher name from SHERAP/RoMEO
 publisher: Wiley
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- AIChE Journal
-- ANZ Journal of Surgery
-- APMIS
-- ASHE Higher Education Report
-- Abacus
-- About Campus
-- Academic Emergency Medicine
-- Accounting and Finance
-- Acta Anaesthesiologica Scandinavica
-- Acta Archaeologica
-- Acta Geologica Sinica - English Edition
-- Acta Medica Austriaca
-- Acta Neurologica Scandinavica
-- Acta Obstetricia et Gynecologica Scandinavica
-- Acta Ophthalmologica
-- Acta Paediatrica
-- Acta Paediatrica Scandinavica
-- Acta Physiologica
-- Acta Psychiatrica Scandinavica
-- Acta Zoologica
-- Acute Medicine and Surgery
-- Addiction
-- Addiction Biology
-- Adultspan Journal
-- Advanced Electronic Materials
-- Advanced Energy Materials
-- Advanced Engineering Materials
-- Advanced Functional Materials
-- Advanced Healthcare Materials
-- Advanced Materials
-- Advanced Materials Interfaces
-- Advanced Materials Technologies
-- Advanced Optical Materials
-- Advanced Science
-- Advanced Synthesis and Catalysis
-- Advances in Chemical Physics
-- Advances in Enzymology and Related Areas of Molecular Biology
-- Advances in Ophthalmology and Vision Science
-- Advances in Photochemistry
-- Advances in Polymer Technology
-- Africa Confidential
-- 'Africa Research Bulletin: Economic, Financial and Technical Series'
-- 'Africa Research Bulletin: Political, Social and Cultural Series'
-- African Development Review
-- African Journal of Ecology
-- Aggressive Behavior
-- Aging Cell
-- Agribusiness
-- Agricultural Economics
-- Agricultural and Forest Entomology
-- Alcoholism and Drug Abuse Weekly
-- 'Alcoholism: Clinical and Experimental Research'
-- Alimentary Pharmacology and Therapeutics
-- Alimentary Pharmacology and Therapeutics Symposium Series
-- Allergy
-- Alternatives to the High Cost of Litigation
-- Ambulatory Child Health
-- American Business Law Journal
-- American Heart Hospital Journal
-- American Journal of Community Psychology
-- American Journal of Economics and Sociology
-- American Journal of Geriatric Cardiology
-- American Journal of Hematology
-- American Journal of Human Biology
-- American Journal of Industrial Medicine
-- American Journal of Medical Genetics
-- American Journal of Medical Genetics Part A
-- 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
-- 'American Journal of Medical Genetics Part C: Seminars in Medical Genetics'
-- American Journal of Physical Anthropology
-- American Journal of Political Science
-- American Journal of Primatology
-- American Journal of Reproductive Immunology
-- American Journal of Transplantation
-- American Journal on Addictions
-- Anaesthesia
-- Analyses of Social Issues and Public Policy
-- Analytic Philosophy
-- Anatomia, Histologia, Embryologia
-- Anatomical Record
-- 'Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology'
-- Anatomical Sciences Education
-- Andrologia
-- Andrology
-- Angewandte Chemie
-- Angewandte Chemie International Edition
-- Animal Blood Groups and Biochemical Genetics
-- Animal Conservation
-- Animal Genetics
-- Animal Science Journal
-- Annalen der Physik
-- Annals of Applied Biology
-- Annals of Clinical and Translational Neurology
-- Annals of Human Genetics
-- Annals of Neurology
-- Annals of Noninvasive Electrocardiology
-- Annals of Public and Cooperative Economics
-- Annals of the New York Academy of Sciences
-- Annual Bulletin of Historical Literature
-- Anthropology Today
-- Antipode
-- Anxiety
-- Applied Cognitive Psychology
-- Applied Geographic Studies
-- Applied Organometallic Chemistry
-- Applied Psychology
-- 'Applied Psychology: Health and Well-Being'
-- Applied Stochastic Models in Business and Industry
-- Applied Vegetation Science
-- Aquaculture Nutrition
-- Aquaculture Research
-- 'Aquatic Conservation: Marine and Freshwater Ecosystems'
-- Arabian Archaeology and Epigraphy
-- Archaeological Prospection
-- Archaeology in Oceania
-- Archaeometry
-- Architectural Design
-- Archives of Drug Information
-- Archives of Insect Biochemistry and Physiology
-- Area
-- Art Book
-- Art History
-- Arthritis Care and Research
-- Arthritis and Rheumatism
-- Arthritis and Rheumatology
-- Artificial Organs
-- Asia Pacific Journal of Clinical Nutrition
-- Asia Pacific Journal of Human Resources
-- Asia Pacific Viewpoint
-- Asia and the Pacific Policy Studies
-- Asia-Pacific Journal of Chemical Engineering
-- Asia-Pacific Journal of Clinical Oncology
-- Asia-Pacific Journal of Financial Studies
-- Asia-Pacific Psychiatry
-- Asian Economic Journal
-- Asian Economic Policy Review
-- Asian Journal of Control
-- Asian Journal of Endoscopic Surgery
-- Asian Journal of Social Psychology
-- Asian Politics and Policy
-- Asian Social Work and Policy Review
-- Asian-Pacific Economic Literature
-- Assessment Update
-- Astronomische Nachrichten
-- Atmospheric Science Letters
-- Austral Ecology
-- Austral Entomology
-- Australasian Journal of Dermatology
-- Australasian Journal on Ageing
-- Australian Accounting Review
-- Australian Dental Journal
-- Australian Economic History Review
-- Australian Economic Papers
-- Australian Economic Review
-- Australian Endodontic Journal
-- Australian Journal of Agricultural and Resource Economics
-- Australian Journal of Anthropology
-- Australian Journal of Entomology
-- Australian Journal of Grape and Wine Research
-- Australian Journal of Politics and History
-- Australian Journal of Psychology
-- Australian Journal of Public Administration
-- Australian Journal of Rural Health
-- Australian Occupational Therapy Journal
-- Australian Veterinary Journal
-- Australian and New Zealand Journal of Family Therapy
-- Australian and New Zealand Journal of Obstetrics and Gynaecology
-- Australian and New Zealand Journal of Public Health
-- Australian and New Zealand Journal of Statistics
-- Autism Research
-- Autonomic and Autacoid Pharmacology
-- 'BJOG: An International Journal of Obstetrics and Gynaecology'
-- BJU International
-- Banks in Insurance Report
-- Barnläkaren
-- Basic and Clinical Pharmacology and Toxicology
-- Basic and Clinical Pharmacology and Toxicology Supplement
-- Basin Research
-- Bauphysik
-- Bautechnik
-- Behavioral Interventions
-- Behavioral Sciences and the Law
-- Bell Labs Technical Journal
-- Berichte der Bunsengesellschaft für physikalische Chemie
-- Beton- und Stahlbetonbau
-- BioEssays
-- BioFactors
-- Biochemistry International
-- Biochemistry and Molecular Biology Education
-- Bioelectromagnetics
-- Bioengineering and Translational Medicine
-- Bioethics
-- Biofuels, Bioproducts and Biorefining
-- Bioimaging
-- Biological Mass Spectrometry
-- Biological Reviews
-- Biology of the Cell
-- Biomedical Chromatography
-- Biometrics
-- Biopharmaceutics and Drug Disposition
-- Biopolymers
-- Biospectroscopy
-- Biotechnology Progress
-- Biotechnology and Applied Biochemistry
-- Biotechnology and Bioengineering
-- Biotropica
-- Bipolar Disorders
-- Birth
-- Birth Defects Research
-- 'Birth Defects Research Part A: Clinical and Molecular Teratology'
-- 'Birth Defects Research Part B: Developmental and Reproductive Toxicology'
-- 'Birth Defects Research Part C: Embryo Today: Reviews'
-- Board Leadership
-- Board and Administrator for Administrators Only
-- Boreas
-- Brain Pathology
-- Brain and Behavior
-- Breast Journal
-- Briefings in Real Estate Finance
-- British Educational Research Journal
-- British Journal of Clinical Pharmacology
-- British Journal of Clinical Psychology
-- British Journal of Dermatology
-- British Journal of Developmental Psychology
-- British Journal of Educational Psychology
-- British Journal of Educational Technology
-- British Journal of Haematology
-- British Journal of Health Psychology
-- British Journal of Industrial Relations
-- British Journal of Learning Disabilities
-- British Journal of Management
-- British Journal of Mathematical and Statistical Psychology
-- British Journal of Pharmacology
-- British Journal of Psychology
-- British Journal of Psychotherapy
-- British Journal of Social Psychology
-- British Journal of Sociology
-- British Journal of Special Education
-- British Journal of Surgery
-- Brown University Child and Adolescent Behavior Letter
-- Brown University Child and Adolescent Psychopharmacology Update
-- Brown University Digest of Addiction Theory and Application
-- Brown University Geriatric Psychopharmacology Update
-- Brown University Psychopharmacology Update
-- Bruce R. Hopkins' Nonprofit Counsel
-- Building Physics
-- Bulletin des Sociétés Chimiques Belges
-- Bulletin of Economic Research
-- Bulletin of Latin American Research
-- Bulletin of the Institute of Classical Studies
-- Bulletin of the London Mathematical Society
-- Business Change and Re-engineering
-- 'Business Ethics: A European Review'
-- Business Strategy Review
-- Business Strategy and the Environment
-- Business and Society Review
-- 'CA: A Cancer Journal for Clinicians'
-- CLEAN - Soil, Air, Water
-- CNS Drug Reviews
-- CNS Neuroscience and Therapeutics
-- 'CPT: Pharmacometrics and Systems Pharmacology'
-- Campus Legal Advisor
-- Campus Security Report
-- Canadian Geographer
-- Canadian Journal of Administrative Sciences
-- Canadian Journal of Agricultural Economics
-- Canadian Journal of Chemical Engineering
-- Canadian Journal of Economics
-- Canadian Journal of Statistics
-- Canadian Public Administration
-- Canadian Review of Sociology
-- Cancer
-- Cancer Cytopathology
-- Cancer Medicine
-- Cancer Practice
-- Cancer Science
-- Cardiovascular Therapeutics
-- Career Development Quarterly
-- Catheterization and Cardiovascular Interventions
-- Cell Biochemistry and Function
-- Cell Biology International
-- Cell Biology International Reports
-- Cell Proliferation
-- Cellular Microbiology
-- Centaurus
-- Center for Migration Studies special issues
-- ChemBioChem
-- ChemBioEng Reviews
-- ChemCatChem
-- ChemElectroChem
-- ChemMedChem
-- ChemPhysChem
-- ChemPlusChem
-- ChemSusChem
-- Chemical Biology and Drug Design
-- Chemical Engineering and Technology
-- Chemical Record
-- Chemie in unserer Zeit
-- Chemistry - A European Journal
-- Chemistry - An Asian Journal
-- Chemistry and Industry
-- ChemistryOpen
-- ChemistrySelect
-- Child Abuse Review
-- Child Development
-- Child Development Perspectives
-- Child and Adolescent Mental Health
-- Child and Family Social Work
-- 'Child: Care, Health and Development'
-- Children & Society
-- China and World Economy
-- Chinese Journal of Geophysics
-- Chirality
-- City and Community
-- Cladistics
-- Clinical Anatomy
-- Clinical Cardiology
-- Clinical Case Reports
-- Clinical Endocrinology
-- Clinical Genetics
-- Clinical Implant Dentistry and Related Research
-- Clinical Journal of Pathology
-- Clinical Liver Disease
-- Clinical Obesity
-- Clinical Oral Implants Research
-- Clinical Otolaryngology
-- Clinical Pharmacology in Drug Development
-- Clinical Physiology and Functional Imaging
-- Clinical Psychology and Psychotherapy
-- 'Clinical Psychology: Science and Practice'
-- Clinical Respiratory Journal
-- Clinical Teacher
-- Clinical Transplantation
-- Clinical and Experimental Allergy
-- Clinical and Experimental Allergy Reviews
-- Clinical and Experimental Dental Research
-- Clinical and Experimental Dermatology
-- Clinical and Experimental Immunology
-- Clinical and Experimental Neuroimmunology
-- Clinical and Experimental Ophthalmology
-- Clinical and Experimental Optometry
-- Clinical and Experimental Pharmacology and Physiology
-- Clinical and Translational Science
-- Cochrane Library
-- Cognitive Science
-- College Athletics and the Law
-- Color Research and Application
-- Coloration Technology
-- Colorectal Disease
-- Communication Theory
-- Communication, Culture and Critique
-- Communications in Numerical Methods in Engineering
-- Communications on Pure and Applied Mathematics
-- Community Dentistry and Oral Epidemiology
-- Companion Animal
-- Compendium of Organic Synthetic Methods
-- Competitive Intelligence Review
-- Comprehensive Reviews in Food Science and Food Safety
-- Computational Intelligence
-- Computer Animation and Virtual Worlds
-- Computer Applications in Engineering Education
-- Computer Graphics Forum
-- Computer-Aided Civil and Infrastructure Engineering
-- 'Concepts in Magnetic Resonance Part A: Bridging Education and Research'
-- 'Concepts in Magnetic Resonance Part B: Magnetic Resonance Engineering'
-- Concrete and Reinforced Concrete Structures
-- 'Concurrency and Computation: Practice and Experience'
-- Conflict Resolution Quarterly
-- Congenital Anomalies
-- Congenital Heart Disease
-- Congestive Heart Failure
-- Conservation
-- Conservation Biology
-- Conservation Letters
-- Constellations
-- Contact Dermatitis
-- Contemporary Economic Policy
-- Contemporary Hypnosis
-- Conversations in Religion and Theology
-- Corporate Governance
-- Corporate Philanthropy Report
-- Corporate Social Responsibility and Environmental Management
-- Council on Anthropology and Education Quarterly
-- Counseling and Values
-- Counselling and Psychotherapy Research
-- Counselor Education and Supervision
-- Creativity and Innovation Management
-- Criminal Behaviour and Mental Health
-- Criminology
-- Criminology and Public Policy
-- Critical Quarterly
-- CrossCurrents
-- Culture, Agriculture, Food and Environment
-- 'Curator: The Museum Journal'
-- Curriculum Inquiry
-- Curtis's Botanical Magazine
-- Cytometry
-- Cytometry Part A
-- 'Cytometry Part B: Clinical Cytometry'
-- Cytopathology
-- Cytoskeleton
-- DIBt Mitteilungen
-- Dean and Provost
-- Decision Sciences
-- Decision Sciences Journal of Innovative Education
-- Dental Traumatology
-- Department Chair
-- Depositional Record
-- Depression
-- Depression and Anxiety
-- Dermatologic Surgery
-- Dermatologic Therapy
-- Design Management Journal
-- Design Management Review
-- Developing Economies
-- Developing World Bioethics
-- Development Policy Review
-- Development and Alumni Relations Report
-- Development and Change
-- Development, Growth and Differentiation
-- Developmental Disabilities Research Reviews
-- Developmental Dynamics
-- Developmental Medicine and Child Neurology
-- Developmental Neurobiology
-- Developmental Psychobiology
-- Developmental Science
-- DiBt News
-- Diabetes, Obesity and Metabolism
-- Diabetes/Metabolism Research and Reviews
-- Diabetic Medicine
-- Diagnostic Cytopathology
-- Dialectica
-- Dialog
-- Dialysis and Transplantation
-- Digest of Middle East Studies
-- Digestive Endoscopy
-- Disability Compliance for Higher Education
-- Disasters
-- Diversity and Distributions
-- Drug Development Research
-- Drug Testing and Analysis
-- Drug and Alcohol Review
-- Dyslexia
-- EMBO Molecular Medicine
-- EPPO Bulletin
-- ESC Heart Failure
-- ETS Research Report Series
-- Early Intervention in Psychiatry
-- Early Medieval Europe
-- Earth Surface Processes and Landforms
-- Earth's Future
-- Earthquake Engineering and Structural Dynamics
-- Echocardiography
-- Eco-Management and Auditing
-- Ecography
-- Ecohydrology
-- Ecological Entomology
-- Ecological Management and Restoration
-- Ecology Letters
-- Ecology and Evolution
-- Ecology of Freshwater Fish
-- Econometrics Journal
-- Economic Affairs
-- Economic Anthropology
-- Economic History Review
-- Economic Inquiry
-- Economic Journal
-- Economic Notes
-- Economic Outlook
-- Economic Papers
-- Economic Record
-- Economica
-- Economics and Politics
-- Economics of Transition
-- Ecosystem Health
-- Ecosystem Health and Sustainability
-- Ecumenical Review
-- 'Educational Measurement: Issues and Practice'
-- Educational Theory
-- Electrical Engineering in Japan
-- Electroanalysis
-- Electronic Journal of Theoretical Chemistry
-- Electronics and Communications in Japan
-- 'Electronics and Communications in Japan Part I: Communications'
-- 'Electronics and Communications in Japan Part II: Electronics'
-- 'Electronics and Communications in Japan Part III: Fundamental Electronic Science'
-- Emergency Medicine Australasia
-- Employment Relations Today
-- Endodontic Topics
-- Energy Science and Engineering
-- Engineering in Life Sciences
-- English Literary Renaissance
-- English in Education
-- Enrollment Management Report
-- Entomologia Experimentalis et Applicata
-- Entomological Research
-- Entomological Science
-- EntrepreneurLetter Building and Construction Industry
-- Environmental Microbiology
-- Environmental Microbiology Reports
-- Environmental Policy and Governance
-- Environmental Progress and Sustainable Energy
-- Environmental Quality Management
-- Environmental Toxicology
-- Environmental Toxicology and Chemistry
-- Environmental and Molecular Mutagenesis
-- Environmetrics
-- Eos, Transactions American Geophysical Union
-- Epilepsia
-- Epilepsy Currents
-- Equine Veterinary Education
-- Equine Veterinary Journal
-- Ethology
-- EuroChoices
-- European Diabetes Nursing
-- European Eating Disorders Review
-- European Financial Management
-- European Journal of Biochemistry
-- European Journal of Cancer Care
-- European Journal of Clinical Investigation
-- European Journal of Dental Education
-- European Journal of Education
-- European Journal of Haematology
-- European Journal of Heart Failure
-- European Journal of Heart Failure Supplements
-- European Journal of Immunology
-- European Journal of Inorganic Chemistry
-- European Journal of Lipid Science and Technology
-- European Journal of Neurology
-- European Journal of Neuroscience
-- European Journal of Oral Sciences
-- European Journal of Organic Chemistry
-- European Journal of Pain
-- European Journal of Pain Supplements
-- European Journal of Personality
-- European Journal of Philosophy
-- European Journal of Political Research
-- European Journal of Political Research Political Data Yearbook
-- European Journal of Social Psychology
-- European Journal of Soil Science
-- European Journal of Surgery
-- European Law Journal
-- European Management Review
-- European Transactions on Electrical Power
-- European Transactions on Telecommunications
-- 'Evidence-Based Child Health: A Cochrane Review Journal'
-- Evidence-based Preclinical Medicine
-- Evolution
-- Evolution Letters
-- Evolution and Development
-- Evolutionary Anthropology
-- Evolutionary Applications
-- Experimental Dermatology
-- Experimental Physiology
-- Expert Systems
-- F. Scott Fitzgerald Review
-- FEBS Journal
-- FEBS Letters
-- FEBS Open Bio
-- Family Court Review
-- Family Process
-- Family Relations
-- Family and Consumer Sciences Research Journal
-- Fatigue and Fracture of Engineering Materials and Structures
-- Federal Facilities Environmental Journal
-- Federal Grants and Contracts
-- Field Analytical Chemistry and Technology
-- Financial Accountability and Management
-- Financial Management
-- Financial Markets, Institutions and Instruments
-- Financial Review
-- Fire and Materials
-- First Break
-- Fiscal Studies
-- Fish and Fisheries
-- Fisheries Management and Ecology
-- Fisheries Oceanography
-- Flavour and Fragrance Journal
-- Focus on Alternative and Complementary Therapies
-- Focus on Geography
-- Food Science and Nutrition
-- Food Service Technology
-- Food and Energy Security
-- Foreign Language Annals
-- Forest Pathology
-- Fossils and Strata
-- Freshwater Biology
-- Fuel Cells
-- Functional Ecology
-- Fundamental and Clinical Pharmacology
-- Future Prescriber
-- GCB Bioenergy
-- Gender and History
-- Gender, Work and Organization
-- GeneScreen
-- Genes and Function
-- Genes to Cells
-- Genes, Brain and Behavior
-- Genes, Chromosomes and Cancer
-- Genetic Epidemiology
-- 'Geo: Geography and Environment'
-- Geoarchaeology
-- Geobiology
-- Geographical Analysis
-- Geographical Journal
-- Geographical Research
-- Geographical Review
-- Geography Compass
-- Geological Journal
-- Geology Today
-- Geomechanics and Tunnelling
-- Geoscience Data Journal
-- Geostandards and Geoanalytical Research
-- Geriatrics and Gerontology International
-- German Economic Review
-- German Life and Letters
-- German Quarterly
-- Gerodontology
-- Glia
-- Global Business and Organizational Excellence
-- Global Change Biology
-- Global Ecology and Biogeography
-- Global Networks
-- Global Policy
-- Global Strategy Journal
-- Governance
-- Grass and Forage Science
-- Grassland Science
-- 'Greenhouse Gases: Science and Technology'
-- Ground Water Monitoring and Remediation
-- Groundwater
-- Growth and Change
-- Gynaecological Endoscopy
-- Géographe canadien
-- HIV Medicine
-- Haemophilia
-- Hastings Center Report
-- Head and Neck
-- Headache
-- Headache Currents
-- Health Economics
-- Health Expectations
-- Health Information and Libraries Journal
-- Health Science Reports
-- Health Services Research
-- Health and Social Care in the Community
-- Heat Transfer - Asian Research
-- Heat Transfer - Japanese Research
-- Helicobacter
-- Helvetica Chimica Acta
-- Hematological Oncology
-- Hemodialysis International
-- Hepatology
-- Hepatology Communications
-- Hepatology Research
-- Heteroatom Chemistry
-- Heythrop Journal
-- Higher Education Abstracts
-- Higher Education Quarterly
-- Hippocampus
-- Histopathology
-- Historian
-- Historical Research
-- History
-- History Compass
-- History and Theory
-- History of Education Quarterly
-- Howard Journal of Criminal Justice
-- Human Brain Mapping
-- Human Cell
-- Human Communication Research
-- Human Factors and Ergonomics in Manufacturing and Service Industries
-- Human Mutation
-- 'Human Psychopharmacology: Clinical and Experimental'
-- Human Resource Development Quarterly
-- Human Resource Management
-- Human Resource Management Journal
-- Hydrological Processes
-- Hypatia
-- IDS Bulletin
-- IDS Practice Papers
-- IDS Research Reports
-- IDS Working Papers
-- IEEJ Transactions on Electrical and Electronic Engineering
-- ISBT Science Series
-- ISI Review
-- IUBMB Life
-- Ibis
-- Imaging Decisions MRI
-- Immunity, Inflammation and Disease
-- Immunological Reviews
-- Immunology
-- Impact
-- 'In Session: Psychotherapy in Practice'
-- Indoor Air
-- Industrial Relations
-- Industrial Relations Journal
-- Infancy
-- Infant Mental Health Journal
-- Infant and Child Development
-- Influenza and Other Respiratory Viruses
-- Information Systems Journal
-- Inorganic Reactions and Methods
-- Insect Conservation and Diversity
-- Insect Molecular Biology
-- Insect Science
-- Inside the Cell
-- Integrated Environmental Assessment and Management
-- Integrative Biology
-- Integrative Zoology
-- Intelligent Systems in Accounting, Finance and Management
-- Internal Medicine Journal
-- International Dental Journal
-- International Economic Review
-- International Endodontic Journal
-- International Finance
-- International Forum of Allergy and Rhinology
-- International Insolvency Review
-- International Journal for Numerical Methods in Biomedical Engineering
-- International Journal for Numerical Methods in Engineering
-- International Journal for Numerical Methods in Fluids
-- International Journal for Numerical and Analytical Methods in Geomechanics
-- International Journal of Adaptive Control and Signal Processing
-- International Journal of Andrology
-- International Journal of Applied Ceramic Technology
-- International Journal of Applied Glass Science
-- International Journal of Applied Linguistics
-- International Journal of Applied Psychoanalytic Studies
-- International Journal of Art and Design Education
-- International Journal of Auditing
-- International Journal of Cancer
-- International Journal of Cancer Supplement
-- International Journal of Chemical Kinetics
-- International Journal of Circuit Theory and Applications
-- International Journal of Climatology
-- International Journal of Clinical Practice
-- International Journal of Communication Systems
-- International Journal of Consumer Studies
-- International Journal of Cosmetic Science
-- International Journal of Dairy Technology
-- International Journal of Dental Hygiene
-- International Journal of Dermatology
-- International Journal of Eating Disorders
-- International Journal of Economic Theory
-- International Journal of Energy Research
-- International Journal of Experimental Pathology
-- International Journal of Finance and Economics
-- International Journal of Food Science and Technology
-- International Journal of Geriatric Psychiatry
-- International Journal of Gynecology and Obstetrics
-- International Journal of Health Planning and Management
-- International Journal of Human Factors in Manufacturing
-- International Journal of Imaging Systems and Technology
-- International Journal of Immunogenetics
-- International Journal of Intelligent Systems
-- International Journal of Intensive Short-Term Dynamic Psychotherapy
-- International Journal of Japanese Sociology
-- International Journal of Laboratory Hematology
-- International Journal of Language and Communication Disorders
-- International Journal of Management Reviews
-- International Journal of Medical Robotics and Computer Assisted Surgery
-- International Journal of Mental Health Nursing
-- International Journal of Methods in Psychiatric Research
-- International Journal of Nautical Archaeology
-- International Journal of Network Management
-- International Journal of Nonprofit and Voluntary Sector Marketing
-- 'International Journal of Numerical Modelling: Electronic Networks, Devices and
-  Fields'
-- International Journal of Nursing Knowledge
-- International Journal of Nursing Practice
-- International Journal of Nursing Terminologies and Classifications
-- International Journal of Older People Nursing
-- International Journal of Osteoarchaeology
-- International Journal of Paediatric Dentistry
-- International Journal of Pharmacy Practice
-- International Journal of Population Geography
-- International Journal of Psychoanalysis
-- International Journal of Quantum Chemistry
-- International Journal of RF and Microwave Computer-Aided Engineering
-- International Journal of Rheumatic Diseases
-- International Journal of Robust and Nonlinear Control
-- International Journal of Satellite Communications
-- International Journal of Satellite Communications and Networking
-- International Journal of Selection and Assessment
-- International Journal of Short-Term Psychotherapy
-- International Journal of Social Welfare
-- International Journal of Systematic Theology
-- International Journal of Tourism Research
-- International Journal of Training and Development
-- International Journal of Urban and Regional Research
-- International Journal of Urological Nursing
-- International Journal of Urology
-- International Labour Review
-- International Migration
-- International Migration Review
-- International Nursing Review
-- International Review of Finance
-- International Review of Mission
-- International Social Science Journal
-- International Social Security Review
-- International Statistical Review
-- International Transactions in Operational Research
-- International Transactions on Electrical Energy Systems
-- International Wound Journal
-- International Zoo Yearbook
-- Internationale Revue für Soziale Sicherheit
-- Invertebrate Biology
-- Irrigation and Drainage
-- Island Arc
-- JBI Reports
-- JDDG
-- Japan Journal of Nursing Science
-- Japanese Economic Review
-- Japanese Psychological Research
-- Jornal Internacional do Conhecimento em Enfermagem
-- Journal for Eighteenth-Century Studies
-- Journal for Specialists in Pediatric Nursing
-- Journal for the Scientific Study of Religion
-- Journal for the Theory of Social Behaviour
-- Journal of Accounting Research
-- Journal of Addictions and Offender Counseling
-- Journal of Adolescent and Adult Literacy
-- Journal of Advanced Nursing
-- Journal of Aesthetics and Art Criticism
-- Journal of Agrarian Change
-- Journal of Agricultural Economics
-- Journal of Agronomy and Crop Science
-- Journal of American Culture
-- Journal of Analytical Psychology
-- Journal of Anatomy
-- Journal of Andrology
-- Journal of Animal Breeding and Genetics
-- Journal of Animal Ecology
-- Journal of Animal Physiology and Animal Nutrition
-- Journal of Applied Biobehavioral Research
-- Journal of Applied Biomaterials
-- Journal of Applied Corporate Finance
-- Journal of Applied Ecology
-- Journal of Applied Econometrics
-- Journal of Applied Entomology
-- Journal of Applied Ichthyology
-- Journal of Applied Microbiology
-- Journal of Applied Philosophy
-- Journal of Applied Polymer Science
-- Journal of Applied Research in Intellectual Disabilities
-- Journal of Applied Social Psychology
-- Journal of Applied Toxicology
-- Journal of Avian Biology
-- Journal of Behavioral Decision Making
-- Journal of Biochemical and Molecular Toxicology
-- Journal of Biogeography
-- Journal of Biomedical Materials Research Part A
-- 'Journal of Biomedical Materials Research Part B: Applied Biomaterials'
-- Journal of Business Finance and Accounting
-- Journal of Business Logistics
-- Journal of Cachexia, Sarcopenia and Muscle
-- Journal of Cardiac Surgery
-- Journal of Cardiovascular Electrophysiology
-- Journal of Cellular Biochemistry
-- Journal of Cellular Physiology
-- Journal of Cellular and Molecular Medicine
-- Journal of Chemical Technology and Biotechnology
-- Journal of Chemometrics
-- Journal of Child Psychology and Psychiatry
-- Journal of Child and Adolescent Psychiatric Nursing
-- Journal of Chinese Philosophy
-- Journal of Clinical Apheresis
-- Journal of Clinical Hypertension
-- Journal of Clinical Laboratory Analysis
-- Journal of Clinical Nursing
-- Journal of Clinical Periodontology
-- Journal of Clinical Pharmacology
-- Journal of Clinical Pharmacy and Therapeutics
-- Journal of Clinical Psychology
-- Journal of Clinical Ultrasound
-- Journal of College Counseling
-- Journal of Combinatorial Designs
-- Journal of Common Market Studies
-- Journal of Communication
-- Journal of Community Psychology
-- Journal of Community and Applied Social Psychology
-- Journal of Comparative Neurology
-- Journal of Computational Chemistry
-- Journal of Computer Assisted Learning
-- Journal of Consumer Affairs
-- Journal of Consumer Behaviour
-- Journal of Contemporary Water Research and Education
-- Journal of Contingencies and Crisis Management
-- Journal of Corporate Accounting and Finance
-- Journal of Cosmetic Dermatology
-- Journal of Counseling and Development
-- Journal of Creative Behavior
-- Journal of Cutaneous Pathology
-- Journal of Dermatology
-- Journal of Diabetes
-- Journal of Diabetes Investigation
-- Journal of Digestive Diseases
-- Journal of Ecology
-- Journal of Economic Surveys
-- Journal of Economics and Management Strategy
-- Journal of Educational Measurement
-- Journal of Electron Microscopy Technique
-- Journal of Electrophysiology
-- Journal of Empirical Legal Studies
-- Journal of Employment Counseling
-- Journal of Engineering Education
-- Journal of Environmental Medicine
-- Journal of Esthetic and Restorative Dentistry
-- Journal of Eukaryotic Microbiology
-- Journal of Evaluation in Clinical Practice
-- Journal of Evidence-Based Medicine
-- Journal of Evolutionary Biology
-- Journal of Experimental Zoology
-- 'Journal of Experimental Zoology Part A: Comparative Experimental Biology'
-- 'Journal of Experimental Zoology Part A: Ecological Genetics and Physiology'
-- 'Journal of Experimental Zoology Part B: Molecular and Developmental Evolution'
-- Journal of Family Theory and Review
-- Journal of Family Therapy
-- Journal of Field Ornithology
-- Journal of Field Robotics
-- Journal of Finance
-- Journal of Financial Research
-- Journal of Fish Biology
-- Journal of Fish Diseases
-- Journal of Flood Risk Management
-- Journal of Food Biochemistry
-- Journal of Food Lipids
-- Journal of Food Process Engineering
-- Journal of Food Processing and Preservation
-- Journal of Food Safety
-- Journal of Food Science
-- Journal of Food Science Education
-- Journal of Foodservice
-- Journal of Forecasting
-- Journal of Forensic Sciences
-- Journal of Futures Markets
-- Journal of Gastroenterology and Hepatology
-- Journal of Gene Medicine
-- Journal of Graph Theory
-- Journal of Healthcare Risk Management
-- Journal of Heterocyclic Chemistry
-- Journal of Historical Sociology
-- Journal of Hospital Medicine
-- Journal of Human Nutrition and Dietetics
-- Journal of Humanistic Counseling
-- Journal of Image Guided Surgery
-- Journal of Industrial Ecology
-- Journal of Industrial Economics
-- Journal of Inorganic and General Chemistry
-- Journal of Integrative Plant Biology
-- Journal of Intellectual Disability Research
-- Journal of Interamerican Studies and World Affairs
-- Journal of Interdisciplinary Nanomedicine
-- Journal of Interior Design
-- Journal of Internal Medicine
-- Journal of International Development
-- Journal of International Financial Management and Accounting
-- Journal of Interventional Cardiology
-- Journal of Investigative Psychology and Offender Profiling
-- Journal of Investigative and Clinical Dentistry
-- Journal of Labelled Compounds and Radiopharmaceuticals
-- Journal of Law and Society
-- Journal of Leadership Studies
-- Journal of Legal Studies Education
-- Journal of Magnetic Resonance Imaging
-- Journal of Management Studies
-- Journal of Marital and Family Therapy
-- Journal of Marriage and Family
-- Journal of Mass Spectrometry
-- Journal of Maternal-Fetal Medicine
-- Journal of Medical Imaging and Radiation Oncology
-- Journal of Medical Primatology
-- Journal of Medical Radiation Sciences
-- Journal of Medical Virology
-- Journal of Metamorphic Geology
-- Journal of Microcolumn Separations
-- Journal of Microscopy
-- Journal of Midwifery and Women's Health
-- Journal of Molecular Recognition
-- Journal of Money, Credit and Banking
-- Journal of Morphology
-- Journal of Multi-Criteria Decision Analysis
-- Journal of Multicultural Counseling and Development
-- Journal of Muscle Foods
-- Journal of Neurobiology
-- Journal of Neurochemistry
-- Journal of Neuroendocrinology
-- Journal of Neuroimaging
-- Journal of Neuropsychology
-- Journal of Neuroscience Research
-- Journal of Nursing Management
-- Journal of Nursing Scholarship
-- Journal of Nursing and Healthcare of Chronic Illness
-- Journal of Obstetrics and Gynaecology Research
-- Journal of Occupational and Organizational Psychology
-- Journal of Oral Pathology and Medicine
-- Journal of Oral Rehabilitation
-- Journal of Organizational Behavior
-- Journal of Orthopaedic Research
-- Journal of Paediatrics and Child Health
-- Journal of Pathology
-- 'Journal of Pathology: Clinical Research'
-- Journal of Peptide Science
-- Journal of Periodontal Research
-- Journal of Personality
-- Journal of Petroleum Geology
-- Journal of Pharmaceutical Health Services Research
-- Journal of Pharmacy and Pharmacology
-- Journal of Philosophy of Education
-- Journal of Phycology
-- Journal of Physical Organic Chemistry
-- Journal of Physiology
-- Journal of Phytopathology
-- Journal of Pineal Research
-- Journal of Policy Analysis and Management
-- Journal of Policy and Practice in Intellectual Disabilities
-- Journal of Political Philosophy
-- 'Journal of Polymer Science Part A: Polymer Chemistry'
-- 'Journal of Polymer Science Part B: Polymer Physics'
-- 'Journal of Polymer Science Part C: Polymer Letters'
-- 'Journal of Polymer Science: Macromolecular Reviews'
-- 'Journal of Polymer Science: Polymer Symposia'
-- Journal of Popular Culture
-- Journal of Popular Music Studies
-- Journal of Product Innovation Management
-- Journal of Prosthodontics
-- Journal of Psychiatric and Mental Health Nursing
-- Journal of Psychological Issues in Organizational Culture
-- Journal of Public Affairs
-- Journal of Public Economic Theory
-- Journal of Public Health Dentistry
-- Journal of Quality in Clinical Practice
-- Journal of Quaternary Science
-- Journal of Raman Spectroscopy
-- Journal of Rapid Methods and Automation in Microbiology
-- Journal of Regional Science
-- Journal of Religious Ethics
-- Journal of Religious History
-- Journal of Renal Care
-- Journal of Research in Reading
-- Journal of Research in Science Teaching
-- Journal of Research in Special Educational Needs
-- Journal of Research on Adolescence
-- Journal of Risk and Insurance
-- Journal of Rural Health
-- Journal of School Health
-- Journal of Sensory Studies
-- Journal of Separation Science
-- Journal of Sexual Medicine
-- Journal of Sleep Research
-- Journal of Small Animal Practice
-- Journal of Small Business Management
-- Journal of Social Issues
-- Journal of Social Philosophy
-- Journal of Sociolinguistics
-- 'Journal of Software: Evolution and Process'
-- Journal of Supply Chain Management
-- Journal of Supreme Court History
-- Journal of Surfactants and Detergents
-- Journal of Surgical Oncology
-- Journal of Systematics and Evolution
-- Journal of Texture Studies
-- Journal of The Historical Society
-- Journal of Theoretical Social Psychology
-- Journal of Thrombosis and Haemostasis
-- Journal of Time Series Analysis
-- Journal of Tissue Engineering and Regenerative Medicine
-- Journal of Trace Elements in Experimental Medicine
-- Journal of Traumatic Stress
-- Journal of Ultrasound in Medicine
-- Journal of Vector Ecology
-- Journal of Vegetation Science
-- Journal of Veterinary Emergency and Critical Care
-- Journal of Veterinary Internal Medicine
-- Journal of Veterinary Pharmacology and Therapeutics
-- Journal of Vinyl and Additive Technology
-- Journal of Viral Hepatitis
-- Journal of Wildlife Management
-- Journal of World Intellectual Property
-- Journal of Zoological Systematics and Evolutionary Research
-- Journal of Zoology
-- Journal of the American Academy of Nurse Practioners
-- Journal of the American Association of Nurse Practitioners
-- Journal of the American Ceramic Society
-- Journal of the American Geriatrics Society
-- Journal of the American Heart Association
-- Journal of the American Heart Association Cardiovascular and Cerebrovascular Disease
-- Journal of the American Oil Chemists' Society
-- Journal of the American Water Resources Association
-- Journal of the British Association of Psychotherapists
-- Journal of the CardioMetabolic Syndrome
-- Journal of the European Academy of Dermatology and Venereology
-- Journal of the Experimental Analysis of Behavior
-- Journal of the History of the Behavioral Sciences
-- Journal of the Institute of Brewing
-- Journal of the International AIDS Society
-- Journal of the London Mathematical Society
-- Journal of the Peripheral Nervous System
-- Journal of the Royal Anthropological Institute
-- 'Journal of the Royal Statistical Society: Series A'
-- 'Journal of the Royal Statistical Society: Series A (Statistics in Society)'
-- 'Journal of the Royal Statistical Society: Series B'
-- 'Journal of the Royal Statistical Society: Series B (Statistical Methodology)'
-- 'Journal of the Royal Statistical Society: Series C'
-- 'Journal of the Royal Statistical Society: Series C (Applied Statistics)'
-- 'Journal of the Royal Statistical Society: Series D'
-- Journal of the Science of Food and Agriculture
-- Journal of the Society for Information Display
-- Journal of the World Aquaculture Society
-- Juncture
-- Juvenile and Family Court Journal
-- Knowledge and Process Management
-- Kyklos
-- LABOUR
-- Laboratory Robotics and Automation
-- 'Lakes and Reservoirs: Research & Management'
-- Land Degradation and Development
-- Language Learning
-- Language and Linguistics Compass
-- Laryngoscope
-- Laryngoscope Investigative Otolaryngology
-- Lasers in Surgery and Medicine
-- Latin American Policy
-- Latin American Politics and Society
-- Latin Americanist
-- Law and Policy
-- Law and Social Inquiry
-- Law and Society Review
-- Leader to Leader
-- Leadership in Action
-- Learned Publishing
-- Learning Disabilities Research and Practice
-- Learning Health Systems
-- Learning in Health and Social Care
-- Legal and Criminological Psychology
-- Legislative Studies Quarterly
-- Lethaia
-- Letters in Applied Microbiology
-- Limnology and Oceanography
-- Limnology and Oceanography Bulletin
-- Limnology and Oceanography Letters
-- 'Limnology and Oceanography: Fluids and Environments'
-- 'Limnology and Oceanography: Methods'
-- Lipids
-- Literacy
-- Literature Compass
-- Liver International
-- Liver Transplantation
-- Liver Transplantation and Surgery
-- Lower Urinary Tract Symptoms
-- Lubrication Science
-- Luminescence
-- Macromolecular Bioscience
-- Macromolecular Chemistry and Physics
-- Magnetic Resonance in Chemistry
-- Magnetic Resonance in Medicine
-- Major Gifts Report
-- Makromolekulare Chemie. Macromolecular Symposia
-- Makromolekulare Chemie. Supplementband
-- Mammal Review
-- Management Report for Nonunion Organizations
-- Managerial and Decision Economics
-- Manchester School
-- Marine Ecology
-- Marine Mammal Science
-- Mark Twain Annual
-- Mass Spectrometry Reviews
-- Materials and Corrosion
-- Maternal and Child Nutrition
-- Mathematical Finance
-- Mathematical Methods in the Applied Sciences
-- Mechanics of Cohesive-frictional Materials
-- Medical Education
-- Medical Physics
-- Medical and Veterinary Entomology
-- Medicinal Research Reviews
-- Membership Management Report
-- Mental Health Weekly
-- Mergent's Dividend Achievers
-- Mergent's Handbook of Common Stocks
-- Mergent's Handbook of NASDAQ Stocks
-- Metaphilosophy
-- Meteoritics and Planetary Science
-- Meteorological Applications
-- Methods in Ecology and Evolution
-- Metroeconomica
-- Microbial Biotechnology
-- Microbiology Open
-- Microbiology and Immunology
-- MicrobiologyOpen
-- Microcirculation
-- Microscopy Research and Technique
-- Microscopy and Analysis (Americas)
-- Microscopy and Analysis (Asia/Pacific)
-- Microscopy and Analysis (EMEA issue)
-- Microscopy and Analysis (Europe)
-- Microscopy and Analysis (UK)
-- Microsurgery
-- Microwave and Optical Technology Letters
-- Middle East Policy
-- Midwest Studies in Philosophy
-- Milbank Quarterly
-- Milton Quarterly
-- Mind and Language
-- Mind, Brain, and Education
-- Mining Report
-- Modern Language Journal
-- Modern Law Review
-- Modern Theology
-- Molecular Carcinogenesis
-- Molecular Ecology
-- Molecular Ecology Resources
-- Molecular Genetics and Genomic Medicine
-- Molecular Microbiology
-- Molecular Nutrition and Food Research
-- Molecular Oncology
-- Molecular Oral Microbiology
-- Molecular Plant Pathology
-- Molecular Reproduction and Development
-- Molecular Systems Biology
-- Monographs of the Society for Research in Child Development
-- Mount Sinai Journal of Medicine
-- Movement Disorders
-- Movement Disorders Clinical Practice
-- Muscle and Nerve
-- Musculoskeletal Care
-- Museum International
-- Museum International (Edition Francaise)
-- Music Analysis
-- Muslim World
-- Mycoses
-- NMR in Biomedicine
-- National Civic Review
-- National Teaching and Learning Forum
-- Nations and Nationalism
-- Natural Gas and Electricity
-- Natural Resource Modeling
-- Natural Resources Forum
-- Natural Toxins
-- Naval Engineers Journal
-- Naval Research Logistics
-- Navigation
-- Negotiation Journal
-- Negotiation and Conflict Management Research
-- Nephrology
-- Networks
-- Neurogastroenterology and Motility
-- Neurology and Clinical Neuroscience
-- Neuromodulation
-- Neuropathology
-- Neuropathology and Applied Neurobiology
-- Neuroscience Research Communications
-- Neurourology and Urodynamics
-- New Blackfriars
-- New Directions for Adult and Continuing Education
-- New Directions for Child and Adolescent Development
-- New Directions for Community Colleges
-- New Directions for Evaluation
-- New Directions for Higher Education
-- New Directions for Institutional Research
-- New Directions for Philanthropic Fundraising
-- New Directions for Student Services
-- New Directions for Teaching and Learning
-- New Directions for Youth Development
-- New Horizons in Adult Education and Human Resource Development
-- New Horizons in Adult Education and Human Resource Development - Wiley Online Library
-- New Microbes and New Infections
-- New Perspectives Quarterly
-- New Phytologist
-- New Technology, Work and Employment
-- New Zealand Geographer
-- New Zealand Journal of Geography
-- Nonprofit Business Advisor
-- Nonprofit Communications Report
-- Nonprofit Counsel
-- Nonprofit Management and Leadership
-- Nontraditional Students Report
-- Nordic Journal of Botany
-- Noûs
-- Numerical Linear Algebra with Applications
-- Numerical Methods for Partial Differential Equations
-- Nursing Forum
-- Nursing Inquiry
-- Nursing Open
-- Nursing Philosophy
-- Nursing and Health Sciences
-- Nursing in Critical Care
-- Nutrition Bulletin
-- Nutrition and Dietetics
-- Nutrition in Clinical Care
-- OPEC Energy Review
-- Obesity
-- Obesity Reviews
-- Obesity Science and Practice
-- Obstetrician and Gynaecologist
-- Oceania
-- Oil and Energy Trends
-- 'Oil and Energy Trends: Annual Statistical Review'
-- Ophthalmic and Physiological Optics
-- Optimal Control Applications and Methods
-- Oral Diseases
-- Oral Surgery
-- Orbis Litterarum
-- Orthodontics and Craniofacial Research
-- Orthopaedic Surgery
-- Oxford Bulletin of Economics and Statistics
-- Oxford Journal of Archaeology
-- Oxonomics
-- 'P2: Pollution Prevention Review'
-- Pacific Economic Review
-- Pacific Focus
-- Pacific Philosophical Quarterly
-- Pacing and Clinical Electrophysiology
-- Packaging Technology and Science
-- Paediatric and Perinatal Epidemiology
-- Pain Practice
-- Palaeontology
-- Parasite Immunology
-- Parliamentary History
-- Particle and Particle Systems Characterization
-- Pathology International
-- Peace and Change
-- Pediatric Allergy and Immunology
-- Pediatric Anesthesia
-- Pediatric Blood and Cancer
-- Pediatric Dermatology
-- Pediatric Diabetes
-- Pediatric Obesity
-- Pediatric Pulmonology
-- Pediatric Transplantation
-- Pediatrics International
-- Performance Improvement
-- Performance Improvement Quarterly
-- Periodontology 2000
-- Permafrost and Periglacial Processes
-- Personal Relationships
-- Personality and Mental Health
-- Personnel Psychology
-- Perspectives in Psychiatric Care
-- Pest Management Science
-- Pest Science
-- Pharmaceutical Statistics
-- Pharmacoepidemiology and Drug Safety
-- Pharmacology Research and Perspectives
-- 'Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy'
-- Pharmacy and Pharmacology Communications
-- Pharmazie in unserer Zeit
-- Philosophical Books
-- Philosophical Forum
-- Philosophical Investigations
-- Philosophical Issues
-- Philosophical Perspectives
-- Philosophical Quarterly
-- Philosophy Compass
-- Philosophy and Phenomenological Research
-- Philosophy and Public Affairs
-- Photochemistry and Photobiology
-- Photodermatology, Photoimmunology & Photomedicine
-- Photogrammetric Record
-- Phycological Research
-- Physik Journal
-- Physiologia Plantarum
-- Physiological Entomology
-- Physiological Reports
-- Physiotherapy Research International
-- Phytochemical Analysis
-- Phytotherapy Research
-- Pigment Cell and Melanoma Research
-- Plant Biology
-- Plant Biotechnology Journal
-- Plant Breeding
-- Plant Journal
-- Plant Pathology
-- Plant Species Biology
-- Plant, Cell and Environment
-- Policy Studies Journal
-- Policy and Internet
-- Political Psychology
-- Political Quarterly
-- Political Science Quarterly
-- Politics and Policy
-- Polymer Composites
-- Polymer Engineering and Science
-- Polymer International
-- Polymers for Advanced Technologies
-- Population Council Book Series
-- Population and Development Review
-- Population, Space and Place
-- Poverty and Public Policy
-- Practical Diabetes
-- Practical Diabetes International
-- Practice Development in Health Care
-- Prenatal Diagnosis
-- Prescriber
-- Presidential Studies Quarterly
-- Preventive Cardiology
-- Proceedings of the American Society for Information Science and Technology
-- Proceedings of the Association of American Physicians
-- Proceedings of the International Society for Magnetic Resonance in Medicine
-- Proceedings of the Society for Experimental Biology and Medicine
-- Proceedings of the Zoological Society of London
-- Process Safety Progress
-- Production and Operations Management
-- Progress in Cardiovascular Nursing
-- Progress in Neurology and Psychiatry
-- Progress in Photovoltaics
-- Progress in Structural Engineering and Materials
-- Progress in Tourism and Hospitality Research
-- Project Management Journal
-- Prostate
-- Prostate Journal
-- Protein Science
-- Proteins
-- Proteomics
-- PsyCh Journal
-- Psychiatry and Clinical Neurosciences
-- Psycho-Oncology
-- Psychoanalytic Quarterly
-- Psychogeriatrics
-- Psychology and Marketing
-- 'Psychology and Psychotherapy: Theory, Research and Practice'
-- Psychology in the Schools
-- PsychologyOpen
-- Psychophysiology
-- Psychotherapy and Politics International
-- Public Administration
-- Public Administration Review
-- Public Administration and Development
-- Public Budgeting and Finance
-- Public Health Nursing
-- Public Policy Research
-- PÜZ - Verzeichnis der Prüf-, Überwachungs- und Zertifizierungsstellen nach den Landesbauordnungen
-- Quality Assurance Journal
-- Quality and Reliability Engineering International
-- Quarterly Journal of the Royal Meteorological Society
-- R&D Management
-- RAND Journal of Economics
-- Radiation Oncology Investigations
-- Random Structures and Algorithms
-- Rapid Communications in Mass Spectrometry
-- Ratio
-- Ratio Juris
-- Real Estate Economics
-- Recruiting and Retaining Adult Learners
-- Recueil des Travaux Chimiques des Pays-Bas
-- Regeneration
-- Regional Science Policy and Practice
-- Regulation and Governance
-- Religion Compass
-- Religious Studies Review
-- Remediation Journal
-- Remote Sensing in Ecology and Conservation
-- Renaissance Studies
-- Reproduction in Domestic Animals
-- Research Synthesis Methods
-- Research World
-- Research in Nursing and Health
-- Resource Geology
-- Respirology
-- Respirology Case Reports
-- Restoration Ecology
-- Review of Agricultural Economics
-- Review of Development Economics
-- Review of Education
-- Review of European Community and International Environmental Law
-- Review of European, Comparative & International Environmental Law
-- Review of Income and Wealth
-- Review of International Economics
-- Review of Policy Research
-- Review of Urban and Regional Development Studies
-- Reviews in Aquaculture
-- Reviews in Clinical and Experimental Hematology
-- Reviews in Medical Virology
-- Reviews in Religion and Theology
-- Revista Internacional de Seguridad Social
-- Revista Internacional del Conocimiento de Enfermería
-- Revista Internacional del Trabajo
-- Revue Canadienne d'Économique
-- Revue Canadienne des Sciences de l'Administration
-- Revue Internationale de Sécurité Sociale
-- Revue canadienne d'agroeconomie
-- Revue canadienne de sociologie
-- Revue internationale du Travail
-- Risk Analysis
-- Risk Management and Insurance Review
-- Risk, Hazards and Crisis in Public Policy
-- River Research and Applications
-- Rural Sociology
-- Russian Economic Trends
-- Russian Review
-- SID Symposium Digest of Technical Papers
-- SKINmed
-- Scandinavian Journal of Caring Sciences
-- Scandinavian Journal of Economics
-- Scandinavian Journal of Immunology
-- Scandinavian Journal of Medicine and Science in Sports
-- Scandinavian Journal of Metallurgy
-- Scandinavian Journal of Psychology
-- Scandinavian Journal of Statistics
-- Scandinavian Political Studies
-- School Science and Mathematics
-- Science Education
-- Science News
-- Sciences
-- Scottish Journal of Political Economy
-- Sedimentology
-- Seminars in Dialysis
-- Seminars in Surgical Oncology
-- Sexual Medicine Reviews
-- Shoulder and Elbow
-- Singapore Journal of Tropical Geography
-- Skin Research and Technology
-- Sleep and Biological Rhythms
-- Small
-- Social Anthropology
-- Social Development
-- Social Issues and Policy Review
-- Social Policy and Administration
-- Social Science Quarterly
-- Social and Personality Psychology Compass
-- Sociologia Ruralis
-- Sociological Forum
-- Sociological Inquiry
-- Sociological Quarterly
-- Sociology Compass
-- Sociology of Health and Illness
-- Software Focus
-- 'Software Process: Improvement and Practice'
-- Software Testing, Verification and Reliability
-- 'Software: Practice and Experience'
-- Soil Use and Management
-- Sonography
-- South African Journal of Economics
-- Southeastern Political Review
-- Southern Economic Journal
-- Southern Journal of Philosophy
-- Special Care in Dentistry
-- Special Events Galore
-- Spectroscopy Europe
-- Spirituality and Health International
-- Stahlbau
-- Stat
-- Statistica Neerlandica
-- Statistical Analysis and Data Mining
-- Statistics in Medicine
-- Steel Construction
-- Steel Structures
-- Steinbeck Review
-- Stem Cells Translational Medicine
-- Strain
-- Strategic Change
-- Strategic Enrollment Management Quarterly
-- Strategic Entrepreneurship Journal
-- Strategic Management Journal
-- Stress and Health
-- Structural Control and Health Monitoring
-- Structural Design of Tall and Special Buildings
-- Structural Engineering
-- Student Affairs Today
-- Student Aid News
-- Studia Linguistica
-- Studies in Applied Mathematics
-- Studies in Ethnicity and Nationalism
-- Studies in Family Planning
-- Successful Fundraising
-- Successful Registrar
-- Suicide and Life-Threatening Behavior
-- Support for Learning
-- Surface and Interface Analysis
-- Surgical Practice
-- Sustainable Development
-- Swiss Political Science Review
-- Symbolic Interaction
-- Synapse
-- Syntax
-- System Dynamics Review
-- Systematic Entomology
-- Systems Engineering
-- Systems Research and Behavioral Science
-- Systems and Computers in Japan
-- Teaching German
-- Teaching Statistics
-- Teaching Theology and Religion
-- Tellus
-- Teratogenesis, Carcinogenesis, and Mutagenesis
-- Terra Nova
-- Theory and Practice of Object Systems
-- Therapeutic Apheresis and Dialysis
-- Thoracic Cancer
-- 'Thought: A Journal of Philosophy'
-- Thunderbird International Business Review
-- Tijdschrift voor economische en sociale geografie
-- Tissue Antigens
-- Topics in Cognitive Science
-- Traffic
-- Transactions in GIS
-- Transactions of the Institute of British Geographers
-- Transactions of the New York Academy of Sciences
-- Transactions of the Philological Society
-- Transactions on Emerging Telecommunications Technologies
-- Transboundary and Emerging Diseases
-- Transfusion
-- Transfusion Alternatives in Transfusion Medicine
-- Transfusion Medicine
-- Transplant Infectious Disease
-- Transplant International
-- Trends in Urology and Men's Health
-- Trends in Urology, Gynaecology and Sexual Health
-- Tropical Medicine and International Health
-- Tropical Science
-- Ultrasound in Obstetrics and Gynaecology
-- Ultrasound in Obstetrics and Gynecology
-- UnternehmerBrief Bauwirtschaft
-- Unterrichtspraxis
-- Veterinary Anaesthesia and Analgesia
-- Veterinary Clinical Pathology
-- Veterinary Dermatology
-- Veterinary Medicine and Science
-- Veterinary Nursing Journal
-- Veterinary Ophthalmology
-- Veterinary Radiology and Ultrasound
-- Veterinary Surgery
-- Veterinary and Comparative Oncology
-- Volunteer Management Report
-- Vox Sanguinis
-- Water Law
-- Water and Environment Journal
-- Weather
-- Weed Biology and Management
-- Weed Research
-- Werkstoffe und Korrosion
-- Wildlife Monographs
-- Wildlife Society Bulletin
-- 'Wiley Interdisciplinary Reviews: Climate Change'
-- 'Wiley Interdisciplinary Reviews: Cognitive Science'
-- 'Wiley Interdisciplinary Reviews: Computational Molecular Science'
-- 'Wiley Interdisciplinary Reviews: Computational Statistics'
-- 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery'
-- 'Wiley Interdisciplinary Reviews: Developmental Biology'
-- 'Wiley Interdisciplinary Reviews: Energy and Environment'
-- 'Wiley Interdisciplinary Reviews: Membrane Transport and Signaling'
-- 'Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology'
-- 'Wiley Interdisciplinary Reviews: RNA'
-- 'Wiley Interdisciplinary Reviews: Systems Biology and Medicine'
-- 'Wiley Interdisciplinary Reviews: Water'
-- Wilmott
-- Wilmott Journal
-- Wind Energy
-- Women in Higher Education
-- WorkingUSA
-- World Banking Abstracts
-- World Economy
-- World Englishes
-- World Medical and Health Policy
-- World Oil Trade
-- World Psychiatry
-- World Stroke Academy
-- World of Work Report
-- Worldviews on Evidence-Based Nursing
-- Wound Repair and Regeneration
-- X-Ray Spectrometry
-- Xenotransplantation
-- Yale Review
-- Yearbook of the National Society for the Study of Education
-- Yeast
-- ZAMM
-- Zeitschrift für Chemie
-- Zeitschrift für Tierpsychologie
-- Zentralblatt für Veterinärmedizin
-- Zentralblatt für Veterinärmedizin Reihe A
-- Zentralblatt für Veterinärmedizin Reihe B
-- Zoo Biology
-- Zoologica Scripta
-- Zoonoses and Public Health
-- Zygon
-- genesis
-- physica status solidi (RRL) - Rapid Research Letters
-- physica status solidi (a)
-- physica status solidi (b)
-- physica status solidi (c)
+  - AIChE Journal
+  - ANZ Journal of Surgery
+  - APMIS
+  - ASHE Higher Education Report
+  - Abacus
+  - About Campus
+  - Academic Emergency Medicine
+  - Accounting and Finance
+  - Acta Anaesthesiologica Scandinavica
+  - Acta Archaeologica
+  - Acta Geologica Sinica - English Edition
+  - Acta Medica Austriaca
+  - Acta Neurologica Scandinavica
+  - Acta Obstetricia et Gynecologica Scandinavica
+  - Acta Ophthalmologica
+  - Acta Paediatrica
+  - Acta Paediatrica Scandinavica
+  - Acta Physiologica
+  - Acta Psychiatrica Scandinavica
+  - Acta Zoologica
+  - Acute Medicine and Surgery
+  - Addiction
+  - Addiction Biology
+  - Adultspan Journal
+  - Advanced Electronic Materials
+  - Advanced Energy Materials
+  - Advanced Engineering Materials
+  - Advanced Functional Materials
+  - Advanced Healthcare Materials
+  - Advanced Materials
+  - Advanced Materials Interfaces
+  - Advanced Materials Technologies
+  - Advanced Optical Materials
+  - Advanced Science
+  - Advanced Synthesis and Catalysis
+  - Advances in Chemical Physics
+  - Advances in Enzymology and Related Areas of Molecular Biology
+  - Advances in Ophthalmology and Vision Science
+  - Advances in Photochemistry
+  - Advances in Polymer Technology
+  - Africa Confidential
+  - 'Africa Research Bulletin: Economic, Financial and Technical Series'
+  - 'Africa Research Bulletin: Political, Social and Cultural Series'
+  - African Development Review
+  - African Journal of Ecology
+  - Aggressive Behavior
+  - Aging Cell
+  - Agribusiness
+  - Agricultural Economics
+  - Agricultural and Forest Entomology
+  - Alcoholism and Drug Abuse Weekly
+  - 'Alcoholism: Clinical and Experimental Research'
+  - Alimentary Pharmacology and Therapeutics
+  - Alimentary Pharmacology and Therapeutics Symposium Series
+  - Allergy
+  - Alternatives to the High Cost of Litigation
+  - Ambulatory Child Health
+  - American Business Law Journal
+  - American Heart Hospital Journal
+  - American Journal of Community Psychology
+  - American Journal of Economics and Sociology
+  - American Journal of Geriatric Cardiology
+  - American Journal of Hematology
+  - American Journal of Human Biology
+  - American Journal of Industrial Medicine
+  - American Journal of Medical Genetics
+  - American Journal of Medical Genetics Part A
+  - 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  - 'American Journal of Medical Genetics Part C: Seminars in Medical Genetics'
+  - American Journal of Physical Anthropology
+  - American Journal of Political Science
+  - American Journal of Primatology
+  - American Journal of Reproductive Immunology
+  - American Journal of Transplantation
+  - American Journal on Addictions
+  - Anaesthesia
+  - Analyses of Social Issues and Public Policy
+  - Analytic Philosophy
+  - Anatomia, Histologia, Embryologia
+  - Anatomical Record
+  - 'Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology'
+  - Anatomical Sciences Education
+  - Andrologia
+  - Andrology
+  - Angewandte Chemie
+  - Angewandte Chemie International Edition
+  - Animal Blood Groups and Biochemical Genetics
+  - Animal Conservation
+  - Animal Genetics
+  - Animal Science Journal
+  - Annalen der Physik
+  - Annals of Applied Biology
+  - Annals of Clinical and Translational Neurology
+  - Annals of Human Genetics
+  - Annals of Neurology
+  - Annals of Noninvasive Electrocardiology
+  - Annals of Public and Cooperative Economics
+  - Annals of the New York Academy of Sciences
+  - Annual Bulletin of Historical Literature
+  - Anthropology Today
+  - Antipode
+  - Anxiety
+  - Applied Cognitive Psychology
+  - Applied Geographic Studies
+  - Applied Organometallic Chemistry
+  - Applied Psychology
+  - 'Applied Psychology: Health and Well-Being'
+  - Applied Stochastic Models in Business and Industry
+  - Applied Vegetation Science
+  - Aquaculture Nutrition
+  - Aquaculture Research
+  - 'Aquatic Conservation: Marine and Freshwater Ecosystems'
+  - Arabian Archaeology and Epigraphy
+  - Archaeological Prospection
+  - Archaeology in Oceania
+  - Archaeometry
+  - Architectural Design
+  - Archives of Drug Information
+  - Archives of Insect Biochemistry and Physiology
+  - Area
+  - Art Book
+  - Art History
+  - Arthritis Care and Research
+  - Arthritis and Rheumatism
+  - Arthritis and Rheumatology
+  - Artificial Organs
+  - Asia Pacific Journal of Clinical Nutrition
+  - Asia Pacific Journal of Human Resources
+  - Asia Pacific Viewpoint
+  - Asia and the Pacific Policy Studies
+  - Asia-Pacific Journal of Chemical Engineering
+  - Asia-Pacific Journal of Clinical Oncology
+  - Asia-Pacific Journal of Financial Studies
+  - Asia-Pacific Psychiatry
+  - Asian Economic Journal
+  - Asian Economic Policy Review
+  - Asian Journal of Control
+  - Asian Journal of Endoscopic Surgery
+  - Asian Journal of Social Psychology
+  - Asian Politics and Policy
+  - Asian Social Work and Policy Review
+  - Asian-Pacific Economic Literature
+  - Assessment Update
+  - Astronomische Nachrichten
+  - Atmospheric Science Letters
+  - Austral Ecology
+  - Austral Entomology
+  - Australasian Journal of Dermatology
+  - Australasian Journal on Ageing
+  - Australian Accounting Review
+  - Australian Dental Journal
+  - Australian Economic History Review
+  - Australian Economic Papers
+  - Australian Economic Review
+  - Australian Endodontic Journal
+  - Australian Journal of Agricultural and Resource Economics
+  - Australian Journal of Anthropology
+  - Australian Journal of Entomology
+  - Australian Journal of Grape and Wine Research
+  - Australian Journal of Politics and History
+  - Australian Journal of Psychology
+  - Australian Journal of Public Administration
+  - Australian Journal of Rural Health
+  - Australian Occupational Therapy Journal
+  - Australian Veterinary Journal
+  - Australian and New Zealand Journal of Family Therapy
+  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+  - Australian and New Zealand Journal of Public Health
+  - Australian and New Zealand Journal of Statistics
+  - Autism Research
+  - Autonomic and Autacoid Pharmacology
+  - 'BJOG: An International Journal of Obstetrics and Gynaecology'
+  - BJU International
+  - Banks in Insurance Report
+  - Barnläkaren
+  - Basic and Clinical Pharmacology and Toxicology
+  - Basic and Clinical Pharmacology and Toxicology Supplement
+  - Basin Research
+  - Bauphysik
+  - Bautechnik
+  - Behavioral Interventions
+  - Behavioral Sciences and the Law
+  - Bell Labs Technical Journal
+  - Berichte der Bunsengesellschaft für physikalische Chemie
+  - Beton- und Stahlbetonbau
+  - BioEssays
+  - BioFactors
+  - Biochemistry International
+  - Biochemistry and Molecular Biology Education
+  - Bioelectromagnetics
+  - Bioengineering and Translational Medicine
+  - Bioethics
+  - Biofuels, Bioproducts and Biorefining
+  - Bioimaging
+  - Biological Mass Spectrometry
+  - Biological Reviews
+  - Biology of the Cell
+  - Biomedical Chromatography
+  - Biometrics
+  - Biopharmaceutics and Drug Disposition
+  - Biopolymers
+  - Biospectroscopy
+  - Biotechnology Progress
+  - Biotechnology and Applied Biochemistry
+  - Biotechnology and Bioengineering
+  - Biotropica
+  - Bipolar Disorders
+  - Birth
+  - Birth Defects Research
+  - 'Birth Defects Research Part A: Clinical and Molecular Teratology'
+  - 'Birth Defects Research Part B: Developmental and Reproductive Toxicology'
+  - 'Birth Defects Research Part C: Embryo Today: Reviews'
+  - Board Leadership
+  - Board and Administrator for Administrators Only
+  - Boreas
+  - Brain Pathology
+  - Brain and Behavior
+  - Breast Journal
+  - Briefings in Real Estate Finance
+  - British Educational Research Journal
+  - British Journal of Clinical Pharmacology
+  - British Journal of Clinical Psychology
+  - British Journal of Dermatology
+  - British Journal of Developmental Psychology
+  - British Journal of Educational Psychology
+  - British Journal of Educational Technology
+  - British Journal of Haematology
+  - British Journal of Health Psychology
+  - British Journal of Industrial Relations
+  - British Journal of Learning Disabilities
+  - British Journal of Management
+  - British Journal of Mathematical and Statistical Psychology
+  - British Journal of Pharmacology
+  - British Journal of Psychology
+  - British Journal of Psychotherapy
+  - British Journal of Social Psychology
+  - British Journal of Sociology
+  - British Journal of Special Education
+  - British Journal of Surgery
+  - Brown University Child and Adolescent Behavior Letter
+  - Brown University Child and Adolescent Psychopharmacology Update
+  - Brown University Digest of Addiction Theory and Application
+  - Brown University Geriatric Psychopharmacology Update
+  - Brown University Psychopharmacology Update
+  - Bruce R. Hopkins' Nonprofit Counsel
+  - Building Physics
+  - Bulletin des Sociétés Chimiques Belges
+  - Bulletin of Economic Research
+  - Bulletin of Latin American Research
+  - Bulletin of the Institute of Classical Studies
+  - Bulletin of the London Mathematical Society
+  - Business Change and Re-engineering
+  - 'Business Ethics: A European Review'
+  - Business Strategy Review
+  - Business Strategy and the Environment
+  - Business and Society Review
+  - 'CA: A Cancer Journal for Clinicians'
+  - CLEAN - Soil, Air, Water
+  - CNS Drug Reviews
+  - CNS Neuroscience and Therapeutics
+  - 'CPT: Pharmacometrics and Systems Pharmacology'
+  - Campus Legal Advisor
+  - Campus Security Report
+  - Canadian Geographer
+  - Canadian Journal of Administrative Sciences
+  - Canadian Journal of Agricultural Economics
+  - Canadian Journal of Chemical Engineering
+  - Canadian Journal of Economics
+  - Canadian Journal of Statistics
+  - Canadian Public Administration
+  - Canadian Review of Sociology
+  - Cancer
+  - Cancer Cytopathology
+  - Cancer Medicine
+  - Cancer Practice
+  - Cancer Science
+  - Cardiovascular Therapeutics
+  - Career Development Quarterly
+  - Catheterization and Cardiovascular Interventions
+  - Cell Biochemistry and Function
+  - Cell Biology International
+  - Cell Biology International Reports
+  - Cell Proliferation
+  - Cellular Microbiology
+  - Centaurus
+  - Center for Migration Studies special issues
+  - ChemBioChem
+  - ChemBioEng Reviews
+  - ChemCatChem
+  - ChemElectroChem
+  - ChemMedChem
+  - ChemPhysChem
+  - ChemPlusChem
+  - ChemSusChem
+  - Chemical Biology and Drug Design
+  - Chemical Engineering and Technology
+  - Chemical Record
+  - Chemie in unserer Zeit
+  - Chemistry - A European Journal
+  - Chemistry - An Asian Journal
+  - Chemistry and Industry
+  - ChemistryOpen
+  - ChemistrySelect
+  - Child Abuse Review
+  - Child Development
+  - Child Development Perspectives
+  - Child and Adolescent Mental Health
+  - Child and Family Social Work
+  - 'Child: Care, Health and Development'
+  - Children & Society
+  - China and World Economy
+  - Chinese Journal of Geophysics
+  - Chirality
+  - City and Community
+  - Cladistics
+  - Clinical Anatomy
+  - Clinical Cardiology
+  - Clinical Case Reports
+  - Clinical Endocrinology
+  - Clinical Genetics
+  - Clinical Implant Dentistry and Related Research
+  - Clinical Journal of Pathology
+  - Clinical Liver Disease
+  - Clinical Obesity
+  - Clinical Oral Implants Research
+  - Clinical Otolaryngology
+  - Clinical Pharmacology in Drug Development
+  - Clinical Physiology and Functional Imaging
+  - Clinical Psychology and Psychotherapy
+  - 'Clinical Psychology: Science and Practice'
+  - Clinical Respiratory Journal
+  - Clinical Teacher
+  - Clinical Transplantation
+  - Clinical and Experimental Allergy
+  - Clinical and Experimental Allergy Reviews
+  - Clinical and Experimental Dental Research
+  - Clinical and Experimental Dermatology
+  - Clinical and Experimental Immunology
+  - Clinical and Experimental Neuroimmunology
+  - Clinical and Experimental Ophthalmology
+  - Clinical and Experimental Optometry
+  - Clinical and Experimental Pharmacology and Physiology
+  - Clinical and Translational Science
+  - Cochrane Library
+  - Cognitive Science
+  - College Athletics and the Law
+  - Color Research and Application
+  - Coloration Technology
+  - Colorectal Disease
+  - Communication Theory
+  - Communication, Culture and Critique
+  - Communications in Numerical Methods in Engineering
+  - Communications on Pure and Applied Mathematics
+  - Community Dentistry and Oral Epidemiology
+  - Companion Animal
+  - Compendium of Organic Synthetic Methods
+  - Competitive Intelligence Review
+  - Comprehensive Reviews in Food Science and Food Safety
+  - Computational Intelligence
+  - Computer Animation and Virtual Worlds
+  - Computer Applications in Engineering Education
+  - Computer Graphics Forum
+  - Computer-Aided Civil and Infrastructure Engineering
+  - 'Concepts in Magnetic Resonance Part A: Bridging Education and Research'
+  - 'Concepts in Magnetic Resonance Part B: Magnetic Resonance Engineering'
+  - Concrete and Reinforced Concrete Structures
+  - 'Concurrency and Computation: Practice and Experience'
+  - Conflict Resolution Quarterly
+  - Congenital Anomalies
+  - Congenital Heart Disease
+  - Congestive Heart Failure
+  - Conservation
+  - Conservation Biology
+  - Conservation Letters
+  - Constellations
+  - Contact Dermatitis
+  - Contemporary Economic Policy
+  - Contemporary Hypnosis
+  - Conversations in Religion and Theology
+  - Corporate Governance
+  - Corporate Philanthropy Report
+  - Corporate Social Responsibility and Environmental Management
+  - Council on Anthropology and Education Quarterly
+  - Counseling and Values
+  - Counselling and Psychotherapy Research
+  - Counselor Education and Supervision
+  - Creativity and Innovation Management
+  - Criminal Behaviour and Mental Health
+  - Criminology
+  - Criminology and Public Policy
+  - Critical Quarterly
+  - CrossCurrents
+  - Culture, Agriculture, Food and Environment
+  - 'Curator: The Museum Journal'
+  - Curriculum Inquiry
+  - Curtis's Botanical Magazine
+  - Cytometry
+  - Cytometry Part A
+  - 'Cytometry Part B: Clinical Cytometry'
+  - Cytopathology
+  - Cytoskeleton
+  - DIBt Mitteilungen
+  - Dean and Provost
+  - Decision Sciences
+  - Decision Sciences Journal of Innovative Education
+  - Dental Traumatology
+  - Department Chair
+  - Depositional Record
+  - Depression
+  - Depression and Anxiety
+  - Dermatologic Surgery
+  - Dermatologic Therapy
+  - Design Management Journal
+  - Design Management Review
+  - Developing Economies
+  - Developing World Bioethics
+  - Development Policy Review
+  - Development and Alumni Relations Report
+  - Development and Change
+  - Development, Growth and Differentiation
+  - Developmental Disabilities Research Reviews
+  - Developmental Dynamics
+  - Developmental Medicine and Child Neurology
+  - Developmental Neurobiology
+  - Developmental Psychobiology
+  - Developmental Science
+  - DiBt News
+  - Diabetes, Obesity and Metabolism
+  - Diabetes/Metabolism Research and Reviews
+  - Diabetic Medicine
+  - Diagnostic Cytopathology
+  - Dialectica
+  - Dialog
+  - Dialysis and Transplantation
+  - Digest of Middle East Studies
+  - Digestive Endoscopy
+  - Disability Compliance for Higher Education
+  - Disasters
+  - Diversity and Distributions
+  - Drug Development Research
+  - Drug Testing and Analysis
+  - Drug and Alcohol Review
+  - Dyslexia
+  - EMBO Molecular Medicine
+  - EPPO Bulletin
+  - ESC Heart Failure
+  - ETS Research Report Series
+  - Early Intervention in Psychiatry
+  - Early Medieval Europe
+  - Earth Surface Processes and Landforms
+  - Earth's Future
+  - Earthquake Engineering and Structural Dynamics
+  - Echocardiography
+  - Eco-Management and Auditing
+  - Ecography
+  - Ecohydrology
+  - Ecological Entomology
+  - Ecological Management and Restoration
+  - Ecology Letters
+  - Ecology and Evolution
+  - Ecology of Freshwater Fish
+  - Econometrics Journal
+  - Economic Affairs
+  - Economic Anthropology
+  - Economic History Review
+  - Economic Inquiry
+  - Economic Journal
+  - Economic Notes
+  - Economic Outlook
+  - Economic Papers
+  - Economic Record
+  - Economica
+  - Economics and Politics
+  - Economics of Transition
+  - Ecosystem Health
+  - Ecosystem Health and Sustainability
+  - Ecumenical Review
+  - 'Educational Measurement: Issues and Practice'
+  - Educational Theory
+  - Electrical Engineering in Japan
+  - Electroanalysis
+  - Electronic Journal of Theoretical Chemistry
+  - Electronics and Communications in Japan
+  - 'Electronics and Communications in Japan Part I: Communications'
+  - 'Electronics and Communications in Japan Part II: Electronics'
+  - 'Electronics and Communications in Japan Part III: Fundamental Electronic Science'
+  - Emergency Medicine Australasia
+  - Employment Relations Today
+  - Endodontic Topics
+  - Energy Science and Engineering
+  - Engineering in Life Sciences
+  - English Literary Renaissance
+  - English in Education
+  - Enrollment Management Report
+  - Entomologia Experimentalis et Applicata
+  - Entomological Research
+  - Entomological Science
+  - EntrepreneurLetter Building and Construction Industry
+  - Environmental Microbiology
+  - Environmental Microbiology Reports
+  - Environmental Policy and Governance
+  - Environmental Progress and Sustainable Energy
+  - Environmental Quality Management
+  - Environmental Toxicology
+  - Environmental Toxicology and Chemistry
+  - Environmental and Molecular Mutagenesis
+  - Environmetrics
+  - Eos, Transactions American Geophysical Union
+  - Epilepsia
+  - Epilepsy Currents
+  - Equine Veterinary Education
+  - Equine Veterinary Journal
+  - Ethology
+  - EuroChoices
+  - European Diabetes Nursing
+  - European Eating Disorders Review
+  - European Financial Management
+  - European Journal of Biochemistry
+  - European Journal of Cancer Care
+  - European Journal of Clinical Investigation
+  - European Journal of Dental Education
+  - European Journal of Education
+  - European Journal of Haematology
+  - European Journal of Heart Failure
+  - European Journal of Heart Failure Supplements
+  - European Journal of Immunology
+  - European Journal of Inorganic Chemistry
+  - European Journal of Lipid Science and Technology
+  - European Journal of Neurology
+  - European Journal of Neuroscience
+  - European Journal of Oral Sciences
+  - European Journal of Organic Chemistry
+  - European Journal of Pain
+  - European Journal of Pain Supplements
+  - European Journal of Personality
+  - European Journal of Philosophy
+  - European Journal of Political Research
+  - European Journal of Political Research Political Data Yearbook
+  - European Journal of Social Psychology
+  - European Journal of Soil Science
+  - European Journal of Surgery
+  - European Law Journal
+  - European Management Review
+  - European Transactions on Electrical Power
+  - European Transactions on Telecommunications
+  - 'Evidence-Based Child Health: A Cochrane Review Journal'
+  - Evidence-based Preclinical Medicine
+  - Evolution
+  - Evolution Letters
+  - Evolution and Development
+  - Evolutionary Anthropology
+  - Evolutionary Applications
+  - Experimental Dermatology
+  - Experimental Physiology
+  - Expert Systems
+  - F. Scott Fitzgerald Review
+  - FEBS Journal
+  - FEBS Letters
+  - FEBS Open Bio
+  - Family Court Review
+  - Family Process
+  - Family Relations
+  - Family and Consumer Sciences Research Journal
+  - Fatigue and Fracture of Engineering Materials and Structures
+  - Federal Facilities Environmental Journal
+  - Federal Grants and Contracts
+  - Field Analytical Chemistry and Technology
+  - Financial Accountability and Management
+  - Financial Management
+  - Financial Markets, Institutions and Instruments
+  - Financial Review
+  - Fire and Materials
+  - First Break
+  - Fiscal Studies
+  - Fish and Fisheries
+  - Fisheries Management and Ecology
+  - Fisheries Oceanography
+  - Flavour and Fragrance Journal
+  - Focus on Alternative and Complementary Therapies
+  - Focus on Geography
+  - Food Science and Nutrition
+  - Food Service Technology
+  - Food and Energy Security
+  - Foreign Language Annals
+  - Forest Pathology
+  - Fossils and Strata
+  - Freshwater Biology
+  - Fuel Cells
+  - Functional Ecology
+  - Fundamental and Clinical Pharmacology
+  - Future Prescriber
+  - GCB Bioenergy
+  - Gender and History
+  - Gender, Work and Organization
+  - GeneScreen
+  - Genes and Function
+  - Genes to Cells
+  - Genes, Brain and Behavior
+  - Genes, Chromosomes and Cancer
+  - Genetic Epidemiology
+  - 'Geo: Geography and Environment'
+  - Geoarchaeology
+  - Geobiology
+  - Geographical Analysis
+  - Geographical Journal
+  - Geographical Research
+  - Geographical Review
+  - Geography Compass
+  - Geological Journal
+  - Geology Today
+  - Geomechanics and Tunnelling
+  - Geoscience Data Journal
+  - Geostandards and Geoanalytical Research
+  - Geriatrics and Gerontology International
+  - German Economic Review
+  - German Life and Letters
+  - German Quarterly
+  - Gerodontology
+  - Glia
+  - Global Business and Organizational Excellence
+  - Global Change Biology
+  - Global Ecology and Biogeography
+  - Global Networks
+  - Global Policy
+  - Global Strategy Journal
+  - Governance
+  - Grass and Forage Science
+  - Grassland Science
+  - 'Greenhouse Gases: Science and Technology'
+  - Ground Water Monitoring and Remediation
+  - Groundwater
+  - Growth and Change
+  - Gynaecological Endoscopy
+  - Géographe canadien
+  - HIV Medicine
+  - Haemophilia
+  - Hastings Center Report
+  - Head and Neck
+  - Headache
+  - Headache Currents
+  - Health Economics
+  - Health Expectations
+  - Health Information and Libraries Journal
+  - Health Science Reports
+  - Health Services Research
+  - Health and Social Care in the Community
+  - Heat Transfer - Asian Research
+  - Heat Transfer - Japanese Research
+  - Helicobacter
+  - Helvetica Chimica Acta
+  - Hematological Oncology
+  - Hemodialysis International
+  - Hepatology
+  - Hepatology Communications
+  - Hepatology Research
+  - Heteroatom Chemistry
+  - Heythrop Journal
+  - Higher Education Abstracts
+  - Higher Education Quarterly
+  - Hippocampus
+  - Histopathology
+  - Historian
+  - Historical Research
+  - History
+  - History Compass
+  - History and Theory
+  - History of Education Quarterly
+  - Howard Journal of Criminal Justice
+  - Human Brain Mapping
+  - Human Cell
+  - Human Communication Research
+  - Human Factors and Ergonomics in Manufacturing and Service Industries
+  - Human Mutation
+  - 'Human Psychopharmacology: Clinical and Experimental'
+  - Human Resource Development Quarterly
+  - Human Resource Management
+  - Human Resource Management Journal
+  - Hydrological Processes
+  - Hypatia
+  - IDS Bulletin
+  - IDS Practice Papers
+  - IDS Research Reports
+  - IDS Working Papers
+  - IEEJ Transactions on Electrical and Electronic Engineering
+  - ISBT Science Series
+  - ISI Review
+  - IUBMB Life
+  - Ibis
+  - Imaging Decisions MRI
+  - Immunity, Inflammation and Disease
+  - Immunological Reviews
+  - Immunology
+  - Impact
+  - 'In Session: Psychotherapy in Practice'
+  - Indoor Air
+  - Industrial Relations
+  - Industrial Relations Journal
+  - Infancy
+  - Infant Mental Health Journal
+  - Infant and Child Development
+  - Influenza and Other Respiratory Viruses
+  - Information Systems Journal
+  - Inorganic Reactions and Methods
+  - Insect Conservation and Diversity
+  - Insect Molecular Biology
+  - Insect Science
+  - Inside the Cell
+  - Integrated Environmental Assessment and Management
+  - Integrative Biology
+  - Integrative Zoology
+  - Intelligent Systems in Accounting, Finance and Management
+  - Internal Medicine Journal
+  - International Dental Journal
+  - International Economic Review
+  - International Endodontic Journal
+  - International Finance
+  - International Forum of Allergy and Rhinology
+  - International Insolvency Review
+  - International Journal for Numerical Methods in Biomedical Engineering
+  - International Journal for Numerical Methods in Engineering
+  - International Journal for Numerical Methods in Fluids
+  - International Journal for Numerical and Analytical Methods in Geomechanics
+  - International Journal of Adaptive Control and Signal Processing
+  - International Journal of Andrology
+  - International Journal of Applied Ceramic Technology
+  - International Journal of Applied Glass Science
+  - International Journal of Applied Linguistics
+  - International Journal of Applied Psychoanalytic Studies
+  - International Journal of Art and Design Education
+  - International Journal of Auditing
+  - International Journal of Cancer
+  - International Journal of Cancer Supplement
+  - International Journal of Chemical Kinetics
+  - International Journal of Circuit Theory and Applications
+  - International Journal of Climatology
+  - International Journal of Clinical Practice
+  - International Journal of Communication Systems
+  - International Journal of Consumer Studies
+  - International Journal of Cosmetic Science
+  - International Journal of Dairy Technology
+  - International Journal of Dental Hygiene
+  - International Journal of Dermatology
+  - International Journal of Eating Disorders
+  - International Journal of Economic Theory
+  - International Journal of Energy Research
+  - International Journal of Experimental Pathology
+  - International Journal of Finance and Economics
+  - International Journal of Food Science and Technology
+  - International Journal of Geriatric Psychiatry
+  - International Journal of Gynecology and Obstetrics
+  - International Journal of Health Planning and Management
+  - International Journal of Human Factors in Manufacturing
+  - International Journal of Imaging Systems and Technology
+  - International Journal of Immunogenetics
+  - International Journal of Intelligent Systems
+  - International Journal of Intensive Short-Term Dynamic Psychotherapy
+  - International Journal of Japanese Sociology
+  - International Journal of Laboratory Hematology
+  - International Journal of Language and Communication Disorders
+  - International Journal of Management Reviews
+  - International Journal of Medical Robotics and Computer Assisted Surgery
+  - International Journal of Mental Health Nursing
+  - International Journal of Methods in Psychiatric Research
+  - International Journal of Nautical Archaeology
+  - International Journal of Network Management
+  - International Journal of Nonprofit and Voluntary Sector Marketing
+  - 'International Journal of Numerical Modelling: Electronic Networks, Devices and
+    Fields'
+  - International Journal of Nursing Knowledge
+  - International Journal of Nursing Practice
+  - International Journal of Nursing Terminologies and Classifications
+  - International Journal of Older People Nursing
+  - International Journal of Osteoarchaeology
+  - International Journal of Paediatric Dentistry
+  - International Journal of Pharmacy Practice
+  - International Journal of Population Geography
+  - International Journal of Psychoanalysis
+  - International Journal of Quantum Chemistry
+  - International Journal of RF and Microwave Computer-Aided Engineering
+  - International Journal of Rheumatic Diseases
+  - International Journal of Robust and Nonlinear Control
+  - International Journal of Satellite Communications
+  - International Journal of Satellite Communications and Networking
+  - International Journal of Selection and Assessment
+  - International Journal of Short-Term Psychotherapy
+  - International Journal of Social Welfare
+  - International Journal of Systematic Theology
+  - International Journal of Tourism Research
+  - International Journal of Training and Development
+  - International Journal of Urban and Regional Research
+  - International Journal of Urological Nursing
+  - International Journal of Urology
+  - International Labour Review
+  - International Migration
+  - International Migration Review
+  - International Nursing Review
+  - International Review of Finance
+  - International Review of Mission
+  - International Social Science Journal
+  - International Social Security Review
+  - International Statistical Review
+  - International Transactions in Operational Research
+  - International Transactions on Electrical Energy Systems
+  - International Wound Journal
+  - International Zoo Yearbook
+  - Internationale Revue für Soziale Sicherheit
+  - Invertebrate Biology
+  - Irrigation and Drainage
+  - Island Arc
+  - JBI Reports
+  - JDDG
+  - Japan Journal of Nursing Science
+  - Japanese Economic Review
+  - Japanese Psychological Research
+  - Jornal Internacional do Conhecimento em Enfermagem
+  - Journal for Eighteenth-Century Studies
+  - Journal for Specialists in Pediatric Nursing
+  - Journal for the Scientific Study of Religion
+  - Journal for the Theory of Social Behaviour
+  - Journal of Accounting Research
+  - Journal of Addictions and Offender Counseling
+  - Journal of Adolescent and Adult Literacy
+  - Journal of Advanced Nursing
+  - Journal of Aesthetics and Art Criticism
+  - Journal of Agrarian Change
+  - Journal of Agricultural Economics
+  - Journal of Agronomy and Crop Science
+  - Journal of American Culture
+  - Journal of Analytical Psychology
+  - Journal of Anatomy
+  - Journal of Andrology
+  - Journal of Animal Breeding and Genetics
+  - Journal of Animal Ecology
+  - Journal of Animal Physiology and Animal Nutrition
+  - Journal of Applied Biobehavioral Research
+  - Journal of Applied Biomaterials
+  - Journal of Applied Corporate Finance
+  - Journal of Applied Ecology
+  - Journal of Applied Econometrics
+  - Journal of Applied Entomology
+  - Journal of Applied Ichthyology
+  - Journal of Applied Microbiology
+  - Journal of Applied Philosophy
+  - Journal of Applied Polymer Science
+  - Journal of Applied Research in Intellectual Disabilities
+  - Journal of Applied Social Psychology
+  - Journal of Applied Toxicology
+  - Journal of Avian Biology
+  - Journal of Behavioral Decision Making
+  - Journal of Biochemical and Molecular Toxicology
+  - Journal of Biogeography
+  - Journal of Biomedical Materials Research Part A
+  - 'Journal of Biomedical Materials Research Part B: Applied Biomaterials'
+  - Journal of Business Finance and Accounting
+  - Journal of Business Logistics
+  - Journal of Cachexia, Sarcopenia and Muscle
+  - Journal of Cardiac Surgery
+  - Journal of Cardiovascular Electrophysiology
+  - Journal of Cellular Biochemistry
+  - Journal of Cellular Physiology
+  - Journal of Cellular and Molecular Medicine
+  - Journal of Chemical Technology and Biotechnology
+  - Journal of Chemometrics
+  - Journal of Child Psychology and Psychiatry
+  - Journal of Child and Adolescent Psychiatric Nursing
+  - Journal of Chinese Philosophy
+  - Journal of Clinical Apheresis
+  - Journal of Clinical Hypertension
+  - Journal of Clinical Laboratory Analysis
+  - Journal of Clinical Nursing
+  - Journal of Clinical Periodontology
+  - Journal of Clinical Pharmacology
+  - Journal of Clinical Pharmacy and Therapeutics
+  - Journal of Clinical Psychology
+  - Journal of Clinical Ultrasound
+  - Journal of College Counseling
+  - Journal of Combinatorial Designs
+  - Journal of Common Market Studies
+  - Journal of Communication
+  - Journal of Community Psychology
+  - Journal of Community and Applied Social Psychology
+  - Journal of Comparative Neurology
+  - Journal of Computational Chemistry
+  - Journal of Computer Assisted Learning
+  - Journal of Consumer Affairs
+  - Journal of Consumer Behaviour
+  - Journal of Contemporary Water Research and Education
+  - Journal of Contingencies and Crisis Management
+  - Journal of Corporate Accounting and Finance
+  - Journal of Cosmetic Dermatology
+  - Journal of Counseling and Development
+  - Journal of Creative Behavior
+  - Journal of Cutaneous Pathology
+  - Journal of Dermatology
+  - Journal of Diabetes
+  - Journal of Diabetes Investigation
+  - Journal of Digestive Diseases
+  - Journal of Ecology
+  - Journal of Economic Surveys
+  - Journal of Economics and Management Strategy
+  - Journal of Educational Measurement
+  - Journal of Electron Microscopy Technique
+  - Journal of Electrophysiology
+  - Journal of Empirical Legal Studies
+  - Journal of Employment Counseling
+  - Journal of Engineering Education
+  - Journal of Environmental Medicine
+  - Journal of Esthetic and Restorative Dentistry
+  - Journal of Eukaryotic Microbiology
+  - Journal of Evaluation in Clinical Practice
+  - Journal of Evidence-Based Medicine
+  - Journal of Evolutionary Biology
+  - Journal of Experimental Zoology
+  - 'Journal of Experimental Zoology Part A: Comparative Experimental Biology'
+  - 'Journal of Experimental Zoology Part A: Ecological Genetics and Physiology'
+  - 'Journal of Experimental Zoology Part B: Molecular and Developmental Evolution'
+  - Journal of Family Theory and Review
+  - Journal of Family Therapy
+  - Journal of Field Ornithology
+  - Journal of Field Robotics
+  - Journal of Finance
+  - Journal of Financial Research
+  - Journal of Fish Biology
+  - Journal of Fish Diseases
+  - Journal of Flood Risk Management
+  - Journal of Food Biochemistry
+  - Journal of Food Lipids
+  - Journal of Food Process Engineering
+  - Journal of Food Processing and Preservation
+  - Journal of Food Safety
+  - Journal of Food Science
+  - Journal of Food Science Education
+  - Journal of Foodservice
+  - Journal of Forecasting
+  - Journal of Forensic Sciences
+  - Journal of Futures Markets
+  - Journal of Gastroenterology and Hepatology
+  - Journal of Gene Medicine
+  - Journal of Graph Theory
+  - Journal of Healthcare Risk Management
+  - Journal of Heterocyclic Chemistry
+  - Journal of Historical Sociology
+  - Journal of Hospital Medicine
+  - Journal of Human Nutrition and Dietetics
+  - Journal of Humanistic Counseling
+  - Journal of Image Guided Surgery
+  - Journal of Industrial Ecology
+  - Journal of Industrial Economics
+  - Journal of Inorganic and General Chemistry
+  - Journal of Integrative Plant Biology
+  - Journal of Intellectual Disability Research
+  - Journal of Interamerican Studies and World Affairs
+  - Journal of Interdisciplinary Nanomedicine
+  - Journal of Interior Design
+  - Journal of Internal Medicine
+  - Journal of International Development
+  - Journal of International Financial Management and Accounting
+  - Journal of Interventional Cardiology
+  - Journal of Investigative Psychology and Offender Profiling
+  - Journal of Investigative and Clinical Dentistry
+  - Journal of Labelled Compounds and Radiopharmaceuticals
+  - Journal of Law and Society
+  - Journal of Leadership Studies
+  - Journal of Legal Studies Education
+  - Journal of Magnetic Resonance Imaging
+  - Journal of Management Studies
+  - Journal of Marital and Family Therapy
+  - Journal of Marriage and Family
+  - Journal of Mass Spectrometry
+  - Journal of Maternal-Fetal Medicine
+  - Journal of Medical Imaging and Radiation Oncology
+  - Journal of Medical Primatology
+  - Journal of Medical Radiation Sciences
+  - Journal of Medical Virology
+  - Journal of Metamorphic Geology
+  - Journal of Microcolumn Separations
+  - Journal of Microscopy
+  - Journal of Midwifery and Women's Health
+  - Journal of Molecular Recognition
+  - Journal of Money, Credit and Banking
+  - Journal of Morphology
+  - Journal of Multi-Criteria Decision Analysis
+  - Journal of Multicultural Counseling and Development
+  - Journal of Muscle Foods
+  - Journal of Neurobiology
+  - Journal of Neurochemistry
+  - Journal of Neuroendocrinology
+  - Journal of Neuroimaging
+  - Journal of Neuropsychology
+  - Journal of Neuroscience Research
+  - Journal of Nursing Management
+  - Journal of Nursing Scholarship
+  - Journal of Nursing and Healthcare of Chronic Illness
+  - Journal of Obstetrics and Gynaecology Research
+  - Journal of Occupational and Organizational Psychology
+  - Journal of Oral Pathology and Medicine
+  - Journal of Oral Rehabilitation
+  - Journal of Organizational Behavior
+  - Journal of Orthopaedic Research
+  - Journal of Paediatrics and Child Health
+  - Journal of Pathology
+  - 'Journal of Pathology: Clinical Research'
+  - Journal of Peptide Science
+  - Journal of Periodontal Research
+  - Journal of Personality
+  - Journal of Petroleum Geology
+  - Journal of Pharmaceutical Health Services Research
+  - Journal of Pharmacy and Pharmacology
+  - Journal of Philosophy of Education
+  - Journal of Phycology
+  - Journal of Physical Organic Chemistry
+  - Journal of Physiology
+  - Journal of Phytopathology
+  - Journal of Pineal Research
+  - Journal of Policy Analysis and Management
+  - Journal of Policy and Practice in Intellectual Disabilities
+  - Journal of Political Philosophy
+  - 'Journal of Polymer Science Part A: Polymer Chemistry'
+  - 'Journal of Polymer Science Part B: Polymer Physics'
+  - 'Journal of Polymer Science Part C: Polymer Letters'
+  - 'Journal of Polymer Science: Macromolecular Reviews'
+  - 'Journal of Polymer Science: Polymer Symposia'
+  - Journal of Popular Culture
+  - Journal of Popular Music Studies
+  - Journal of Product Innovation Management
+  - Journal of Prosthodontics
+  - Journal of Psychiatric and Mental Health Nursing
+  - Journal of Psychological Issues in Organizational Culture
+  - Journal of Public Affairs
+  - Journal of Public Economic Theory
+  - Journal of Public Health Dentistry
+  - Journal of Quality in Clinical Practice
+  - Journal of Quaternary Science
+  - Journal of Raman Spectroscopy
+  - Journal of Rapid Methods and Automation in Microbiology
+  - Journal of Regional Science
+  - Journal of Religious Ethics
+  - Journal of Religious History
+  - Journal of Renal Care
+  - Journal of Research in Reading
+  - Journal of Research in Science Teaching
+  - Journal of Research in Special Educational Needs
+  - Journal of Research on Adolescence
+  - Journal of Risk and Insurance
+  - Journal of Rural Health
+  - Journal of School Health
+  - Journal of Sensory Studies
+  - Journal of Separation Science
+  - Journal of Sexual Medicine
+  - Journal of Sleep Research
+  - Journal of Small Animal Practice
+  - Journal of Small Business Management
+  - Journal of Social Issues
+  - Journal of Social Philosophy
+  - Journal of Sociolinguistics
+  - 'Journal of Software: Evolution and Process'
+  - Journal of Supply Chain Management
+  - Journal of Supreme Court History
+  - Journal of Surfactants and Detergents
+  - Journal of Surgical Oncology
+  - Journal of Systematics and Evolution
+  - Journal of Texture Studies
+  - Journal of The Historical Society
+  - Journal of Theoretical Social Psychology
+  - Journal of Thrombosis and Haemostasis
+  - Journal of Time Series Analysis
+  - Journal of Tissue Engineering and Regenerative Medicine
+  - Journal of Trace Elements in Experimental Medicine
+  - Journal of Traumatic Stress
+  - Journal of Ultrasound in Medicine
+  - Journal of Vector Ecology
+  - Journal of Vegetation Science
+  - Journal of Veterinary Emergency and Critical Care
+  - Journal of Veterinary Internal Medicine
+  - Journal of Veterinary Pharmacology and Therapeutics
+  - Journal of Vinyl and Additive Technology
+  - Journal of Viral Hepatitis
+  - Journal of Wildlife Management
+  - Journal of World Intellectual Property
+  - Journal of Zoological Systematics and Evolutionary Research
+  - Journal of Zoology
+  - Journal of the American Academy of Nurse Practioners
+  - Journal of the American Association of Nurse Practitioners
+  - Journal of the American Ceramic Society
+  - Journal of the American Geriatrics Society
+  - Journal of the American Heart Association
+  - Journal of the American Heart Association Cardiovascular and Cerebrovascular Disease
+  - Journal of the American Oil Chemists' Society
+  - Journal of the American Water Resources Association
+  - Journal of the British Association of Psychotherapists
+  - Journal of the CardioMetabolic Syndrome
+  - Journal of the European Academy of Dermatology and Venereology
+  - Journal of the Experimental Analysis of Behavior
+  - Journal of the History of the Behavioral Sciences
+  - Journal of the Institute of Brewing
+  - Journal of the International AIDS Society
+  - Journal of the London Mathematical Society
+  - Journal of the Peripheral Nervous System
+  - Journal of the Royal Anthropological Institute
+  - 'Journal of the Royal Statistical Society: Series A'
+  - 'Journal of the Royal Statistical Society: Series A (Statistics in Society)'
+  - 'Journal of the Royal Statistical Society: Series B'
+  - 'Journal of the Royal Statistical Society: Series B (Statistical Methodology)'
+  - 'Journal of the Royal Statistical Society: Series C'
+  - 'Journal of the Royal Statistical Society: Series C (Applied Statistics)'
+  - 'Journal of the Royal Statistical Society: Series D'
+  - Journal of the Science of Food and Agriculture
+  - Journal of the Society for Information Display
+  - Journal of the World Aquaculture Society
+  - Juncture
+  - Juvenile and Family Court Journal
+  - Knowledge and Process Management
+  - Kyklos
+  - LABOUR
+  - Laboratory Robotics and Automation
+  - 'Lakes and Reservoirs: Research & Management'
+  - Land Degradation and Development
+  - Language Learning
+  - Language and Linguistics Compass
+  - Laryngoscope
+  - Laryngoscope Investigative Otolaryngology
+  - Lasers in Surgery and Medicine
+  - Latin American Policy
+  - Latin American Politics and Society
+  - Latin Americanist
+  - Law and Policy
+  - Law and Social Inquiry
+  - Law and Society Review
+  - Leader to Leader
+  - Leadership in Action
+  - Learned Publishing
+  - Learning Disabilities Research and Practice
+  - Learning Health Systems
+  - Learning in Health and Social Care
+  - Legal and Criminological Psychology
+  - Legislative Studies Quarterly
+  - Lethaia
+  - Letters in Applied Microbiology
+  - Limnology and Oceanography
+  - Limnology and Oceanography Bulletin
+  - Limnology and Oceanography Letters
+  - 'Limnology and Oceanography: Fluids and Environments'
+  - 'Limnology and Oceanography: Methods'
+  - Lipids
+  - Literacy
+  - Literature Compass
+  - Liver International
+  - Liver Transplantation
+  - Liver Transplantation and Surgery
+  - Lower Urinary Tract Symptoms
+  - Lubrication Science
+  - Luminescence
+  - Macromolecular Bioscience
+  - Macromolecular Chemistry and Physics
+  - Magnetic Resonance in Chemistry
+  - Magnetic Resonance in Medicine
+  - Major Gifts Report
+  - Makromolekulare Chemie. Macromolecular Symposia
+  - Makromolekulare Chemie. Supplementband
+  - Mammal Review
+  - Management Report for Nonunion Organizations
+  - Managerial and Decision Economics
+  - Manchester School
+  - Marine Ecology
+  - Marine Mammal Science
+  - Mark Twain Annual
+  - Mass Spectrometry Reviews
+  - Materials and Corrosion
+  - Maternal and Child Nutrition
+  - Mathematical Finance
+  - Mathematical Methods in the Applied Sciences
+  - Mechanics of Cohesive-frictional Materials
+  - Medical Education
+  - Medical Physics
+  - Medical and Veterinary Entomology
+  - Medicinal Research Reviews
+  - Membership Management Report
+  - Mental Health Weekly
+  - Mergent's Dividend Achievers
+  - Mergent's Handbook of Common Stocks
+  - Mergent's Handbook of NASDAQ Stocks
+  - Metaphilosophy
+  - Meteoritics and Planetary Science
+  - Meteorological Applications
+  - Methods in Ecology and Evolution
+  - Metroeconomica
+  - Microbial Biotechnology
+  - Microbiology Open
+  - Microbiology and Immunology
+  - MicrobiologyOpen
+  - Microcirculation
+  - Microscopy Research and Technique
+  - Microscopy and Analysis (Americas)
+  - Microscopy and Analysis (Asia/Pacific)
+  - Microscopy and Analysis (EMEA issue)
+  - Microscopy and Analysis (Europe)
+  - Microscopy and Analysis (UK)
+  - Microsurgery
+  - Microwave and Optical Technology Letters
+  - Middle East Policy
+  - Midwest Studies in Philosophy
+  - Milbank Quarterly
+  - Milton Quarterly
+  - Mind and Language
+  - Mind, Brain, and Education
+  - Mining Report
+  - Modern Language Journal
+  - Modern Law Review
+  - Modern Theology
+  - Molecular Carcinogenesis
+  - Molecular Ecology
+  - Molecular Ecology Resources
+  - Molecular Genetics and Genomic Medicine
+  - Molecular Microbiology
+  - Molecular Nutrition and Food Research
+  - Molecular Oncology
+  - Molecular Oral Microbiology
+  - Molecular Plant Pathology
+  - Molecular Reproduction and Development
+  - Molecular Systems Biology
+  - Monographs of the Society for Research in Child Development
+  - Mount Sinai Journal of Medicine
+  - Movement Disorders
+  - Movement Disorders Clinical Practice
+  - Muscle and Nerve
+  - Musculoskeletal Care
+  - Museum International
+  - Museum International (Edition Francaise)
+  - Music Analysis
+  - Muslim World
+  - Mycoses
+  - NMR in Biomedicine
+  - National Civic Review
+  - National Teaching and Learning Forum
+  - Nations and Nationalism
+  - Natural Gas and Electricity
+  - Natural Resource Modeling
+  - Natural Resources Forum
+  - Natural Toxins
+  - Naval Engineers Journal
+  - Naval Research Logistics
+  - Navigation
+  - Negotiation Journal
+  - Negotiation and Conflict Management Research
+  - Nephrology
+  - Networks
+  - Neurogastroenterology and Motility
+  - Neurology and Clinical Neuroscience
+  - Neuromodulation
+  - Neuropathology
+  - Neuropathology and Applied Neurobiology
+  - Neuroscience Research Communications
+  - Neurourology and Urodynamics
+  - New Blackfriars
+  - New Directions for Adult and Continuing Education
+  - New Directions for Child and Adolescent Development
+  - New Directions for Community Colleges
+  - New Directions for Evaluation
+  - New Directions for Higher Education
+  - New Directions for Institutional Research
+  - New Directions for Philanthropic Fundraising
+  - New Directions for Student Services
+  - New Directions for Teaching and Learning
+  - New Directions for Youth Development
+  - New Horizons in Adult Education and Human Resource Development
+  - New Horizons in Adult Education and Human Resource Development - Wiley Online
+    Library
+  - New Microbes and New Infections
+  - New Perspectives Quarterly
+  - New Phytologist
+  - New Technology, Work and Employment
+  - New Zealand Geographer
+  - New Zealand Journal of Geography
+  - Nonprofit Business Advisor
+  - Nonprofit Communications Report
+  - Nonprofit Counsel
+  - Nonprofit Management and Leadership
+  - Nontraditional Students Report
+  - Nordic Journal of Botany
+  - Noûs
+  - Numerical Linear Algebra with Applications
+  - Numerical Methods for Partial Differential Equations
+  - Nursing Forum
+  - Nursing Inquiry
+  - Nursing Open
+  - Nursing Philosophy
+  - Nursing and Health Sciences
+  - Nursing in Critical Care
+  - Nutrition Bulletin
+  - Nutrition and Dietetics
+  - Nutrition in Clinical Care
+  - OPEC Energy Review
+  - Obesity
+  - Obesity Reviews
+  - Obesity Science and Practice
+  - Obstetrician and Gynaecologist
+  - Oceania
+  - Oil and Energy Trends
+  - 'Oil and Energy Trends: Annual Statistical Review'
+  - Ophthalmic and Physiological Optics
+  - Optimal Control Applications and Methods
+  - Oral Diseases
+  - Oral Surgery
+  - Orbis Litterarum
+  - Orthodontics and Craniofacial Research
+  - Orthopaedic Surgery
+  - Oxford Bulletin of Economics and Statistics
+  - Oxford Journal of Archaeology
+  - Oxonomics
+  - 'P2: Pollution Prevention Review'
+  - Pacific Economic Review
+  - Pacific Focus
+  - Pacific Philosophical Quarterly
+  - Pacing and Clinical Electrophysiology
+  - Packaging Technology and Science
+  - Paediatric and Perinatal Epidemiology
+  - Pain Practice
+  - Palaeontology
+  - Parasite Immunology
+  - Parliamentary History
+  - Particle and Particle Systems Characterization
+  - Pathology International
+  - Peace and Change
+  - Pediatric Allergy and Immunology
+  - Pediatric Anesthesia
+  - Pediatric Blood and Cancer
+  - Pediatric Dermatology
+  - Pediatric Diabetes
+  - Pediatric Obesity
+  - Pediatric Pulmonology
+  - Pediatric Transplantation
+  - Pediatrics International
+  - Performance Improvement
+  - Performance Improvement Quarterly
+  - Periodontology 2000
+  - Permafrost and Periglacial Processes
+  - Personal Relationships
+  - Personality and Mental Health
+  - Personnel Psychology
+  - Perspectives in Psychiatric Care
+  - Pest Management Science
+  - Pest Science
+  - Pharmaceutical Statistics
+  - Pharmacoepidemiology and Drug Safety
+  - Pharmacology Research and Perspectives
+  - 'Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy'
+  - Pharmacy and Pharmacology Communications
+  - Pharmazie in unserer Zeit
+  - Philosophical Books
+  - Philosophical Forum
+  - Philosophical Investigations
+  - Philosophical Issues
+  - Philosophical Perspectives
+  - Philosophical Quarterly
+  - Philosophy Compass
+  - Philosophy and Phenomenological Research
+  - Philosophy and Public Affairs
+  - Photochemistry and Photobiology
+  - Photodermatology, Photoimmunology & Photomedicine
+  - Photogrammetric Record
+  - Phycological Research
+  - Physik Journal
+  - Physiologia Plantarum
+  - Physiological Entomology
+  - Physiological Reports
+  - Physiotherapy Research International
+  - Phytochemical Analysis
+  - Phytotherapy Research
+  - Pigment Cell and Melanoma Research
+  - Plant Biology
+  - Plant Biotechnology Journal
+  - Plant Breeding
+  - Plant Journal
+  - Plant Pathology
+  - Plant Species Biology
+  - Plant, Cell and Environment
+  - Policy Studies Journal
+  - Policy and Internet
+  - Political Psychology
+  - Political Quarterly
+  - Political Science Quarterly
+  - Politics and Policy
+  - Polymer Composites
+  - Polymer Engineering and Science
+  - Polymer International
+  - Polymers for Advanced Technologies
+  - Population Council Book Series
+  - Population and Development Review
+  - Population, Space and Place
+  - Poverty and Public Policy
+  - Practical Diabetes
+  - Practical Diabetes International
+  - Practice Development in Health Care
+  - Prenatal Diagnosis
+  - Prescriber
+  - Presidential Studies Quarterly
+  - Preventive Cardiology
+  - Proceedings of the American Society for Information Science and Technology
+  - Proceedings of the Association of American Physicians
+  - Proceedings of the International Society for Magnetic Resonance in Medicine
+  - Proceedings of the Society for Experimental Biology and Medicine
+  - Proceedings of the Zoological Society of London
+  - Process Safety Progress
+  - Production and Operations Management
+  - Progress in Cardiovascular Nursing
+  - Progress in Neurology and Psychiatry
+  - Progress in Photovoltaics
+  - Progress in Structural Engineering and Materials
+  - Progress in Tourism and Hospitality Research
+  - Project Management Journal
+  - Prostate
+  - Prostate Journal
+  - Protein Science
+  - Proteins
+  - Proteomics
+  - PsyCh Journal
+  - Psychiatry and Clinical Neurosciences
+  - Psycho-Oncology
+  - Psychoanalytic Quarterly
+  - Psychogeriatrics
+  - Psychology and Marketing
+  - 'Psychology and Psychotherapy: Theory, Research and Practice'
+  - Psychology in the Schools
+  - PsychologyOpen
+  - Psychophysiology
+  - Psychotherapy and Politics International
+  - Public Administration
+  - Public Administration Review
+  - Public Administration and Development
+  - Public Budgeting and Finance
+  - Public Health Nursing
+  - Public Policy Research
+  - PÜZ - Verzeichnis der Prüf-, Überwachungs- und Zertifizierungsstellen nach den
+    Landesbauordnungen
+  - Quality Assurance Journal
+  - Quality and Reliability Engineering International
+  - Quarterly Journal of the Royal Meteorological Society
+  - R&D Management
+  - RAND Journal of Economics
+  - Radiation Oncology Investigations
+  - Random Structures and Algorithms
+  - Rapid Communications in Mass Spectrometry
+  - Ratio
+  - Ratio Juris
+  - Real Estate Economics
+  - Recruiting and Retaining Adult Learners
+  - Recueil des Travaux Chimiques des Pays-Bas
+  - Regeneration
+  - Regional Science Policy and Practice
+  - Regulation and Governance
+  - Religion Compass
+  - Religious Studies Review
+  - Remediation Journal
+  - Remote Sensing in Ecology and Conservation
+  - Renaissance Studies
+  - Reproduction in Domestic Animals
+  - Research Synthesis Methods
+  - Research World
+  - Research in Nursing and Health
+  - Resource Geology
+  - Respirology
+  - Respirology Case Reports
+  - Restoration Ecology
+  - Review of Agricultural Economics
+  - Review of Development Economics
+  - Review of Education
+  - Review of European Community and International Environmental Law
+  - Review of European, Comparative & International Environmental Law
+  - Review of Income and Wealth
+  - Review of International Economics
+  - Review of Policy Research
+  - Review of Urban and Regional Development Studies
+  - Reviews in Aquaculture
+  - Reviews in Clinical and Experimental Hematology
+  - Reviews in Medical Virology
+  - Reviews in Religion and Theology
+  - Revista Internacional de Seguridad Social
+  - Revista Internacional del Conocimiento de Enfermería
+  - Revista Internacional del Trabajo
+  - Revue Canadienne d'Économique
+  - Revue Canadienne des Sciences de l'Administration
+  - Revue Internationale de Sécurité Sociale
+  - Revue canadienne d'agroeconomie
+  - Revue canadienne de sociologie
+  - Revue internationale du Travail
+  - Risk Analysis
+  - Risk Management and Insurance Review
+  - Risk, Hazards and Crisis in Public Policy
+  - River Research and Applications
+  - Rural Sociology
+  - Russian Economic Trends
+  - Russian Review
+  - SID Symposium Digest of Technical Papers
+  - SKINmed
+  - Scandinavian Journal of Caring Sciences
+  - Scandinavian Journal of Economics
+  - Scandinavian Journal of Immunology
+  - Scandinavian Journal of Medicine and Science in Sports
+  - Scandinavian Journal of Metallurgy
+  - Scandinavian Journal of Psychology
+  - Scandinavian Journal of Statistics
+  - Scandinavian Political Studies
+  - School Science and Mathematics
+  - Science Education
+  - Science News
+  - Sciences
+  - Scottish Journal of Political Economy
+  - Sedimentology
+  - Seminars in Dialysis
+  - Seminars in Surgical Oncology
+  - Sexual Medicine Reviews
+  - Shoulder and Elbow
+  - Singapore Journal of Tropical Geography
+  - Skin Research and Technology
+  - Sleep and Biological Rhythms
+  - Small
+  - Social Anthropology
+  - Social Development
+  - Social Issues and Policy Review
+  - Social Policy and Administration
+  - Social Science Quarterly
+  - Social and Personality Psychology Compass
+  - Sociologia Ruralis
+  - Sociological Forum
+  - Sociological Inquiry
+  - Sociological Quarterly
+  - Sociology Compass
+  - Sociology of Health and Illness
+  - Software Focus
+  - 'Software Process: Improvement and Practice'
+  - Software Testing, Verification and Reliability
+  - 'Software: Practice and Experience'
+  - Soil Use and Management
+  - Sonography
+  - South African Journal of Economics
+  - Southeastern Political Review
+  - Southern Economic Journal
+  - Southern Journal of Philosophy
+  - Special Care in Dentistry
+  - Special Events Galore
+  - Spectroscopy Europe
+  - Spirituality and Health International
+  - Stahlbau
+  - Stat
+  - Statistica Neerlandica
+  - Statistical Analysis and Data Mining
+  - Statistics in Medicine
+  - Steel Construction
+  - Steel Structures
+  - Steinbeck Review
+  - Stem Cells Translational Medicine
+  - Strain
+  - Strategic Change
+  - Strategic Enrollment Management Quarterly
+  - Strategic Entrepreneurship Journal
+  - Strategic Management Journal
+  - Stress and Health
+  - Structural Control and Health Monitoring
+  - Structural Design of Tall and Special Buildings
+  - Structural Engineering
+  - Student Affairs Today
+  - Student Aid News
+  - Studia Linguistica
+  - Studies in Applied Mathematics
+  - Studies in Ethnicity and Nationalism
+  - Studies in Family Planning
+  - Successful Fundraising
+  - Successful Registrar
+  - Suicide and Life-Threatening Behavior
+  - Support for Learning
+  - Surface and Interface Analysis
+  - Surgical Practice
+  - Sustainable Development
+  - Swiss Political Science Review
+  - Symbolic Interaction
+  - Synapse
+  - Syntax
+  - System Dynamics Review
+  - Systematic Entomology
+  - Systems Engineering
+  - Systems Research and Behavioral Science
+  - Systems and Computers in Japan
+  - Teaching German
+  - Teaching Statistics
+  - Teaching Theology and Religion
+  - Tellus
+  - Teratogenesis, Carcinogenesis, and Mutagenesis
+  - Terra Nova
+  - Theory and Practice of Object Systems
+  - Therapeutic Apheresis and Dialysis
+  - Thoracic Cancer
+  - 'Thought: A Journal of Philosophy'
+  - Thunderbird International Business Review
+  - Tijdschrift voor economische en sociale geografie
+  - Tissue Antigens
+  - Topics in Cognitive Science
+  - Traffic
+  - Transactions in GIS
+  - Transactions of the Institute of British Geographers
+  - Transactions of the New York Academy of Sciences
+  - Transactions of the Philological Society
+  - Transactions on Emerging Telecommunications Technologies
+  - Transboundary and Emerging Diseases
+  - Transfusion
+  - Transfusion Alternatives in Transfusion Medicine
+  - Transfusion Medicine
+  - Transplant Infectious Disease
+  - Transplant International
+  - Trends in Urology and Men's Health
+  - Trends in Urology, Gynaecology and Sexual Health
+  - Tropical Medicine and International Health
+  - Tropical Science
+  - Ultrasound in Obstetrics and Gynaecology
+  - Ultrasound in Obstetrics and Gynecology
+  - UnternehmerBrief Bauwirtschaft
+  - Unterrichtspraxis
+  - Veterinary Anaesthesia and Analgesia
+  - Veterinary Clinical Pathology
+  - Veterinary Dermatology
+  - Veterinary Medicine and Science
+  - Veterinary Nursing Journal
+  - Veterinary Ophthalmology
+  - Veterinary Radiology and Ultrasound
+  - Veterinary Surgery
+  - Veterinary and Comparative Oncology
+  - Volunteer Management Report
+  - Vox Sanguinis
+  - Water Law
+  - Water and Environment Journal
+  - Weather
+  - Weed Biology and Management
+  - Weed Research
+  - Werkstoffe und Korrosion
+  - Wildlife Monographs
+  - Wildlife Society Bulletin
+  - 'Wiley Interdisciplinary Reviews: Climate Change'
+  - 'Wiley Interdisciplinary Reviews: Cognitive Science'
+  - 'Wiley Interdisciplinary Reviews: Computational Molecular Science'
+  - 'Wiley Interdisciplinary Reviews: Computational Statistics'
+  - 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery'
+  - 'Wiley Interdisciplinary Reviews: Developmental Biology'
+  - 'Wiley Interdisciplinary Reviews: Energy and Environment'
+  - 'Wiley Interdisciplinary Reviews: Membrane Transport and Signaling'
+  - 'Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology'
+  - 'Wiley Interdisciplinary Reviews: RNA'
+  - 'Wiley Interdisciplinary Reviews: Systems Biology and Medicine'
+  - 'Wiley Interdisciplinary Reviews: Water'
+  - Wilmott
+  - Wilmott Journal
+  - Wind Energy
+  - Women in Higher Education
+  - WorkingUSA
+  - World Banking Abstracts
+  - World Economy
+  - World Englishes
+  - World Medical and Health Policy
+  - World Oil Trade
+  - World Psychiatry
+  - World Stroke Academy
+  - World of Work Report
+  - Worldviews on Evidence-Based Nursing
+  - Wound Repair and Regeneration
+  - X-Ray Spectrometry
+  - Xenotransplantation
+  - Yale Review
+  - Yearbook of the National Society for the Study of Education
+  - Yeast
+  - ZAMM
+  - Zeitschrift für Chemie
+  - Zeitschrift für Tierpsychologie
+  - Zentralblatt für Veterinärmedizin
+  - Zentralblatt für Veterinärmedizin Reihe A
+  - Zentralblatt für Veterinärmedizin Reihe B
+  - Zoo Biology
+  - Zoologica Scripta
+  - Zoonoses and Public Health
+  - Zygon
+  - genesis
+  - physica status solidi (RRL) - Rapid Research Letters
+  - physica status solidi (a)
+  - physica status solidi (b)
+  - physica status solidi (c)
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies:
-- romeo_1032
-- romeo_1390
-- romeo_1445
-- romeo_1499
-- romeo_1553
-- romeo_1760
-- romeo_1761
-- romeo_2003
-- romeo_2050
-- romeo_2052
-- romeo_2053
-- romeo_2081
-- romeo_2172
-- romeo_2180
-- romeo_2197
-- romeo_2198
-- romeo_2199
-- romeo_23
-- romeo_2706
-- romeo_2963
-- romeo_3094
-- romeo_45
-flag-romeopub:
+  - romeo_1032
+  - romeo_1390
+  - romeo_1445
+  - romeo_1499
+  - romeo_1553
+  - romeo_1760
+  - romeo_1761
+  - romeo_2003
+  - romeo_2050
+  - romeo_2052
+  - romeo_2053
+  - romeo_2081
+  - romeo_2172
+  - romeo_2180
+  - romeo_2197
+  - romeo_2198
+  - romeo_2199
+  - romeo_23
+  - romeo_2706
+  - romeo_2963
+  - romeo_3094
+  - romeo_45
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

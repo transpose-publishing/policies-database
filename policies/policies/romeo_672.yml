@@ -1,283 +1,356 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_672
+
+# publisher name from SHERAP/RoMEO
 publisher: OMICS International
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- Advancements in Genetic Engineering
-- Advances in Automobile Engineering
-- Advances in Crop Science and Technology
-- Advances in Dairy Research
-- Advances in Genetic Engineering and Biotechnology
-- Advances in Pharmacoepidemiology and Drug Safety
-- Advances in Robotics and Automation
-- Agrotechnology
-- Air and Water Borne Diseases
-- Alternative and Integrative Medicine
-- 'Analgesia and Resuscitation: Current Research'
-- Anaplastology
-- Anatomy and Physiology
-- 'Andrology and Gynecology: Current Research'
-- 'Angiology: Open Access'
-- Anthropology
-- Arts and Social Sciences Journal
-- Autism - Open Access
-- Biochemistry and Analytical Biochemistry
-- Biochemistry and Pharmacology; Open Access
-- 'Biochemistry and Physiology: Open Access'
-- 'Bioenergetics: Open Access'
-- Biosafety
-- Brain Disorders and Therapy
-- Business and Economics Journal
-- 'Cardiovascular Pharmacology: Open Access'
-- 'Cell Biology: Research and Therapy'
-- Cell and Developmental Biology
-- Cellular and Molecular Biology
-- 'Clinical Microbiology: Open Access'
-- Clinical Pharmacology and Biopharmaceutics
-- Clinical Research on Foot and Ankle
-- Clinical and Experimental Pharmacology
-- Cloning and Transgenesis
-- Current Synthetic and Systems Biology
-- Dentistry
-- 'Drug Designing: Open Access'
-- Drug Intoxication and Detoxification
-- 'Emergency Medicine: Open Access'
-- Endocrinology and Metabolic Syndrome
-- 'Entomology, Ornithology and Herpetology: Current Research'
-- Enzyme Engineering
-- 'Epidemiology: Open Access'
-- Expert Opinion on Environmental Biology
-- Fermentation Technology
-- Fisheries and Aquaculture Journal
-- Fungal Genomics and Biology
-- Gene Technology
-- General Medicine
-- Genetic Syndromes and Gene Therapy
-- 'Geoinformatics and Geostatistics: An Overview'
-- Geophysics and Remote Sensing
-- Global Journal of Technology and Optimization
-- Gynecology and Obstetrics
-- Hereditary Genetics
-- Human Genetics and Embryology
-- 'Intellectual Properties Rights: Open Access'
-- International Journal of Cardiovascular Research
-- International Journal of Evolution
-- International Journal of Ophthalmic Pathology
-- JBR Journal of Clinical Diagnosis and Research
-- Journa of Computer Engineering and Information Technology
-- Journal of AIDS and Clinical Research
-- Journal of Accounting and Marketing
-- Journal of Addiction Research and Therapy
-- Journal of Addictive Behaviors, Therapy and Rehabilitation
-- Journal of Aeronautics and Aerospace Engineering
-- Journal of Aging Science
-- Journal of Alcoholism and Drug Dependence
-- Journal of Allergy and Therapy
-- Journal of Alzheimer's Disease and Parkinsonism
-- Journal of Analytical and Bioanalytical Techniques
-- Journal of Anatomy and Physiology
-- Journal of Ancient Diseases and Preventive Remedies
-- Journal of Anesthesia and Clinical Research
-- Journal of Antivirals and Antiretrovirals
-- Journal of Applied Bioinformatics and Computational Biology
-- Journal of Applied Mechanical Engineering
-- Journal of Applied and Computational Mathematics
-- Journal of Aquaculture Research and Development
-- Journal of Architectural Engineering Technology
-- Journal of Arthritis
-- Journal of Astrophysics and Aerospace Technology
-- Journal of Athletic Enhancement
-- Journal of Autacoids
-- Journal of Autacoids and Hormones
-- Journal of Bioanalysis and Biomedicine
-- Journal of Biocatalysis and Biotransformation
-- Journal of Biochemistry and Analytical Biochemistry
-- Journal of Biochips and Tissue Chips
-- Journal of Biodiversity Management and Forestry
-- Journal of Biodiversity and Endangered Species
-- Journal of Bioengineering and Biomedical Science
-- Journal of Bioequivalence and Bioavailability
-- Journal of Biofertilizers and Biopesticides
-- Journal of Biomarkers in Drug Development
-- Journal of Biometrics and Biostatistics
-- Journal of Biomolecular Research and Therapeutics
-- Journal of Bioprocessing and Biotechniques
-- Journal of Bioremediation and Biodegradation
-- Journal of Biosafety
-- Journal of Biosafety and Health Education
-- Journal of Biosensors and Bioelectronics
-- Journal of Biotechnology and Biomaterials
-- Journal of Bioterrorism and Biodefense
-- Journal of Blood Disorders and Transfusion
-- Journal of Blood and Lymph
-- Journal of Bone Marrow Research
-- Journal of Business and Financial Affairs,
-- Journal of Business and Hotel Management
-- Journal of Cancer Science and Therapy
-- Journal of Carcinogenesis and Mutagenesis
-- Journal of Cardiovascular Diseases and Diagnosis
-- Journal of Cell Science and Therapy
-- Journal of Chemical Engineering and Process Technology
-- Journal of Chromatography and Separation Techniques
-- Journal of Civil and Environmental Engineering
-- Journal of Civil and Legal Sciences
-- Journal of Clinical Case Reports
-- Journal of Clinical Research and Bioethics
-- Journal of Clinical Toxicology
-- Journal of Clinical Trials
-- Journal of Clinical and Cellular Immunology
-- Journal of Clinical and Experimental Cardiology
-- Journal of Clinical and Experimental Dermatology
-- Journal of Clinical and Experimental Oncology
-- Journal of Clinical and Experimental Ophthalmology
-- Journal of Clinical and Experimental Pathology
-- Journal of Community Medicine and Health Education
-- Journal of Computer Science and Systems Biology
-- Journal of Cytology and Histology
-- Journal of Data Mining in Genomics and Proteomics
-- Journal of Defense Management
-- Journal of Defense Studies and Resource Management
-- Journal of Depression and Anxiety
-- Journal of Diabetes and Metabolism
-- Journal of Drug Metabolism and Toxicology
-- Journal of Earth Science and Climatic Change
-- Journal of Ecosystem and Ecography
-- Journal of Electrical Engineering and Electronic Technology
-- Journal of Electrical and Electronic Systems
-- Journal of Emergency Medicine
-- Journal of Environmental and Analytical Toxicology
-- Journal of Fashion Technology and Textile Engineering
-- 'Journal of Fertilization: In Vitro - IVF - Worldwide, Reproductive Medicine, Genetics
-  and Stem Cell Biology'
-- Journal of Fisheries and Livestock Production
-- Journal of Food Processing and Technology
-- Journal of Food and Nutritional Disorders
-- Journal of Forensic Research
-- Journal of Forensic Toxicology and Pharmacology
-- Journal of Gastrointestinal and Digestive System
-- Journal of General Practice
-- Journal of Genetic Disorders and Genetic Reports
-- Journal of Genital System and Disorders
-- Journal of Geography and Natural Disasters
-- Journal of Geology and Geosciences
-- Journal of Gerontology and Geriatric Research
-- Journal of Glycobiology
-- Journal of Glycomics and Lipidomics
-- Journal of Health and Medical Informatics
-- Journal of Homeopathy and Ayurvedic Medicine
-- Journal of Hydrogeology and Hydrologic Engineering
-- Journal of Hypertension
-- Journal of Hypo and Hyperglycemia
-- Journal of Infectious Diseases and Immunological Techniques
-- Journal of Integrative Oncology
-- Journal of Internet Banking and Commerce
-- Journal of Leukemia
-- 'Journal of Liver: Disease and Transplantation'
-- Journal of Marine Biology and Oceanography
-- 'Journal of Marine Science: Research and Development'
-- Journal of Medical Microbiology and Diagnosis
-- Journal of Metabonomics and Metabolites
-- Journal of Microbial and Biochemical Technology
-- Journal of Molecular Cloning and Genetic Recombination
-- Journal of Molecular Imaging and Dynamics
-- Journal of Molecular Pharmaceutics and Organic Process Research
-- Journal of Nanomaterials and Molecular Nanotechnology
-- Journal of Nanomedicine and Biotherapeutic Discovery
-- Journal of Nanomedicine and Nanotechnology
-- Journal of Nephrology and Therapeutics
-- Journal of Neurology and Neurophysiology
-- Journal of Nuclear Energy Science and Power Generation Technology
-- Journal of Nuclear Energy and Power Generation Technologies
-- Journal of Nuclear Medicine and Radiation Therapy
-- Journal of Nutrition and Food Sciences
-- Journal of Nutritional Disorders and Therapy
-- 'Journal of Otolaryngology: Open Access'
-- Journal of Otology and Rhinology
-- Journal of Parasitology and Bacteriology
-- Journal of Petroleum and Environmental Biotechnology
-- Journal of Pharmaceutics and Drug Delivery Research
-- Journal of Pharmacogenomics and Pharmacoproteomics
-- Journal of Pharmacovigilance
-- Journal of Phylogenetics and Evolutionary Biology
-- Journal of Physical Chemistry and Biophysics
-- Journal of Physiobiochemical Metabolism
-- Journal of Plant Biochemistry and Physiology
-- Journal of Plant Physiology and Pathology
-- 'Journal of Postgenomics: Drug and Biomarker Development'
-- Journal of Proteomics and Bioinformatics
-- Journal of Psychology and Psychotherapy
-- Journal of Psychotherapy and Psychological Disorders
-- Journal of Pulmonary and Respiratory Medicine
-- Journal of Regenerative Medicine
-- Journal of Sleep Disorders and Therapy
-- 'Journal of Sleep Disorders: Treatment and Care'
-- Journal of Sports Medicine and Doping Studies
-- Journal of Steroids and Hormonal Science
-- Journal of Textile Science and Engineering
-- Journal of Thermodynamics and Catalysis
-- Journal of Tourism Research and Hospitality
-- Journal of Transplantation Technologies and Research
-- Journal of Traumatic Stress Disorders and Treatment
-- Journal of Veterinary Science and Medical Diagnosis
-- Journal of Veterinary Science and Technology
-- Journal of Virology and Antiviral Research
-- Journal of Women's Health, Issues and Care
-- Malaria Chemotherapy, Control and Elimination
-- Malaria Control and Elimination
-- Medicinal Chemistry
-- Membrane Science and Technology
-- Metabolomics
-- Modern Chemistry and Applications
-- Molecular Medicine and Therapeutics
-- Mycobacterial Disease
-- Natural Products Chemistry and Research
-- Oceanography
-- 'Organic Chemistry: Current Research'
-- Orthopedic and Muscular System
-- Outlook on Developing Drugs
-- Pediatrics and Therapeutics
-- Pharmaceutica Analytica Acta
-- 'Pharmaceutical Regulatory Affairs: Open Access'
-- 'Primary Health Care: Open Access'
-- Reproductive System and Sexual Disorders
-- Sociology and Criminology
-- 'Surgery: Current Research'
-- Transcriptomics
-- Translational Medicine
-- 'Virology and Mycology: Infectious Diseases'
-- »Glycomics & Lipidomics
+  - Advancements in Genetic Engineering
+  - Advances in Automobile Engineering
+  - Advances in Crop Science and Technology
+  - Advances in Dairy Research
+  - Advances in Genetic Engineering and Biotechnology
+  - Advances in Pharmacoepidemiology and Drug Safety
+  - Advances in Robotics and Automation
+  - Agrotechnology
+  - Air and Water Borne Diseases
+  - Alternative and Integrative Medicine
+  - 'Analgesia and Resuscitation: Current Research'
+  - Anaplastology
+  - Anatomy and Physiology
+  - 'Andrology and Gynecology: Current Research'
+  - 'Angiology: Open Access'
+  - Anthropology
+  - Arts and Social Sciences Journal
+  - Autism - Open Access
+  - Biochemistry and Analytical Biochemistry
+  - Biochemistry and Pharmacology; Open Access
+  - 'Biochemistry and Physiology: Open Access'
+  - 'Bioenergetics: Open Access'
+  - Biosafety
+  - Brain Disorders and Therapy
+  - Business and Economics Journal
+  - 'Cardiovascular Pharmacology: Open Access'
+  - 'Cell Biology: Research and Therapy'
+  - Cell and Developmental Biology
+  - Cellular and Molecular Biology
+  - 'Clinical Microbiology: Open Access'
+  - Clinical Pharmacology and Biopharmaceutics
+  - Clinical Research on Foot and Ankle
+  - Clinical and Experimental Pharmacology
+  - Cloning and Transgenesis
+  - Current Synthetic and Systems Biology
+  - Dentistry
+  - 'Drug Designing: Open Access'
+  - Drug Intoxication and Detoxification
+  - 'Emergency Medicine: Open Access'
+  - Endocrinology and Metabolic Syndrome
+  - 'Entomology, Ornithology and Herpetology: Current Research'
+  - Enzyme Engineering
+  - 'Epidemiology: Open Access'
+  - Expert Opinion on Environmental Biology
+  - Fermentation Technology
+  - Fisheries and Aquaculture Journal
+  - Fungal Genomics and Biology
+  - Gene Technology
+  - General Medicine
+  - Genetic Syndromes and Gene Therapy
+  - 'Geoinformatics and Geostatistics: An Overview'
+  - Geophysics and Remote Sensing
+  - Global Journal of Technology and Optimization
+  - Gynecology and Obstetrics
+  - Hereditary Genetics
+  - Human Genetics and Embryology
+  - 'Intellectual Properties Rights: Open Access'
+  - International Journal of Cardiovascular Research
+  - International Journal of Evolution
+  - International Journal of Ophthalmic Pathology
+  - JBR Journal of Clinical Diagnosis and Research
+  - Journa of Computer Engineering and Information Technology
+  - Journal of AIDS and Clinical Research
+  - Journal of Accounting and Marketing
+  - Journal of Addiction Research and Therapy
+  - Journal of Addictive Behaviors, Therapy and Rehabilitation
+  - Journal of Aeronautics and Aerospace Engineering
+  - Journal of Aging Science
+  - Journal of Alcoholism and Drug Dependence
+  - Journal of Allergy and Therapy
+  - Journal of Alzheimer's Disease and Parkinsonism
+  - Journal of Analytical and Bioanalytical Techniques
+  - Journal of Anatomy and Physiology
+  - Journal of Ancient Diseases and Preventive Remedies
+  - Journal of Anesthesia and Clinical Research
+  - Journal of Antivirals and Antiretrovirals
+  - Journal of Applied Bioinformatics and Computational Biology
+  - Journal of Applied Mechanical Engineering
+  - Journal of Applied and Computational Mathematics
+  - Journal of Aquaculture Research and Development
+  - Journal of Architectural Engineering Technology
+  - Journal of Arthritis
+  - Journal of Astrophysics and Aerospace Technology
+  - Journal of Athletic Enhancement
+  - Journal of Autacoids
+  - Journal of Autacoids and Hormones
+  - Journal of Bioanalysis and Biomedicine
+  - Journal of Biocatalysis and Biotransformation
+  - Journal of Biochemistry and Analytical Biochemistry
+  - Journal of Biochips and Tissue Chips
+  - Journal of Biodiversity Management and Forestry
+  - Journal of Biodiversity and Endangered Species
+  - Journal of Bioengineering and Biomedical Science
+  - Journal of Bioequivalence and Bioavailability
+  - Journal of Biofertilizers and Biopesticides
+  - Journal of Biomarkers in Drug Development
+  - Journal of Biometrics and Biostatistics
+  - Journal of Biomolecular Research and Therapeutics
+  - Journal of Bioprocessing and Biotechniques
+  - Journal of Bioremediation and Biodegradation
+  - Journal of Biosafety
+  - Journal of Biosafety and Health Education
+  - Journal of Biosensors and Bioelectronics
+  - Journal of Biotechnology and Biomaterials
+  - Journal of Bioterrorism and Biodefense
+  - Journal of Blood Disorders and Transfusion
+  - Journal of Blood and Lymph
+  - Journal of Bone Marrow Research
+  - Journal of Business and Financial Affairs,
+  - Journal of Business and Hotel Management
+  - Journal of Cancer Science and Therapy
+  - Journal of Carcinogenesis and Mutagenesis
+  - Journal of Cardiovascular Diseases and Diagnosis
+  - Journal of Cell Science and Therapy
+  - Journal of Chemical Engineering and Process Technology
+  - Journal of Chromatography and Separation Techniques
+  - Journal of Civil and Environmental Engineering
+  - Journal of Civil and Legal Sciences
+  - Journal of Clinical Case Reports
+  - Journal of Clinical Research and Bioethics
+  - Journal of Clinical Toxicology
+  - Journal of Clinical Trials
+  - Journal of Clinical and Cellular Immunology
+  - Journal of Clinical and Experimental Cardiology
+  - Journal of Clinical and Experimental Dermatology
+  - Journal of Clinical and Experimental Oncology
+  - Journal of Clinical and Experimental Ophthalmology
+  - Journal of Clinical and Experimental Pathology
+  - Journal of Community Medicine and Health Education
+  - Journal of Computer Science and Systems Biology
+  - Journal of Cytology and Histology
+  - Journal of Data Mining in Genomics and Proteomics
+  - Journal of Defense Management
+  - Journal of Defense Studies and Resource Management
+  - Journal of Depression and Anxiety
+  - Journal of Diabetes and Metabolism
+  - Journal of Drug Metabolism and Toxicology
+  - Journal of Earth Science and Climatic Change
+  - Journal of Ecosystem and Ecography
+  - Journal of Electrical Engineering and Electronic Technology
+  - Journal of Electrical and Electronic Systems
+  - Journal of Emergency Medicine
+  - Journal of Environmental and Analytical Toxicology
+  - Journal of Fashion Technology and Textile Engineering
+  - 'Journal of Fertilization: In Vitro - IVF - Worldwide, Reproductive Medicine,
+    Genetics and Stem Cell Biology'
+  - Journal of Fisheries and Livestock Production
+  - Journal of Food Processing and Technology
+  - Journal of Food and Nutritional Disorders
+  - Journal of Forensic Research
+  - Journal of Forensic Toxicology and Pharmacology
+  - Journal of Gastrointestinal and Digestive System
+  - Journal of General Practice
+  - Journal of Genetic Disorders and Genetic Reports
+  - Journal of Genital System and Disorders
+  - Journal of Geography and Natural Disasters
+  - Journal of Geology and Geosciences
+  - Journal of Gerontology and Geriatric Research
+  - Journal of Glycobiology
+  - Journal of Glycomics and Lipidomics
+  - Journal of Health and Medical Informatics
+  - Journal of Homeopathy and Ayurvedic Medicine
+  - Journal of Hydrogeology and Hydrologic Engineering
+  - Journal of Hypertension
+  - Journal of Hypo and Hyperglycemia
+  - Journal of Infectious Diseases and Immunological Techniques
+  - Journal of Integrative Oncology
+  - Journal of Internet Banking and Commerce
+  - Journal of Leukemia
+  - 'Journal of Liver: Disease and Transplantation'
+  - Journal of Marine Biology and Oceanography
+  - 'Journal of Marine Science: Research and Development'
+  - Journal of Medical Microbiology and Diagnosis
+  - Journal of Metabonomics and Metabolites
+  - Journal of Microbial and Biochemical Technology
+  - Journal of Molecular Cloning and Genetic Recombination
+  - Journal of Molecular Imaging and Dynamics
+  - Journal of Molecular Pharmaceutics and Organic Process Research
+  - Journal of Nanomaterials and Molecular Nanotechnology
+  - Journal of Nanomedicine and Biotherapeutic Discovery
+  - Journal of Nanomedicine and Nanotechnology
+  - Journal of Nephrology and Therapeutics
+  - Journal of Neurology and Neurophysiology
+  - Journal of Nuclear Energy Science and Power Generation Technology
+  - Journal of Nuclear Energy and Power Generation Technologies
+  - Journal of Nuclear Medicine and Radiation Therapy
+  - Journal of Nutrition and Food Sciences
+  - Journal of Nutritional Disorders and Therapy
+  - 'Journal of Otolaryngology: Open Access'
+  - Journal of Otology and Rhinology
+  - Journal of Parasitology and Bacteriology
+  - Journal of Petroleum and Environmental Biotechnology
+  - Journal of Pharmaceutics and Drug Delivery Research
+  - Journal of Pharmacogenomics and Pharmacoproteomics
+  - Journal of Pharmacovigilance
+  - Journal of Phylogenetics and Evolutionary Biology
+  - Journal of Physical Chemistry and Biophysics
+  - Journal of Physiobiochemical Metabolism
+  - Journal of Plant Biochemistry and Physiology
+  - Journal of Plant Physiology and Pathology
+  - 'Journal of Postgenomics: Drug and Biomarker Development'
+  - Journal of Proteomics and Bioinformatics
+  - Journal of Psychology and Psychotherapy
+  - Journal of Psychotherapy and Psychological Disorders
+  - Journal of Pulmonary and Respiratory Medicine
+  - Journal of Regenerative Medicine
+  - Journal of Sleep Disorders and Therapy
+  - 'Journal of Sleep Disorders: Treatment and Care'
+  - Journal of Sports Medicine and Doping Studies
+  - Journal of Steroids and Hormonal Science
+  - Journal of Textile Science and Engineering
+  - Journal of Thermodynamics and Catalysis
+  - Journal of Tourism Research and Hospitality
+  - Journal of Transplantation Technologies and Research
+  - Journal of Traumatic Stress Disorders and Treatment
+  - Journal of Veterinary Science and Medical Diagnosis
+  - Journal of Veterinary Science and Technology
+  - Journal of Virology and Antiviral Research
+  - Journal of Women's Health, Issues and Care
+  - Malaria Chemotherapy, Control and Elimination
+  - Malaria Control and Elimination
+  - Medicinal Chemistry
+  - Membrane Science and Technology
+  - Metabolomics
+  - Modern Chemistry and Applications
+  - Molecular Medicine and Therapeutics
+  - Mycobacterial Disease
+  - Natural Products Chemistry and Research
+  - Oceanography
+  - 'Organic Chemistry: Current Research'
+  - Orthopedic and Muscular System
+  - Outlook on Developing Drugs
+  - Pediatrics and Therapeutics
+  - Pharmaceutica Analytica Acta
+  - 'Pharmaceutical Regulatory Affairs: Open Access'
+  - 'Primary Health Care: Open Access'
+  - Reproductive System and Sexual Disorders
+  - Sociology and Criminology
+  - 'Surgery: Current Research'
+  - Transcriptomics
+  - Translational Medicine
+  - 'Virology and Mycology: Infectious Diseases'
+  - »Glycomics & Lipidomics
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies:
-- romeo_2222
-flag-romeopub:
+  - romeo_2222
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

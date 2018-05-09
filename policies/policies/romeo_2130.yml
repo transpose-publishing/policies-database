@@ -1,130 +1,203 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_2130
+
+# publisher name from SHERAP/RoMEO
 publisher: Cambridge University Press (CUP)
+
+# policy heading from SHERAP/RoMEO
 policy-heading: HSS Journals - No Cambridge Open
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- AJS Review
-- Africa Bibliography
-- African Studies Review
-- Americas
-- Annual of the British School at Athens
-- Antiquaries Journal
-- Archaeological Reports
-- Asian Journal of Comparative Law
-- Australasian Journal of Organisational Psychology
-- Australasian Journal of Special Education
-- Australian Journal of Environmental Education
-- Austrian History Yearbook
-- Britannia
-- British Catholic History
-- Business History Review
-- Byzantine and Modern Greek Studies
-- Cambridge Classical Journal
-- Camden Fifth Series
-- Canadian Journal of Law and Jurisprudence
-- Canadian Journal of Linguistics
-- Canadian Journal of Political Science
-- Central European History
-- Children Australia
-- 'Church History: Studies in Christianity and Culture'
-- Classical Quarterly
-- Classical Review
-- Dance Research Journal
-- 'Du Bois Review: Social Science Research on Race'
-- Early China
-- Ecclesiastical Law Journal
-- European Constitutional Law Review
-- Financial History Review
-- Government and Opposition
-- Greece and Rome
-- Harvard Theological Review
-- Hegel Bulletin
-- History in Africa
-- Horizons
-- International Journal of Cultural Property
-- International Labor and Working-Class History
-- International Organization
-- International Review of Social History
-- International Review of the Red Cross
-- International and Comparative Law Quarterly
-- Itinerario
-- Journal of Asian Studies
-- Journal of Economic History
-- Journal of Experimental Political Science
-- Journal of Germanic Linguistics
-- Journal of Hellenic Studies
-- Journal of Law and Religion
-- Journal of Linguistic Geography
-- Journal of Linguistics
-- Journal of Management and Organization
-- Journal of Policy History
-- Journal of Roman Studies
-- Journal of Southeast Asian Studies
-- Journal of Wine Economics
-- Journal of the Gilded Age and Progressive Era
-- Journal of the History of Economic Thought
-- Kantian Review
-- Legal Studies
-- Libyan Studies
-- Management and Organization Review
-- Netherlands Yearbook of International Law
-- Network Science
-- New Surveys in the Classics
-- 'PS: Political Science and Politics'
-- Papers of the British School at Rome
-- Perspectives on Politics
-- Philosophy
-- Political Science Research and Methods
-- Politics and Gender
-- Politics and Religion
-- Ramus
-- Review of Middle East Studies
-- Revista de Historia Económica
-- Revue canadienne de linguistique
-- Revue canadienne de science politique
-- Royal Institute of Philosophy Supplement
-- Royal Institute of Philosophy Supplements
-- Social Philosophy and Policy
-- 'TRaNS: Trans-Regional and -National Studies of Southeast Asia'
-- Theatre Research International
-- Theatre Survey
-- Think
-- Traditio
-- World Politics
-- World Trade Review
-- Yearbook of International Humanitarian Law
+  - AJS Review
+  - Africa Bibliography
+  - African Studies Review
+  - Americas
+  - Annual of the British School at Athens
+  - Antiquaries Journal
+  - Archaeological Reports
+  - Asian Journal of Comparative Law
+  - Australasian Journal of Organisational Psychology
+  - Australasian Journal of Special Education
+  - Australian Journal of Environmental Education
+  - Austrian History Yearbook
+  - Britannia
+  - British Catholic History
+  - Business History Review
+  - Byzantine and Modern Greek Studies
+  - Cambridge Classical Journal
+  - Camden Fifth Series
+  - Canadian Journal of Law and Jurisprudence
+  - Canadian Journal of Linguistics
+  - Canadian Journal of Political Science
+  - Central European History
+  - Children Australia
+  - 'Church History: Studies in Christianity and Culture'
+  - Classical Quarterly
+  - Classical Review
+  - Dance Research Journal
+  - 'Du Bois Review: Social Science Research on Race'
+  - Early China
+  - Ecclesiastical Law Journal
+  - European Constitutional Law Review
+  - Financial History Review
+  - Government and Opposition
+  - Greece and Rome
+  - Harvard Theological Review
+  - Hegel Bulletin
+  - History in Africa
+  - Horizons
+  - International Journal of Cultural Property
+  - International Labor and Working-Class History
+  - International Organization
+  - International Review of Social History
+  - International Review of the Red Cross
+  - International and Comparative Law Quarterly
+  - Itinerario
+  - Journal of Asian Studies
+  - Journal of Economic History
+  - Journal of Experimental Political Science
+  - Journal of Germanic Linguistics
+  - Journal of Hellenic Studies
+  - Journal of Law and Religion
+  - Journal of Linguistic Geography
+  - Journal of Linguistics
+  - Journal of Management and Organization
+  - Journal of Policy History
+  - Journal of Roman Studies
+  - Journal of Southeast Asian Studies
+  - Journal of Wine Economics
+  - Journal of the Gilded Age and Progressive Era
+  - Journal of the History of Economic Thought
+  - Kantian Review
+  - Legal Studies
+  - Libyan Studies
+  - Management and Organization Review
+  - Netherlands Yearbook of International Law
+  - Network Science
+  - New Surveys in the Classics
+  - 'PS: Political Science and Politics'
+  - Papers of the British School at Rome
+  - Perspectives on Politics
+  - Philosophy
+  - Political Science Research and Methods
+  - Politics and Gender
+  - Politics and Religion
+  - Ramus
+  - Review of Middle East Studies
+  - Revista de Historia Económica
+  - Revue canadienne de linguistique
+  - Revue canadienne de science politique
+  - Royal Institute of Philosophy Supplement
+  - Royal Institute of Philosophy Supplements
+  - Social Philosophy and Policy
+  - 'TRaNS: Trans-Regional and -National Studies of Southeast Asia'
+  - Theatre Research International
+  - Theatre Survey
+  - Think
+  - Traditio
+  - World Politics
+  - World Trade Review
+  - Yearbook of International Humanitarian Law
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies:
-- romeo_27
+  - romeo_27
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

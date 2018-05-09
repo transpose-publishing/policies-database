@@ -1,285 +1,358 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_1018
+
+# publisher name from SHERAP/RoMEO
 publisher: Scientific Research Publishing
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- Advances in Aerospace Science and Technology
-- Advances in Aging Research
-- Advances in Alzheimer's Disease
-- Advances in Anthropology
-- Advances in Applied Sociology
-- Advances in Biological Chemistry
-- Advances in Bioscience and Biotechnology
-- Advances in Breast Cancer Research
-- Advances in Chemical Engineering and Science
-- Advances in Computed Tomography
-- Advances in Entomology
-- Advances in Enzyme Research
-- Advances in Historical Studies
-- Advances in Infectious Diseases
-- Advances in Internet of Things
-- Advances in Journalism and Communication
-- Advances in Linear Algebra and Matrix Theory
-- Advances in Literary Study
-- Advances in Lung Cancer
-- Advances in Materials Physics and Chemistry
-- Advances in Molecular Imaging
-- Advances in Nanoparticles
-- Advances in Parkinson's Disease
-- Advances in Physical Education
-- Advances in Pure Mathematics
-- Advances in Remote Sensing
-- Advances in Reproductive Sciences
-- Advances in Sexual Medicine
-- Agricultural Sciences
-- American Journal of Analytical Chemistry
-- American Journal of Climate Change
-- American Journal of Computational Mathematics
-- American Journal of Industrial and Business Management
-- American Journal of Molecular Biology
-- American Journal of Operations Research
-- American Journal of Plant Sciences
-- Applied Mathematics
-- Archaeological Discovery
-- Art and Design Review
-- Atmospheric and Climate Sciences
-- Beijing Law Review
-- Case Reports in Clinical Medicine
-- CellBio
-- Chinese Medicine
-- Chinese Studies
-- Circuits and Systems
-- Communications and Network
-- Computational Chemistry
-- Computational Molecular Bioscience
-- Computational Water, Energy, and Environmental Engineering
-- Creative Education
-- Crystal Structure Theory and Applications
-- Current Urban Studies
-- Detection
-- E-Health Telecommunication Systems and Networks
-- Energy and Power Engineering
-- Engineering
-- Food and Nutrition Sciences
-- Forensic Medicine and Anatomy Research
-- Geomaterials
-- Graphene
-- Green and Sustainable Chemistry
-- Health
-- InfraMatics
-- Intelligent Control and Automation
-- Intelligent Information Management
-- International Journal of Analytical Mass Spectrometry and Chromatography
-- International Journal of Astronomy and Astrophysics
-- International Journal of Clean Coal and Energy
-- International Journal of Clinical Medicine
-- International Journal of Communications, Network and System Sciences
-- International Journal of Geosciences
-- International Journal of Intelligence Science
-- International Journal of Internet and Distributed Systems
-- International Journal of Medical Physics,Clinical Engineering and Radiation Oncology
-- International Journal of Modern Nonlinear Theory and Application
-- International Journal of Nonferrous Metallurgy
-- International Journal of Organic Chemistry
-- International Journal of Otolaryngology and Head & Neck Surgery
-- Journal of Agricultural Chemistry and Environment
-- Journal of Analytical Sciences, Methods and Instrumentation
-- Journal of Applied Mathematics and Physics
-- Journal of Behavioral and Brain Science
-- Journal of Biomaterials and Nanobiotechnology
-- Journal of Biomedical Science and Engineering
-- Journal of Biophysical Chemistry
-- Journal of Biosciences and Medicines
-- Journal of Building Construction and Planning Research
-- Journal of Cancer Therapy
-- Journal of Computer and Communications
-- Journal of Cosmetics, Dermatological Sciences and Applications
-- Journal of Crystallization Process and Technology
-- Journal of Data Analysis and Information Processing
-- Journal of Diabetes Mellitus
-- Journal of Electromagnetic Analysis and Applications
-- Journal of Electronics Cooling and Thermal Control
-- Journal of Encapsulation and Adsorption Sciences
-- Journal of Environmental Protection
-- Journal of Financial Risk Management
-- Journal of Flow Control, Measurement & Visualization
-- Journal of Geographic Information System
-- Journal of Geoscience and Environment Protection
-- Journal of High Energy Physics, Gravitation and Cosmology
-- Journal of Human Resource and Sustainability Studies
-- Journal of Immune Based Therapies, Vaccines and Antimicrobials
-- Journal of Information Security
-- Journal of Intelligent Learning Systems and Applications
-- Journal of Materials Science and Chemical Engineering
-- Journal of Mathematical Finance
-- Journal of Minerals and Materials Characterization and Engineering
-- Journal of Modern Physics
-- Journal of Power and Energy Engineering
-- Journal of Quantum Information Science
-- Journal of Sensor Technology
-- Journal of Service Science and Management
-- Journal of Signal and Information Processing
-- Journal of Software Engineering and Applications
-- Journal of Surface Engineered Materials and Advanced Technology
-- Journal of Sustainable Bioenergy Systems
-- Journal of Textile Science and Technology
-- Journal of Transportation Technologies
-- Journal of Tuberculosis Research
-- Journal of Water Resource and Protection
-- Low Carbon Economy
-- Materials Sciences and Applications
-- Microscopy Research
-- Modeling and Numerical Simulation of Material Science
-- Modern Chemotherapy
-- Modern Economy
-- Modern Instrumentation
-- Modern Mechanical Engineering
-- Modern Plastic Surgery
-- Modern Research in Catalysis
-- Modern Research in Inflammation
-- Natural Resources
-- Natural Science
-- Neuroscience and Medicine
-- New Journal of Glass and Ceramics
-- Occupational Diseases and Environmental Medicine
-- Open Journal of Accounting
-- Open Journal of Acoustics
-- Open Journal of Air Pollution
-- Open Journal of Anesthesiology
-- Open Journal of Animal Sciences
-- Open Journal of Antennas and Propagation
-- Open Journal of Apoptosis
-- Open Journal of Applied Biosensor
-- Open Journal of Applied Sciences
-- Open Journal of Biophysics
-- Open Journal of Blood Diseases
-- Open Journal of Business and Management
-- Open Journal of Cell Biology
-- Open Journal of Civil Engineering
-- Open Journal of Clinical Diagnostics
-- Open Journal of Composite Materials
-- Open Journal of Depression
-- Open Journal of Discrete Mathematics
-- Open Journal of Earthquake Research
-- Open Journal of Ecology
-- Open Journal of Emergency Medicine
-- Open Journal of Endocrine and Metabolic Diseases
-- Open Journal of Energy Efficiency
-- Open Journal of Epidemiology
-- Open Journal of Fluid Dynamics
-- Open Journal of Forestry
-- Open Journal of Gastroenterology
-- Open Journal of Genetics
-- Open Journal of Geology
-- Open Journal of Immunology
-- Open Journal of Inorganic Chemistry
-- Open Journal of Inorganic Non-metallic Materials
-- Open Journal of Internal Medicine
-- Open Journal of Leadership
-- Open Journal of Marine Science
-- Open Journal of Medical Imaging
-- Open Journal of Medical Microbiology
-- Open Journal of Medical Psychology
-- Open Journal of Medicinal Chemistry
-- Open Journal of Metal
-- Open Journal of Microphysics
-- Open Journal of Modelling and Simulation
-- Open Journal of Modern Hydrology
-- Open Journal of Modern Linguistics
-- Open Journal of Modern Neurosurgery
-- Open Journal of Molecular and Integrative Physiology
-- Open Journal of Nephrology
-- Open Journal of Nursing
-- Open Journal of Obstetrics and Gynecology
-- Open Journal of Ophthalmology
-- Open Journal of Optimization
-- Open Journal of Organ Transplant Surgery
-- Open Journal of Organic Polymer Materials
-- Open Journal of Orthopedics
-- Open Journal of Pathology
-- Open Journal of Pediatrics
-- Open Journal of Philosophy
-- Open Journal of Physical Chemistry
-- Open Journal of Political Science
-- Open Journal of Polymer Chemistry
-- Open Journal of Preventive Medicine
-- Open Journal of Psychiatry
-- Open Journal of Radiology
-- Open Journal of Regenerative Medicine
-- Open Journal of Respiratory Diseases
-- Open Journal of Rheumatology and Autoimmune Diseases
-- Open Journal of Safety Science and Technology
-- Open Journal of Social Sciences
-- Open Journal of Soil Science
-- Open Journal of Statistics
-- Open Journal of Stomatology
-- Open Journal of Synthesis Theory and Applications
-- Open Journal of Therapy and Rehabilitation
-- Open Journal of Thoracic Surgery
-- Open Journal of Veterinary Medicine
-- Open Journal of Yangtze Oil and Gas
-- Optics and Photonics Journal
-- Pain Studies and Treatment
-- Pharmacology and Pharmacy
-- Positioning
-- Psychology
-- Smart Grid and Renewable Energy
-- Social Networking
-- Sociology Mind
-- Soft
-- Soft Nanoscience Letters
-- Spectral Analysis Review
-- Stem Cell Discovery
-- Surgical Science
-- Technology and Investment
-- Theoretical Economics Letters
-- Urological Open Access Journal
-- Voice of the Publisher
-- Wireless Engineering and Technology
-- Wireless Sensor Network
-- World Journal of AIDS
-- World Journal of Cardiovascular Diseases
-- World Journal of Cardiovascular Surgery
-- World Journal of Condensed Matter Physics
-- World Journal of Engineering and Technology
-- World Journal of Mechanics
-- World Journal of Nano Science and Engineering
-- World Journal of Neuroscience
-- World Journal of Nuclear Science and Technology
-- World Journal of Vaccines
-- Yangtze Medicine
-- iBusiness
+  - Advances in Aerospace Science and Technology
+  - Advances in Aging Research
+  - Advances in Alzheimer's Disease
+  - Advances in Anthropology
+  - Advances in Applied Sociology
+  - Advances in Biological Chemistry
+  - Advances in Bioscience and Biotechnology
+  - Advances in Breast Cancer Research
+  - Advances in Chemical Engineering and Science
+  - Advances in Computed Tomography
+  - Advances in Entomology
+  - Advances in Enzyme Research
+  - Advances in Historical Studies
+  - Advances in Infectious Diseases
+  - Advances in Internet of Things
+  - Advances in Journalism and Communication
+  - Advances in Linear Algebra and Matrix Theory
+  - Advances in Literary Study
+  - Advances in Lung Cancer
+  - Advances in Materials Physics and Chemistry
+  - Advances in Molecular Imaging
+  - Advances in Nanoparticles
+  - Advances in Parkinson's Disease
+  - Advances in Physical Education
+  - Advances in Pure Mathematics
+  - Advances in Remote Sensing
+  - Advances in Reproductive Sciences
+  - Advances in Sexual Medicine
+  - Agricultural Sciences
+  - American Journal of Analytical Chemistry
+  - American Journal of Climate Change
+  - American Journal of Computational Mathematics
+  - American Journal of Industrial and Business Management
+  - American Journal of Molecular Biology
+  - American Journal of Operations Research
+  - American Journal of Plant Sciences
+  - Applied Mathematics
+  - Archaeological Discovery
+  - Art and Design Review
+  - Atmospheric and Climate Sciences
+  - Beijing Law Review
+  - Case Reports in Clinical Medicine
+  - CellBio
+  - Chinese Medicine
+  - Chinese Studies
+  - Circuits and Systems
+  - Communications and Network
+  - Computational Chemistry
+  - Computational Molecular Bioscience
+  - Computational Water, Energy, and Environmental Engineering
+  - Creative Education
+  - Crystal Structure Theory and Applications
+  - Current Urban Studies
+  - Detection
+  - E-Health Telecommunication Systems and Networks
+  - Energy and Power Engineering
+  - Engineering
+  - Food and Nutrition Sciences
+  - Forensic Medicine and Anatomy Research
+  - Geomaterials
+  - Graphene
+  - Green and Sustainable Chemistry
+  - Health
+  - InfraMatics
+  - Intelligent Control and Automation
+  - Intelligent Information Management
+  - International Journal of Analytical Mass Spectrometry and Chromatography
+  - International Journal of Astronomy and Astrophysics
+  - International Journal of Clean Coal and Energy
+  - International Journal of Clinical Medicine
+  - International Journal of Communications, Network and System Sciences
+  - International Journal of Geosciences
+  - International Journal of Intelligence Science
+  - International Journal of Internet and Distributed Systems
+  - International Journal of Medical Physics,Clinical Engineering and Radiation Oncology
+  - International Journal of Modern Nonlinear Theory and Application
+  - International Journal of Nonferrous Metallurgy
+  - International Journal of Organic Chemistry
+  - International Journal of Otolaryngology and Head & Neck Surgery
+  - Journal of Agricultural Chemistry and Environment
+  - Journal of Analytical Sciences, Methods and Instrumentation
+  - Journal of Applied Mathematics and Physics
+  - Journal of Behavioral and Brain Science
+  - Journal of Biomaterials and Nanobiotechnology
+  - Journal of Biomedical Science and Engineering
+  - Journal of Biophysical Chemistry
+  - Journal of Biosciences and Medicines
+  - Journal of Building Construction and Planning Research
+  - Journal of Cancer Therapy
+  - Journal of Computer and Communications
+  - Journal of Cosmetics, Dermatological Sciences and Applications
+  - Journal of Crystallization Process and Technology
+  - Journal of Data Analysis and Information Processing
+  - Journal of Diabetes Mellitus
+  - Journal of Electromagnetic Analysis and Applications
+  - Journal of Electronics Cooling and Thermal Control
+  - Journal of Encapsulation and Adsorption Sciences
+  - Journal of Environmental Protection
+  - Journal of Financial Risk Management
+  - Journal of Flow Control, Measurement & Visualization
+  - Journal of Geographic Information System
+  - Journal of Geoscience and Environment Protection
+  - Journal of High Energy Physics, Gravitation and Cosmology
+  - Journal of Human Resource and Sustainability Studies
+  - Journal of Immune Based Therapies, Vaccines and Antimicrobials
+  - Journal of Information Security
+  - Journal of Intelligent Learning Systems and Applications
+  - Journal of Materials Science and Chemical Engineering
+  - Journal of Mathematical Finance
+  - Journal of Minerals and Materials Characterization and Engineering
+  - Journal of Modern Physics
+  - Journal of Power and Energy Engineering
+  - Journal of Quantum Information Science
+  - Journal of Sensor Technology
+  - Journal of Service Science and Management
+  - Journal of Signal and Information Processing
+  - Journal of Software Engineering and Applications
+  - Journal of Surface Engineered Materials and Advanced Technology
+  - Journal of Sustainable Bioenergy Systems
+  - Journal of Textile Science and Technology
+  - Journal of Transportation Technologies
+  - Journal of Tuberculosis Research
+  - Journal of Water Resource and Protection
+  - Low Carbon Economy
+  - Materials Sciences and Applications
+  - Microscopy Research
+  - Modeling and Numerical Simulation of Material Science
+  - Modern Chemotherapy
+  - Modern Economy
+  - Modern Instrumentation
+  - Modern Mechanical Engineering
+  - Modern Plastic Surgery
+  - Modern Research in Catalysis
+  - Modern Research in Inflammation
+  - Natural Resources
+  - Natural Science
+  - Neuroscience and Medicine
+  - New Journal of Glass and Ceramics
+  - Occupational Diseases and Environmental Medicine
+  - Open Journal of Accounting
+  - Open Journal of Acoustics
+  - Open Journal of Air Pollution
+  - Open Journal of Anesthesiology
+  - Open Journal of Animal Sciences
+  - Open Journal of Antennas and Propagation
+  - Open Journal of Apoptosis
+  - Open Journal of Applied Biosensor
+  - Open Journal of Applied Sciences
+  - Open Journal of Biophysics
+  - Open Journal of Blood Diseases
+  - Open Journal of Business and Management
+  - Open Journal of Cell Biology
+  - Open Journal of Civil Engineering
+  - Open Journal of Clinical Diagnostics
+  - Open Journal of Composite Materials
+  - Open Journal of Depression
+  - Open Journal of Discrete Mathematics
+  - Open Journal of Earthquake Research
+  - Open Journal of Ecology
+  - Open Journal of Emergency Medicine
+  - Open Journal of Endocrine and Metabolic Diseases
+  - Open Journal of Energy Efficiency
+  - Open Journal of Epidemiology
+  - Open Journal of Fluid Dynamics
+  - Open Journal of Forestry
+  - Open Journal of Gastroenterology
+  - Open Journal of Genetics
+  - Open Journal of Geology
+  - Open Journal of Immunology
+  - Open Journal of Inorganic Chemistry
+  - Open Journal of Inorganic Non-metallic Materials
+  - Open Journal of Internal Medicine
+  - Open Journal of Leadership
+  - Open Journal of Marine Science
+  - Open Journal of Medical Imaging
+  - Open Journal of Medical Microbiology
+  - Open Journal of Medical Psychology
+  - Open Journal of Medicinal Chemistry
+  - Open Journal of Metal
+  - Open Journal of Microphysics
+  - Open Journal of Modelling and Simulation
+  - Open Journal of Modern Hydrology
+  - Open Journal of Modern Linguistics
+  - Open Journal of Modern Neurosurgery
+  - Open Journal of Molecular and Integrative Physiology
+  - Open Journal of Nephrology
+  - Open Journal of Nursing
+  - Open Journal of Obstetrics and Gynecology
+  - Open Journal of Ophthalmology
+  - Open Journal of Optimization
+  - Open Journal of Organ Transplant Surgery
+  - Open Journal of Organic Polymer Materials
+  - Open Journal of Orthopedics
+  - Open Journal of Pathology
+  - Open Journal of Pediatrics
+  - Open Journal of Philosophy
+  - Open Journal of Physical Chemistry
+  - Open Journal of Political Science
+  - Open Journal of Polymer Chemistry
+  - Open Journal of Preventive Medicine
+  - Open Journal of Psychiatry
+  - Open Journal of Radiology
+  - Open Journal of Regenerative Medicine
+  - Open Journal of Respiratory Diseases
+  - Open Journal of Rheumatology and Autoimmune Diseases
+  - Open Journal of Safety Science and Technology
+  - Open Journal of Social Sciences
+  - Open Journal of Soil Science
+  - Open Journal of Statistics
+  - Open Journal of Stomatology
+  - Open Journal of Synthesis Theory and Applications
+  - Open Journal of Therapy and Rehabilitation
+  - Open Journal of Thoracic Surgery
+  - Open Journal of Veterinary Medicine
+  - Open Journal of Yangtze Oil and Gas
+  - Optics and Photonics Journal
+  - Pain Studies and Treatment
+  - Pharmacology and Pharmacy
+  - Positioning
+  - Psychology
+  - Smart Grid and Renewable Energy
+  - Social Networking
+  - Sociology Mind
+  - Soft
+  - Soft Nanoscience Letters
+  - Spectral Analysis Review
+  - Stem Cell Discovery
+  - Surgical Science
+  - Technology and Investment
+  - Theoretical Economics Letters
+  - Urological Open Access Journal
+  - Voice of the Publisher
+  - Wireless Engineering and Technology
+  - Wireless Sensor Network
+  - World Journal of AIDS
+  - World Journal of Cardiovascular Diseases
+  - World Journal of Cardiovascular Surgery
+  - World Journal of Condensed Matter Physics
+  - World Journal of Engineering and Technology
+  - World Journal of Mechanics
+  - World Journal of Nano Science and Engineering
+  - World Journal of Neuroscience
+  - World Journal of Nuclear Science and Technology
+  - World Journal of Vaccines
+  - Yangtze Medicine
+  - iBusiness
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

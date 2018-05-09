@@ -1,127 +1,200 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_2873
+
+# publisher name from SHERAP/RoMEO
 publisher: Austin Publishing Group
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- Annals of Depression and Anxiety
-- Annals of Hematology and Oncology
-- Annals of Materials Science and Engineering
-- Annals of Nutritional Disorders and Therapy
-- Annals of Translational Medicine and Epidemiology
-- Austin - Critical Care Journal
-- Austin Alzheimer's and Parkinson's Disease
-- Austin Biomarkers and Diagnosis
-- Austin Biometrics and Biostatistics
-- Austin Chemical Engineering
-- Austin Chromatography
-- Austin Emergency Medicine
-- Austin Journal of Allergy
-- Austin Journal of Analytical and Pharmaceutical Chemistry
-- Austin Journal of Anatomy
-- Austin Journal of Anesthesia and Analgesia
-- Austin Journal of Biomedical Engineering
-- Austin Journal of Biosensors and Bioelectronics
-- Austin Journal of Biotechnology and Bioengineering
-- Austin Journal of Cancer and Clinical Research
-- Austin Journal of Cerebrovascular Disease and Stroke
-- Austin Journal of Clinical Cardiology
-- Austin Journal of Clinical Case Reports
-- Austin Journal of Clinical Immunology
-- Austin Journal of Clinical Medicine
-- Austin Journal of Clinical Neurology
-- Austin Journal of Clinical Ophthalmology
-- Austin Journal of Clinical Pathology
-- Austin Journal of Computational Biology and Bioinformatics
-- Austin Journal of Dentistry
-- Austin Journal of Dermatology
-- Austin Journal of Earth Science
-- Austin Journal of Emergency and Critical Care Medicine
-- Austin Journal of Endocrinology and Diabetes
-- Austin Journal of Environmental Toxicology
-- Austin Journal of Forensic Science and Criminology
-- Austin Journal of Gastroenterology
-- Austin Journal of Genetics and Genomic Research
-- Austin Journal of HIV/AIDS Research
-- Austin Journal of Hydrology
-- Austin Journal of Invitro Fertilization
-- Austin Journal of Medical Oncology
-- Austin Journal of Microbiology
-- Austin Journal of Musculoskeletal Disorders
-- Austin Journal of Nanomedicine and Nanotechnology
-- Austin Journal of Nephrology and Hypertension
-- Austin Journal of Neurological Disorders and Epilepsy
-- Austin Journal of Nursing and Health Care
-- Austin Journal of Nutrition and Metabolism
-- Austin Journal of Obstetrics and Gynecology
-- Austin Journal of Orthopedics and Rheumatology
-- Austin Journal of Otolaryngology
-- Austin Journal of Pathology and Laboratory Medicine
-- Austin Journal of Pharmacology and Therapeutics
-- Austin Journal of Plant Biology
-- Austin Journal of Proteomics, Bioinformatics and Genomics
-- Austin Journal of Psychiatry and Behavioral Sciences
-- Austin Journal of Pulmonary and Respiratory Medicine
-- Austin Journal of Radiation Oncology and Cancer
-- Austin Journal of Radiology
-- Austin Journal of Reproductive Medicine and Infertility
-- Austin Journal of Robotics and Automation
-- Austin Journal of Sleep Disorders
-- Austin Journal of Surgery
-- Austin Journal of Tropical Medicine and Hygiene
-- Austin Journal of Urology
-- Austin Journal of Veterinary Science and Animal Husbandry
-- 'Austin Neurosurgery: Open Access'
-- Austin Pediatrics
-- Austin Proteomics
-- Austin Therapeutics
-- Austin Virology and Retrovirology
-- Chronic Diseases - International
-- Journal of Bacteriology and Mycology
-- Journal of Blood Disorders
-- Journal of Cardiovascular Disorders
-- Journal of Dental Applications
-- Journal of Disease Markers
-- Journal of Drug Discovery, Development and Delivery
-- Journal of Endocrine Disorders
-- Journal of Family Medicine
-- Journal of Hepatitis Research
-- Journal of Immune Research
-- Journal of Molecular Biology and Molecular Imaging
-- Journal of Schizophrenia Research
-- Journal of Stem Cell Research and Transplantation
-- Journal of Stem Cells Research, Reviews and Reports
-- Physical Medicine and Rehabilitation - International
+  - Annals of Depression and Anxiety
+  - Annals of Hematology and Oncology
+  - Annals of Materials Science and Engineering
+  - Annals of Nutritional Disorders and Therapy
+  - Annals of Translational Medicine and Epidemiology
+  - Austin - Critical Care Journal
+  - Austin Alzheimer's and Parkinson's Disease
+  - Austin Biomarkers and Diagnosis
+  - Austin Biometrics and Biostatistics
+  - Austin Chemical Engineering
+  - Austin Chromatography
+  - Austin Emergency Medicine
+  - Austin Journal of Allergy
+  - Austin Journal of Analytical and Pharmaceutical Chemistry
+  - Austin Journal of Anatomy
+  - Austin Journal of Anesthesia and Analgesia
+  - Austin Journal of Biomedical Engineering
+  - Austin Journal of Biosensors and Bioelectronics
+  - Austin Journal of Biotechnology and Bioengineering
+  - Austin Journal of Cancer and Clinical Research
+  - Austin Journal of Cerebrovascular Disease and Stroke
+  - Austin Journal of Clinical Cardiology
+  - Austin Journal of Clinical Case Reports
+  - Austin Journal of Clinical Immunology
+  - Austin Journal of Clinical Medicine
+  - Austin Journal of Clinical Neurology
+  - Austin Journal of Clinical Ophthalmology
+  - Austin Journal of Clinical Pathology
+  - Austin Journal of Computational Biology and Bioinformatics
+  - Austin Journal of Dentistry
+  - Austin Journal of Dermatology
+  - Austin Journal of Earth Science
+  - Austin Journal of Emergency and Critical Care Medicine
+  - Austin Journal of Endocrinology and Diabetes
+  - Austin Journal of Environmental Toxicology
+  - Austin Journal of Forensic Science and Criminology
+  - Austin Journal of Gastroenterology
+  - Austin Journal of Genetics and Genomic Research
+  - Austin Journal of HIV/AIDS Research
+  - Austin Journal of Hydrology
+  - Austin Journal of Invitro Fertilization
+  - Austin Journal of Medical Oncology
+  - Austin Journal of Microbiology
+  - Austin Journal of Musculoskeletal Disorders
+  - Austin Journal of Nanomedicine and Nanotechnology
+  - Austin Journal of Nephrology and Hypertension
+  - Austin Journal of Neurological Disorders and Epilepsy
+  - Austin Journal of Nursing and Health Care
+  - Austin Journal of Nutrition and Metabolism
+  - Austin Journal of Obstetrics and Gynecology
+  - Austin Journal of Orthopedics and Rheumatology
+  - Austin Journal of Otolaryngology
+  - Austin Journal of Pathology and Laboratory Medicine
+  - Austin Journal of Pharmacology and Therapeutics
+  - Austin Journal of Plant Biology
+  - Austin Journal of Proteomics, Bioinformatics and Genomics
+  - Austin Journal of Psychiatry and Behavioral Sciences
+  - Austin Journal of Pulmonary and Respiratory Medicine
+  - Austin Journal of Radiation Oncology and Cancer
+  - Austin Journal of Radiology
+  - Austin Journal of Reproductive Medicine and Infertility
+  - Austin Journal of Robotics and Automation
+  - Austin Journal of Sleep Disorders
+  - Austin Journal of Surgery
+  - Austin Journal of Tropical Medicine and Hygiene
+  - Austin Journal of Urology
+  - Austin Journal of Veterinary Science and Animal Husbandry
+  - 'Austin Neurosurgery: Open Access'
+  - Austin Pediatrics
+  - Austin Proteomics
+  - Austin Therapeutics
+  - Austin Virology and Retrovirology
+  - Chronic Diseases - International
+  - Journal of Bacteriology and Mycology
+  - Journal of Blood Disorders
+  - Journal of Cardiovascular Disorders
+  - Journal of Dental Applications
+  - Journal of Disease Markers
+  - Journal of Drug Discovery, Development and Delivery
+  - Journal of Endocrine Disorders
+  - Journal of Family Medicine
+  - Journal of Hepatitis Research
+  - Journal of Immune Research
+  - Journal of Molecular Biology and Molecular Imaging
+  - Journal of Schizophrenia Research
+  - Journal of Stem Cell Research and Transplantation
+  - Journal of Stem Cells Research, Reviews and Reports
+  - Physical Medicine and Rehabilitation - International
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

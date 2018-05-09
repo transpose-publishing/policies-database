@@ -1,77 +1,150 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_1849
+
+# publisher name from SHERAP/RoMEO
 publisher: Macrothink Institute
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- Aquatic Science and Technology
-- Asian Journal of Finance and Accounting
-- Business Management and Strategy
-- Business and Economic Research
-- Business and Management Horizons
-- Case Studies in Business and Management
-- Environmental Management and Sustainable Development
-- Global Journal of Educational Studies
-- International Finance and Banking
-- International Journal of Accounting and Financial Reporting
-- International Journal of Culture and History
-- International Journal of Education
-- International Journal of English Language Education
-- International Journal of Human Resource Studies
-- International Journal of Learning and Development
-- International Journal of Linguistics
-- International Journal of Social Science Research
-- International Journal of Social Work
-- International Research in Education
-- Issues in Social Science
-- Journal for the Study of English Linguistics
-- Journal of Agricultural Studies
-- Journal of Applied Biotechnology
-- Journal of Biology and Life Science
-- Journal of Education and Training
-- Journal of Educational Issues
-- Journal of Entrepreneurship and Business Innovation
-- Journal of Environment and Ecology
-- Journal of Food Studies
-- Journal of Management Research
-- Journal of Public Administration and Governance
-- Journal of Social Science Studies
-- Journal of Sociological Research
-- Journal of Studies in Education
-- Network Protocols and Algorithms
-- Research in Applied Economics
-- Research in Business and Management
-- World Journal of Business and Management
+  - Aquatic Science and Technology
+  - Asian Journal of Finance and Accounting
+  - Business Management and Strategy
+  - Business and Economic Research
+  - Business and Management Horizons
+  - Case Studies in Business and Management
+  - Environmental Management and Sustainable Development
+  - Global Journal of Educational Studies
+  - International Finance and Banking
+  - International Journal of Accounting and Financial Reporting
+  - International Journal of Culture and History
+  - International Journal of Education
+  - International Journal of English Language Education
+  - International Journal of Human Resource Studies
+  - International Journal of Learning and Development
+  - International Journal of Linguistics
+  - International Journal of Social Science Research
+  - International Journal of Social Work
+  - International Research in Education
+  - Issues in Social Science
+  - Journal for the Study of English Linguistics
+  - Journal of Agricultural Studies
+  - Journal of Applied Biotechnology
+  - Journal of Biology and Life Science
+  - Journal of Education and Training
+  - Journal of Educational Issues
+  - Journal of Entrepreneurship and Business Innovation
+  - Journal of Environment and Ecology
+  - Journal of Food Studies
+  - Journal of Management Research
+  - Journal of Public Administration and Governance
+  - Journal of Social Science Studies
+  - Journal of Sociological Research
+  - Journal of Studies in Education
+  - Network Protocols and Algorithms
+  - Research in Applied Economics
+  - Research in Business and Management
+  - World Journal of Business and Management
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

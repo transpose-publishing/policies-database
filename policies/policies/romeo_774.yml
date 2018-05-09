@@ -1,175 +1,248 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_774
+
+# publisher name from SHERAP/RoMEO
 publisher: Fabrizio Serra editore
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- AION Annali dell'Università degli Studi di Napoli 'L'Orientale'
-- Acoustical Arts and Artifacts, Technology, Aesthetics, Communication
-- Acta Philosphica, Rivista internazionale di filosofia
-- Acta Vulcanologica
-- Agri Centuriati, An International Journal of Landscape Archaeology
-- AnnalesTheologici
-- Antiquorum Philosophia
-- Appunti Romani di Filologia, Studi e comunicazioni di filologia, linguistica e letteratura
-  greca e latina
-- Archaeologia Maritima Mediterranea, An International Journal on Underwater Archaeology
-- Archaeologiae, Research by Foreign Missions in Italy
-- Archivio di Filosofia - Archives of Philosophy
-- Arts and Artifacts in Movie, Technology, Aesthetics, Communication
-- Bibliologia, An International Journal of Bibliography, Library Science, History
-  of Typography and the Book
-- Bollettino dell'Atlante lessicale degli antichi volgari italiani
-- Bollettino di Storia delle Scienze Matematiche
-- Bruniana e Campanelliana, Ricerche filosofiche e materiali storico - testuali
-- Carte di viaggio, Studi di lingua e letteratura italiana
-- Classical and Mediaeval Culture Review
-- Contemporanea, Rivista di studi sulla letteratura e sulla comunicazione
-- Critica Sociologica
-- Dante
-- Diritto Ecclesiastico
-- Eidola, International Journal of Classical Art History
-- Ermeneutica Letteraria
-- Esperienze Letterarie,Trimestrale di critica e di cultura
-- Eutifrone
-- Facta, A Journal of Roman Material Culture Studies
-- Fictions, Studi sulla narratività
-- Filologia Italiana
-- Foro padano, Rivista di giurisprudenza e di dottrina
-- Galenos, Rivista di filologia dei testi medici antichi
-- Giornale di Astronomia
-- Historia Philosophica, An International Journal
-- Historia Religionum. An International Journal
-- History of Economic Ideas
-- Humanistica, An International Journal of Early Renaissance Studies
-- Il Foro padano, Rivista di giurisprudenza e di dottrina
-- Il pensiero economico italiano
-- Incontri Linguistici, Rivista delle Università degli Studi di Trieste e di Udine
-- Induzioni. Demografia, probabilità, statistica a scuola
-- International Journal of Transport Economics.
-- Italianistica
-- Iuris Antiqui Historia, An International Journal on Ancient Law
-- Ius Ecclesiae, Rivista internazionale di Diritto Canonico
-- Journal of the Italian Astronomical Society
-- Kokalos. Studi pubblicati dalla Sezione di storia antica del Dipartimento dei beni
-  culturali dell'Università di Palermo
-- LINGVARVM VARIETAS
-- LINKS, Rivista di letteratura e cultura tedesca
-- LINKS, Zeitschrift für deutsche Literatur- und Kulturwissenschaft
-- Letteratura Italiana Antica. Rivista annuale di testi e studi
-- Letteratura e Arte
-- Letteratura e Letterature
-- Letteratura e dialetti. Rivista internazionale
-- Libya Antiqua
-- Lingua Italiana. Storia, strutture, testi
-- Lingua Italiana. Storia, strutture, testi. Rivista internazionale
-- Linguistica e Letteratura
-- Mare Internum, Archeologia e culture del Mediterraneo
-- Marmora, An International Journal for Archaeology, History and Archaeometry of Marbles
-  and Stones
-- Materiali e Discussioni per l'Analisi dei Testi Classici
-- Medioevo letterario d'Italia, An International Journal of Philology,Linguistics
-  and Literature
-- Medioevo letterario d'Italia, Rivista internazionale di filologia, linguistica e
-  letteratura
-- Mediterranea. Quaderni annuali dell'Istituto di studi sulle Civiltà italiche e del
-  Mediterraneo antico
-- Mediterraneo Antico. Economie Società Culture
-- Memorie Della Società Astronomica Italiana
-- Moderna, Semestrale di teoria e critica della letteratura
-- Modernità Letteraria
-- Musicalia
-- Musiva and Sectilia
-- Nuova Ricerca
-- Orizzonti, Rassegna di archeologia
-- PAROLA DEL TESTO
-- PASIPHAERivista di filologia e antichità egee
-- Padusa, Bollettino del Centro Polesano
-- Paratesto
-- Parthica, Incontri di culture nel mondo antico
-- Per la Filosofia
-- Philologia Antiqua, An International Journal of Classics
-- Pirandelliana, Rivista internazionale di studi e documenti
-- Poiesis
-- Pädagogische Umschau
-- Quaderni Urbinati di Cultura Classica
-- Quaderni del '900
-- Quaderni di Archeologia
-- RIASA Rivista dell'Istituto Nazionale d'Archeologia e Storia dell'Arte
-- Rassegna Europea di Letteratura Italiana
-- Rassegna di Pedagogia
-- Religioni e Società, Rivista di scienze sociali della religione
-- Rivista Internazionale di Economia dei Trasporti
-- Rivista Italiana di Linguistica e di Dialettologia
-- Rivista degli Studi Orientali
-- Rivista di Cultura Classica e Medioevale
-- Rivista di Letteratura Italiana
-- Rivista di Studi Fenici
-- Rivista di Studi Portoghesi e Brasiliani
-- Rivista di letteratura teatrale
-- Rivista di psicolinguistica applicata
-- Russica Romana
-- SCHIFANOIA A cura dell'Istituto di studi rinascimentali di Ferrara
-- STORIA DELLA STORIOGRAFIA
-- STUDI GOLDONIANI
-- Sardinia, Corsica et Baleares Antiquae. An International Journal of Archaeology
-- Science and Technology for Cultural Heritage
-- Scripta. An International Journal of Codicology and Palaeography
-- Seicento e Settecento, Rivista di letteratura italiana
-- Sicilia antiqua, An International Journal of Archaeology
-- Storiografia, Rivista annuale di storia
-- Studi Buzzatiani, Rivista a cura del Centro Studi Buzzati
-- Studi Ellenistici
-- Studi Ispanici
-- Studi Kantiani
-- Studi Mariniani
-- Studi Nordici
-- Studi Rinascimentali, Rivista internazionale di letteratura italiana
-- Studi Veneziani
-- Studi di Egittologia e di Papirologia
-- Studi e problemi di critica testuale
-- Studi novecenteschi, Rivista di storia della letteratura
-- Studi pasoliniani
-- Studi sul Settecento e l'Ottocento, Rivista internazionale di italianistica
-- Symbolae antiquariae
-- Technai, An International Journal for Ancient Science and Technology
-- Testo
-- Theoretical Biology Forum
-- Tipofilologia, Rivista internazionale di studi filologici e linguistici sui testi
-  a stampa
-- Vesuviana, An International Journal on Archaeological and Historical Studies on
-  Pompeii and Herculaneum
-- Workshop di archeologia classica. Paesaggi, costruzioni, reperti
+  - AION Annali dell'Università degli Studi di Napoli 'L'Orientale'
+  - Acoustical Arts and Artifacts, Technology, Aesthetics, Communication
+  - Acta Philosphica, Rivista internazionale di filosofia
+  - Acta Vulcanologica
+  - Agri Centuriati, An International Journal of Landscape Archaeology
+  - AnnalesTheologici
+  - Antiquorum Philosophia
+  - Appunti Romani di Filologia, Studi e comunicazioni di filologia, linguistica e
+    letteratura greca e latina
+  - Archaeologia Maritima Mediterranea, An International Journal on Underwater Archaeology
+  - Archaeologiae, Research by Foreign Missions in Italy
+  - Archivio di Filosofia - Archives of Philosophy
+  - Arts and Artifacts in Movie, Technology, Aesthetics, Communication
+  - Bibliologia, An International Journal of Bibliography, Library Science, History
+    of Typography and the Book
+  - Bollettino dell'Atlante lessicale degli antichi volgari italiani
+  - Bollettino di Storia delle Scienze Matematiche
+  - Bruniana e Campanelliana, Ricerche filosofiche e materiali storico - testuali
+  - Carte di viaggio, Studi di lingua e letteratura italiana
+  - Classical and Mediaeval Culture Review
+  - Contemporanea, Rivista di studi sulla letteratura e sulla comunicazione
+  - Critica Sociologica
+  - Dante
+  - Diritto Ecclesiastico
+  - Eidola, International Journal of Classical Art History
+  - Ermeneutica Letteraria
+  - Esperienze Letterarie,Trimestrale di critica e di cultura
+  - Eutifrone
+  - Facta, A Journal of Roman Material Culture Studies
+  - Fictions, Studi sulla narratività
+  - Filologia Italiana
+  - Foro padano, Rivista di giurisprudenza e di dottrina
+  - Galenos, Rivista di filologia dei testi medici antichi
+  - Giornale di Astronomia
+  - Historia Philosophica, An International Journal
+  - Historia Religionum. An International Journal
+  - History of Economic Ideas
+  - Humanistica, An International Journal of Early Renaissance Studies
+  - Il Foro padano, Rivista di giurisprudenza e di dottrina
+  - Il pensiero economico italiano
+  - Incontri Linguistici, Rivista delle Università degli Studi di Trieste e di Udine
+  - Induzioni. Demografia, probabilità, statistica a scuola
+  - International Journal of Transport Economics.
+  - Italianistica
+  - Iuris Antiqui Historia, An International Journal on Ancient Law
+  - Ius Ecclesiae, Rivista internazionale di Diritto Canonico
+  - Journal of the Italian Astronomical Society
+  - Kokalos. Studi pubblicati dalla Sezione di storia antica del Dipartimento dei
+    beni culturali dell'Università di Palermo
+  - LINGVARVM VARIETAS
+  - LINKS, Rivista di letteratura e cultura tedesca
+  - LINKS, Zeitschrift für deutsche Literatur- und Kulturwissenschaft
+  - Letteratura Italiana Antica. Rivista annuale di testi e studi
+  - Letteratura e Arte
+  - Letteratura e Letterature
+  - Letteratura e dialetti. Rivista internazionale
+  - Libya Antiqua
+  - Lingua Italiana. Storia, strutture, testi
+  - Lingua Italiana. Storia, strutture, testi. Rivista internazionale
+  - Linguistica e Letteratura
+  - Mare Internum, Archeologia e culture del Mediterraneo
+  - Marmora, An International Journal for Archaeology, History and Archaeometry of
+    Marbles and Stones
+  - Materiali e Discussioni per l'Analisi dei Testi Classici
+  - Medioevo letterario d'Italia, An International Journal of Philology,Linguistics
+    and Literature
+  - Medioevo letterario d'Italia, Rivista internazionale di filologia, linguistica
+    e letteratura
+  - Mediterranea. Quaderni annuali dell'Istituto di studi sulle Civiltà italiche e
+    del Mediterraneo antico
+  - Mediterraneo Antico. Economie Società Culture
+  - Memorie Della Società Astronomica Italiana
+  - Moderna, Semestrale di teoria e critica della letteratura
+  - Modernità Letteraria
+  - Musicalia
+  - Musiva and Sectilia
+  - Nuova Ricerca
+  - Orizzonti, Rassegna di archeologia
+  - PAROLA DEL TESTO
+  - PASIPHAERivista di filologia e antichità egee
+  - Padusa, Bollettino del Centro Polesano
+  - Paratesto
+  - Parthica, Incontri di culture nel mondo antico
+  - Per la Filosofia
+  - Philologia Antiqua, An International Journal of Classics
+  - Pirandelliana, Rivista internazionale di studi e documenti
+  - Poiesis
+  - Pädagogische Umschau
+  - Quaderni Urbinati di Cultura Classica
+  - Quaderni del '900
+  - Quaderni di Archeologia
+  - RIASA Rivista dell'Istituto Nazionale d'Archeologia e Storia dell'Arte
+  - Rassegna Europea di Letteratura Italiana
+  - Rassegna di Pedagogia
+  - Religioni e Società, Rivista di scienze sociali della religione
+  - Rivista Internazionale di Economia dei Trasporti
+  - Rivista Italiana di Linguistica e di Dialettologia
+  - Rivista degli Studi Orientali
+  - Rivista di Cultura Classica e Medioevale
+  - Rivista di Letteratura Italiana
+  - Rivista di Studi Fenici
+  - Rivista di Studi Portoghesi e Brasiliani
+  - Rivista di letteratura teatrale
+  - Rivista di psicolinguistica applicata
+  - Russica Romana
+  - SCHIFANOIA A cura dell'Istituto di studi rinascimentali di Ferrara
+  - STORIA DELLA STORIOGRAFIA
+  - STUDI GOLDONIANI
+  - Sardinia, Corsica et Baleares Antiquae. An International Journal of Archaeology
+  - Science and Technology for Cultural Heritage
+  - Scripta. An International Journal of Codicology and Palaeography
+  - Seicento e Settecento, Rivista di letteratura italiana
+  - Sicilia antiqua, An International Journal of Archaeology
+  - Storiografia, Rivista annuale di storia
+  - Studi Buzzatiani, Rivista a cura del Centro Studi Buzzati
+  - Studi Ellenistici
+  - Studi Ispanici
+  - Studi Kantiani
+  - Studi Mariniani
+  - Studi Nordici
+  - Studi Rinascimentali, Rivista internazionale di letteratura italiana
+  - Studi Veneziani
+  - Studi di Egittologia e di Papirologia
+  - Studi e problemi di critica testuale
+  - Studi novecenteschi, Rivista di storia della letteratura
+  - Studi pasoliniani
+  - Studi sul Settecento e l'Ottocento, Rivista internazionale di italianistica
+  - Symbolae antiquariae
+  - Technai, An International Journal for Ancient Science and Technology
+  - Testo
+  - Theoretical Biology Forum
+  - Tipofilologia, Rivista internazionale di studi filologici e linguistici sui testi
+    a stampa
+  - Vesuviana, An International Journal on Archaeological and Historical Studies on
+    Pompeii and Herculaneum
+  - Workshop di archeologia classica. Paesaggi, costruzioni, reperti
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

@@ -1,161 +1,155 @@
 type: map
 mapping:
-  #-------------Info between these lines is from SHERPA/RoMEO (users should not not edit) --------------------
-  # Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
   policy-id:
     type: str
-  # publisher name from SHERAP/RoMEO
+    desc: "Policy ID from SHERPA/RoMEO (with `romeo_` preprended)"
   publisher:
     type: str
-  # policy heading from SHERAP/RoMEO
+    desc: publisher name from SHERAP/RoMEO
   policy-heading:
     type: str
-  # A list of the journals from SHERPA/RoMEO associated with this romeopub- "jtitle"
+    desc: policy heading from SHERAP/RoMEO
   journals:
     type: seq
+    desc: A list of the journals from SHERPA/RoMEO associated with this romeo policy
     sequence:
       - type: str
-  # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy - "parentid"
   parent-policies:
     type: seq
+    desc: A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
     sequence:
       - type: str
-  # A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
   child-policies:
     type: seq
+    desc: A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
     sequence:
       - type: str
-  # -------------------------------------------------------------------------------------------
-  # If this policy does not apply to the journals listed above, leave a note here.
-  flag-romeopub:
+  flag-romeo:
+    desc: If this policy does not apply to the journals listed above, leave a note here.
     type: str
-  #
+  
   # OPEN PEER REVIEW
-  #
-  # Peer review policy url (valid url)
   peer-review-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
-  # Does the journal publish the content of peer reviews? (mandatory/optional/no)
+    desc: Peer review policy url (valid url)
   open-reports:
     type: str
     enum: [mandatory, optional, no]
-  # Are reviewer identities revealed to the author? (mandatory/optional/no)
+    desc: Does the journal publish the content of peer reviews? (mandatory/optional/no)
   identities-revealed:
     type: str
     enum: [mandatory, optional, no]
-  # Are reviewer identities published? (mandatory/optional/no)
+    desc: Are reviewer identities revealed to the author? (mandatory/optional/no)
   identities-published:
     type: str
     enum: [mandatory, optional, no]
-  #
+    desc: Are reviewer identities published? (mandatory/optional/no)
+  
   # CO-REVIEWERS
-  #
-  # Co-reviewer policy url (valid url)
   co-review-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
-  # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+    desc: Co-reviewer policy url (valid url)
   co-review-policy:
     type: str
-  # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+    desc: "Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)"
   co-review-invited:
     type: str
     enum: [yes, no]
-  # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+    desc: "Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)"
   co-review-field:
     type: str
     enum: [yes, no]
-  #
+    desc: "Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
+
   # PEER REVIEW TRANSFER
-  #
-  # Policy on transfer of peer reviews (free text)
   transfer-policy:
     type: str
-  # What are the titles of the sections of the review form? (free text)
+    desc: "Policy on transfer of peer reviews (free text)"
   review-structure:
     type: str
-  # Are there separate fields for technical & impact evaluation? (yes/no)
+    desc: "What are the titles of the sections of the review form? (free text)"
   separate-structure:
     type: str
     enum: [yes, no]
-  #
+    desc: Are there separate fields for technical & impact evaluation? (yes/no)
+
   # PEER REVIEW CREDIT
-  #
-  # Peer review credit policy url (valid url)
   credit-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
-  # Does the journal deposit peer review information into ORCiD? "via service" includes Publons (directly/via service/no)
+    desc: "Peer review credit policy url (valid url)"
   orcid-peer-review:
     type: str
     enum: [yes, via service, no]
-  #
+    desc: "Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)"
+
   # PREPRINTS
   #
   #-------------Info between these lines is from SHERPA/RoMEO (users should not not edit) --------------------
-  # Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
   prearchiving:
     type: str
     enum: [can, cannot, restricted, unclear]
-  #  Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
+    desc: "Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)"
   prerestrictions:
     type: seq
+    desc: "Preprint restrictions (from SHERPA/RoMEO: prerestrictions)"
     sequence:
       - type: str
-  # Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
   copyrightlinkurl:
     type: str
-  # Conditions (from SHERPA/RoMEO: conditions)
+    desc: "Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)"
   conditions:
     type: seq
+    desc: "Conditions (from SHERPA/RoMEO: conditions)"
     sequence:
       - type: str
   #-----------------------------------------------------------------------------------------------
-  # Preprint policy url (valid url)
   preprint-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
-  # Version of the preprint that can be posted to a server (before review only/any/other/none)
+    desc: "Preprint policy url (valid url)"
   preprint-version:
     type: str
     enum: [before review only, any, other, none]
-  # Time when a preprint can be posted (before acceptance only, anytime, other)
+    desc: "Version of the preprint that can be posted to a server (before review only/any/other/none)"
   preprint-time:
     type: str
     enum: [before acceptance only, anytime, other]
-  # Can preprints be cited in the reference list? (yes/no)
+    desc: Time when a preprint can be posted (before acceptance only, anytime, other)
   preprint-citation:
     type: str
     enum: [yes, no]
-  # Acceptable servers or characteristics of servers - eg specific names, non-commercial, “recognized," etc (free text)
+    desc: "Can preprints be cited in the reference list? (yes/no)"
   acceptable-servers:
     type: str
-  # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+    desc: "Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)"
   preprint-media:
     type: str
-  # url for preprint-media
+    desc: What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
   preprint-media-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
-  # Policies on preprint licensing (free text)
+    desc: url for preprint-media
   preprint-licensing:
     type: str
-  # url for preprint-licensing
+    desc: Policies on preprint licensing (free text)
   preprint-licensing-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
-  # Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+    desc: "url for preprint-licensing"
   scoop-protection:
     type: str
-  # url for scoop-protection
+    desc: "Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)"
   scoop-protection-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
-  # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+    desc: url for scoop-protection
   community-reviews:
     type: str
-  # url for community-reviews
+    desc: "Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)"
   community-reviews-url:
     type: str
     pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    desc: url for community-reviews

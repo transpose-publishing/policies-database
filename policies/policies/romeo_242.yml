@@ -1,175 +1,248 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_242
+
+# publisher name from SHERAP/RoMEO
 publisher: Karger Publishers
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- Acta Anatomica
-- Acta Cytologica
-- Acta Haematologica
-- American Journal of Nephrology
-- Annales Nestlé (Ed. española)
-- Annales Nestlé (Ed. française)
-- Annales Nestlé (English ed.)
-- Annals of Neurosciences
-- Annals of Nutrition and Metabolism
-- Audiology and Neurotology
-- Audiology and Neurotology Extra
-- Biomedicine Hub
-- Blood Purification
-- Brain, Behavior and Evolution
-- Breast Care
-- CardioRenal Medicine
-- Cardiology
-- Caries Research
-- Case Reports in Dermatology
-- Case Reports in Gastroenterology
-- Case Reports in Nephrology and Dialysis
-- Case Reports in Neurology
-- Case Reports in Oncology
-- Case Reports in Ophthalmology
-- Case Reports in Virology and Infectious Diseases
-- Case report in Acute Medicine
-- Case report in Clinical Nutrition
-- Case report in Orthopedic  Research
-- Cells Tissues Organs
-- Cellular Physiology and Biochemistry
-- Cerebrovascular Diseases
-- Cerebrovascular Diseases Extra
-- Chemotherapy
-- Complementary Medicine Research
-- Current Urology
-- Cytogenetic and Genome Research
-- Dementia and Geriatric Cognitive Disorders
-- Dementia and Geriatric Cognitive Disorders Extra
-- Dermatology
-- Dermatopathology
-- Developmental Neuroscience
-- Digestion
-- Digestive Diseases
-- Digestive Surgery
-- Digital Biomarkers
-- Dubai Medical Journal
-- European Addiction Research
-- European Neurology
-- European Surgical Research
-- European Thyroid Journal
-- Fetal Diagnosis and Therapy
-- Folia Phoniatrica et Logopaedica
-- Folia Primatologica
-- Food Science and Technology Research
-- Forschende Komplementärmedizin
-- GE - Portuguese Journal of Gastroenterology
-- Gastrointestinal Tumors
-- Gerontology
-- Gynecologic Investigation
-- Gynecologic and Obstetric Investigation
-- Gynecologic and Obstetric Review
-- Gynäkologisch-geburtshilfliche Rundschau
-- Hormone Research in Paediatrics
-- Human Development
-- Human Heredity
-- Inflammatory Intestinal Diseases
-- Integrative Medicine International
-- International Archives of Allergy and Applied Immunology
-- International Archives of Allergy and Immunology
-- International Journal of Diabetes and Metabolism
-- Interventional Neurology
-- Intervirology
-- Journal of Innate Immunity
-- Journal of Molecular Microbiology and Biotechnology
-- Journal of Nutrigenetics and Nutrigenomics
-- Journal of Vascular Research
-- Karger Kompass Dermatologie
-- Karger Kompass Onkologie
-- Karger Kompass Ophthalmologie
-- Karger Kompass Pneumologie
-- Kidney Diseases
-- Kidney and Blood Pressure Research
-- Lifestyle Genomics
-- Liver Cancer
-- Medical Epigenetics
-- Medical Principles and Practice
-- Molecular Neuropsychiatry
-- Molecular Syndromology
-- Neonatology
-- Nephron
-- Nephron Clinical Practice
-- Nephron Experimental Nephrology
-- Nephron Extra
-- Nephron Physiology
-- Neurodegenerative Diseases
-- Neuroembryology and Aging
-- Neuroendocrinology
-- Neuroepidemiology
-- Neuroimmunomodulation
-- Neuropsychobiology
-- Neurosignals
-- ORL
-- Obesity Facts
-- Ocular Oncology and Pathology
-- Oncology
-- Oncology Research and Treatment
-- Onkologie
-- Ophthalmic Research
-- Ophthalmologica
-- Ophthalmologica Extra
-- Pathobiology
-- Pathophysiology of Haemostasis and Thrombosis
-- Pediatric Neurosurgery
-- Pharmacology
-- Phonetica
-- Portuguese Journal of Public Health
-- Psychopathology
-- Psychotherapy and Psychosomatics
-- Public Health Genomics
-- Pulse
-- Research in Complementary Medicine
-- Respiration
-- Revue de gynécologie-obstétrique
-- Schweizerische Zeitschrift für Ganzheitsmedizin
-- Sexual Development
-- Skin Appendage Disorders
-- Skin Pharmacology and Physiology
-- Stereotactic and Functional Neurosurgery
-- Swiss Journal of Integrative Medicine
-- Transfusion Medicine and Hemotherapy
-- Urologia Internationalis
-- Verhaltenstherapie
-- Visceral Medicine
-- Viszeralmedizin
+  - Acta Anatomica
+  - Acta Cytologica
+  - Acta Haematologica
+  - American Journal of Nephrology
+  - Annales Nestlé (Ed. española)
+  - Annales Nestlé (Ed. française)
+  - Annales Nestlé (English ed.)
+  - Annals of Neurosciences
+  - Annals of Nutrition and Metabolism
+  - Audiology and Neurotology
+  - Audiology and Neurotology Extra
+  - Biomedicine Hub
+  - Blood Purification
+  - Brain, Behavior and Evolution
+  - Breast Care
+  - CardioRenal Medicine
+  - Cardiology
+  - Caries Research
+  - Case Reports in Dermatology
+  - Case Reports in Gastroenterology
+  - Case Reports in Nephrology and Dialysis
+  - Case Reports in Neurology
+  - Case Reports in Oncology
+  - Case Reports in Ophthalmology
+  - Case Reports in Virology and Infectious Diseases
+  - Case report in Acute Medicine
+  - Case report in Clinical Nutrition
+  - Case report in Orthopedic  Research
+  - Cells Tissues Organs
+  - Cellular Physiology and Biochemistry
+  - Cerebrovascular Diseases
+  - Cerebrovascular Diseases Extra
+  - Chemotherapy
+  - Complementary Medicine Research
+  - Current Urology
+  - Cytogenetic and Genome Research
+  - Dementia and Geriatric Cognitive Disorders
+  - Dementia and Geriatric Cognitive Disorders Extra
+  - Dermatology
+  - Dermatopathology
+  - Developmental Neuroscience
+  - Digestion
+  - Digestive Diseases
+  - Digestive Surgery
+  - Digital Biomarkers
+  - Dubai Medical Journal
+  - European Addiction Research
+  - European Neurology
+  - European Surgical Research
+  - European Thyroid Journal
+  - Fetal Diagnosis and Therapy
+  - Folia Phoniatrica et Logopaedica
+  - Folia Primatologica
+  - Food Science and Technology Research
+  - Forschende Komplementärmedizin
+  - GE - Portuguese Journal of Gastroenterology
+  - Gastrointestinal Tumors
+  - Gerontology
+  - Gynecologic Investigation
+  - Gynecologic and Obstetric Investigation
+  - Gynecologic and Obstetric Review
+  - Gynäkologisch-geburtshilfliche Rundschau
+  - Hormone Research in Paediatrics
+  - Human Development
+  - Human Heredity
+  - Inflammatory Intestinal Diseases
+  - Integrative Medicine International
+  - International Archives of Allergy and Applied Immunology
+  - International Archives of Allergy and Immunology
+  - International Journal of Diabetes and Metabolism
+  - Interventional Neurology
+  - Intervirology
+  - Journal of Innate Immunity
+  - Journal of Molecular Microbiology and Biotechnology
+  - Journal of Nutrigenetics and Nutrigenomics
+  - Journal of Vascular Research
+  - Karger Kompass Dermatologie
+  - Karger Kompass Onkologie
+  - Karger Kompass Ophthalmologie
+  - Karger Kompass Pneumologie
+  - Kidney Diseases
+  - Kidney and Blood Pressure Research
+  - Lifestyle Genomics
+  - Liver Cancer
+  - Medical Epigenetics
+  - Medical Principles and Practice
+  - Molecular Neuropsychiatry
+  - Molecular Syndromology
+  - Neonatology
+  - Nephron
+  - Nephron Clinical Practice
+  - Nephron Experimental Nephrology
+  - Nephron Extra
+  - Nephron Physiology
+  - Neurodegenerative Diseases
+  - Neuroembryology and Aging
+  - Neuroendocrinology
+  - Neuroepidemiology
+  - Neuroimmunomodulation
+  - Neuropsychobiology
+  - Neurosignals
+  - ORL
+  - Obesity Facts
+  - Ocular Oncology and Pathology
+  - Oncology
+  - Oncology Research and Treatment
+  - Onkologie
+  - Ophthalmic Research
+  - Ophthalmologica
+  - Ophthalmologica Extra
+  - Pathobiology
+  - Pathophysiology of Haemostasis and Thrombosis
+  - Pediatric Neurosurgery
+  - Pharmacology
+  - Phonetica
+  - Portuguese Journal of Public Health
+  - Psychopathology
+  - Psychotherapy and Psychosomatics
+  - Public Health Genomics
+  - Pulse
+  - Research in Complementary Medicine
+  - Respiration
+  - Revue de gynécologie-obstétrique
+  - Schweizerische Zeitschrift für Ganzheitsmedizin
+  - Sexual Development
+  - Skin Appendage Disorders
+  - Skin Pharmacology and Physiology
+  - Stereotactic and Functional Neurosurgery
+  - Swiss Journal of Integrative Medicine
+  - Transfusion Medicine and Hemotherapy
+  - Urologia Internationalis
+  - Verhaltenstherapie
+  - Visceral Medicine
+  - Viszeralmedizin
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies:
-- romeo_1601
-- romeo_2803
-flag-romeopub:
+  - romeo_1601
+  - romeo_2803
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

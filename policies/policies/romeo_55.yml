@@ -1,513 +1,586 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_55
+
+# publisher name from SHERAP/RoMEO
 publisher: Oxford University Press (OUP)
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- Acta Biochimica et Biophysica Sinica
-- Adaptation
-- Advances in Nutrition
-- Aesthetic Surgery Journal
-- African Affairs
-- Age and Ageing
-- Alcohol and Alcoholism
-- American Historical Review
-- American Journal of Agricultural Economics
-- American Journal of Clinical Nutrition
-- American Journal of Clinical Pathology
-- American Journal of Comparative Law
-- American Journal of Epidemiology
-- American Journal of Hypertension
-- American Journal of Jurisprudence
-- American Journal of Legal History
-- American Law and Economics Review
-- American Literary History
-- Animal Frontiers
-- Annals of Behavioral Medicine
-- Annals of Botany
-- Annals of Occupational Hygiene
-- Annals of Oncology
-- Annals of the Entomological Society of America
-- AoB PLANTS
-- Applied Economic Perspectives and Policy
-- Applied Linguistics
-- Applied Mathematics Research eXpress
-- Arbitration Law Reports and Review
-- Archives of Clinical Neuropsychology
-- Aristotelian Society Supplementary Volume
-- Arthropod Management Tests
-- Astronomy and Geophysics
-- Behavioral Ecology
-- Bioinformatics
-- Biological Journal of the Linnean Society
-- Biology Methods and Protocols
-- Biology of Reproduction
-- Biometrika
-- Bioscience
-- Bioscience Horizons
-- Biostatistics
-- Brain
-- Brief Treatment and Crisis Intervention
-- Briefings in Bioinformatics
-- Briefings in Functional Genomics
-- British Journal for the Philosophy of Science
-- British Journal of Aesthetics
-- British Journal of Criminology
-- British Journal of Social Work
-- British Medical Bulletin
-- British Year Book of International Law
-- CESifo Economic Studies
-- Cambridge Journal of Economics
-- Cambridge Journal of Regions, Economy and Society
-- Cambridge Quarterly
-- Capital Markets Law Journal
-- Carcinogenesis
-- Cardiovascular Research
-- Cerebral Cortex
-- Chemical Senses
-- Children and Schools
-- Chinese Journal Of International Politics
-- Chinese Journal of Comparative Law
-- Chinese Journal of International Law
-- Christian Bioethics
-- Classical Receptions Journal
-- Clinical Infectious Diseases
-- Clinical Kidney Journal
-- Community Development Journal
-- Computer Journal
-- Conservation Physiology
-- Contemporary Women's Writing
-- Continuing Education in Anaesthesia, Critical Care and Pain
-- Contributions to Political Economy
-- Critical Values
-- Current Developments in Nutrition
-- Current Legal Problems
-- Current Zoology
-- DNA Research
-- Database
-- Digital Scholarship in the Humanities
-- Diplomatic History
-- Diseases of the Esophagus
-- Dynamics and Statistics of the Climate System
-- EHJ Cardiovascular Imaging
-- ELT Journal
-- EP-Europace
-- ESHRE Monographs
-- Early Music
-- Economic Policy
-- Endocrine Reviews
-- Endocrinology
-- English
-- English Historical Review
-- Enterprise and Society
-- 'Enterprise and Society: The International Journal of Business History'
-- Environmental Entomology
-- Environmental Epigenetics
-- Environmental History
-- Environmental History Review
-- Epidemiologic Reviews
-- Essays in Criticism
-- European Heart Journal
-- European Heart Journal - Cardiovascular Imaging
-- European Heart Journal - Cardiovascular Pharmacotherapy
-- European Heart Journal - Quality of Care and Clinical Outcomes
-- European Heart Journal Supplements
-- European Journal of Cardio-Thoracic Surgery
-- European Journal of Echocardiography
-- European Journal of International Law
-- European Journal of Orthodontics
-- European Journal of Public Health
-- European Review of Agricultural Economics
-- European Review of Economic History
-- European Sociological Review
-- Evolution, Medicine, and Public Health
-- FEMS Immunology and Medical Microbiology
-- FEMS Microbiology Ecology
-- FEMS Microbiology Letters
-- FEMS Microbiology Reviews
-- FEMS Yeast Research
-- Family Practice
-- Food Quality and Safety
-- Foreign Policy Analysis
-- Forest Science
-- Forest and Conservation History
-- Forestry
-- Forum for Modern Language Studies
-- French History
-- French Studies
-- French Studies Bulletin
-- Gastroenterology Report
-- Genome Biology and Evolution
-- Geophysical Journal International
-- German History
-- Gerontologist
-- GigaScience
-- Global Summitry
-- Glycobiology
-- Health Education Research
-- Health Policy and Planning
-- Health Promotion International
-- Health and Social Work
-- History Workshop Journal
-- Holocaust and Genocide Studies
-- Human Molecular Genetics
-- Human Reproduction
-- Human Reproduction Update
-- Human Rights Law Review
-- ICES Journal of Marine Science
-- ICSID Review
-- ILAR Journal
-- IMA Journal of Applied Mathematics
-- IMA Journal of Management Mathematics
-- IMA Journal of Mathematical Control and Information
-- IMA Journal of Numerical Analysis
-- ITNOW
-- Industrial Law Journal
-- Industrial and Corporate Change
-- Inflammatory Bowel Diseases
-- Information and Inference
-- Insect Systematics and Diversity
-- Integrative and Comparative Biology
-- Interacting with Computers
-- Interactive Cardiovascular and Thoracic Surgery
-- Interdisciplinary Studies in Literature and Environment
-- International Affairs
-- International Data Privacy Law
-- International Health
-- International Immunology
-- International Journal for Quality in Health Care
-- International Journal of Constitutional Law
-- International Journal of Epidemiology
-- International Journal of Law and Information Technology
-- International Journal of Law, Policy and the Family
-- International Journal of Lexicography
-- International Journal of Low-Carbon Technologies
-- International Journal of Neuropsychopharmacology
-- International Journal of Public Opinion Research
-- International Journal of Refugee Law
-- International Journal of Transitional Justice
-- International Mathematics Research Notices
-- International Mathematics Research Papers
-- International Mathematics Research Surveys
-- International Policy Sociology
-- International Political Sociology
-- International Relations of the Asia-Pacific
-- International Studies Perspectives
-- International Studies Quarterly
-- International Studies Review
-- JAMIA Open
-- JNCI Cancer Spectrum
-- JNCI Monographs
-- 'JNCI: Journal of the National Cancer Institute'
-- Japanese Journal of Clinical Oncology
-- Jerusalem Review of Legal Studies
-- Journal of African Economies
-- Journal of American History
-- Journal of Analytical Toxicology
-- Journal of Animal Science
-- Journal of Antimicrobial Chemotherapy
-- Journal of Antitrust Enforcement
-- Journal of Applied Poultry Research
-- Journal of Biochemistry
-- Journal of Burn Care and Research
-- Journal of Chromatographic Science
-- Journal of Church and State
-- Journal of Clinical Endocrinology and Metabolism
-- Journal of Competition Law and Economics
-- Journal of Complex Networks
-- Journal of Computer-Mediated Communication
-- Journal of Conflict and Security Law
-- Journal of Consumer Research
-- Journal of Crohn's and Colitis
-- Journal of Crustacean Biology
-- Journal of Cybersecurity
-- Journal of Deaf Studies and Deaf Education
-- Journal of Design History
-- Journal of Economic Entomology
-- Journal of Economic Geography
-- Journal of Electron Microscopy
-- Journal of Environmental Law
-- Journal of European Competition Law and Practice
-- Journal of European Economic Association
-- Journal of Experimental Botany
-- Journal of Financial Econometrics
-- Journal of Financial Regulation
-- Journal of Forestry
-- Journal of Global Security Studies
-- Journal of Heredity
-- Journal of Hindu Studies
-- Journal of Hip Preservation Surgery
-- Journal of Human Rights Practice
-- Journal of Infectious Diseases
-- Journal of Insect Science
-- Journal of Integrable Systems
-- Journal of Intellectual Property Law and Practice
-- Journal of International Criminal Justice
-- Journal of International Dispute Settlement
-- Journal of International Economic Law
-- Journal of Islamic Studies
-- Journal of Language Evolution
-- Journal of Law and the Biosciences
-- Journal of Law, Economics, and Organization
-- Journal of Legal Analysis
-- Journal of Logic and Computation
-- Journal of Mammalogy
-- Journal of Medical Entomology
-- Journal of Medicine and Philosophy
-- Journal of Molecular Cell Biology
-- Journal of Molluscan Studies
-- Journal of Neuropathology and Experimental Neurology
-- Journal of Nutrition
-- Journal of Pediatric Psychology
-- Journal of Petrology
-- Journal of Plankton Research
-- Journal of Plant Ecology
-- Journal of Professions and Organization
-- Journal of Public Administration Research and Theory
-- Journal of Public Health
-- Journal of Radiation Research
-- Journal of Refugee Studies
-- Journal of Semantics
-- Journal of Semitic Studies
-- Journal of Social History
-- Journal of Surgical Case Reports
-- Journal of Survey Statistics and Methodology
-- Journal of Theological Studies
-- Journal of Travel Medicine
-- Journal of Tropical Pediatrics
-- Journal of Urban Ecology
-- Journal of Victorian Culture
-- Journal of World Energy Law and Business
-- Journal of the American Academy of Religion
-- Journal of the American Medical Informatics Association
-- Journal of the Canadian Association of Gastroenterology
-- Journal of the European Economic Association
-- Journal of the History of Collections
-- Journal of the History of Medicine and Allied Sciences
-- Journal of the International Commission on Radiation Units and Measurements
-- Journal of the Pediatric Infectious Diseases Society
-- Journals of Gerontology, Series A
-- Journals of Gerontology, Series B
-- Laboratory Medicine
-- Law, Probability and Risk
-- Leo Baeck Institute Yearbook
-- Library
-- Literary Imagination
-- Literary and Linguistic Computing
-- Literature and Theology
-- Logic Journal of the IGPL
-- London Review of International Law
-- MELUS
-- Mammalian Species
-- Mathematical Medicine and Biology
-- Medical Law Review
-- Medical Mycology
-- Microscopy
-- Migration Studies
-- Military Medicine
-- Mind
-- Modern Judaism - A Journal of Jewish Ideas and Experience
-- Molecular Biology and Evolution
-- Molecular Human Reproduction
-- Molecular Plant
-- Monthly Notices of the Royal Astronomical Society
-- 'Monthly Notices of the Royal Astronomical Society: Letters'
-- Music Theory Spectrum
-- Music and Letters
-- Musical Quarterly
-- Mutagenesis
-- NDT Plus
-- National Science Review
-- Nephrology Dialysis Transplantation
-- Neuro-Oncology
-- Neuroscience of Consciousness
-- Neurosurgery
-- Nicotine and Tobacco Research
-- Notes and Queries
-- Nucleic Acids Research
-- Nucleic Acids Symposium Series
-- Nutrition Reviews
-- OAH Magazine of History
-- Occupational Medicine
-- Opera Quarterly
-- Oral History Review
-- Oxford Art Journal
-- Oxford Economic Papers
-- Oxford Journal of Law and Religion
-- Oxford Journal of Legal Studies
-- Oxford Review of Economic Policy
-- Paediatrics and Child Health
-- Pain Medicine
-- Parliamentary Affairs
-- Past and Present
-- Pathogens and Disease
-- Perspectives on Public Management and Governance
-- Philosophia Mathematica
-- Physical Therapy
-- Plant and Cell Physiology
-- Policing
-- Political Analysis
-- Poultry Science
-- Proceedings of the Aristotelian Society
-- Progress of Theoretical and Experimental Physics
-- Protein Engineering, Design and Selection
-- Public Health Ethics
-- Public Opinion Quarterly
-- Publications of Astronomical Society of Japan
-- 'Publius: The Journal of Federalism'
-- 'QJM: An International Journal of Medicine'
-- Quarterly Journal of Economics
-- Quarterly Journal of Mathematics
-- Quarterly Journal of Mechanics and Applied Mathematics
-- Radiation Protection Dosimetry
-- Refugee Survey Quarterly
-- Regenerative Biomaterials
-- Reports of Patent, Design and Trade Mark Cases
-- Research Evaluation
-- Review of Asset Pricing Studies
-- Review of Corporate Finance Studies
-- Review of Economic Studies
-- Review of English Studies
-- Review of Environmental Economics and Policy
-- Review of Finance
-- Review of Financial Studies
-- Ruffin Series in Business Ethics
-- SLEEP
-- Schizophrenia Bulletin
-- Science and Public Policy
-- Screen
-- Social Cognitive and Affective Neuroscience
-- Social Forces
-- Social History of Medicine
-- Social Politics
-- Social Problems
-- Social Science Japan Journal
-- Social Work
-- Social Work Research
-- Socio-Economic Review
-- Sociology of Religion
-- Statute Law Review
-- Synthetic Biology
-- Systematic Biology
-- Teaching Mathematics and its Applications
-- Toxicological Sciences
-- Transactions of Mathematics and Its Applications
-- Transactions of The Royal Society of Tropical Medicine and Hygiene
-- Translational Behavioral Medicine
-- Tree Physiology
-- Trusts and Trustees
-- Twentieth Century British History
-- Uniform Law Review
-- Virus Evolution
-- Western Historical Quarterly
-- World Bank Economic Review
-- World Bank Research Observer
-- Year's Work in Critical and Cultural Theory
-- Year's Work in English Studies
-- Yearbook of European Law
-- Yearbook of International Environmental Law
-- Zoological Journal of the Linnean Society
+  - Acta Biochimica et Biophysica Sinica
+  - Adaptation
+  - Advances in Nutrition
+  - Aesthetic Surgery Journal
+  - African Affairs
+  - Age and Ageing
+  - Alcohol and Alcoholism
+  - American Historical Review
+  - American Journal of Agricultural Economics
+  - American Journal of Clinical Nutrition
+  - American Journal of Clinical Pathology
+  - American Journal of Comparative Law
+  - American Journal of Epidemiology
+  - American Journal of Hypertension
+  - American Journal of Jurisprudence
+  - American Journal of Legal History
+  - American Law and Economics Review
+  - American Literary History
+  - Animal Frontiers
+  - Annals of Behavioral Medicine
+  - Annals of Botany
+  - Annals of Occupational Hygiene
+  - Annals of Oncology
+  - Annals of the Entomological Society of America
+  - AoB PLANTS
+  - Applied Economic Perspectives and Policy
+  - Applied Linguistics
+  - Applied Mathematics Research eXpress
+  - Arbitration Law Reports and Review
+  - Archives of Clinical Neuropsychology
+  - Aristotelian Society Supplementary Volume
+  - Arthropod Management Tests
+  - Astronomy and Geophysics
+  - Behavioral Ecology
+  - Bioinformatics
+  - Biological Journal of the Linnean Society
+  - Biology Methods and Protocols
+  - Biology of Reproduction
+  - Biometrika
+  - Bioscience
+  - Bioscience Horizons
+  - Biostatistics
+  - Brain
+  - Brief Treatment and Crisis Intervention
+  - Briefings in Bioinformatics
+  - Briefings in Functional Genomics
+  - British Journal for the Philosophy of Science
+  - British Journal of Aesthetics
+  - British Journal of Criminology
+  - British Journal of Social Work
+  - British Medical Bulletin
+  - British Year Book of International Law
+  - CESifo Economic Studies
+  - Cambridge Journal of Economics
+  - Cambridge Journal of Regions, Economy and Society
+  - Cambridge Quarterly
+  - Capital Markets Law Journal
+  - Carcinogenesis
+  - Cardiovascular Research
+  - Cerebral Cortex
+  - Chemical Senses
+  - Children and Schools
+  - Chinese Journal Of International Politics
+  - Chinese Journal of Comparative Law
+  - Chinese Journal of International Law
+  - Christian Bioethics
+  - Classical Receptions Journal
+  - Clinical Infectious Diseases
+  - Clinical Kidney Journal
+  - Community Development Journal
+  - Computer Journal
+  - Conservation Physiology
+  - Contemporary Women's Writing
+  - Continuing Education in Anaesthesia, Critical Care and Pain
+  - Contributions to Political Economy
+  - Critical Values
+  - Current Developments in Nutrition
+  - Current Legal Problems
+  - Current Zoology
+  - DNA Research
+  - Database
+  - Digital Scholarship in the Humanities
+  - Diplomatic History
+  - Diseases of the Esophagus
+  - Dynamics and Statistics of the Climate System
+  - EHJ Cardiovascular Imaging
+  - ELT Journal
+  - EP-Europace
+  - ESHRE Monographs
+  - Early Music
+  - Economic Policy
+  - Endocrine Reviews
+  - Endocrinology
+  - English
+  - English Historical Review
+  - Enterprise and Society
+  - 'Enterprise and Society: The International Journal of Business History'
+  - Environmental Entomology
+  - Environmental Epigenetics
+  - Environmental History
+  - Environmental History Review
+  - Epidemiologic Reviews
+  - Essays in Criticism
+  - European Heart Journal
+  - European Heart Journal - Cardiovascular Imaging
+  - European Heart Journal - Cardiovascular Pharmacotherapy
+  - European Heart Journal - Quality of Care and Clinical Outcomes
+  - European Heart Journal Supplements
+  - European Journal of Cardio-Thoracic Surgery
+  - European Journal of Echocardiography
+  - European Journal of International Law
+  - European Journal of Orthodontics
+  - European Journal of Public Health
+  - European Review of Agricultural Economics
+  - European Review of Economic History
+  - European Sociological Review
+  - Evolution, Medicine, and Public Health
+  - FEMS Immunology and Medical Microbiology
+  - FEMS Microbiology Ecology
+  - FEMS Microbiology Letters
+  - FEMS Microbiology Reviews
+  - FEMS Yeast Research
+  - Family Practice
+  - Food Quality and Safety
+  - Foreign Policy Analysis
+  - Forest Science
+  - Forest and Conservation History
+  - Forestry
+  - Forum for Modern Language Studies
+  - French History
+  - French Studies
+  - French Studies Bulletin
+  - Gastroenterology Report
+  - Genome Biology and Evolution
+  - Geophysical Journal International
+  - German History
+  - Gerontologist
+  - GigaScience
+  - Global Summitry
+  - Glycobiology
+  - Health Education Research
+  - Health Policy and Planning
+  - Health Promotion International
+  - Health and Social Work
+  - History Workshop Journal
+  - Holocaust and Genocide Studies
+  - Human Molecular Genetics
+  - Human Reproduction
+  - Human Reproduction Update
+  - Human Rights Law Review
+  - ICES Journal of Marine Science
+  - ICSID Review
+  - ILAR Journal
+  - IMA Journal of Applied Mathematics
+  - IMA Journal of Management Mathematics
+  - IMA Journal of Mathematical Control and Information
+  - IMA Journal of Numerical Analysis
+  - ITNOW
+  - Industrial Law Journal
+  - Industrial and Corporate Change
+  - Inflammatory Bowel Diseases
+  - Information and Inference
+  - Insect Systematics and Diversity
+  - Integrative and Comparative Biology
+  - Interacting with Computers
+  - Interactive Cardiovascular and Thoracic Surgery
+  - Interdisciplinary Studies in Literature and Environment
+  - International Affairs
+  - International Data Privacy Law
+  - International Health
+  - International Immunology
+  - International Journal for Quality in Health Care
+  - International Journal of Constitutional Law
+  - International Journal of Epidemiology
+  - International Journal of Law and Information Technology
+  - International Journal of Law, Policy and the Family
+  - International Journal of Lexicography
+  - International Journal of Low-Carbon Technologies
+  - International Journal of Neuropsychopharmacology
+  - International Journal of Public Opinion Research
+  - International Journal of Refugee Law
+  - International Journal of Transitional Justice
+  - International Mathematics Research Notices
+  - International Mathematics Research Papers
+  - International Mathematics Research Surveys
+  - International Policy Sociology
+  - International Political Sociology
+  - International Relations of the Asia-Pacific
+  - International Studies Perspectives
+  - International Studies Quarterly
+  - International Studies Review
+  - JAMIA Open
+  - JNCI Cancer Spectrum
+  - JNCI Monographs
+  - 'JNCI: Journal of the National Cancer Institute'
+  - Japanese Journal of Clinical Oncology
+  - Jerusalem Review of Legal Studies
+  - Journal of African Economies
+  - Journal of American History
+  - Journal of Analytical Toxicology
+  - Journal of Animal Science
+  - Journal of Antimicrobial Chemotherapy
+  - Journal of Antitrust Enforcement
+  - Journal of Applied Poultry Research
+  - Journal of Biochemistry
+  - Journal of Burn Care and Research
+  - Journal of Chromatographic Science
+  - Journal of Church and State
+  - Journal of Clinical Endocrinology and Metabolism
+  - Journal of Competition Law and Economics
+  - Journal of Complex Networks
+  - Journal of Computer-Mediated Communication
+  - Journal of Conflict and Security Law
+  - Journal of Consumer Research
+  - Journal of Crohn's and Colitis
+  - Journal of Crustacean Biology
+  - Journal of Cybersecurity
+  - Journal of Deaf Studies and Deaf Education
+  - Journal of Design History
+  - Journal of Economic Entomology
+  - Journal of Economic Geography
+  - Journal of Electron Microscopy
+  - Journal of Environmental Law
+  - Journal of European Competition Law and Practice
+  - Journal of European Economic Association
+  - Journal of Experimental Botany
+  - Journal of Financial Econometrics
+  - Journal of Financial Regulation
+  - Journal of Forestry
+  - Journal of Global Security Studies
+  - Journal of Heredity
+  - Journal of Hindu Studies
+  - Journal of Hip Preservation Surgery
+  - Journal of Human Rights Practice
+  - Journal of Infectious Diseases
+  - Journal of Insect Science
+  - Journal of Integrable Systems
+  - Journal of Intellectual Property Law and Practice
+  - Journal of International Criminal Justice
+  - Journal of International Dispute Settlement
+  - Journal of International Economic Law
+  - Journal of Islamic Studies
+  - Journal of Language Evolution
+  - Journal of Law and the Biosciences
+  - Journal of Law, Economics, and Organization
+  - Journal of Legal Analysis
+  - Journal of Logic and Computation
+  - Journal of Mammalogy
+  - Journal of Medical Entomology
+  - Journal of Medicine and Philosophy
+  - Journal of Molecular Cell Biology
+  - Journal of Molluscan Studies
+  - Journal of Neuropathology and Experimental Neurology
+  - Journal of Nutrition
+  - Journal of Pediatric Psychology
+  - Journal of Petrology
+  - Journal of Plankton Research
+  - Journal of Plant Ecology
+  - Journal of Professions and Organization
+  - Journal of Public Administration Research and Theory
+  - Journal of Public Health
+  - Journal of Radiation Research
+  - Journal of Refugee Studies
+  - Journal of Semantics
+  - Journal of Semitic Studies
+  - Journal of Social History
+  - Journal of Surgical Case Reports
+  - Journal of Survey Statistics and Methodology
+  - Journal of Theological Studies
+  - Journal of Travel Medicine
+  - Journal of Tropical Pediatrics
+  - Journal of Urban Ecology
+  - Journal of Victorian Culture
+  - Journal of World Energy Law and Business
+  - Journal of the American Academy of Religion
+  - Journal of the American Medical Informatics Association
+  - Journal of the Canadian Association of Gastroenterology
+  - Journal of the European Economic Association
+  - Journal of the History of Collections
+  - Journal of the History of Medicine and Allied Sciences
+  - Journal of the International Commission on Radiation Units and Measurements
+  - Journal of the Pediatric Infectious Diseases Society
+  - Journals of Gerontology, Series A
+  - Journals of Gerontology, Series B
+  - Laboratory Medicine
+  - Law, Probability and Risk
+  - Leo Baeck Institute Yearbook
+  - Library
+  - Literary Imagination
+  - Literary and Linguistic Computing
+  - Literature and Theology
+  - Logic Journal of the IGPL
+  - London Review of International Law
+  - MELUS
+  - Mammalian Species
+  - Mathematical Medicine and Biology
+  - Medical Law Review
+  - Medical Mycology
+  - Microscopy
+  - Migration Studies
+  - Military Medicine
+  - Mind
+  - Modern Judaism - A Journal of Jewish Ideas and Experience
+  - Molecular Biology and Evolution
+  - Molecular Human Reproduction
+  - Molecular Plant
+  - Monthly Notices of the Royal Astronomical Society
+  - 'Monthly Notices of the Royal Astronomical Society: Letters'
+  - Music Theory Spectrum
+  - Music and Letters
+  - Musical Quarterly
+  - Mutagenesis
+  - NDT Plus
+  - National Science Review
+  - Nephrology Dialysis Transplantation
+  - Neuro-Oncology
+  - Neuroscience of Consciousness
+  - Neurosurgery
+  - Nicotine and Tobacco Research
+  - Notes and Queries
+  - Nucleic Acids Research
+  - Nucleic Acids Symposium Series
+  - Nutrition Reviews
+  - OAH Magazine of History
+  - Occupational Medicine
+  - Opera Quarterly
+  - Oral History Review
+  - Oxford Art Journal
+  - Oxford Economic Papers
+  - Oxford Journal of Law and Religion
+  - Oxford Journal of Legal Studies
+  - Oxford Review of Economic Policy
+  - Paediatrics and Child Health
+  - Pain Medicine
+  - Parliamentary Affairs
+  - Past and Present
+  - Pathogens and Disease
+  - Perspectives on Public Management and Governance
+  - Philosophia Mathematica
+  - Physical Therapy
+  - Plant and Cell Physiology
+  - Policing
+  - Political Analysis
+  - Poultry Science
+  - Proceedings of the Aristotelian Society
+  - Progress of Theoretical and Experimental Physics
+  - Protein Engineering, Design and Selection
+  - Public Health Ethics
+  - Public Opinion Quarterly
+  - Publications of Astronomical Society of Japan
+  - 'Publius: The Journal of Federalism'
+  - 'QJM: An International Journal of Medicine'
+  - Quarterly Journal of Economics
+  - Quarterly Journal of Mathematics
+  - Quarterly Journal of Mechanics and Applied Mathematics
+  - Radiation Protection Dosimetry
+  - Refugee Survey Quarterly
+  - Regenerative Biomaterials
+  - Reports of Patent, Design and Trade Mark Cases
+  - Research Evaluation
+  - Review of Asset Pricing Studies
+  - Review of Corporate Finance Studies
+  - Review of Economic Studies
+  - Review of English Studies
+  - Review of Environmental Economics and Policy
+  - Review of Finance
+  - Review of Financial Studies
+  - Ruffin Series in Business Ethics
+  - SLEEP
+  - Schizophrenia Bulletin
+  - Science and Public Policy
+  - Screen
+  - Social Cognitive and Affective Neuroscience
+  - Social Forces
+  - Social History of Medicine
+  - Social Politics
+  - Social Problems
+  - Social Science Japan Journal
+  - Social Work
+  - Social Work Research
+  - Socio-Economic Review
+  - Sociology of Religion
+  - Statute Law Review
+  - Synthetic Biology
+  - Systematic Biology
+  - Teaching Mathematics and its Applications
+  - Toxicological Sciences
+  - Transactions of Mathematics and Its Applications
+  - Transactions of The Royal Society of Tropical Medicine and Hygiene
+  - Translational Behavioral Medicine
+  - Tree Physiology
+  - Trusts and Trustees
+  - Twentieth Century British History
+  - Uniform Law Review
+  - Virus Evolution
+  - Western Historical Quarterly
+  - World Bank Economic Review
+  - World Bank Research Observer
+  - Year's Work in Critical and Cultural Theory
+  - Year's Work in English Studies
+  - Yearbook of European Law
+  - Yearbook of International Environmental Law
+  - Zoological Journal of the Linnean Society
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies:
-- romeo_1105
-- romeo_1106
-- romeo_1107
-- romeo_1108
-- romeo_1109
-- romeo_1110
-- romeo_1111
-- romeo_1112
-- romeo_1113
-- romeo_1114
-- romeo_1115
-- romeo_1116
-- romeo_1117
-- romeo_1118
-- romeo_1119
-- romeo_1121
-- romeo_1336
-- romeo_1337
-- romeo_1437
-- romeo_1438
-- romeo_1472
-- romeo_1473
-- romeo_1474
-- romeo_1475
-- romeo_1476
-- romeo_1477
-- romeo_1478
-- romeo_1479
-- romeo_1480
-- romeo_1481
-- romeo_1482
-- romeo_1483
-- romeo_1484
-- romeo_1485
-- romeo_1486
-- romeo_1530
-- romeo_1531
-- romeo_1532
-- romeo_1552
-- romeo_1568
-- romeo_1573
-- romeo_1574
-- romeo_1575
-- romeo_1576
-- romeo_1577
-- romeo_1578
-- romeo_1617
-- romeo_1618
-- romeo_1619
-- romeo_1620
-- romeo_1621
-- romeo_1622
-- romeo_1632
-- romeo_1633
-- romeo_1634
-- romeo_1635
-- romeo_1672
-- romeo_1989
-- romeo_1990
-- romeo_2017
-- romeo_2168
-- romeo_2253
-- romeo_2704
-- romeo_2705
-- romeo_2729
-- romeo_2730
-- romeo_2731
-- romeo_3027
-- romeo_3029
-- romeo_3091
-- romeo_3238
-flag-romeopub:
+  - romeo_1105
+  - romeo_1106
+  - romeo_1107
+  - romeo_1108
+  - romeo_1109
+  - romeo_1110
+  - romeo_1111
+  - romeo_1112
+  - romeo_1113
+  - romeo_1114
+  - romeo_1115
+  - romeo_1116
+  - romeo_1117
+  - romeo_1118
+  - romeo_1119
+  - romeo_1121
+  - romeo_1336
+  - romeo_1337
+  - romeo_1437
+  - romeo_1438
+  - romeo_1472
+  - romeo_1473
+  - romeo_1474
+  - romeo_1475
+  - romeo_1476
+  - romeo_1477
+  - romeo_1478
+  - romeo_1479
+  - romeo_1480
+  - romeo_1481
+  - romeo_1482
+  - romeo_1483
+  - romeo_1484
+  - romeo_1485
+  - romeo_1486
+  - romeo_1530
+  - romeo_1531
+  - romeo_1532
+  - romeo_1552
+  - romeo_1568
+  - romeo_1573
+  - romeo_1574
+  - romeo_1575
+  - romeo_1576
+  - romeo_1577
+  - romeo_1578
+  - romeo_1617
+  - romeo_1618
+  - romeo_1619
+  - romeo_1620
+  - romeo_1621
+  - romeo_1622
+  - romeo_1632
+  - romeo_1633
+  - romeo_1634
+  - romeo_1635
+  - romeo_1672
+  - romeo_1989
+  - romeo_1990
+  - romeo_2017
+  - romeo_2168
+  - romeo_2253
+  - romeo_2704
+  - romeo_2705
+  - romeo_2729
+  - romeo_2730
+  - romeo_2731
+  - romeo_3027
+  - romeo_3029
+  - romeo_3091
+  - romeo_3238
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

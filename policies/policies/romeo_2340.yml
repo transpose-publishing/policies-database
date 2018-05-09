@@ -1,72 +1,145 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_2340
+
+# publisher name from SHERAP/RoMEO
 publisher: University of Chicago Press
+
+# policy heading from SHERAP/RoMEO
 policy-heading: No Paid Open Access
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- ARLIS/NA Newsletter
-- 'Afterall: A Journal of Art, Context and Enquiry'
-- American Art
-- American Journal of Semitic Languages and Literatures
-- American Journal of Sociology
-- American Journal of Theology
-- 'Art Documentation: Journal of the Art Libraries Society of North America'
-- Botanical Bulletin
-- Botanical Gazette
-- Course of Study
-- Crime and Justice
-- Ethics
-- Francis W. Parker School Studies in Education
-- Francis W. Parker School Year Book
-- Innovation Policy and the Economy
-- International Journal of Ethics
-- International Journal of Plant Sciences
-- Journal of Legal Studies
-- Journal of Near Eastern Studies
-- NBER Macroeconomics Annual
-- NBER Macroeconomics Annual - Electronic Edition
-- Osiris
-- 'PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association'
-- Philosophy of Science
-- Physiological and Biochemical Zoology
-- Pulmonary Circulation
-- Renaissance Quarterly
-- 'Schools: Studies in Education'
-- Smithsonian Studies in American Art
-- Supreme Court Review
-- Tax Policy and the Economy
-- 'West 86th: A Journal of Decorative Arts, Design History, and Material Culture'
+  - ARLIS/NA Newsletter
+  - 'Afterall: A Journal of Art, Context and Enquiry'
+  - American Art
+  - American Journal of Semitic Languages and Literatures
+  - American Journal of Sociology
+  - American Journal of Theology
+  - 'Art Documentation: Journal of the Art Libraries Society of North America'
+  - Botanical Bulletin
+  - Botanical Gazette
+  - Course of Study
+  - Crime and Justice
+  - Ethics
+  - Francis W. Parker School Studies in Education
+  - Francis W. Parker School Year Book
+  - Innovation Policy and the Economy
+  - International Journal of Ethics
+  - International Journal of Plant Sciences
+  - Journal of Legal Studies
+  - Journal of Near Eastern Studies
+  - NBER Macroeconomics Annual
+  - NBER Macroeconomics Annual - Electronic Edition
+  - Osiris
+  - 'PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association'
+  - Philosophy of Science
+  - Physiological and Biochemical Zoology
+  - Pulmonary Circulation
+  - Renaissance Quarterly
+  - 'Schools: Studies in Education'
+  - Smithsonian Studies in American Art
+  - Supreme Court Review
+  - Tax Policy and the Economy
+  - 'West 86th: A Journal of Decorative Arts, Design History, and Material Culture'
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies:
-- romeo_77
+  - romeo_77
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

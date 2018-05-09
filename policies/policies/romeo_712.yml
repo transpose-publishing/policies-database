@@ -1,83 +1,156 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_712
+
+# publisher name from SHERAP/RoMEO
 publisher: Universidade Federal de Santa Catarina
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- Anuário de Literatura
-- Biotemas
-- Boletim de Pesquisa - NELIC
-- Brazilian Journal of Kinanthropometry and Human Performance
-- Caderno Brasileiro de Ensino de Física
-- Cadernos de Pesquisa Interdisciplinar em Ciências Humanas
-- Cadernos de Tradução
-- Em Debate
-- Em Tese
-- 'Encontros Bibli: Revista Eletrônica de Biblioteconomia e Ciência da Informação'
-- Esboços - Revista do Programa de Pós-Graduação em História da UFSC
-- Estudos Feministas
-- Estudos em Jornalismo e Mídia
-- 'Extensio: Revista Eletrônica de Extensão'
-- 'Fragmentos: Revista de Língua e Literatura Estrangeiras'
-- Fórum Lingüístico
-- Geosul
-- INSULA
-- Ilha Revista de Antropologia
-- Ilha do Desterro
-- Journal of English Language, Literatures in English and Cultural Studies
-- Mafuá - Revista de Literatura em Meio Digital
-- Motrivivência
-- Mundos do Trabalho
-- Outra Travessia
-- Perspectiva
-- Política and Sociedade
-- 'Ponto de Vista: revista de educação e processos inclusivos'
-- Principia
-- 'Revemat: revista eletrônica de educação matemática'
-- Revista Brasileira de Cineantropometria e Desempenho Humano
-- Revista Contemporânea de Contabilidade
-- Revista Internacional Interdisciplinar INTERthesis
-- Revista Katálysis
-- 'Revista Psicologia: Organizações e Trabalho'
-- Revista de Ciências Humanas
-- Revista de Ciências da Administração
-- Scientia Traductionis
-- 'Seqüência: estudos jurídicos e políticos'
-- Texto Digital
-- Textos de Economia
-- Travessia
-- Working Papers em Lingüística
-- ethic@
+  - Anuário de Literatura
+  - Biotemas
+  - Boletim de Pesquisa - NELIC
+  - Brazilian Journal of Kinanthropometry and Human Performance
+  - Caderno Brasileiro de Ensino de Física
+  - Cadernos de Pesquisa Interdisciplinar em Ciências Humanas
+  - Cadernos de Tradução
+  - Em Debate
+  - Em Tese
+  - 'Encontros Bibli: Revista Eletrônica de Biblioteconomia e Ciência da Informação'
+  - Esboços - Revista do Programa de Pós-Graduação em História da UFSC
+  - Estudos Feministas
+  - Estudos em Jornalismo e Mídia
+  - 'Extensio: Revista Eletrônica de Extensão'
+  - 'Fragmentos: Revista de Língua e Literatura Estrangeiras'
+  - Fórum Lingüístico
+  - Geosul
+  - INSULA
+  - Ilha Revista de Antropologia
+  - Ilha do Desterro
+  - Journal of English Language, Literatures in English and Cultural Studies
+  - Mafuá - Revista de Literatura em Meio Digital
+  - Motrivivência
+  - Mundos do Trabalho
+  - Outra Travessia
+  - Perspectiva
+  - Política and Sociedade
+  - 'Ponto de Vista: revista de educação e processos inclusivos'
+  - Principia
+  - 'Revemat: revista eletrônica de educação matemática'
+  - Revista Brasileira de Cineantropometria e Desempenho Humano
+  - Revista Contemporânea de Contabilidade
+  - Revista Internacional Interdisciplinar INTERthesis
+  - Revista Katálysis
+  - 'Revista Psicologia: Organizações e Trabalho'
+  - Revista de Ciências Humanas
+  - Revista de Ciências da Administração
+  - Scientia Traductionis
+  - 'Seqüência: estudos jurídicos e políticos'
+  - Texto Digital
+  - Textos de Economia
+  - Travessia
+  - Working Papers em Lingüística
+  - ethic@
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:

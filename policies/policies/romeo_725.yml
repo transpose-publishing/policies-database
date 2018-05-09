@@ -1,175 +1,248 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended)
 policy-id: romeo_725
+
+# publisher name from SHERAP/RoMEO
 publisher: OECD Publishing
+
+# policy heading from SHERAP/RoMEO
 policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy
 journals:
-- 'Activities of the Conference: Resolutions of the Council of Ministers of Transport
-  and Reports Approved'
-- African Central Government Debt
-- African Economic Outlook
-- Agricultural Policies in Emerging Economies
-- Agricultural Policies in Emerging and Transition Economies
-- Agricultural Policies in Non-OECD Countries
-- Agricultural Policies in OECD Countries
-- Agricultural Policy Monitoring and Evaluation
-- Aid for Trade at a Glance
-- Annual Report on the OECD Guidelines for Multinational Enterprises
-- 'Bank Profitability: Financial Statements of Banks'
-- 'Bank Profitability: Methodological Country Notes'
-- Benefit Systems and Work Incentives
-- Benefits and Wages
-- CELE Exchange, Centre for Effective Learning Environments
-- CO2 Emissions from Fuel Combustion
-- Coal Information
-- Consumption Tax Trends
-- Creditor Reporting System
-- Development Aid at a Glance
-- Developments in Steelmaking Capacity of Non-OECD Countries
-- Economic Outlook for Southeast Asia, China and India
-- Economic Policy Reforms
-- Education Indicators in Focus
-- Education Policy Analysis
-- Education Today
-- Education at a Glance
-- Electricity Information
-- Energy Balances of OECD Countries
-- Energy Balances of non-OECD Countries
-- Energy Statistics of Non-OECD Countries
-- Energy Statistics of OECD Countries
-- Energy Technology Perspectives
-- Entrepreneurship at a Glance
-- External Debt Statistics
-- 'External Debt Statistics: Historical Data'
-- Financial Market Trends
-- Financing SMEs and Entrepreneurs
-- Government at a Glance
-- Health at a Glance
-- 'Health at a Glance: Asia/Pacific'
-- 'Health at a Glance: Europe'
-- Higher Education Management and Policy
-- Highlights of the International Transport Forum
-- How's Life?
-- IEA Energy Papers
-- Information Technology Outlook
-- International Transport Forum Discussion Papers
-- Journal of Business Cycle Measurement and Analysis
-- Key World Energy Statistics
-- Medium-Term Coal Market Report
-- Medium-Term Gas Market Report
-- Medium-Term Oil Market Report
-- Medium-Term Renewable Energy Market Report
-- National Accounts at a Glance
-- National Accounts of OECD Countries, Financial Accounts
-- National Accounts of OECD Countries, Financial Balance Sheets
-- National Accounts of OECD Countries, General Government Accounts
-- Nuclear Law Bulletin
-- OECD Central Government Debt Statistics
-- OECD Communications Outlook
-- OECD Compendium of Productivity Indicators
-- OECD Corporate Governance Working Papers
-- OECD Development Centre Policy Briefs
-- OECD Development Centre Policy Insights
-- OECD Development Centre Working Papers
-- OECD Development Co-operation Working Papers
-- OECD Digital Economy Papers
-- OECD Economic Outlook
-- OECD Economic Policy Papers
-- OECD Economic Studies
-- OECD Economic Surveys
-- OECD Economics Department Working Papers
-- OECD Education Working Papers
-- OECD Environment Policy Papers
-- OECD Environment Working Papers
-- OECD Environmental Outlook
-- OECD Food, Agriculture and Fisheries Working Papers
-- OECD Green Growth Papers
-- OECD Health Technical Papers
-- OECD Health Working Papers
-- OECD Institutional Investors Statistics
-- OECD Insurance Statistics
-- OECD Jobs Study Working Papers
-- OECD Journal on Budgeting
-- OECD Journal on Development
-- 'OECD Journal: Competition Law and Policy'
-- 'OECD Journal: Economic Studies'
-- 'OECD Journal: Financial Market Trends'
-- 'OECD Journal: General Papers'
-- 'OECD Journal: Journal of Business Cycle Measurement and Analysis'
-- OECD Labour Force Statistics
-- OECD Labour Market and Social Policy Occasional Papers
-- OECD Local Economic and Employment Development (LEED) Working Papers
-- OECD Papers
-- OECD Pensions at a Glance
-- OECD Regional Development Working Papers
-- OECD Regions at a Glance
-- 'OECD Review of Fisheries: Country Statistics'
-- 'OECD Review of Fisheries: Policies and Summary Statistics'
-- OECD Science, Technology and Industry Outlook
-- OECD Science, Technology and Industry Policy Papers
-- OECD Science, Technology and Industry Scoreboard
-- OECD Science, Technology and Industry Working Papers
-- OECD Small and Medium Enterprise Outlook
-- OECD Social, Employment and Migration Working Papers
-- OECD Sovereign Borrowing Outlook
-- OECD Statistics Working Papers
-- OECD Taxation Working Papers
-- OECD Tourism Papers
-- OECD Trade Policy Working Papers
-- OECD Trade and Environment Working Papers
-- OECD Working Papers on Finance, Insurance and Private Pensions
-- OECD Working Papers on Fiscal Federalism
-- OECD Working Papers on Insurance and Private Pensions
-- OECD Working Papers on International Investment
-- OECD Working Papers on Public Governance
-- OECD Working Papers on Sovereign Borrowing and Public Debt Management
-- OECD/IEA Climate Change Expert Group Papers
-- OECD/ITF Joint Transport Research Centre Discussion Papers
-- PEB Exchange, Programme on Educational Building
-- PISA in Focus
-- Pensions at a Glance Asia/Pacific
-- Perspectives on Global Development
-- Projected Costs of Generating Electricity
-- Purchasing Power Parities and Real Expenditures
-- Revenue Statistics in Latin America
-- Science, Technology and Industry Review
-- Secretary-General's Report to Ministers
-- Sigma Papers
-- Sigma Public Management Profiles
-- Southeast Asian Economic Outlook
-- Structural Statistics for Industry and Services
-- Tax Administration
-- Teaching in Focus
+  - 'Activities of the Conference: Resolutions of the Council of Ministers of Transport
+    and Reports Approved'
+  - African Central Government Debt
+  - African Economic Outlook
+  - Agricultural Policies in Emerging Economies
+  - Agricultural Policies in Emerging and Transition Economies
+  - Agricultural Policies in Non-OECD Countries
+  - Agricultural Policies in OECD Countries
+  - Agricultural Policy Monitoring and Evaluation
+  - Aid for Trade at a Glance
+  - Annual Report on the OECD Guidelines for Multinational Enterprises
+  - 'Bank Profitability: Financial Statements of Banks'
+  - 'Bank Profitability: Methodological Country Notes'
+  - Benefit Systems and Work Incentives
+  - Benefits and Wages
+  - CELE Exchange, Centre for Effective Learning Environments
+  - CO2 Emissions from Fuel Combustion
+  - Coal Information
+  - Consumption Tax Trends
+  - Creditor Reporting System
+  - Development Aid at a Glance
+  - Developments in Steelmaking Capacity of Non-OECD Countries
+  - Economic Outlook for Southeast Asia, China and India
+  - Economic Policy Reforms
+  - Education Indicators in Focus
+  - Education Policy Analysis
+  - Education Today
+  - Education at a Glance
+  - Electricity Information
+  - Energy Balances of OECD Countries
+  - Energy Balances of non-OECD Countries
+  - Energy Statistics of Non-OECD Countries
+  - Energy Statistics of OECD Countries
+  - Energy Technology Perspectives
+  - Entrepreneurship at a Glance
+  - External Debt Statistics
+  - 'External Debt Statistics: Historical Data'
+  - Financial Market Trends
+  - Financing SMEs and Entrepreneurs
+  - Government at a Glance
+  - Health at a Glance
+  - 'Health at a Glance: Asia/Pacific'
+  - 'Health at a Glance: Europe'
+  - Higher Education Management and Policy
+  - Highlights of the International Transport Forum
+  - How's Life?
+  - IEA Energy Papers
+  - Information Technology Outlook
+  - International Transport Forum Discussion Papers
+  - Journal of Business Cycle Measurement and Analysis
+  - Key World Energy Statistics
+  - Medium-Term Coal Market Report
+  - Medium-Term Gas Market Report
+  - Medium-Term Oil Market Report
+  - Medium-Term Renewable Energy Market Report
+  - National Accounts at a Glance
+  - National Accounts of OECD Countries, Financial Accounts
+  - National Accounts of OECD Countries, Financial Balance Sheets
+  - National Accounts of OECD Countries, General Government Accounts
+  - Nuclear Law Bulletin
+  - OECD Central Government Debt Statistics
+  - OECD Communications Outlook
+  - OECD Compendium of Productivity Indicators
+  - OECD Corporate Governance Working Papers
+  - OECD Development Centre Policy Briefs
+  - OECD Development Centre Policy Insights
+  - OECD Development Centre Working Papers
+  - OECD Development Co-operation Working Papers
+  - OECD Digital Economy Papers
+  - OECD Economic Outlook
+  - OECD Economic Policy Papers
+  - OECD Economic Studies
+  - OECD Economic Surveys
+  - OECD Economics Department Working Papers
+  - OECD Education Working Papers
+  - OECD Environment Policy Papers
+  - OECD Environment Working Papers
+  - OECD Environmental Outlook
+  - OECD Food, Agriculture and Fisheries Working Papers
+  - OECD Green Growth Papers
+  - OECD Health Technical Papers
+  - OECD Health Working Papers
+  - OECD Institutional Investors Statistics
+  - OECD Insurance Statistics
+  - OECD Jobs Study Working Papers
+  - OECD Journal on Budgeting
+  - OECD Journal on Development
+  - 'OECD Journal: Competition Law and Policy'
+  - 'OECD Journal: Economic Studies'
+  - 'OECD Journal: Financial Market Trends'
+  - 'OECD Journal: General Papers'
+  - 'OECD Journal: Journal of Business Cycle Measurement and Analysis'
+  - OECD Labour Force Statistics
+  - OECD Labour Market and Social Policy Occasional Papers
+  - OECD Local Economic and Employment Development (LEED) Working Papers
+  - OECD Papers
+  - OECD Pensions at a Glance
+  - OECD Regional Development Working Papers
+  - OECD Regions at a Glance
+  - 'OECD Review of Fisheries: Country Statistics'
+  - 'OECD Review of Fisheries: Policies and Summary Statistics'
+  - OECD Science, Technology and Industry Outlook
+  - OECD Science, Technology and Industry Policy Papers
+  - OECD Science, Technology and Industry Scoreboard
+  - OECD Science, Technology and Industry Working Papers
+  - OECD Small and Medium Enterprise Outlook
+  - OECD Social, Employment and Migration Working Papers
+  - OECD Sovereign Borrowing Outlook
+  - OECD Statistics Working Papers
+  - OECD Taxation Working Papers
+  - OECD Tourism Papers
+  - OECD Trade Policy Working Papers
+  - OECD Trade and Environment Working Papers
+  - OECD Working Papers on Finance, Insurance and Private Pensions
+  - OECD Working Papers on Fiscal Federalism
+  - OECD Working Papers on Insurance and Private Pensions
+  - OECD Working Papers on International Investment
+  - OECD Working Papers on Public Governance
+  - OECD Working Papers on Sovereign Borrowing and Public Debt Management
+  - OECD/IEA Climate Change Expert Group Papers
+  - OECD/ITF Joint Transport Research Centre Discussion Papers
+  - PEB Exchange, Programme on Educational Building
+  - PISA in Focus
+  - Pensions at a Glance Asia/Pacific
+  - Perspectives on Global Development
+  - Projected Costs of Generating Electricity
+  - Purchasing Power Parities and Real Expenditures
+  - Revenue Statistics in Latin America
+  - Science, Technology and Industry Review
+  - Secretary-General's Report to Ministers
+  - Sigma Papers
+  - Sigma Public Management Profiles
+  - Southeast Asian Economic Outlook
+  - Structural Statistics for Industry and Services
+  - Tax Administration
+  - Teaching in Focus
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy
 parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent
 child-policies: []
-flag-romeopub:
+
+# If this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
 peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
 identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
 identities-published:
+
+# Co-reviewer policy url (valid url)
 co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
+
+# Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
 review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Peer review credit policy url (valid url)
 credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
+
+# Can users archive preprints? From SHERPA/RoMEO (can/cannot/restricted/unclear)
 prearchiving:
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions)
 prerestrictions:
-- 
+  - 
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl)
 copyrightlinkurl:
+
+# Conditions (from SHERPA/RoMEO: conditions)
 conditions:
-- 
+  - 
+
+# Preprint policy url (valid url)
 preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
 preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
 preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
+
+# url for preprint-media
 preprint-media-url:
+
+# Policies on preprint licensing (free text)
 preprint-licensing:
+
+# url for preprint-licensing
 preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
+
+# url for scoop-protection
 scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
+
+# url for community-reviews
 community-reviews-url:
