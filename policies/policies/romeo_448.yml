@@ -94,25 +94,25 @@ conditions:
   - Publisher last contacted on 15/07/2013
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: http://genesdev.cshlp.org/site/misc/ifora.xhtml
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none)
-preprint-version:
+preprint-version: before review only
 
 # Time when a preprint can be posted (before acceptance only, anytime, other)
-preprint-time:
+preprint-time: before acceptance only
 
 # Can preprints be cited in the reference list? (yes/no)
-preprint-citation:
+preprint-citation: 
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers:
+acceptable-servers: community preprint servers
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
-preprint-media:
+preprint-media: Submitted manuscripts are subject to press embargo 
 
 # url for preprint-media
-preprint-media-url:
+preprint-media-url: http://genesdev.cshlp.org/site/misc/ifora.xhtml
 
 # Policies on preprint licensing (free text)
 preprint-licensing:
