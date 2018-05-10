@@ -24,7 +24,7 @@ Specifically, we'd like to begin filling in information relevant to some of the 
 
 ## How to change policy records
 
-You can change policy entries in just a few minutes in your browser! 
+You can change policy entries in just a few minutes in your browser! To get started, you'll need a GitHub account (click on "Sign up" in the top right of your screen to make one - don't forget to verify your account by clicking on the link in the confirmation email!)
 
 ### Step 1: Locating the journal policy
 Using the search bar at the top of the screen, type in your journal name of choice, ideally enclosed in quotes. (If you're looking for inspiration, try our list of [prioritized journals!](https://github.com/transpose-publishing/policies-database/issues/4)) If the journal is in the database, you will see a link to a file such as "policies/policies/romeo_201.yml. Click it to look at the policy record.
