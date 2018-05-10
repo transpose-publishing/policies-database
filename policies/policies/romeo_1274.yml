@@ -34,7 +34,7 @@ child-policies: []
 flag-romeo:
 
 # Peer review policy url (valid url)
-peer-review-url:
+peer-review-url: http://www.thelancet.com/pb/assets/raw/Lancet/authors/lancet-information-for-authors.pdf
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no)
 open-reports:
@@ -109,7 +109,7 @@ conditions:
   - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: http://www.thelancet.com/pb/assets/raw/Lancet/authors/lancet-information-for-authors.pdf
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
