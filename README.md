@@ -19,7 +19,7 @@ For more information on this initiative, visit our [homepage](http://transpose-p
 
 ## Contributing
 
-We welcome contributions! See our [contribution guidelines](CONTRIBUTING.md) to get started.
+It's easy to contribute - editing policy records can take just a few minutes in your browser! See our [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## Participation Guidelines
 
