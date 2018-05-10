@@ -55,12 +55,10 @@ mapping:
     type: str
     desc: "Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)"
   co-review-invited:
-    type: str
-    enum: [yes, no]
+    type: bool
     desc: "Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)"
   co-review-field:
-    type: str
-    enum: [yes, no]
+    type: bool
     desc: "Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
 
   # PEER REVIEW TRANSFER
@@ -71,8 +69,7 @@ mapping:
     type: str
     desc: "What are the titles of the sections of the review form? (free text)"
   separate-structure:
-    type: str
-    enum: [yes, no]
+    type: bool
     desc: Are there separate fields for technical & impact evaluation? (yes/no)
 
   # PEER REVIEW CREDIT
@@ -118,8 +115,7 @@ mapping:
     enum: [before acceptance only, anytime, other]
     desc: Time when a preprint can be posted (before acceptance only, anytime, other)
   preprint-citation:
-    type: str
-    enum: [yes, no]
+    type: bool
     desc: "Can preprints be cited in the reference list? (yes/no)"
   acceptable-servers:
     type: str
