@@ -58,6 +58,8 @@ On the next screen, press the green "Create pull request" button...
 
 ![tutorial5](https://github.com/transpose-publishing/policies-database/blob/master/media/tutorial5anno.PNG)
 
+That's it! A member of the TRANSPOSE team will review your pull request and make sure it's ready to merge into the master branch. If there's a problem, we'll get in touch - but otherwise, you're done! You can repeat this process for every policy entry you would like to change.
+
 
 ## How to report bugs
 
@@ -71,3 +73,5 @@ Notice a mistake? Please file any bugs, requests, or questions in our [issue tra
 [![Sherpa Romeo](https://github.com/transpose-publishing/transpose-publishing.github.io/blob/master/images/romeosmall.gif)](http://www.sherpa.ac.uk/RoMEO.php)
 
 Information in the policy records is derived from the RoMEO database which is compiled by SHERPA and has been modified for use here. Data from SHERPA RoMEO is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License.](https://creativecommons.org/licenses/by-nc-sa/2.5/)
+
+_Note that as per our [LICENSE](LICENSE.md), all original contributions will be licensed CC0!_
