@@ -65,3 +65,8 @@ All original work in this repository is dedicated to the public domain under the
 See [LICENSE.md](LICENSE.md).
 SHERPA RoMEO data is reused under its CC BY-NC-SA 2.5 License.
 Learn more in the [`romeo`](romeo) README.
+
+## Data source
+[![Sherpa Romeo](https://github.com/transpose-publishing/transpose-publishing.github.io/blob/master/images/romeosmall.gif)](http://www.sherpa.ac.uk/RoMEO.php)
+
+Information in the policy records is derived from the RoMEO database which is compiled by SHERPA and has been modified for use here. Data from SHERPA RoMEO is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License.](https://creativecommons.org/licenses/by-nc-sa/2.5/)
