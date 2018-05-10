@@ -44,6 +44,7 @@ Now add information about the relevant policy, using the journal or publisher we
 - For every policy you enter, please add a reference url to the corresponding field
 - Please enter only the values suggested
 - If you notice that not all the journals listed at the top of the file share the same policy, please leave a note in the ``flag-romeo`` field.
+- If you have any queries or concerns about the information you've entered (for example, if the relevant policy doesn't neatly fit into the categories of possible responses), please add this information to the "optional extended description" at the bottom of the page.
 
 When you're finished, enter a short description of what you did in the box at the bottom of the page and click the green "Propose file change" button. 
 
