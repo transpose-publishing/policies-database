@@ -19,13 +19,8 @@ script:
     --ExecutePreprocessor.timeout=-1
     --ExecutePreprocessor.kernel_name=python
     romeo/*.ipynb
-  - pykwalify --strict-rule-validation
-    --data-file=policies/template.yml
-    --schema-file=policies/schema.yml
+  - pytest policies/validate_policies.py
   - jupyter nbconvert --inplace --execute
     --ExecutePreprocessor.timeout=-1
     --ExecutePreprocessor.kernel_name=python
     policies/*.ipynb
-  # - pykwalify
-  #   --data-file=policies/policies/*.yml
-  #   --schema-file=policies/schema.yml
