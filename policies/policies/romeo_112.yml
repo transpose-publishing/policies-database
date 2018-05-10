@@ -33,7 +33,7 @@ peer-review-url: http://journals.plos.org/plosone/s/editorial-and-peer-review-pr
 open-reports: no
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no)
-identities-revealed: no
+identities-revealed: optional
 
 # Are reviewer identities published? (mandatory/optional/no)
 identities-published: no
