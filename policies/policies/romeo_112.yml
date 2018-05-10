@@ -57,7 +57,7 @@ transfer-policy: Authors can request that submissions (with referee reports, if 
 review-form-url:
 
 # What are the titles of the sections of the review form? (free text)
-review-structure: Is the manuscript technically sound? (drop down) Has the statistical analysis been performed appropriately and rigorously? (drop down) Does the manuscript adhere to the PLOS Data Policy? (drop down) Is the manuscript presented in an intelligible fashion and written in standard English? Review comments to the author. If you would like your identity to be revealed to the author, please include your name here (optional). COI disclosure to the editor. Did you recieve any assistance in preparing the review (eg from a post-doc or graduate student? If yes, please provide his/her name and title here. Reference: http://journals.plos.org/plosone/s/file?id=t6Vo/plosone-reviewer-form.pdf
+review-structure: Is the manuscript technically sound? (drop down) Has the statistical analysis been performed appropriately and rigorously? (drop down) Does the manuscript adhere to the PLOS Data Policy? (drop down) Is the manuscript presented in an intelligible fashion and written in standard English? Review comments to the author. If you would like your identity to be revealed to the author, please include your name here (optional). COI disclosure to the editor. Did you recieve any assistance in preparing the review (eg from a post-doc or graduate student? If yes, please provide his/her name and title here. Reference http://journals.plos.org/plosone/s/file?id=t6Vo/plosone-reviewer-form.pdf
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure: yes
