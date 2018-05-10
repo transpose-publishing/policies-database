@@ -27,13 +27,13 @@ child-policies: []
 flag-romeo:
 
 # Peer review policy url (valid url)
-peer-review-url:
+peer-review-url: gghgeoigahieo
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no)
-open-reports:
+open-reports: ghihaeohov
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no)
-identities-revealed:
+identities-revealed: vaesgas
 
 # Are reviewer identities published? (mandatory/optional/no)
 identities-published:
