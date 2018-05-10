@@ -24,40 +24,40 @@ flag-romeo:
 peer-review-url:
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no)
-open-reports:
+open-reports: mandatory
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no)
-identities-revealed:
+identities-revealed: optional
 
 # Are reviewer identities published? (mandatory/optional/no)
-identities-published:
+identities-published: optional
 
 # Co-reviewer policy url (valid url)
-co-review-url:
+co-review-url: https://submit.elifesciences.org/cgi-bin/main.plex?form_type=display_rev_instructions#confidential
 
 # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
-co-review-policy:
+co-review-policy:  co-reviewing a manuscript with a single experienced junior colleague can be an important learning experience that we are happy to support. To provide accountability and appropriate credit, the name of the co-referee should be disclosed to the editors in advance and we would encourage all reviewers to consider sharing their names with the authors. 
 
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
 # Peer review transfer url (valid url)
-transfer-url:
+transfer-url: https://elifesciences.org/inside-elife/fde87c31/making-the-most-of-elife-peer-reviews
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy:
+transfer-policy: We’ll transfer review information to any other appropriate journal, including the PLOS journals, EMBO Reports, Biology Open, BMC Biology, and the BMC-series journals.
 
 # url to a copy or description of the peer review form (valid url)
-review-form-url:
+review-form-url: https://submit.elifesciences.org/cgi-bin/main.plex?form_type=display_rev_instructions#writing
 
 # What are the titles of the sections of the review form? (free text)
-review-structure:
+review-structure: You will be asked for a general assessment and a summary of any substantive concerns (ideally in fewer than 500 words but longer reviews can also be submitted), and a list of minor comments...You will be asked to confirm that you do not have any competing interests to declare; that you disclose the name(s) of anybody with whom you have discussed the article, or who has assisted in the review process (including co-reviewing for training purposes); whether you want to remain anonymous; and whether you agree to allow us to share your full review and identity with other journals in the event of rejection.
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
 
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
-co-review-field:
+co-review-field: yes
 
 # Peer review credit policy url (valid url)
 credit-url:
@@ -83,25 +83,25 @@ conditions:
   - All titles are open access journals
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
 
 # Time when a preprint can be posted (before acceptance only, anytime, other)
-preprint-time:
+preprint-time: anytime
 
 # Can preprints be cited in the reference list? (yes/no)
-preprint-citation:
+preprint-citation: yes
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers:
+acceptable-servers: To help increase the accessibility of research and ensure that it is communicated as rapidly as possible, authors are encouraged to make use of preprint servers, such as bioRxiv or Authorea, while their paper is under consideration by eLife. 
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
-preprint-media:
+preprint-media: Prior to publication, authors are encouraged to present their findings to their peers, including at meetings and conferences; to deposit a copy of their manuscript with a preprint server (or other open repository or website); and to blog about their findings.
 
 # url for preprint-media
-preprint-media-url:
+preprint-media-url: https://submit.elifesciences.org/html/elife_author_instructions.html#policies
 
 # Policies on preprint licensing (free text)
 preprint-licensing:
@@ -113,10 +113,10 @@ preprint-licensing-url:
 scoop-protection:
 
 # url for scoop-protection
-scoop-protection-url:
+scoop-protection-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
 
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
-community-reviews:
+community-reviews: The Editors will primarily base their decision on the content of your submission, but public feedback on the work (positive or negative) might be taken into account.
 
 # url for community-reviews
-community-reviews-url:
+community-reviews-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
