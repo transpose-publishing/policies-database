@@ -257,17 +257,23 @@ co-review-policy:
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
-# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
-co-review-field:
+# Peer review transfer url (valid url)
+transfer-url:
 
 # Policy on transfer of peer reviews (free text)
 transfer-policy:
+
+# url to a copy or description of the peer review form (valid url)
+review-form-url:
 
 # What are the titles of the sections of the review form? (free text)
 review-structure:
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
 
 # Peer review credit policy url (valid url)
 credit-url:

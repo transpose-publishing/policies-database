@@ -31,7 +31,7 @@ mapping:
   # OPEN PEER REVIEW
   peer-review-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: Peer review policy url (valid url)
   open-reports:
     type: str
@@ -49,7 +49,7 @@ mapping:
   # CO-REVIEWERS
   co-review-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: Co-reviewer policy url (valid url)
   co-review-policy:
     type: str
@@ -57,25 +57,35 @@ mapping:
   co-review-invited:
     type: bool
     desc: "Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)"
-  co-review-field:
-    type: bool
-    desc: "Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
 
   # PEER REVIEW TRANSFER
+  transfer-url:
+    type: str
+    pattern: "^(ht|f)tps?://\\S+$"
+    desc: Peer review transfer url (valid url)
   transfer-policy:
     type: str
     desc: "Policy on transfer of peer reviews (free text)"
+
+  # REVIEW FORM
+  review-form-url:
+    type: str
+    pattern: "^(ht|f)tps?://\\S+$"
+    desc: url to a copy or description of the peer review form (valid url)
   review-structure:
     type: str
     desc: "What are the titles of the sections of the review form? (free text)"
   separate-structure:
     type: bool
     desc: Are there separate fields for technical & impact evaluation? (yes/no)
+  co-review-field:
+    type: bool
+    desc: "Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
 
   # PEER REVIEW CREDIT
   credit-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: "Peer review credit policy url (valid url)"
   orcid-peer-review:
     type: str
@@ -104,7 +114,7 @@ mapping:
       - type: str
   preprint-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: "Preprint policy url (valid url)"
   preprint-version:
     type: str
@@ -125,26 +135,26 @@ mapping:
     desc: What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
   preprint-media-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: url for preprint-media
   preprint-licensing:
     type: str
     desc: Policies on preprint licensing (free text)
   preprint-licensing-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: "url for preprint-licensing"
   scoop-protection:
     type: str
     desc: "Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)"
   scoop-protection-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: url for scoop-protection
   community-reviews:
     type: str
     desc: "Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)"
   community-reviews-url:
     type: str
-    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    pattern: "^(ht|f)tps?://\\S+$"
     desc: url for community-reviews
