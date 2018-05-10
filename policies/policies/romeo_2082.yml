@@ -22,31 +22,31 @@ child-policies: []
 flag-romeo:
 
 # Peer review policy url (valid url)
-peer-review-url:
+peer-review-url: http://dev.biologists.org/content/journal-policies
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no)
-open-reports:
+open-reports: no
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no)
-identities-revealed:
+identities-revealed: optional
 
 # Are reviewer identities published? (mandatory/optional/no)
-identities-published:
+identities-published: no
 
 # Co-reviewer policy url (valid url)
-co-review-url:
+co-review-url: http://dev.biologists.org/content/reviewer-guide#info
 
 # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
-co-review-policy:
+co-review-policy: We simply ask that: the name of the co-reviewer is reported to the Editor (a field is provided in the report form for this purpose); the same rules of confidentiality and conflict of interest be applied; there is a genuine mentoring process; the senior invited reviewer takes responsibility for the report delivered to the journal.
 
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
-co-review-invited:
+co-review-invited: 
 
 # Peer review transfer url (valid url)
-transfer-url:
+transfer-url: http://dev.biologists.org/content/editorial-process
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy:
+transfer-policy: Papers rejected from Development can be transferred to Biology Open (BiO), an online Open Access journal also published by The Company of Biologists, for editorial consideration. 
 
 # url to a copy or description of the peer review form (valid url)
 review-form-url:
@@ -93,22 +93,22 @@ conditions:
   - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: http://dev.biologists.org/content/144/1/1
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none)
-preprint-version:
+preprint-version: before review only
 
 # Time when a preprint can be posted (before acceptance only, anytime, other)
-preprint-time:
+preprint-time: anytime
 
 # Can preprints be cited in the reference list? (yes/no)
-preprint-citation:
+preprint-citation: yes
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers:
+acceptable-servers: bioRxiv
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
-preprint-media:
+preprint-media: 
 
 # url for preprint-media
 preprint-media-url:
