@@ -24,40 +24,40 @@ parent-policies: []
 child-policies: []
 
 # Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
-flag-romeo:
+flag-romeo: there are different peer review urls for each journal - using PLOS ONE below
 
 # Peer review policy url (valid url)
-peer-review-url:
+peer-review-url: http://journals.plos.org/plosone/s/editorial-and-peer-review-process
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no)
-open-reports:
+open-reports: no
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no)
-identities-revealed:
+identities-revealed: no
 
 # Are reviewer identities published? (mandatory/optional/no)
-identities-published:
+identities-published: no
 
 # Co-reviewer policy url (valid url)
-co-review-url:
+co-review-url: http://journals.plos.org/plosone/s/reviewer-guidelines#loc-confidentiality
 
 # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
-co-review-policy:
+co-review-policy: Reviewers are required to treat all submitted manuscripts in strict confidence and should not share information about submissions with any other parties unless previously agreed with the editor. The involvement of a third party in the review must be declared at the time of the submission of the review.
 
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
-co-review-field:
+co-review-field: yes
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy:
+transfer-policy: Authors can request that submissions (with referee reports, if relevant) rejected from one PLOS journal be transferred to another PLOS journal for further consideration there. Manuscripts will never be transferred between the journals without an author’s consent.We trust that reviewers for any PLOS journal are willing to have their reviews considered by the editors of another PLOS journal. 
 
 # What are the titles of the sections of the review form? (free text)
-review-structure:
+review-structure: Is the manuscript technically sound? (drop down) Has the statistical analysis been performed appropriately and rigorously? (drop down) Does the manuscript adhere to the PLOS Data Policy? (drop down) Is the manuscript presented in an intelligible fashion and written in standard English? Review comments to the author. If you would like your identity to be revealed to the author, please include your name here (optional). COI disclosure to the editor. Did you recieve any assistance in preparing the review (eg from a post-doc or graduate student? If yes, please provide his/her name and title here. Reference http://journals.plos.org/plosone/s/file?id=t6Vo/plosone-reviewer-form.pdf
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
-separate-structure:
+separate-structure: yes
 
 # Peer review credit policy url (valid url)
 credit-url:
@@ -88,7 +88,7 @@ conditions:
   - All titles are open access journals
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: http://journals.plos.org/plosone/s/criteria-for-publication
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none)
 preprint-version:
