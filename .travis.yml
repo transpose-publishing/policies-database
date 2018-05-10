@@ -15,12 +15,15 @@ install:
   - conda list
 
 script:
-  - jupyter nbconvert --inplace --execute
-    --ExecutePreprocessor.timeout=-1
-    --ExecutePreprocessor.kernel_name=python
-    romeo/*.ipynb
+  # In the future, we can consider only evaluating changed YAML files
+  - CHANGED_FILES=($(git diff --name-only $TRAVIS_COMMIT_RANGE))
+  - echo $CHANGED_FILES
+  # - jupyter nbconvert --inplace --execute
+  #   --ExecutePreprocessor.timeout=-1
+  #   --ExecutePreprocessor.kernel_name=python
+  #   romeo/*.ipynb
   - pytest policies/validate_policies.py
-  - jupyter nbconvert --inplace --execute
-    --ExecutePreprocessor.timeout=-1
-    --ExecutePreprocessor.kernel_name=python
-    policies/*.ipynb
+  # - jupyter nbconvert --inplace --execute
+  #   --ExecutePreprocessor.timeout=-1
+  #   --ExecutePreprocessor.kernel_name=python
+  #   policies/*.ipynb
