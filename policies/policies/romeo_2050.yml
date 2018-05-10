@@ -1,0 +1,974 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_2050
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Wiley
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: 12 months
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - AIChE Journal
+  - ANZ Journal of Surgery
+  - APMIS
+  - Academic Emergency Medicine
+  - Acta Geologica Sinica - English Edition
+  - Acta Neurologica Scandinavica
+  - Acta Obstetricia et Gynecologica Scandinavica
+  - Acta Paediatrica
+  - Acta Physiologica
+  - Acta Psychiatrica Scandinavica
+  - Acta Zoologica
+  - Acute Medicine and Surgery
+  - Addiction
+  - Addiction Biology
+  - Adultspan Journal
+  - Advanced Electronic Materials
+  - Advanced Energy Materials
+  - Advanced Engineering Materials
+  - Advanced Functional Materials
+  - Advanced Healthcare Materials
+  - Advanced Materials
+  - Advanced Materials Interfaces
+  - Advanced Materials Technologies
+  - Advanced Optical Materials
+  - Advanced Synthesis and Catalysis
+  - Advances in Polymer Technology
+  - African Journal of Ecology
+  - Aggressive Behavior
+  - Agricultural and Forest Entomology
+  - 'Alcoholism: Clinical and Experimental Research'
+  - Alimentary Pharmacology and Therapeutics
+  - Allergy
+  - American Business Law Journal
+  - American Journal of Hematology
+  - American Journal of Human Biology
+  - American Journal of Industrial Medicine
+  - American Journal of Medical Genetics
+  - American Journal of Medical Genetics Part A
+  - 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  - 'American Journal of Medical Genetics Part C: Seminars in Medical Genetics'
+  - American Journal of Physical Anthropology
+  - American Journal of Primatology
+  - American Journal of Reproductive Immunology
+  - American Journal of Transplantation
+  - American Journal on Addictions
+  - Anaesthesia
+  - Analyses of Social Issues and Public Policy
+  - Anatomia, Histologia, Embryologia
+  - Anatomical Record
+  - 'Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology'
+  - Anatomical Sciences Education
+  - Andrologia
+  - Andrology
+  - Angewandte Chemie
+  - Angewandte Chemie International Edition
+  - Animal Conservation
+  - Animal Genetics
+  - Animal Science Journal
+  - Annalen der Physik
+  - Annals of Applied Biology
+  - Annals of Human Genetics
+  - Annals of Neurology
+  - Annals of Noninvasive Electrocardiology
+  - Annals of the New York Academy of Sciences
+  - Applied Cognitive Psychology
+  - Applied Organometallic Chemistry
+  - Applied Psychology
+  - 'Applied Psychology: Health and Well-Being'
+  - Applied Stochastic Models in Business and Industry
+  - Applied Vegetation Science
+  - Aquaculture Nutrition
+  - Aquaculture Research
+  - 'Aquatic Conservation: Marine and Freshwater Ecosystems'
+  - Archaeological Prospection
+  - Archives of Insect Biochemistry and Physiology
+  - Arthritis Care and Research
+  - Arthritis and Rheumatology
+  - Artificial Organs
+  - Asia-Pacific Journal of Chemical Engineering
+  - Asia-Pacific Journal of Clinical Oncology
+  - Asia-Pacific Psychiatry
+  - Asian Journal of Control
+  - Asian Journal of Endoscopic Surgery
+  - Asian Journal of Social Psychology
+  - Astronomische Nachrichten
+  - Austral Entomology
+  - Australasian Journal of Dermatology
+  - Australasian Journal on Ageing
+  - Australian Dental Journal
+  - Australian Endodontic Journal
+  - Australian Journal of Anthropology
+  - Australian Journal of Entomology
+  - Australian Journal of Grape and Wine Research
+  - Australian Journal of Psychology
+  - Australian Journal of Rural Health
+  - Australian Occupational Therapy Journal
+  - Australian Veterinary Journal
+  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+  - Australian and New Zealand Journal of Statistics
+  - Autonomic and Autacoid Pharmacology
+  - 'BJOG: An International Journal of Obstetrics and Gynaecology'
+  - BJU International
+  - Basic and Clinical Pharmacology and Toxicology
+  - Basic and Clinical Pharmacology and Toxicology Supplement
+  - Basin Research
+  - Behavioral Sciences and the Law
+  - BioEssays
+  - Bioelectromagnetics
+  - Biofuels, Bioproducts and Biorefining
+  - Biological Reviews
+  - Biology of the Cell
+  - Biomedical Chromatography
+  - Biopharmaceutics and Drug Disposition
+  - Biopolymers
+  - Biotechnology Progress
+  - Biotechnology and Bioengineering
+  - Biotropica
+  - Bipolar Disorders
+  - Birth
+  - 'Birth Defects Research Part A: Clinical and Molecular Teratology'
+  - 'Birth Defects Research Part B: Developmental and Reproductive Toxicology'
+  - 'Birth Defects Research Part C: Embryo Today: Reviews'
+  - Boreas
+  - Brain Pathology
+  - Breast Journal
+  - British Journal of Clinical Pharmacology
+  - British Journal of Clinical Psychology
+  - British Journal of Dermatology
+  - British Journal of Developmental Psychology
+  - British Journal of Educational Psychology
+  - British Journal of Haematology
+  - British Journal of Health Psychology
+  - British Journal of Mathematical and Statistical Psychology
+  - British Journal of Pharmacology
+  - British Journal of Psychology
+  - British Journal of Psychotherapy
+  - British Journal of Social Psychology
+  - British Journal of Surgery
+  - 'CA: A Cancer Journal for Clinicians'
+  - CLEAN - Soil, Air, Water
+  - CNS Neuroscience and Therapeutics
+  - Canadian Journal of Statistics
+  - Canadian Public Administration
+  - Cancer
+  - Cancer Cytopathology
+  - Cardiovascular Therapeutics
+  - Career Development Quarterly
+  - Catheterization and Cardiovascular Interventions
+  - Cell Biochemistry and Function
+  - Cell Biology International
+  - Cell Proliferation
+  - Cellular Microbiology
+  - ChemBioChem
+  - ChemCatChem
+  - ChemMedChem
+  - ChemPhysChem
+  - ChemPlusChem
+  - ChemSusChem
+  - Chemical Biology and Drug Design
+  - Chemical Engineering and Technology
+  - Chemistry - A European Journal
+  - Chemistry - An Asian Journal
+  - ChemistrySelect
+  - Child Development
+  - Child Development Perspectives
+  - Child and Adolescent Mental Health
+  - Chirality
+  - Cladistics
+  - Clinical Anatomy
+  - Clinical Cardiology
+  - Clinical Endocrinology
+  - Clinical Genetics
+  - Clinical Implant Dentistry and Related Research
+  - Clinical Liver Disease
+  - Clinical Obesity
+  - Clinical Oral Implants Research
+  - Clinical Otolaryngology
+  - Clinical Pharmacology in Drug Development
+  - Clinical Physiology and Functional Imaging
+  - Clinical Psychology and Psychotherapy
+  - 'Clinical Psychology: Science and Practice'
+  - Clinical Respiratory Journal
+  - Clinical Teacher
+  - Clinical Transplantation
+  - Clinical and Experimental Allergy
+  - Clinical and Experimental Dermatology
+  - Clinical and Experimental Immunology
+  - Clinical and Experimental Neuroimmunology
+  - Clinical and Experimental Ophthalmology
+  - Clinical and Experimental Optometry
+  - Clinical and Experimental Pharmacology and Physiology
+  - Color Research and Application
+  - Colorectal Disease
+  - Communications on Pure and Applied Mathematics
+  - Community Dentistry and Oral Epidemiology
+  - Comprehensive Reviews in Food Science and Food Safety
+  - Computational Intelligence
+  - Computer Animation and Virtual Worlds
+  - Computer Applications in Engineering Education
+  - Computer Graphics Forum
+  - Computer-Aided Civil and Infrastructure Engineering
+  - 'Concepts in Magnetic Resonance Part A: Bridging Education and Research'
+  - 'Concepts in Magnetic Resonance Part B: Magnetic Resonance Engineering'
+  - 'Concurrency and Computation: Practice and Experience'
+  - Congenital Anomalies
+  - Congenital Heart Disease
+  - Conservation Biology
+  - Contact Dermatitis
+  - Counseling and Values
+  - Counselor Education and Supervision
+  - Criminal Behaviour and Mental Health
+  - Curtis's Botanical Magazine
+  - Cytometry Part A
+  - 'Cytometry Part B: Clinical Cytometry'
+  - Cytopathology
+  - Cytoskeleton
+  - Dental Traumatology
+  - Depression and Anxiety
+  - Dermatologic Surgery
+  - Dermatologic Therapy
+  - Development, Growth and Differentiation
+  - Developmental Disabilities Research Reviews
+  - Developmental Dynamics
+  - Developmental Medicine and Child Neurology
+  - Developmental Neurobiology
+  - Developmental Psychobiology
+  - Developmental Science
+  - Diabetes, Obesity and Metabolism
+  - Diabetes/Metabolism Research and Reviews
+  - Diabetic Medicine
+  - Diagnostic Cytopathology
+  - Dialectica
+  - Digestive Endoscopy
+  - Diversity and Distributions
+  - Drug Development Research
+  - Drug Testing and Analysis
+  - EPPO Bulletin
+  - Early Intervention in Psychiatry
+  - Earth Surface Processes and Landforms
+  - Earthquake Engineering and Structural Dynamics
+  - Echocardiography
+  - Ecography
+  - Ecohydrology
+  - Ecological Entomology
+  - Ecological Management and Restoration
+  - Ecology Letters
+  - Ecology of Freshwater Fish
+  - Electrical Engineering in Japan
+  - Electroanalysis
+  - Electronics and Communications in Japan
+  - Emergency Medicine Australasia
+  - Endodontic Topics
+  - Engineering in Life Sciences
+  - English Literary Renaissance
+  - Entomologia Experimentalis et Applicata
+  - Entomological Research
+  - Entomological Science
+  - Environmental Microbiology
+  - Environmental Microbiology Reports
+  - Environmental Progress and Sustainable Energy
+  - Environmental Toxicology
+  - Environmental Toxicology and Chemistry
+  - Environmetrics
+  - Epilepsia
+  - Equine Veterinary Education
+  - Equine Veterinary Journal
+  - Ethology
+  - European Eating Disorders Review
+  - European Journal of Cancer Care
+  - European Journal of Clinical Investigation
+  - European Journal of Dental Education
+  - European Journal of Haematology
+  - European Journal of Heart Failure
+  - European Journal of Immunology
+  - European Journal of Inorganic Chemistry
+  - European Journal of Lipid Science and Technology
+  - European Journal of Neurology
+  - European Journal of Neuroscience
+  - European Journal of Oral Sciences
+  - European Journal of Organic Chemistry
+  - European Journal of Pain
+  - European Journal of Social Psychology
+  - European Journal of Soil Science
+  - European Transactions on Electrical Power
+  - European Transactions on Telecommunications
+  - 'Evidence-Based Child Health: A Cochrane Review Journal'
+  - Evolution
+  - Evolution and Development
+  - Evolutionary Anthropology
+  - Experimental Dermatology
+  - Experimental Physiology
+  - Expert Systems
+  - FEBS Letters
+  - Family Relations
+  - Fatigue and Fracture of Engineering Materials and Structures
+  - Financial Management
+  - Fire and Materials
+  - Fish and Fisheries
+  - Fisheries Management and Ecology
+  - Fisheries Oceanography
+  - Flavour and Fragrance Journal
+  - Focus on Alternative and Complementary Therapies
+  - Forest Pathology
+  - Fossils and Strata
+  - Freshwater Biology
+  - Fuel Cells
+  - Fundamental and Clinical Pharmacology
+  - Future Prescriber
+  - Genes to Cells
+  - Genes, Brain and Behavior
+  - Genes, Chromosomes and Cancer
+  - Genetic Epidemiology
+  - Geoarchaeology
+  - Geobiology
+  - Geological Journal
+  - Geology Today
+  - Geostandards and Geoanalytical Research
+  - Geriatrics and Gerontology International
+  - Gerodontology
+  - Glia
+  - Global Change Biology
+  - Global Ecology and Biogeography
+  - Grass and Forage Science
+  - Grassland Science
+  - 'Greenhouse Gases: Science and Technology'
+  - Ground Water Monitoring and Remediation
+  - Groundwater
+  - HIV Medicine
+  - Haemophilia
+  - Head and Neck
+  - Headache
+  - Health Economics
+  - Health and Social Care in the Community
+  - Heat Transfer - Asian Research
+  - Helicobacter
+  - Hematological Oncology
+  - Hemodialysis International
+  - Hepatology
+  - Hepatology Research
+  - Heteroatom Chemistry
+  - Hippocampus
+  - Histopathology
+  - Human Brain Mapping
+  - Human Communication Research
+  - Human Factors and Ergonomics in Manufacturing and Service Industries
+  - Human Mutation
+  - 'Human Psychopharmacology: Clinical and Experimental'
+  - Hydrological Processes
+  - ISBT Science Series
+  - ISI Review
+  - Ibis
+  - Immunological Reviews
+  - Immunology
+  - Indoor Air
+  - Infant and Child Development
+  - Information Systems Journal
+  - Insect Conservation and Diversity
+  - Insect Molecular Biology
+  - Insect Science
+  - Integrated Environmental Assessment and Management
+  - Integrative Zoology
+  - Internal Medicine Journal
+  - International Dental Journal
+  - International Endodontic Journal
+  - International Forum of Allergy and Rhinology
+  - International Journal for Numerical Methods in Biomedical Engineering
+  - International Journal for Numerical Methods in Engineering
+  - International Journal for Numerical Methods in Fluids
+  - International Journal for Numerical and Analytical Methods in Geomechanics
+  - International Journal of Adaptive Control and Signal Processing
+  - International Journal of Applied Glass Science
+  - International Journal of Applied Psychoanalytic Studies
+  - International Journal of Cancer
+  - International Journal of Chemical Kinetics
+  - International Journal of Circuit Theory and Applications
+  - International Journal of Climatology
+  - International Journal of Clinical Practice
+  - International Journal of Communication Systems
+  - International Journal of Cosmetic Science
+  - International Journal of Dairy Technology
+  - International Journal of Dental Hygiene
+  - International Journal of Dermatology
+  - International Journal of Eating Disorders
+  - International Journal of Energy Research
+  - International Journal of Experimental Pathology
+  - International Journal of Food Science and Technology
+  - International Journal of Geriatric Psychiatry
+  - International Journal of Gynecology and Obstetrics
+  - International Journal of Health Planning and Management
+  - International Journal of Imaging Systems and Technology
+  - International Journal of Immunogenetics
+  - International Journal of Intelligent Systems
+  - International Journal of Laboratory Hematology
+  - International Journal of Language and Communication Disorders
+  - International Journal of Medical Robotics and Computer Assisted Surgery
+  - International Journal of Mental Health Nursing
+  - International Journal of Methods in Psychiatric Research
+  - International Journal of Network Management
+  - 'International Journal of Numerical Modelling: Electronic Networks, Devices and
+    Fields'
+  - International Journal of Nursing Knowledge
+  - International Journal of Nursing Practice
+  - International Journal of Older People Nursing
+  - International Journal of Osteoarchaeology
+  - International Journal of Paediatric Dentistry
+  - International Journal of Pharmacy Practice
+  - International Journal of Psychoanalysis
+  - International Journal of Quantum Chemistry
+  - International Journal of RF and Microwave Computer-Aided Engineering
+  - International Journal of Rheumatic Diseases
+  - International Journal of Robust and Nonlinear Control
+  - International Journal of Satellite Communications
+  - International Journal of Satellite Communications and Networking
+  - International Journal of Urological Nursing
+  - International Migration
+  - International Nursing Review
+  - International Statistical Review
+  - International Transactions on Electrical Energy Systems
+  - International Wound Journal
+  - International Zoo Yearbook
+  - Invertebrate Biology
+  - Irrigation and Drainage
+  - Island Arc
+  - Jornal Internacional do Conhecimento em Enfermagem
+  - Journal for Specialists in Pediatric Nursing
+  - Journal for the Theory of Social Behaviour
+  - Journal of Addictions and Offender Counseling
+  - Journal of Advanced Nursing
+  - Journal of Agronomy and Crop Science
+  - Journal of Analytical Psychology
+  - Journal of Anatomy
+  - Journal of Animal Breeding and Genetics
+  - Journal of Animal Physiology and Animal Nutrition
+  - Journal of Applied Biobehavioral Research
+  - Journal of Applied Ecology
+  - Journal of Applied Entomology
+  - Journal of Applied Ichthyology
+  - Journal of Applied Microbiology
+  - Journal of Applied Polymer Science
+  - Journal of Applied Social Psychology
+  - Journal of Applied Toxicology
+  - Journal of Avian Biology
+  - Journal of Biochemical and Molecular Toxicology
+  - Journal of Biogeography
+  - Journal of Biomedical Materials Research Part A
+  - 'Journal of Biomedical Materials Research Part B: Applied Biomaterials'
+  - Journal of Cardiac Surgery
+  - Journal of Cardiovascular Electrophysiology
+  - Journal of Cellular Biochemistry
+  - Journal of Cellular Physiology
+  - Journal of Chemical Technology and Biotechnology
+  - Journal of Chemometrics
+  - Journal of Child Psychology and Psychiatry
+  - Journal of Child and Adolescent Psychiatric Nursing
+  - Journal of Clinical Apheresis
+  - Journal of Clinical Hypertension
+  - Journal of Clinical Laboratory Analysis
+  - Journal of Clinical Nursing
+  - Journal of Clinical Periodontology
+  - Journal of Clinical Pharmacology
+  - Journal of Clinical Pharmacy and Therapeutics
+  - Journal of Clinical Psychology
+  - Journal of Clinical Ultrasound
+  - Journal of College Counseling
+  - Journal of Combinatorial Designs
+  - Journal of Community Psychology
+  - Journal of Community and Applied Social Psychology
+  - Journal of Comparative Neurology
+  - Journal of Computational Chemistry
+  - Journal of Cosmetic Dermatology
+  - Journal of Counseling and Development
+  - Journal of Creative Behavior
+  - Journal of Cutaneous Pathology
+  - Journal of Diabetes
+  - Journal of Digestive Diseases
+  - Journal of Empirical Legal Studies
+  - Journal of Employment Counseling
+  - Journal of Esthetic and Restorative Dentistry
+  - Journal of Eukaryotic Microbiology
+  - Journal of Evaluation in Clinical Practice
+  - Journal of Evidence-Based Medicine
+  - Journal of Evolutionary Biology
+  - Journal of Experimental Zoology
+  - 'Journal of Experimental Zoology Part A: Comparative Experimental Biology'
+  - 'Journal of Experimental Zoology Part A: Ecological Genetics and Physiology'
+  - 'Journal of Experimental Zoology Part B: Molecular and Developmental Evolution'
+  - Journal of Family Therapy
+  - Journal of Field Ornithology
+  - Journal of Field Robotics
+  - Journal of Fish Biology
+  - Journal of Fish Diseases
+  - Journal of Flood Risk Management
+  - Journal of Food Biochemistry
+  - Journal of Food Process Engineering
+  - Journal of Food Processing and Preservation
+  - Journal of Food Safety
+  - Journal of Food Science
+  - Journal of Food Science Education
+  - Journal of Forensic Sciences
+  - Journal of Gastroenterology and Hepatology
+  - Journal of Gene Medicine
+  - Journal of Graph Theory
+  - Journal of Heterocyclic Chemistry
+  - Journal of Hospital Medicine
+  - Journal of Human Nutrition and Dietetics
+  - Journal of Humanistic Counseling
+  - Journal of Integrative Plant Biology
+  - Journal of Interior Design
+  - Journal of Internal Medicine
+  - Journal of Interventional Cardiology
+  - Journal of Investigative Psychology and Offender Profiling
+  - Journal of Investigative and Clinical Dentistry
+  - Journal of Labelled Compounds and Radiopharmaceuticals
+  - Journal of Marriage and Family
+  - Journal of Mass Spectrometry
+  - Journal of Medical Imaging and Radiation Oncology
+  - Journal of Medical Primatology
+  - Journal of Medical Virology
+  - Journal of Metamorphic Geology
+  - Journal of Microscopy
+  - Journal of Molecular Recognition
+  - Journal of Morphology
+  - Journal of Multicultural Counseling and Development
+  - Journal of Neurochemistry
+  - Journal of Neuroendocrinology
+  - Journal of Neuroimaging
+  - Journal of Neuropsychology
+  - Journal of Neuroscience Research
+  - Journal of Nursing Management
+  - Journal of Nursing Scholarship
+  - Journal of Occupational and Organizational Psychology
+  - Journal of Oral Pathology and Medicine
+  - Journal of Oral Rehabilitation
+  - Journal of Orthopaedic Research
+  - Journal of Peptide Science
+  - Journal of Periodontal Research
+  - Journal of Petroleum Geology
+  - Journal of Pharmaceutical Health Services Research
+  - Journal of Pharmacy and Pharmacology
+  - Journal of Phycology
+  - Journal of Physical Organic Chemistry
+  - Journal of Physiology
+  - Journal of Phytopathology
+  - Journal of Pineal Research
+  - 'Journal of Polymer Science Part A: Polymer Chemistry'
+  - 'Journal of Polymer Science Part B: Polymer Physics'
+  - Journal of Prosthodontics
+  - Journal of Psychiatric and Mental Health Nursing
+  - Journal of Public Health Dentistry
+  - Journal of Quaternary Science
+  - Journal of Raman Spectroscopy
+  - Journal of Renal Care
+  - Journal of Research in Science Teaching
+  - Journal of Research on Adolescence
+  - Journal of Rural Health
+  - Journal of School Health
+  - Journal of Sensory Studies
+  - Journal of Separation Science
+  - Journal of Sexual Medicine
+  - Journal of Small Animal Practice
+  - Journal of Social Issues
+  - 'Journal of Software: Evolution and Process'
+  - Journal of Surfactants and Detergents
+  - Journal of Surgical Oncology
+  - Journal of Systematics and Evolution
+  - Journal of Texture Studies
+  - Journal of Thrombosis and Haemostasis
+  - Journal of Time Series Analysis
+  - Journal of Tissue Engineering and Regenerative Medicine
+  - Journal of Ultrasound in Medicine
+  - Journal of Vegetation Science
+  - Journal of Veterinary Emergency and Critical Care
+  - Journal of Veterinary Pharmacology and Therapeutics
+  - Journal of Vinyl and Additive Technology
+  - Journal of Viral Hepatitis
+  - Journal of Wildlife Management
+  - Journal of Zoological Systematics and Evolutionary Research
+  - Journal of Zoology
+  - Journal of the American Geriatrics Society
+  - Journal of the American Oil Chemists' Society
+  - Journal of the American Water Resources Association
+  - Journal of the European Academy of Dermatology and Venereology
+  - Journal of the Experimental Analysis of Behavior
+  - Journal of the Institute of Brewing
+  - Journal of the Peripheral Nervous System
+  - 'Journal of the Royal Statistical Society: Series A'
+  - 'Journal of the Royal Statistical Society: Series A (Statistics in Society)'
+  - 'Journal of the Royal Statistical Society: Series B'
+  - 'Journal of the Royal Statistical Society: Series B (Statistical Methodology)'
+  - 'Journal of the Royal Statistical Society: Series C'
+  - 'Journal of the Royal Statistical Society: Series C (Applied Statistics)'
+  - Journal of the Science of Food and Agriculture
+  - Journal of the World Aquaculture Society
+  - 'Lakes and Reservoirs: Research & Management'
+  - Land Degradation and Development
+  - Lasers in Surgery and Medicine
+  - Legal and Criminological Psychology
+  - Lethaia
+  - Letters in Applied Microbiology
+  - Limnology and Oceanography
+  - Limnology and Oceanography Bulletin
+  - 'Limnology and Oceanography: Fluids and Environments'
+  - 'Limnology and Oceanography: Methods'
+  - Lipids
+  - Liver International
+  - Liver Transplantation
+  - Lower Urinary Tract Symptoms
+  - Lubrication Science
+  - Luminescence
+  - Macromolecular Bioscience
+  - Macromolecular Chemistry and Physics
+  - Magnetic Resonance in Chemistry
+  - Mammal Review
+  - Marine Ecology
+  - Marine Mammal Science
+  - Mass Spectrometry Reviews
+  - Materials and Corrosion
+  - Maternal and Child Nutrition
+  - Mathematical Methods in the Applied Sciences
+  - Medical Education
+  - Medical and Veterinary Entomology
+  - Medicinal Research Reviews
+  - Meteoritics and Planetary Science
+  - Meteorological Applications
+  - Methods in Ecology and Evolution
+  - Microbiology and Immunology
+  - Microcirculation
+  - Microscopy Research and Technique
+  - Microsurgery
+  - Microwave and Optical Technology Letters
+  - Middle East Policy
+  - Mind, Brain, and Education
+  - Molecular Carcinogenesis
+  - Molecular Ecology
+  - Molecular Ecology Resources
+  - Molecular Microbiology
+  - Molecular Nutrition and Food Research
+  - Molecular Oral Microbiology
+  - Molecular Plant Pathology
+  - Molecular Reproduction and Development
+  - Monographs of the Society for Research in Child Development
+  - Muscle and Nerve
+  - Musculoskeletal Care
+  - Mycoses
+  - NMR in Biomedicine
+  - Natural Resource Modeling
+  - Naval Research Logistics
+  - Navigation
+  - Negotiation and Conflict Management Research
+  - Nephrology
+  - Networks
+  - Neurogastroenterology and Motility
+  - Neuromodulation
+  - Neuropathology
+  - Neuropathology and Applied Neurobiology
+  - Neurourology and Urodynamics
+  - New Phytologist
+  - Nordic Journal of Botany
+  - Numerical Linear Algebra with Applications
+  - Numerical Methods for Partial Differential Equations
+  - Nursing Forum
+  - Nursing Inquiry
+  - Nursing Philosophy
+  - Nursing and Health Sciences
+  - Nursing in Critical Care
+  - Nutrition Bulletin
+  - Nutrition and Dietetics
+  - Obesity
+  - Obesity Reviews
+  - Obstetrician and Gynaecologist
+  - Ophthalmic and Physiological Optics
+  - Optimal Control Applications and Methods
+  - Oral Diseases
+  - Oral Surgery
+  - Orthodontics and Craniofacial Research
+  - Orthopaedic Surgery
+  - Pacing and Clinical Electrophysiology
+  - Packaging Technology and Science
+  - Paediatric and Perinatal Epidemiology
+  - Pain Practice
+  - Palaeontology
+  - Parasite Immunology
+  - Particle and Particle Systems Characterization
+  - Pathology International
+  - Pediatric Allergy and Immunology
+  - Pediatric Anesthesia
+  - Pediatric Blood and Cancer
+  - Pediatric Dermatology
+  - Pediatric Diabetes
+  - Pediatric Obesity
+  - Pediatric Pulmonology
+  - Pediatric Transplantation
+  - Pediatrics International
+  - Periodontology 2000
+  - Permafrost and Periglacial Processes
+  - Personal Relationships
+  - Personality and Mental Health
+  - Perspectives in Psychiatric Care
+  - Pest Management Science
+  - Pharmaceutical Statistics
+  - Pharmacoepidemiology and Drug Safety
+  - 'Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy'
+  - Photochemistry and Photobiology
+  - Photodermatology, Photoimmunology & Photomedicine
+  - Photogrammetric Record
+  - Phycological Research
+  - Physiologia Plantarum
+  - Physiological Entomology
+  - Physiotherapy Research International
+  - Phytochemical Analysis
+  - Phytotherapy Research
+  - Pigment Cell and Melanoma Research
+  - Plant Biology
+  - Plant Breeding
+  - Plant Journal
+  - Plant Pathology
+  - Plant Species Biology
+  - Plant, Cell and Environment
+  - Political Psychology
+  - Polymer Composites
+  - Polymer Engineering and Science
+  - Polymer International
+  - Polymers for Advanced Technologies
+  - Practical Diabetes
+  - Prenatal Diagnosis
+  - Prescriber
+  - Proceedings of the American Society for Information Science and Technology
+  - Process Safety Progress
+  - Progress in Neurology and Psychiatry
+  - Progress in Photovoltaics
+  - Prostate
+  - Proteins
+  - Proteomics
+  - PsyCh Journal
+  - Psycho-Oncology
+  - Psychogeriatrics
+  - 'Psychology and Psychotherapy: Theory, Research and Practice'
+  - Psychology in the Schools
+  - Psychophysiology
+  - Psychotherapy and Politics International
+  - Public Health Nursing
+  - Quality and Reliability Engineering International
+  - Quarterly Journal of the Royal Meteorological Society
+  - Random Structures and Algorithms
+  - Rapid Communications in Mass Spectrometry
+  - Reproduction in Domestic Animals
+  - Research Synthesis Methods
+  - Research in Nursing and Health
+  - Resource Geology
+  - Respirology
+  - Restoration Ecology
+  - Reviews in Aquaculture
+  - Reviews in Medical Virology
+  - Revista Internacional del Conocimiento de Enfermería
+  - River Research and Applications
+  - Scandinavian Journal of Caring Sciences
+  - Scandinavian Journal of Immunology
+  - Scandinavian Journal of Medicine and Science in Sports
+  - Scandinavian Journal of Psychology
+  - Scandinavian Journal of Statistics
+  - Science Education
+  - Sedimentology
+  - Seminars in Dialysis
+  - Shoulder and Elbow
+  - Skin Research and Technology
+  - Sleep and Biological Rhythms
+  - Small
+  - Social Development
+  - Social Issues and Policy Review
+  - Social and Personality Psychology Compass
+  - Sociology of Health and Illness
+  - Software Testing, Verification and Reliability
+  - 'Software: Practice and Experience'
+  - Soil Use and Management
+  - Sonography
+  - Special Care in Dentistry
+  - Stat
+  - Statistical Analysis and Data Mining
+  - Statistics in Medicine
+  - Strain
+  - Stress and Health
+  - Structural Control and Health Monitoring
+  - Structural Design of Tall and Special Buildings
+  - Studies in Applied Mathematics
+  - Studies in Family Planning
+  - Surface and Interface Analysis
+  - Surgical Practice
+  - Synapse
+  - Systematic Entomology
+  - Systems Engineering
+  - Teaching Statistics
+  - Terra Nova
+  - Tissue Antigens
+  - Traffic
+  - Transactions of the Philological Society
+  - Transactions on Emerging Telecommunications Technologies
+  - Transboundary and Emerging Diseases
+  - Transfusion
+  - Transfusion Medicine
+  - Transplant Infectious Disease
+  - Transplant International
+  - Trends in Urology and Men's Health
+  - Tropical Medicine and International Health
+  - Ultrasound in Obstetrics and Gynaecology
+  - Ultrasound in Obstetrics and Gynecology
+  - Veterinary Anaesthesia and Analgesia
+  - Veterinary Clinical Pathology
+  - Veterinary Dermatology
+  - Veterinary Ophthalmology
+  - Veterinary Radiology and Ultrasound
+  - Veterinary Surgery
+  - Veterinary and Comparative Oncology
+  - Vox Sanguinis
+  - Water and Environment Journal
+  - Weather
+  - Weed Biology and Management
+  - Weed Research
+  - Werkstoffe und Korrosion
+  - Wildlife Monographs
+  - Wildlife Society Bulletin
+  - 'Wiley Interdisciplinary Reviews: Climate Change'
+  - 'Wiley Interdisciplinary Reviews: Cognitive Science'
+  - 'Wiley Interdisciplinary Reviews: Computational Molecular Science'
+  - 'Wiley Interdisciplinary Reviews: Computational Statistics'
+  - 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery'
+  - 'Wiley Interdisciplinary Reviews: Developmental Biology'
+  - 'Wiley Interdisciplinary Reviews: Energy and Environment'
+  - 'Wiley Interdisciplinary Reviews: Membrane Transport and Signaling'
+  - 'Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology'
+  - 'Wiley Interdisciplinary Reviews: RNA'
+  - 'Wiley Interdisciplinary Reviews: Systems Biology and Medicine'
+  - 'Wiley Interdisciplinary Reviews: Water'
+  - Wind Energy
+  - Worldviews on Evidence-Based Nursing
+  - Wound Repair and Regeneration
+  - X-Ray Spectrometry
+  - Xenotransplantation
+  - Yeast
+  - ZAMM
+  - Zoo Biology
+  - Zoologica Scripta
+  - Zoonoses and Public Health
+  - genesis
+  - physica status solidi (RRL) - Rapid Research Letters
+  - physica status solidi (a)
+  - physica status solidi (b)
+  - physica status solidi (c)
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies:
+  - romeo_580
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://olabout.wiley.com/WileyCDA/Section/id-828039.html
+  - http://olabout.wiley.com/WileyCDA/Section/id-828038.html
+  - https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-open-access/open-access/funder-agreements.html
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Some journals have separate policies, please check with each journal directly
+  - On author's personal website, institutional repositories, arXiv, AgEcon, PhilPapers,
+    PubMed Central, RePEc or Social Science Research Network
+  - Author's pre-print may not be updated with Publisher's Version/PDF
+  - Author's pre-print must acknowledge acceptance for publication
+  - Non-Commercial
+  - Publisher's version/PDF cannot be used
+  - Publisher source must be acknowledged with citation
+  - Must link to publisher version with set statement (see policy)
+  - If OnlineOpen is available, BBSRC, EPSRC, MRC, NERC and STFC authors, may self-archive
+    after 12 months
+  - Publisher last contacted on 07/08/2014
+  - This policy is an exception to the default policies of ''
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

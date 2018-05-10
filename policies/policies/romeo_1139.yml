@@ -1,0 +1,435 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_1139
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Taylor & Francis (Routledge)
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: STM, Behavioural Science and Public Health Titles
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - AIDS Care
+  - AJOB Neuroscience
+  - Activities, Adaptation and Aging
+  - Administration in Social Work
+  - Adoption Quarterly
+  - 'Advances in Eating Disorders: Theory, Research and Practice'
+  - Advances in Mental Health
+  - Advances in School Mental Health Promotion
+  - African Journal of Research in Mathematics, Science and Technology Education
+  - African Zoology
+  - Aging and Mental Health
+  - Aging, Neuropsychology and Cognition
+  - Alcoholism Treatment Quarterly
+  - American Journal of Bioethics
+  - American Journal of Clinical Hypnosis
+  - American Journal of Family Therapy
+  - American Journal of Psychiatric Rehabilitation
+  - American Journal of Sexuality Education
+  - Annals of the American Association of Geographers
+  - Annals of the Association of American Geographers
+  - Anxiety, Stress and Coping
+  - 'Anxiety, Stress and Coping: An International Journal'
+  - Aphasiology
+  - Applied Developmental Science
+  - Applied Neuropsychology
+  - 'Applied Neuropsychology: Child'
+  - Archives of Agronomy and Soil Science
+  - Archives of Environmental and Occupational Health
+  - Archives of Suicide Research
+  - Art Therapy
+  - 'Arts and Health: An International Journal for Research, Policy and Practice'
+  - Asia Pacific Journal of Counselling and Psychotherapy
+  - Attachment and Human Development
+  - Australian Archaeology
+  - Australian Social Work
+  - Basic and Applied Social Psychology
+  - Behavioral Medicine
+  - Behavioral Sciences of Terrorism and Political Aggression
+  - Behavioral Sleep Medicine
+  - Bereavement Care
+  - Body, Movement and Dance in Psychotherapy
+  - British Journal of Guidance and Counselling
+  - Building Research and Information
+  - Child Care in Practice
+  - Child Neuropsychology
+  - Child and Family Behavior Therapy
+  - Child and Youth Services
+  - Children's Geographies
+  - Children's Health Care
+  - China Journal of Social Work
+  - Clinical Gerontologist
+  - Clinical Neuropsychologist
+  - Clinical Supervisior
+  - 'Coaching: An International Journal of Theory, Research and Practice'
+  - Cognition and Emotion
+  - Cognitive Behaviour Therapy
+  - Cognitive Neuropsychiatry
+  - Cognitive Neuropsychology
+  - Cognitive Neuroscience
+  - Construction Management and Economics
+  - Contemporary Nurse
+  - Counselling Psychology Quarterly
+  - Critical Public Health
+  - Culture, Health and Sexuality
+  - 'Culture, Health and Sexuality: An International Journal for Research, Intervention
+    and Care'
+  - Death Studies
+  - Developmental Neuropsychology
+  - Dynamics of Asymmetric Conflict
+  - 'Dynamics of Asymmetric Conflict: Pathways toward Terrorism and Genocide'
+  - Eating Disorders
+  - Ecological Psychology
+  - Engineering Studies
+  - Environmental Communication
+  - Ethics and Behavior
+  - Ethics and Social Welfare
+  - Ethnicity and Health
+  - European Journal of Cognitive Psychology
+  - European Journal of Developmental Psychology
+  - European Journal of Psychotherapy and Counselling
+  - European Journal of Social Work
+  - European Journal of Work and Organizational Psychology
+  - Evidence-Based Communication Assessment and Intervention
+  - Family Science
+  - Fat Studies
+  - Gender, Place and Culture
+  - Gerontology and Geriatrics Education
+  - Global Public Health
+  - Health Care for Women International
+  - Health Psychology Review
+  - Health Sociology Review
+  - Health, Risk and Society
+  - Home Health Care Services Quarterly
+  - Hospital Topics
+  - Humanistic Psychologist
+  - Identity
+  - Information Technology for Development
+  - Inland Waters
+  - International Forum of Psychoanalysis
+  - International Gambling Studies
+  - International Journal for the Psychology of Religion
+  - International Journal of Art Therapy
+  - International Journal of Aviation Psychology
+  - International Journal of Clinical and Experimental Hypnosis
+  - International Journal of Culture and Mental Health
+  - International Journal of Environmental Studies
+  - International Journal of Forensic Mental Health
+  - International Journal of Forest Engineering
+  - International Journal of Health Promotion and Education
+  - International Journal of Jungian Studies
+  - International Journal of Logistics Research and Applications
+  - International Journal of Mental Health
+  - International Journal of Mental Health Promotion
+  - International Journal of Pavement Engineering
+  - International Journal of Psychoanalytic Self Psychology
+  - International Journal of Psychology
+  - International Journal of School and Educational Psychology
+  - International Journal of Sexual Health
+  - International Journal of Sport and Exercise Psychology
+  - International Journal of Testing
+  - International Journal of Transgenderism
+  - International Journal of Urban Sustainable Development
+  - International Review of Sport and Exercise Psychology
+  - Irish Journal of Psychology
+  - Journal for Specialists in Group Work
+  - Journal of Addictive Diseases
+  - Journal of Aggression, Maltreatment and Trauma
+  - Journal of Aging and Social Policy
+  - Journal of Agricultural and Food Information
+  - Journal of Agromedicine
+  - Journal of American College Health
+  - Journal of Applied Animal Welfare Science
+  - Journal of Applied School Psychology
+  - Journal of Applied Statistics
+  - Journal of Bisexuality
+  - Journal of Building Performance Simulation
+  - Journal of Child Custody
+  - Journal of Child Psychotherapy
+  - Journal of Child Sexual Abuse
+  - Journal of Child and Adolescent Mental Health
+  - Journal of Child and Adolescent Substance Abuse
+  - Journal of Clinical Child and Adolescent Psychology
+  - Journal of Clinical and Experimental Neuropsychology
+  - Journal of Cognition and Development
+  - Journal of Cognitive Psychology
+  - Journal of College Student Psychotherapy
+  - Journal of Community Health Nursing
+  - Journal of Community Practice
+  - Journal of Comparative Social Welfare
+  - Journal of Couple and Relationship Therapy
+  - Journal of Creativity in Mental Health
+  - Journal of Cultural Geography
+  - Journal of Disability and Religion
+  - Journal of Divorce and Remarriage
+  - Journal of Dual Diagnosis
+  - Journal of Elder Abuse and Neglect
+  - Journal of Environmental Economics and Policy
+  - Journal of Environmental Planning and Management
+  - Journal of Environmental Policy and Planning
+  - Journal of Ethnic and Cultural Diversity in Social Work
+  - Journal of Ethnicity in Substance Abuse
+  - Journal of Evidence-Based Social Work
+  - Journal of Evidence-Informed Social Work
+  - Journal of Family Psychotherapy
+  - Journal of Family Social Work
+  - Journal of Feminist Family Therapy
+  - Journal of Forensic Psychiatry and Psychology
+  - Journal of Forensic Psychology Practice
+  - Journal of Forensic Social Work
+  - Journal of GLBT Family Studies
+  - Journal of Gay and Lesbian Mental Health
+  - Journal of Gay and Lesbian Social Services
+  - Journal of General Psychology
+  - Journal of Genetic Psychology
+  - Journal of Geography in Higher Education
+  - Journal of Gerontological Social Work
+  - Journal of Groups in Addiction and Recovery
+  - Journal of HIV/AIDS and Social Services
+  - Journal of Health Care Chaplaincy
+  - Journal of Homosexuality
+  - Journal of Human Behavior in the Social Environment
+  - Journal of Infant, Child, and Adolescent Psychotherapy
+  - Journal of Intergenerational Relationships
+  - Journal of International and Comparative Social Policy
+  - Journal of Lesbian Studies
+  - Journal of Loss and Trauma
+  - 'Journal of Loss and Trauma: International Perspectives on Stress and Coping'
+  - Journal of Marine Engineering and Technology
+  - Journal of Mental Health Research in Intellectual Disabilities
+  - Journal of Motor Behavior
+  - Journal of Natural Resources Policy Research
+  - Journal of Nutrition in Gerontology and Geriatrics
+  - Journal of Occupational Science
+  - Journal of Occupational Therapy, Schools and Early Intervention
+  - Journal of Organizational Behavior Management
+  - Journal of Personality Assessment
+  - Journal of Poetry Therapy
+  - Journal of Policy Practice
+  - Journal of Positive Psychology
+  - Journal of Prevention and Intervention in the Community
+  - Journal of Progessive Human Services
+  - Journal of Progressive Human Services
+  - Journal of Psychoactive Drugs
+  - Journal of Psychology
+  - Journal of Psychosocial Oncology
+  - Journal of Public Child Welfare
+  - Journal of Religion and Aging
+  - 'Journal of Religion and Spirituality in Social Work: Social Thought'
+  - Journal of Religion, Disability and Health
+  - Journal of Religion, Spirituality and Aging
+  - Journal of Reproductive and Infant Psychology
+  - Journal of School Violence
+  - Journal of Sex Research
+  - Journal of Sex and Marital Therapy
+  - Journal of Sexual Aggression
+  - Journal of Social Psychology
+  - Journal of Social Service Research
+  - Journal of Social Work Education
+  - Journal of Social Work Practice
+  - Journal of Social Work Practice in the Addictions
+  - Journal of Social Work in Disability and Rehabilitation
+  - Journal of Social Work in End-of-Life and Palliative Care
+  - Journal of Spirituality in Mental Health
+  - Journal of Sport Psychology in Action
+  - Journal of Teaching in Social Work
+  - Journal of Technology in Human Services
+  - Journal of Trauma and Dissociation
+  - Journal of Women and Aging
+  - Journal of Workplace Behavioral Health
+  - Journal of the American College of Nutrition
+  - Journal of the British Society for Phenomenology
+  - Language Acquisition
+  - Language Learning and Development
+  - Language and Cognitive Processes
+  - Laterality
+  - Liquid Crystals Today
+  - Local Environment
+  - Marriage and Family Review
+  - Measurement
+  - 'Measurement: Interdisciplinary Research and Perspective'
+  - Memory
+  - Mental Health and Substance Use
+  - 'Mental Health and Substance Use: Dual Diagnosis'
+  - Mental Health, Religion and Culture
+  - Metaphor and Symbol
+  - Midcontinental Journal of Archaeology
+  - Military Behavioral Health
+  - Mitochondrial DNA Part A
+  - Mortality
+  - Multivariate Behavioral Research
+  - Neurocase
+  - Neuropsychological Rehabilitation
+  - New Bioethics
+  - New Genetics and Society
+  - Nordic Journal of Music Therapy
+  - Nordic Psychology
+  - Nordic Social Work Research
+  - Nutrition and Cancer
+  - Occupational Therapy in Mental Health
+  - Parenting
+  - Person-Centered and Experiential Psychotherapies
+  - Practice
+  - Psychoanalytic Psychotherapy
+  - Psychoanalytic Social Work
+  - Psychoanalytical Social Work
+  - Psychodynamic Practice
+  - Psychological Inquiry
+  - Psychological Perspectives
+  - Psychology and Health
+  - Psychology and Sexuality
+  - Psychology, Crime and Law
+  - Psychology, Health and Medicine
+  - Psychosis
+  - Psychotherapy Research
+  - Qualitative Research in Psychology
+  - Religion, Brain and Behavior
+  - Research in Human Development
+  - Residential Treatment for Children and Youth
+  - Scandinavian Economic History Review
+  - Scandinavian Psychoanalytic Review
+  - Science as Culture
+  - Scottish Geographical Journal
+  - Self and Identity
+  - Sexual Addiction and Compulsivity
+  - Smith College Studies in Social Work
+  - Social Influence
+  - Social Neuroscience
+  - Social Work Education
+  - Social Work in Health Care
+  - Social Work in Mental Health
+  - Social Work in Public Health
+  - Social Work with Groups
+  - Social and Cultural Geography
+  - South African Geographical Journal
+  - Stochastics and Stochastics Reports
+  - Structural Equation Modeling
+  - Structure and Infrastructure Engineering
+  - Studies in Gender and Sexuality
+  - Substance Abuse
+  - Thinking and Reasoning
+  - Urban Geography
+  - Vulnerable Children and Youth Studies
+  - Women and Health
+  - Women and Therapy
+  - Work and Stress
+  - World Futures
+  - Writing Systems Research
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies:
+  - romeo_193
+  - romeo_76
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://authorservices.taylorandfrancis.com/sharing-your-work/
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Some individual journals may have policies prohibiting pre-print archiving
+  - On author's personal website or departmental website immediately
+  - On institutional repository, subject-based repository or academic social network
+    (Mendeley, ResearchGate or Academia.edu) after 12 months embargo
+  - Publisher's version/PDF cannot be used
+  - On a non-profit server
+  - Published source must be acknowledged
+  - Must link to publisher version
+  - Set statements to accompany deposits (see policy)
+  - The publisher will deposit in on behalf of authors to a designated institutional
+    repository including PubMed Central, where a deposit agreement exists with the
+    repository
+  - 'STM: Science, Technology and Medicine'
+  - Publisher last contacted on 25/03/2014
+  - This policy is an exception to the default policies of ''
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

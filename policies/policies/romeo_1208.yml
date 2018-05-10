@@ -1,0 +1,159 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_1208
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Tehran University of Medical Sciences
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Acta Medica Iranica
+  - Anesthesiology and Pain
+  - Asian Journal of Sports Medicine
+  - Audiology
+  - Basic and Clinical Cancer Research
+  - Basic and Clinical Neuroscience
+  - DARU Journal of Pharmaceutical Sciences
+  - Dermatology and Cosmetic
+  - HAYAT
+  - Hospital
+  - International Journal of Hematology-Oncology and Stem Cell Research
+  - International Journal of Occupational Hygiene
+  - Iran Journal of Nursing
+  - Iranian Journal of Allergy, Asthma and Immunology
+  - Iranian Journal of Arthropod-Borne Diseases
+  - Iranian Journal of Diabetes and Lipid Disorders
+  - Iranian Journal of Environmental Health Science and Engineering
+  - Iranian Journal of Epidemiology
+  - Iranian Journal of Health and Environment
+  - Iranian Journal of Medical Ethics and History of Medicine
+  - Iranian Journal of Medical Hypotheses and Ideas
+  - Iranian Journal of Microbiology
+  - Iranian Journal of Neurology
+  - Iranian Journal of Nuclear Medicine
+  - Iranian Journal of Parasitology
+  - Iranian Journal of Pediatrics
+  - Iranian Journal of Pharmacology and Therapeutics
+  - Iranian Journal of Psychiatry
+  - Iranian Journal of Public Health
+  - Iranian Journal of Radiology
+  - Journal of Dental Medicine
+  - Journal of Dentistry of Tehran University of Medical Sciences
+  - Journal of Diabetes and Metabolic Disorders
+  - Journal of Family and Reproductive Health
+  - Journal of Health and Safety at Work
+  - Journal of Medical Ethics and History of Medicine
+  - Journal of School of Public Health and Institute of Public Health Research
+  - Journal of Tehran University Heart Center
+  - Medical Journal of the Islamic Republic of Iran
+  - Modern Rehabilitation
+  - Payavard Salamat
+  - Razi Journal of Medical Sciences
+  - Teb va Tazkiyeh
+  - Tehran University Medical Journal
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls: []
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Requested to link to publisher version
+  - Publisher's version/PDF may be used
+  - Creative Commons Attribution Non-Commercial 3.0 Unported License
+  - All titles are open access journals
+  - Publisher last contacted on 23/03/2012
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

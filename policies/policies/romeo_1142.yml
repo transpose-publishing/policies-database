@@ -1,0 +1,160 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_1142
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Taylor & Francis
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: SSH Journals
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Art in Translation
+  - Comedy Studies
+  - Comparative American Studies
+  - Contemporary Italian Politics
+  - Dix-Neuf
+  - European Journal of Sport Science
+  - Griffith Law Review
+  - Hispanic Research Journal
+  - IIE Transactions on Occupational Ergonomics and Human Factors
+  - International Journal of Spa and Wellness
+  - International Journal of Strategic Property Management
+  - Journal of Business Economics and Management
+  - Journal of Critical Realism
+  - Journal of Health Communication
+  - Journal of Intelligence History
+  - Journal of Operational Oceanography
+  - Journal of Research on Technology in Education
+  - Journal of Sports Sciences
+  - Journal of Statistical Theory and Practice
+  - Journal of Student Affairs Research and Practice
+  - Journal of Sustainable Finance and Investment
+  - Journal of War and Culture Studies
+  - Journal of the American Institute for Conservation
+  - 'LIMES: Cultural Regionalistics'
+  - London Journal
+  - Ocean Development and International Law
+  - Pacific Rim Property Research Journal
+  - Physical Geography
+  - Practical Theology
+  - Souls
+  - Studies in Russian and Soviet Cinema
+  - Technological and Economic Development of Economy
+  - Technometrics
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies:
+  - romeo_76
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://authorservices.taylorandfrancis.com/sharing-your-work/
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Some individual journals may have policies prohibiting pre-print archiving
+  - On author's personal website or departmental website immediately
+  - On institutional repository, subject-based repository or academic social network
+    (Mendeley, ResearchGate or Academia.edu) after 18 months embargo
+  - Publisher's version/PDF cannot be used
+  - On a non-profit server
+  - Published source must be acknowledged
+  - Must link to publisher version
+  - Set statements to accompany deposits (see policy)
+  - The publisher will deposit in on behalf of authors to a designated institutional
+    repository including PubMed Central, where a deposit agreement exists with the
+    repository
+  - 'SSH: Social Science and Humanities'
+  - Publisher last contacted on 25/03/2014
+  - This policy is an exception to the default policies of ''
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

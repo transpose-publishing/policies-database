@@ -1,0 +1,224 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_994
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Bioinfo Publications
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Advances in Computational Research
+  - Advances in Information Mining
+  - Advances in Medical Informatics
+  - BIOINFO Aquatic Ecosystem
+  - BIOINFO Business Economics
+  - BIOINFO Business Management
+  - BIOINFO Computational Mathematics
+  - BIOINFO Computational Optimization
+  - BIOINFO Computer Engineering
+  - BIOINFO Drug Targets
+  - BIOINFO Environment and Pollution
+  - BIOINFO Financial Management
+  - BIOINFO Genetic Programming
+  - BIOINFO Journal of Proteomics
+  - BIOINFO Mechanical Engineering
+  - BIOINFO Medical Imaging
+  - BIOINFO Optimization Theory and Applications
+  - BIOINFO Pharmaceutical Biotechnology
+  - BIOINFO Project Management
+  - BIOINFO Renewable and Sustainable Energy
+  - BIOINFO Security Informatics
+  - BIOINFO Sensor Networks
+  - BIOINFO Sociology
+  - BIOINFO Soft Computing
+  - BIOINFO Systems Engineering
+  - BIOINFO Vaccine Sciences
+  - Food science and Technology Letters
+  - Geoscience Research
+  - Information Science and Technology
+  - International Journal of Advances in Embedded Systems
+  - International Journal of Agriculture Sciences
+  - International Journal of Bioinformatics Research
+  - International Journal of Biotechnology Applications
+  - International Journal of Chemical Research
+  - International Journal of Computational Biology
+  - International Journal of Computational Intelligence Techniques
+  - International Journal of Cryptography and Security
+  - International Journal of Cybernetics and Systemics
+  - International Journal of Drug Discovery
+  - International Journal of Economics and Business Modeling
+  - International Journal of Genetics
+  - International Journal of Genomics and Proteomics
+  - International Journal of Humanity and Social Sciences
+  - International Journal of Immunology Research
+  - International Journal of Knowledge Engineering
+  - International Journal of Machine Intelligence
+  - International Journal of Medical and Clinical Research
+  - International Journal of Microbiology Research
+  - International Journal of Molecular Biology
+  - International Journal of Multimedia
+  - International Journal of Networking
+  - International Journal of Neural Networks
+  - International Journal of Parallel and Distributed Systems
+  - International Journal of Parasitology Research
+  - International Journal of Pharmaceuticals Analysis
+  - International Journal of Public Health and Human Rights
+  - International Journal of Robotics Applications
+  - International Journal of Speech and Language Processing
+  - International Journal of Systems Biology
+  - International Journal of Wireless Communication
+  - International Journal of Zoology Research
+  - Journal of Analytical Techniques
+  - Journal of Artificial Intelligence
+  - Journal of Arts and Culture
+  - Journal of Biomedical and Bioengineering
+  - Journal of Biometrics
+  - Journal of Biotechnology Letters
+  - Journal of Botanical Research
+  - Journal of Business Excellence
+  - Journal of Clinical Research Letters
+  - Journal of Computational Linguistics
+  - Journal of Computational Simulation and Modeling
+  - Journal of Crop Science
+  - Journal of Data Mining and Knowledge Discovery
+  - Journal of Ecology and Environmental Sciences
+  - Journal of Education
+  - Journal of Electronic and Electrical Engineering
+  - Journal of Enzyme Research
+  - Journal of Fisheries and Aquaculture
+  - Journal of Grid and Distributed Computing
+  - Journal of High Performance Computing
+  - Journal of Horticulture Letters
+  - Journal of Infectious Diseases Letters
+  - Journal of Information Systems and Communication
+  - Journal of Information and Operations Management
+  - Journal of Intelligence Systems
+  - Journal of Machine Learning Technologies
+  - Journal of Pathology Research
+  - Journal of Pattern Intelligence
+  - Journal of Pharmacognosy
+  - Journal of Pharmacology Research
+  - Journal of Physics
+  - Journal of Plant Genomics
+  - Journal of Policy and Organisational Management
+  - Journal of Signal and Image Processing
+  - Journal of Soil Science
+  - Journal of Statistics and Mathematics
+  - Journal of Toxicology Research
+  - Journal of Virology Research
+  - Medical Case Reports
+  - Nanotechnology and Nanoscience
+  - Neuroscience Research Letters
+  - Software Engineering
+  - Veterinary Science Research
+  - World Research Journal of Applied Medicinal Chemistry
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.bioinfo.in/sequence.php
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Creative Commons Attribution Non-Commercial License 3.0
+  - On open access repositories
+  - Publishers version/PDF may be used on author's personal website or institutional
+    website
+  - Authors post-print version on e-print servers
+  - Must link to publisher version or journal homepage
+  - Publisher copyright and source must be acknowledged
+  - All titles are open access journals
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

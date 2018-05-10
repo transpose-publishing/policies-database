@@ -1,0 +1,252 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_985
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: WB Saunders
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Advances in Chronic Kidney Disease
+  - Advances in Small Animal Medicine and Surgery
+  - American Journal of Emergency Medicine
+  - American Journal of Otolaryngology
+  - Anesthesiology Clinics
+  - Annals of Diagnostic Pathology
+  - Applied Nursing Research
+  - Archives of Psychiatric Nursing
+  - 'Arthroscopy: The Journal of Arthroscopy and Related Surgery'
+  - Atlas of The Oral and Maxillofacial Surgery Clinics of North America
+  - Cancer Treatment Reviews
+  - Cardiac Electrophysiology Clinics
+  - Cardiology Clinics
+  - Child and Adolescent Psychiatric Clinics of North America
+  - Clinical Effectiveness in Nursing
+  - Clinical Gastroenterology and Hepatology
+  - Clinical Pediatric Emergency Medicine
+  - Clinics in Chest Medicine
+  - Clinics in Geriatric Medicine
+  - Clinics in Laboratory Medicine
+  - Clinics in Liver Disease
+  - Clinics in Perinatology
+  - Clinics in Plastic Surgery
+  - Clinics in Podiatric Medicine and Surgery
+  - Clinics in Sports Medicine
+  - Comprehensive Psychiatry
+  - Critical Care Clinics
+  - Critical Care Nursing Clinics of North America
+  - Dental Clinics of North America
+  - Dermatologic Clinics
+  - 'Diabetes and Metabolic Syndrome: Clinical Research and Reviews'
+  - Digestive and Liver Disease
+  - EJSO - European Journal of Surgical Oncology
+  - Emergency Medicine Clinics of North America
+  - Endocrinology and Metabolism Clinics of North America
+  - Facial Plastic Surgery Clinics of North America
+  - Foot and Ankle Clinics
+  - Gastroenterology Clinics of North America
+  - Gastrointestinal Endoscopy Clinics of North America
+  - Hand Clinics
+  - Heart Failure Clinics
+  - Hematology/Oncology Clinics of North America
+  - Hospital Medicine Clinics
+  - Human Pathology
+  - Immunology and Allergy Clinics of North America
+  - Infectious Disease Clinics of North America
+  - Journal of Cardiothoracic and Vascular Anesthesia
+  - Journal of Critical Care
+  - Journal of Equine Veterinary Science
+  - Journal of Hand Surgery (American Volume)
+  - Journal of Hospital Infection
+  - Journal of Oral and Maxillofacial Surgery
+  - Journal of Pediatric Nursing
+  - Journal of PeriAnesthesia Nursing
+  - Journal of Professional Nursing
+  - Journal of Renal Nutrition
+  - Journal of Stroke and Cerebrovascular Diseases
+  - Magnetic Resonance Imaging Clinics of North America
+  - Medical Clinics of North America
+  - Metabolism
+  - Neuroimaging Clinics of North America
+  - Neurologic Clinics
+  - Neurosurgery Clinics of North America
+  - Newborn and Infant Nursing Reviews
+  - Nursing Clinics of North America
+  - Obstetrics and Gynecology Clinics of North America
+  - Operative Techniques in Orthopaedics
+  - Operative Techniques in Otolaryngology - Head and Neck Surgery
+  - Operative Techniques in Sports Medicine
+  - Oral and Maxillofacial Surgery Clinics of North America
+  - Orthopedic Clinics of North America
+  - Otolaryngologic Clinics of North America
+  - PET Clinics
+  - Pain Management Nursing
+  - Pediatric Clinics of North America
+  - Perioperative Nursing Clinics
+  - Physical Medicine and Rehabilitation Clinics of North America
+  - 'Primary Care: Clinics in Office Practice'
+  - Progress in Cardiovascular Diseases
+  - Psychiatric Clinics of North America
+  - Radiologic Clinics of North America
+  - Rheumatic Disease Clinics of North America
+  - Seminars in Arthroplasty
+  - Seminars in Colon and Rectal Surgery
+  - Seminars in Cutaneous Medicine and Surgery
+  - Seminars in Diagnostic Pathology
+  - Seminars in Fetal and Neonatal Medicine
+  - Seminars in Nephrology
+  - Seminars in Oncology
+  - Seminars in Oncology Nursing
+  - Seminars in Orthodontics
+  - Seminars in Pediatric Neurology
+  - Seminars in Pediatric Surgery
+  - Seminars in Perinatology
+  - Seminars in Radiation Oncology
+  - Seminars in Roentgenology
+  - Seminars in Spine Surgery
+  - Seminars in Thoracic and Cardiovascular Surgery
+  - 'Seminars in Thoracic and Cardiovascular Surgery: Pediatric Cardiac Surgery Annual'
+  - Seminars in Vascular Surgery
+  - Sleep Medicine Clinics
+  - Surgical Clinics of North America
+  - Surgical Oncology Clinics of North America
+  - Surgical Pathology Clinics
+  - Techniques in Gastrointestinal Endoscopy
+  - Techniques in Regional Anesthesia and Pain Management
+  - Techniques in Vascular and Interventional Radiology
+  - Thoracic Surgery Clinics
+  - Transfusion Medicine Reviews
+  - Transplantation Reviews
+  - Ultrasound Clinics
+  - Urologic Clinics of North America
+  - 'Veterinary Clinics of North America: Equine Practice'
+  - 'Veterinary Clinics of North America: Exotic Animal Practice'
+  - 'Veterinary Clinics of North America: Food Animal Practice'
+  - 'Veterinary Clinics of North America: Small Animal Practice'
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies:
+  - romeo_30
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.elsevier.com/connect/elsevier-updates-its-policies-perspectives-and-services-on-article-sharing
+  - http://www.elsevier.com/about/company-information/policies/sharing
+  - http://www.elsevier.com/about/policies/policy-faq
+  - http://www.elsevier.com/about/open-access/green-open-access
+  - https://www.elsevier.com/__data/assets/pdf_file/0005/78476/external-embargo-list.pdf
+  - http://www.elsevier.com/about/company-information/policies/sharing/how-to-attach-a-user-license
+  - http://www.elsevier.com/about/open-access/open-access-policies/funding-body-agreements
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Pre-print allowed on any website or open access repository
+  - Voluntary deposit by author of authors post-print allowed on institutions open
+    scholarly website including Institutional Repository, without embargo, where there
+    is not a policy or mandate
+  - Deposit due to Funding Body, Institutional and Governmental policy or mandate
+    only allowed where separate agreement between repository and the publisher exists.
+  - Permitted deposit due to Funding Body, Institutional and Governmental policy or
+    mandate, may be required to comply with embargo periods of 12 months to 48 months
+  - Set statement to accompany deposit
+  - Published source must be acknowledged
+  - Must link to journal home page or articles' DOI
+  - Publisher's version/PDF cannot be used
+  - Articles in some journals can be made Open Access on payment of additional charge
+  - NIH Authors articles will be submitted to PubMed Central after 12 months
+  - Authors who are required to deposit in subject-based repositories may also use
+    Sponsorship Option
+  - Publisher last reviewed on 03/07/2015
+  - "'WB Saunders' is an imprint of ''"
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

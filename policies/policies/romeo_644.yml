@@ -1,0 +1,195 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_644
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: PAGEpress
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Acetic Acid Bacteria
+  - Ageing Research
+  - Alternative Medicine Studies
+  - Antiqua
+  - Archivio Italiano di Urologia e Andrologia
+  - Astronomy Studies Development
+  - Audiology Research
+  - Cardiogenetics
+  - Chest Disease Reports
+  - Clinics and Practice
+  - Dermatology Reports
+  - Drugs and Cell Therapies in Hematology
+  - Drugs and Therapy Studies
+  - Emergency Care Journal
+  - Endocrinology Studies
+  - Entomologia
+  - European Journal of Histochemistry
+  - European Journal of Translational Myology
+  - Eye Reports
+  - Fragmenta Entomologica
+  - Gastroenterology Insights
+  - Genetics Today
+  - Geospatial Health
+  - Global Meteorology
+  - Health Psychology Research
+  - Healthcare in Low-resource Settings
+  - Hematology Reports
+  - Human Origins Research
+  - Infectious Disease Reports
+  - International Journal of Plant Biology
+  - Istituto Lombardo - Accademia di Scienze e Lettere - Incontri di Studio
+  - Istituto Lombardo - Accademia di Scienze e Lettere - Memorie
+  - Istituto Lombardo - Accademia di Scienze e Lettere - Rendiconti di Lettere
+  - Istituto Lombardo - Accademia di Scienze e Lettere - Rendiconti di Scienze
+  - Italian Journal of Agronomy
+  - Italian Journal of Animal Science
+  - Italian Journal of Food Safety
+  - Journal of Agricultural Engineering
+  - Journal of Biological Research - Bollettino della Società Italiana di Biologia
+    Sperimentale
+  - Journal of Entomological and Acarological Research
+  - Journal of Limnology
+  - Journal of Nucleic Acids Investigation
+  - Journal of Public Health Research
+  - Journal of Public Health in Africa
+  - Journal of Xenobiotics
+  - Journal of the Siena Academy of Sciences
+  - MAP Kinase
+  - Malaria Reports
+  - Medical Education Development
+  - Mediterranean Journal of Hematology and Infectious Diseases
+  - Mental Illness
+  - Microbiologia Medica
+  - Microbiology Research
+  - Nanotechnology Development
+  - Natural History Sciences
+  - Neurology International
+  - Nursing Reports
+  - Open Journal of Archaeometry
+  - Optometry Reports
+  - Orthopedic Reviews
+  - Pediatria Medica e Chirurgica
+  - Pediatric Reports
+  - Rare Tumors
+  - Research in Geophysics
+  - Reumatismo
+  - Rheumatology Reports
+  - Rivista Italiana di Ornitologia
+  - Stem Cell Studies
+  - Surgical Techniques Development
+  - Teratology Studies
+  - Thalassemia Reports
+  - Trends in Evolutionary Biology
+  - Urogynaecologia
+  - Veins and Lymphatics
+  - Veterinary Science Development
+  - Wine Studies
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.pagepress.org/open-access.html
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - On authors' personal website or institutional repository
+  - Creative Commons Attribution Non-Commercial License 4.0
+  - Published source must be acknowledged
+  - Publisher's version/PDF may be used
+  - Authors retain copyright
+  - All titles are open access journals
+  - Publisher last reviewed on 24/11/2016
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

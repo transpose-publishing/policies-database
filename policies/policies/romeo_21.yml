@@ -1,0 +1,177 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_21
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Association for Computing Machinery (ACM)
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - ACM - Transactions on Speech and Language Processing
+  - ACM Computing Surveys
+  - ACM Journal on Emerging Technologies in Computing Systems
+  - ACM Journal on Experimental Algorithmics
+  - ACM Letters on Programming Languages and Systems
+  - ACM Transactions of Computing Education
+  - ACM Transactions on Accessible Computing
+  - ACM Transactions on Algorithms
+  - ACM Transactions on Applied Perception
+  - ACM Transactions on Architecture and Code Optimization
+  - ACM Transactions on Asian Language Information Processing
+  - ACM Transactions on Autonomous and Adaptive Systems
+  - ACM Transactions on Computation Theory
+  - ACM Transactions on Computational Logic
+  - ACM Transactions on Computer Systems
+  - ACM Transactions on Computer-Human Interaction
+  - ACM Transactions on Database Systems
+  - ACM Transactions on Economics and Computation
+  - ACM Transactions on Embedded Computing Systems
+  - ACM Transactions on Graphics
+  - ACM Transactions on Information Systems
+  - ACM Transactions on Information and System Security
+  - ACM Transactions on Intelligent Systems and Technology
+  - ACM Transactions on Interactive Intelligent Systems
+  - ACM Transactions on Internet Technology
+  - ACM Transactions on Knowledge Discovery from Data
+  - ACM Transactions on Management Information Systems
+  - ACM Transactions on Mathematical Software
+  - ACM Transactions on Modeling and Computer Simulation
+  - ACM Transactions on Multimedia Computing, Communications and Applications
+  - ACM Transactions on Parallel Computing
+  - ACM Transactions on Programming Languages and Systems
+  - ACM Transactions on Reconfigurable Technology and Systems
+  - ACM Transactions on Sensor Networks
+  - ACM Transactions on Software Engineering and Methodology
+  - ACM Transactions on Spatial Algorithms and Systems
+  - ACM Transactions on the Web
+  - Collected Algorithms of the ACM
+  - Computers and Society
+  - Computing Reviews
+  - IEEE/ACM Transactions on Networking
+  - Journal of Data and Information Quality
+  - Journal of End User Computing
+  - Journal of the ACM
+  - Journal on Computing and Cultural Heritage
+  - Journal on Educational Resources in Computing
+  - Proceedings of the ACM on Human-Computer Interaction
+  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  - Proceedings of the ACM on Programming Languages
+  - Transactions on Design Automation of Electronic Systems
+  - Transactions on Storage
+  - Ubiquity
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.acm.org/publications/policies/copyright-policy
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Author's pre-print on non-peer review servers prior to submission to journal
+  - Author's pre-prints can be deposited on public repositories as long as accompanied
+    by ACM copyright notice upon transfer of copyright
+  - Author's Post-print on author's personal website, institutional repository, open
+    access repository, employer's website or funder's mandated repository only
+  - Non commercial use
+  - Publisher's version/PDF cannot be used
+  - Publisher copyright and source must be acknowledged
+  - Must link to publisher version with statement that this is the definitive version
+    and DOI
+  - Must state that version on repository is the authors version
+  - Set statement "&#169; ACM, YYYY. This is the author's version of the work. It
+    is posted here by permission of ACM for your personal use. Not for redistribution.
+    The definitive version was published in PUBLICATION, {VOL#, ISS#, (DATE)} http://doi.acm.org/10.1145/nnnnnn.nnnnnn"
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

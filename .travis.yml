@@ -19,3 +19,8 @@ script:
     --ExecutePreprocessor.timeout=-1
     --ExecutePreprocessor.kernel_name=python
     romeo/*.ipynb
+  - pytest policies/validate_policies.py
+  - jupyter nbconvert --inplace --execute
+    --ExecutePreprocessor.timeout=-1
+    --ExecutePreprocessor.kernel_name=python
+    policies/*.ipynb

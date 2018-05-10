@@ -1,0 +1,153 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_14
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: American Society of Civil Engineers
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Geotechnical Special Publications
+  - International Journal of Geomechanics
+  - Journal of Aerospace Engineering
+  - Journal of Architectural Engineering
+  - Journal of Bridge Engineering
+  - Journal of Cold Regions Engineering
+  - Journal of Composites for Construction
+  - Journal of Computing in Civil Engineering
+  - Journal of Construction Engineering and Management
+  - Journal of Energy Engineering
+  - Journal of Engineering Mechanics
+  - Journal of Environmental Engineering
+  - Journal of Geotechnical and Geoenvironmental Engineering
+  - Journal of Hazardous, Toxic, and Radioactive Waste
+  - Journal of Hydrologic Engineering
+  - Journal of Infrastructure Systems
+  - Journal of Irrigation and Drainage Engineering
+  - Journal of Legal Affairs and Dispute Resolution in Engineering and Construction
+  - Journal of Management in Engineering
+  - Journal of Materials in Civil Engineering
+  - Journal of Nanomechanics and Micromechanic
+  - Journal of Performance of Constructed Facilities
+  - Journal of Pipeline Systems Engineering and Practice
+  - Journal of Professional Issues in Engineering Education and Practice
+  - Journal of Structural Engineering
+  - Journal of Surveying Engineering
+  - Journal of Transportation Engineering
+  - Journal of Urban Planning and Development
+  - Journal of Water Resources Planning and Management
+  - Journal of Waterway, Port, Coastal, and Ocean Engineering
+  - Leadership and Management in Engineering
+  - Natural Hazards Review
+  - Practice Periodical on Structural Design and Construction
+  - Proceedings of the International Conference on Coastal Engineering
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies:
+  - romeo_1227
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: unclear
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://ascelibrary.org/page/informationforasceauthorsreusingyourownmaterial
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Publisher's version/PDF cannot be used
+  - Author's post-print only on open access repository, institutional repository or
+    Research Gate
+  - Must link to publisher version at ASCE Civil Engineering Database (http://cedb.asce.org)
+  - Publisher copyright and source must be acknowledged
+  - Publishers' PDF may be used on an Intranet with password protection
+  - Publisher last reviewed on 17/08/2015
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

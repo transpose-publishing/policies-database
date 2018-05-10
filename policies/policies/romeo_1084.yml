@@ -1,0 +1,1572 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_1084
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Peter Lang International Academic Publishers
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - (Post)Critical Global Studies
+  - A Critical Introduction to Media and Communication Theory
+  - 'ALPH: Approaches to Literary Phantasy'
+  - 'ALPH: Arbeiten zur Literarischen Phantastik'
+  - ARTEFAKT. Schriften zur Soziosemiotik und Komparatistik
+  - Aachen British and American Studies
+  - Aachener Studien zur Anglistik und Amerikanistik
+  - Acta Germanica
+  - Actes de la Chaire Glaverbel d'études européennes
+  - Action publique / Public Action
+  - Ad Fontes
+  - Adnotationes In Ius Canonicum
+  - Adolescent Cultures, School, and Society
+  - Adventistica
+  - Africa and Europe. Colonial and Postcolonial Encounters
+  - Africa in Development
+  - African Theological Studies
+  - African-American Literature and Culture
+  - Afrika und Europa. Koloniale und Postkoloniale Begegnungen
+  - After Spirituality
+  - Age of Revolution and Romanticism
+  - Aisthesis, Hermeneutik, Rhetorik
+  - Aletheia
+  - Allokation im marktwirtschaftlichen System
+  - Alte Testament im Dialog
+  - America Romana
+  - America and Global Affairs
+  - American Culture
+  - American Indian Studies
+  - American Liberal Religious Thought
+  - American Studies and Media
+  - 'American Studies: Culture, Society and the Arts'
+  - 'American University Studies. Series 10: Political Science'
+  - 'American University Studies. Series 11: Anthropology/Sociology'
+  - 'American University Studies. Series 12: Slavic Languages and Literature'
+  - 'American University Studies. Series 13: Linguistics'
+  - 'American University Studies. Series 1: Germanic Languages and Literature'
+  - 'American University Studies. Series 26: Theatre Arts'
+  - 'American University Studies. Series 5: Philosophy'
+  - 'American University Studies. Series 9: History'
+  - Amérique latine - Europe
+  - Analecta fontium mitteleuropaeorum
+  - Analysen und Dokumente
+  - Analysen zum Wandel politisch-ökonomisch systeme
+  - Analysen zur Sicherheitspolitik
+  - Angewandte Genderforschung / Gender Research Applied
+  - Angewandte Sprachwissenschaft
+  - Anglo-American Studies
+  - Anglo-amerikanische Studien
+  - Annalen der Internationalen Gesellschaft Hegel-Marx für dialektisches Denken
+  - Anthropologie et philosophie sociale
+  - Anwendungsorientierte Statistik
+  - Apeliotes. Studien zur Kulturgeschichte und Theologie
+  - Apocalypticism
+  - Arbeit - Technik - Organisation - Soziales
+  - Arbeit, Bildung und Gesellschaft
+  - Arbeiten und Bibliographien zum Buch- und Bibliothekswesen
+  - Arbeiten zu Diskurs und Stil
+  - Arbeiten zur Editionswissenschaft
+  - Arbeiten zur Religion und Geschichte des Urchristentums
+  - Arbeiten zur Sprachanalyse
+  - Arbeiten zur mittleren deutschen Literatur und Sprache
+  - Arbeitswissenschaft in der betrieblichen Praxis
+  - Ars Faciendi
+  - Ars Interpretandi
+  - Ars Musica. Interdisziplinäre Studien
+  - Art  Knowledge  Theory
+  - Art and Science of Music Teaching and Performance
+  - Art and Thought
+  - Artists and Issues in the Theatre
+  - Asian American Studies
+  - Asian Pacific Studies, ASPS-E
+  - Asian Thought and Culture
+  - Askari Zahedi, Finance FinTech Crowdfunding in Islam, FFCI-E
+  - Aspects linguistiques et culturels des discours spécialisés
+  - Aspekte der englischen Geistes- und Kulturgeschichte
+  - Aspekte pädagogischer Innovation
+  - Aufklärung in der Romania
+  - Augsburger Studien zum internationalen Recht
+  - 'Australian Studies: Interdisciplinary Perspectives'
+  - Australian and New Zealand Studies in German Language and Literature
+  - Austrian Culture
+  - Austrian Studies in English
+  - Babelsberger Schriften zu Mediendramaturgie und -Ästhetik
+  - Balkan Studies
+  - Baltische Studien zur Erziehungs- und Sozialwissenschaft
+  - Bamberger Beiträge zur Englischen Sprachwissenschaft
+  - Bamberger Theologische Studien
+  - Bank- und Finanzwirtschaft
+  - Basler Studien zur Musik in Theorie und Praxis
+  - Basler und Berner Studien zur historischen und systematischen Theologie
+  - Bayreuth Contributions to Glottodidactics
+  - Bayreuther Beiträge zur Glottodidaktik
+  - Behindertenpädagogik und Integration
+  - Beihefte zu Simpliciana
+  - Beihefte zur Mediaevistik
+  - Beiträge aus Anglistik und Amerikanistik
+  - Beiträge zum Controlling
+  - Beiträge zum Rechnungs-, Finanz- und Revisionswesen
+  - Beiträge zum UN-Kaufrecht
+  - Beiträge zum nationalen und internationalen öffentlichen Recht
+  - Beiträge zur Angewandten Psychologie
+  - Beiträge zur Arbeits-, Berufs- und Wirtschaftspädagogik
+  - Beiträge zur Bildungsökonomie und Bildungspolitik
+  - Beiträge zur Dissidenz
+  - Beiträge zur Erforschung der antiken Moabitis (Ard El-Kerak)
+  - Beiträge zur Erforschung des Alten Testaments und des Antiken Judentums
+  - Beiträge zur Erziehungswissenschaft und biblischen Bildung
+  - Beiträge zur Geschichte der Musikpädagogik
+  - Beiträge zur Geschichte der Psychologie
+  - Beiträge zur Geschichte des Deutschunterrichts
+  - Beiträge zur Gesellschaftsforschung. Contributions to Social Research
+  - Beiträge zur Kirchen- und Kulturgeschichte
+  - Beiträge zur Literatur und Literaturwissenschaft des 20. und 21. Jahrhunderts
+  - Beiträge zur Literatur- und Mediendidaktik
+  - Beiträge zur Neueren Geschichte Österreichs
+  - Beiträge zur Planungs- und Architektursoziologie
+  - Beiträge zur Politikwissenschaft
+  - Beiträge zur Pädagogik
+  - Beiträge zur Pädagogischen und Rehabilitationspsychologie. Studies in Educational
+    and Rehabilitation Psychology
+  - Beiträge zur Skandinavistik
+  - Beiträge zur Sonderpädagogik
+  - Beiträge zur Sozialpsychologie
+  - Beiträge zur Volkskunde und Kulturanalyse
+  - Beiträge zur Wirtschaftsinformatik
+  - Beiträge zur Wissenschafts- und Medizingeschichte
+  - Beiträge zur anglo-amerikanischen Literatur
+  - Beiträge zur empirischen Erziehungswissenschaft und Fachdidaktik
+  - Beiträge zur europäischen Ethnologie und Folklore
+  - Beiträge zur mitteldeutschen Kulturgeschichte
+  - Beiträge zur neuen Epochenforschung
+  - Beiträge zur rationalen Theologie
+  - Beiträge zur theologischen Urteilsbildung
+  - Beiträge zur vergleichenden Bildungsforschung
+  - Beiträge zur älteren Deutschen Literaturgeschichte
+  - Belgian Francophone Library
+  - Belgien im Fokus - Beihefte
+  - Berkeley Insights in Linguistics and Semiotics
+  - Berkeley Models of Grammars
+  - Berliner Beiträge zur Literatur- und Kulturgeschichte
+  - Berliner Beiträge zur Pädagogik
+  - Berliner Beiträge zur Wissens- und Wissenschaftsgeschichte
+  - Berliner Bibliothek
+  - Berliner Byzantinistische Studien
+  - Berliner Schriften zum internationalen, ausländischen und deutschen Privatrecht
+  - Berliner Slawistische Arbeiten
+  - Berliner Studien zur Germanistik
+  - Berliner Studien zur Politik in Afrika
+  - Berner Beiträge zur deutschen Sprache und Literatur
+  - Berner Reihe philosophischer Studien
+  - Berner Studien zum Fremdenverkehr
+  - Berner Veröffentlichungen zur Musikforschung
+  - Berufliche Bildung im Wandel
+  - Berufliche Bildung in Forschung, Schule und Arbeitswelt
+  - Betriebspädagogik
+  - Betriebswirtschaftliche Forschung im Rechnungswesen
+  - 'Beyond Humanism: Trans- and Posthumanism'
+  - Biberacher Hochschulschriften
+  - Bible and Theology in Africa
+  - Bible in the Christian Orthodox Tradition
+  - Bibliographien zur Literatur- und Mediengeschichte
+  - Bibliotheca Anastatica Germanica
+  - Bibliotheca Aurea, Locorum Amoenorum, Librorum Numinosorum, Virorum Illustrium
+  - Bibliotheca Humanistica
+  - Bibliotheca Neolatina
+  - Bielefelder Rechtsstudien
+  - Bildung und Organisation
+  - Bildungsgeschichte und Europäische Identität
+  - Biodynamic Psychology and Psychotherapy
+  - Black Studies and Critical Thinking
+  - Blickpunkt Sportmanagement
+  - Bochumer Beiträge zur Unternehmensführung
+  - Bochumer Schriften zum Steuerrecht
+  - Bochumer Studien zum Stiftungswesen
+  - Bohemia
+  - Bonner Beiträge zur Medienwissenschaft
+  - Bonner Schriften zum deutschen und europäischen Recht der Arbeit und der Sozialen
+    Sicherheit
+  - Bonner Schriften zur Musikwissenschaft
+  - Bonner romanistische Arbeiten
+  - Braunschweiger Beiträge zur Kulturgeschichte
+  - Braunschweiger Beiträge zur Sozialethik
+  - Bremer Beiträge zur Literatur- und Ideengeschichte
+  - Britische und Irische Studien zur deutschen Sprache und Literatur
+  - British Identities since 1707
+  - Budapester Studien zur Literaturwissenschaft
+  - Business and Innovation
+  - Byzantine and Neohellenic Studies
+  - Börsen- und kapitalmarktrechtliche Abhandlungen
+  - CEAUP Studies on Africa
+  - COGNITIO
+  - CUTG Proceedings
+  - Cahiers Robert Schuman
+  - Cahiers du Collège dEurope
+  - California Studies in German and European Romanticism in the Age of Goethe
+  - Caribbean Studies
+  - Catalan Studies
+  - Catholic Thought from Lublin
+  - Childhood Studies
+  - Children's Books from the Past
+  - Chinesisch-deutsche Jahres- und Tageszeiten
+  - Christianismes anciens
+  - Christliche deutsche Autoren des 20. Jahrhunderts
+  - Cité européenne / European Policy
+  - Classica et Neolatina
+  - Collection Theta
+  - Collection des thèses de la Faculté des sciences économiques et sociales de l'Université
+    de Genève
+  - Colloquia Baltica
+  - Communication Law
+  - Comparatisme et Société
+  - Comparative Cultures and Literatures
+  - 'Comparative Literary and Film Studies: Europe, Japan and the Third World'
+  - Comparative Regional Integration Studies
+  - Comparative Studies on Education, Culture and Technology
+  - Complicated Conversation
+  - Confronting the Text, Confronting the World
+  - Consciousness and Human Systems
+  - Contacts
+  - 'Contacts Série 2: Gallo-germanica'
+  - 'Contacts Série 4: Bilans et enjeux'
+  - Contacts. Série 1, Theatrica
+  - Contacts. Série 3, Etudes et documents
+  - Contemporary Critical Concepts and Pre-Enlightenment Literature
+  - Contemporary Existentialism
+  - Contemporary Film, Television, and Video
+  - Contemporary German Writers and Filmmakers
+  - Contemporary Studies in Descriptive Linguistics
+  - Contributions to English and American Literary Studies
+  - Contributions to Philosophical Theology
+  - Controlling & Business Accounting
+  - Controlling and Management
+  - Controversies from the Promised Land
+  - Convergences
+  - Corporate Finance and Governance
+  - Counterpoints
+  - Court Cultures of the Middle Ages and Renaissance
+  - Criminal Humanities and Forensic Semiotics
+  - Criminalia
+  - Critic of Institutions
+  - Critical Education and Ethics
+  - Critical Indigenous and American Indian Studies
+  - Critical Intercultural Communication Studies
+  - Critical Multicultural Perspectives on Whiteness
+  - Critical Perspectives on English and American Literature, Communication and Culture
+  - Critical Praxis and Curriculum Guides
+  - Critical Qualitative Research
+  - Critical Studies in Democracy and Political Literacy
+  - Critical Studies of Latinos/as in the Americas
+  - Critique sociale et pensée juridique
+  - Cross-Cultural Communication
+  - Cross-Roads
+  - 'Crosscurrents: New Studies on the Middle East'
+  - 'Crosscurrents: Writings of German Political Emigrés in Nineteenth-Century America'
+  - 'Crosscurrents: Writings of German Political Emigrés in Nineteenth-Cenury America'
+  - Cuadernos de Yuste
+  - Cultural Critique
+  - Cultural History and Literary Imagination
+  - Cultural Identity Studies
+  - 'Cultural Interactions: Studies in the Relationship between the Arts'
+  - Cultural Management and Cultural Policy Education
+  - Cultural Memories
+  - Culture and Knowledge
+  - Culture of European Cities / La culture de la ville européenne
+  - Culture, Ethnicity and Nation
+  - Cultures juridiques et politiques
+  - Currents in Comparative Romance Languages and Literatures
+  - DDR- Studien / East German Studies
+  - Danziger Beiträge zur Germanistik
+  - Debrecener Studien zur Literatur
+  - DemOkrit
+  - Democracy, Human Rights, Integration, Radicalisation and Security
+  - Destini incrociati/Destins croisés
+  - Deutsch als Fremdsprache in der Diskussion
+  - Deutsch-Australische Studien
+  - Deutsch-ostasiatische Studien zur interkulturellen Literaturwissenschaft
+  - Deutsche Literatur von den Anfängen bis 1700
+  - Deutsche Sprachgeschichte
+  - Deutsche Sprachwissenschaft international
+  - Deutschen und das östliche Europa. Studien und Quellen
+  - Deutsches und Europäisches Wirtschaftsrecht
+  - Deutsches, europäisches und internationales Strafrecht und Strafprozessrecht
+  - Development Economics and Policy
+  - Dia-Logos
+  - Dialoghi / Dialogues
+  - Dickens' Universe
+  - Dies Academicus
+  - Dieux, Hommes et Religions
+  - Digital Formations
+  - Diplomatie et histoire
+  - Dis/Continuities
+  - Disability Studies in Education
+  - Diversitas
+  - Documentary Film Cultures
+  - Documents diplomatiques français  1914-1916
+  - Documents pour l'Histoire des Francophonies
+  - Donezk Studien zur Germanistik, kontrastiven und diachronen Linguistik
+  - Dramaturgies
+  - Dresden Philosophy of Technology Studies
+  - Dresdner Schriften zu Recht und Politik der Vereinten Nationen
+  - Duisburger Arbeiten zur Sprach- und Kulturwissenschaft
+  - Dynamiques citoyennes en Europe
+  - Düsseldorfer Schriften zu Kultur und Medien
+  - Düsseldorfer Schriften zur Pharmazie- und Naturwissenschaftsgeschichte
+  - ECHO
+  - Early American Literature and Culture Through the American Renaissance
+  - Early Christianity in the Context of Antiquity
+  - Eastern European Culture, Politics and Societies
+  - Eastern European Studies in Musicology
+  - Eastern and Central European Studies
+  - EcoPolis
+  - Economic Political Social Islam, EPSI-E
+  - Economic, Political and Social Institutions in Islam
+  - Ecuador - Studien und Editionen
+  - Ecumenical Studies
+  - Edited by Jorge Díaz Cintas           In todays globalised society, translation
+    and interpreting are gaining visibility and relevance as a means to foster communication
+    and dialogue in increasingly multicultural and multilingual enviro
+  - Edited by Piotr Urbanski           The Neo-Latin literature is an important factor
+    uniting Europe as a cultural entity. It is impossible to comprehend European culture
+    as a coherent homogenous whole without an enquiry into this literature. Euro
+  - Edition Israelogie
+  - Edition kulturelle Infrastruktur
+  - Education Management
+  - Education and Struggle
+  - Education beyond Borders
+  - Eighteenth-Century French Intellectual History
+  - Einblicke
+  - Electronic Business
+  - Emerging Markets Studies
+  - Emory Studies in Early Christianity
+  - Empirische und methodologische Beiträge zur Sozialwissenschaft
+  - Encounters. The Warsaw Studies in English Language Culture, Literature, and Visual
+    Arts
+  - English Literature and Culture in Context
+  - Enjeux internationaux / International Issues
+  - Enlightenment German and Interdisciplinary Studies
+  - Entrepreneurship
+  - Entrepreneurship und Gründungsmanagement
+  - Entwicklung und Finanzierung
+  - Equity in Higher Education Theory, Policy, and Praxis
+  - Erfahrung und Theologie
+  - Erfurter Studien zur Kulturgeschichte des Orthodoxen Christentums
+  - Erlanger Schriften zum Öffentlichen Recht
+  - 'Eruptions: New Feminism Across the Disciplines'
+  - Erwachsenenbildung und Weiterbildung
+  - Erziehungskonzeptionen und Praxis
+  - Erziehungsphilosophie
+  - Espacios literarios en contacto
+  - Estudios hispánicos en el contexto global. Hispanic Studies in the Global Context.
+    Hispanistik im globalen Kontext
+  - Estudos Germânicos
+  - Ethik transdisziplinär
+  - Ethnien - Regionen - Konflikte
+  - Etudes contrastives
+  - Etudes de linguistique, littérature et arts
+  - Etudes genevoises sur lAntiquité
+  - Euroclio - Références
+  - Europe alimentaire/European Food Issues/Europa alimentaria/L'Europa alimentare
+  - Europe des cultures/Europe of cultures
+  - Europe et les Europes
+  - Europe plurielle/Multiple Europes
+  - European Connections
+  - European Semiotics
+  - European Social Inclusion
+  - European Studies in Lifelong Learning and Adult Learning Research
+  - European Studies in Theology, Philosophy and History of Religions
+  - Europäische Aufklärung in Literatur und Sprache
+  - Europäische Bildung im Dialog
+  - Europäische Kinder- und Jugendliteratur im interkulturellen Kontext
+  - Europäische Migrationsforschung
+  - Europäische Studien zur Ideen- und Wissenschaftsgeschichte
+  - Europäische Wallfahrtsstudien
+  - Europäisches Forum
+  - Eurosinica
+  - Exil-Dokumente
+  - Exile Studies
+  - Exiles and Transterrados
+  - Exploration
+  - Explorationen
+  - 'Extreme teaching: rigorous texts for troubled times'
+  - FASK. Publikationen des Fachbereichs Angewandte Sprach- und Kulturwissenschaft
+    der Johannes Gutenberg-Universität Mainz in Germersheim
+  - FLS - Foreign Language Studies
+  - FTSK. Publikationen des Fachbereichs Translations-, Sprach- und Kulturwissenschaft
+    der Johannes Gutenberg-Universität Mainz in Germersheim
+  - FTSK. Publikationen des Fachbereichs Translations-, Sprach- und Kulturwissenschaft
+    der Johannes Gutenberg-Universität Mainz in Germersheim
+  - Fabrique du politique
+  - Familienrechtliche Untersuchungen
+  - Federalism
+  - Feminism and the Social Sciences
+  - Feminist Critical Studies in Religion and Culture
+  - Feministische Forschungen
+  - Feuchtwanger Studies
+  - Finance FinTech Crowdfunding in Islam, FFCI-H
+  - Finance and Ethics
+  - Finance and Science
+  - Financial Economics and Economic Policy
+  - Finanz- und Steuerrecht in Deutschland und Europa
+  - Finanzsoziologie
+  - Finanzwissenschaftliche Schriften
+  - Finnische Beiträge zur Germanistik
+  - Fondo Hispánico de Lingüística y Filología
+  - Foreign Language Teaching in Europe
+  - Forschung und Praxis zukunftsfähiger Unternehmensführung
+  - Forschungen der Europäischen Fakultät für Bodenordnung, Straßburg
+  - Forschungen zum Junghegelianismus. Quellenkunde, Umkreisforschung, Theorie, Wirkungsgeschichte
+  - Forschungen zum deutschen und internationalen Erb- und Familienrecht
+  - Forschungen zur Wirtschafts-, Finanz- und Sozialgeschichte
+  - Forschungen zur praktischen Theologie
+  - Forschungsergebnisse der Wirtschaftsuniversität Wien
+  - Forum Angewandte Linguistik
+  - Forum Fundamentaltheologie
+  - Forum Interdisziplinäre Ethik
+  - Forum Interdisziplinäre Ethik. Neue Folge
+  - Forum Junge Romanistik
+  - Forum Linguisticum
+  - Forum Personalmanagement / Human Resource Management
+  - Forum Translationswissenschaft
+  - Forum Unternehmens-, Steuer- und Bilanzrecht
+  - Forum für Sprach- und Kulturwissenschaft
+  - Framing Film
+  - France contemporaine
+  - Franco-Italica
+  - Francophone Cultures and Literatures
+  - Frankfurter Abhandlungen zum Sozialrecht
+  - Frankfurter Forschungen zur Kultur- und Sprachwissenschaft
+  - Frankfurter Hochschulschriften zur Sprachtheorie und Literaturästhetik
+  - Frankfurter Schriften zur Gesundheitspolitik und zum Gesundheitsrecht
+  - Frankfurter kriminalwissenschaftliche Studien
+  - Frankfurter wirtschaftsrechtliche Studien
+  - Frauen, Forschung und Wirtschaft
+  - Freiberger Beiträge zur interkulturellen und Wirtschaftskommunikation
+  - Freiburger Beiträge zur Erziehungswissenschaft und Fachdidaktik
+  - Freiburger Beiträge zur mittelalterlichen Geschichte
+  - Freiburger Steuerforum
+  - Freiburger Studien zur Frühen Neuzeit
+  - Fremdsprachen lebenslang lernen
+  - Fremdsprachendidaktik inhalts- und lernerorientiert
+  - French Studies of the Eighteenth and Nineteenth Centuries
+  - From Antiquity to Modernity
+  - Frontiers in Political Communication
+  - Frontiers of Business Ethics
+  - GRAMM-R. Études de linguistique française
+  - Galerie
+  - Galician Studies
+  - Gdansk Transatlantic Studies in British and North American Culture
+  - Gdańsk Studies in Language
+  - Geistliche Texte des 17. und 18. Jahrhunderts
+  - Gender and Sexualities in Education
+  - Gender, Sexuality, and Culture
+  - Genèses de Textes
+  - Georges Pompidou  Études
+  - Georges Pompidou - Archives
+  - Georges Pompidou - Études
+  - German Life and Civilization
+  - German Linguistic and Cultural Studies
+  - German Studies in America
+  - German Studies in Canada
+  - German Visual Culture
+  - German-Australian Studies
+  - Germanistik  Didaktik  Unterricht
+  - Germanistische Lehrbuchsammlung
+  - Germanistische Schlaglichter - Neue Folge
+  - Geschichte  Erinnerung  Politik. Studies in History, Memory and Politics
+  - Geschichte - Erinnerung - Politik. Studies in History, Memory and Politics
+  - Geschichte und Kultur des modernen Vorderen Orients. History of Culture of the
+    Modern Near and Middle East
+  - Geschichtsdidaktik diskursiv  Public History und Historisches Denken
+  - Gesellschaft und Erziehung
+  - Gesellschaftsforschung und Gesellschaftspolitik
+  - Gesundheit und Ökonomie
+  - Gießener Arbeiten zur neueren deutschen Literatur und Literaturwissenschaft
+  - Glaube und Denken
+  - Global Crises and the Media
+  - Global Studies in Education
+  - Goethezeit
+  - Grazer Altertumskundliche Studien
+  - Grazer Beiträge zur Europäischen Ethnologie
+  - Greifswalder theologische Forschungen
+  - Großwardeiner Beiträge zur Germanistik
+  - Grundfragen der Pädagogik
+  - Grundlagen Gesamte Strafrechtswissenschaft
+  - Grundlagen der Italianistik
+  - Géopolitique et résolution des conflits
+  - Görlitzer Beiträge zu regionalen Transformationsprozessen
+  - Göttinger Schriften zum Wirtschaftsrecht
+  - Göttinger Studien zur Entwicklungsökonomik
+  - HERESIS
+  - Haftungs- und Versicherungsrecht
+  - Hallesche Schriften zur Sprechwissenschaft und Phonetik
+  - Hallesche Sprach- und Textforschung
+  - Hallesche Studien zu Wirtschaft und Gesellschaft
+  - Hamburg, Europa und die Welt
+  - Hamburger Beiträge zur Germanistik
+  - Hamburger Jahrbuch für Musikwissenschaft
+  - Hannah Arendt-Studien
+  - Hawaii Classical Studies
+  - Hegeliana
+  - Heidelberger Beiträge zur deutschen Literatur
+  - Heidelberger Publikationen zur Slavistik
+  - Heidelberger Publikationen zur Slavistik. A, Linguistische Reihe
+  - Heidelberger Publikationen zur Slavistik. B, Literaturwissenschaftliche Reihe
+  - Heidelberger Studien
+  - Heidelberger Studien zur Bildungswissenschaft
+  - Heidelberger Studien zur Erziehungswissenschaft
+  - Heidelberger Studien zur Geschichte und Kultur des modernen Vorderen Orients
+  - Helicon - Beiträge zur deutschen Literatur
+  - Hellenogermanica
+  - Hermeneutic Commentaries
+  - Hermeneutics of Art
+  - Higher Ed
+  - Higher Education Research and Policy
+  - Hildesheimer Schriften zur Interkulturellen Kommunikation. Hildesheim Studies
+    in Intercultural Communication
+  - 'Hispanic Studies: Culture and Ideas'
+  - Hispano-Americana
+  - Histoire de la Poste et des Communications
+  - Histoire de la pensée litteraire viennoise
+  - Histoire de lénergie/History of Energy
+  - Histoire des mondes modernes
+  - Historical Sociolinguistics
+  - Historisch-anthropologische Studien
+  - Historisch-kritische Arbeiten zur deutschen Literatur
+  - History and Language
+  - History and Philosophy of Science
+  - History of Schools and Schooling
+  - Hodos - Wege bildungsbezogener Ethikforschung in Philosophie und Theologie
+  - Hohenheimer volkswirtschaftliche Schriften
+  - Human Right Studies
+  - Humana Civilitas
+  - I-VW Schriftenreihe
+  - ICA International Communication Association Annual Conference Theme Book Series
+  - ICCA  Industries culturelles, création, numérique
+  - ICEUR Insight Studies
+  - INTER-LIT
+  - IRIS
+  - 'Iberian and Latin American Studies: The Arts, Literature, and Identity'
+  - Iberolinguistica
+  - Ibérica
+  - Identities / Identités / Identidades
+  - Il secolo lungo
+  - Im Medium fremder Sprachen und Kulturen
+  - Imaginatio borealis. Bilder des Nordens
+  - Immermann-Jahrbuch
+  - Immigration from Europe to North America
+  - Inclusion and Teacher Education
+  - Informationsmanagement und strategische Unternehmensführung
+  - Informationstechnologie und Ökonomie
+  - Inklusion/Exklusion
+  - InnTrans. Innsbrucker Beiträge zu Sprache, Kultur und Translation
+  - Institutionelle und Sozial-Ökonomie
+  - Interamericana
+  - Intercultural Studies
+  - Intercultural Studies and Foreign Language Learning
+  - Interdisciplinary Communication Studies
+  - Interdisciplinary Studies in Diasporas
+  - Interdisciplinary Studies in Performance
+  - Interdisciplinary Studies of Music
+  - Interdisciplinary Studies on Central and Eastern Europe
+  - Interdisciplinary Yearbook of Business Ethics
+  - Interdisziplinäre Europa Studien
+  - Interdisziplinäre Studien zur Musik
+  - Interdisziplinärer Dialog - Ethik im Gesundheitswesen
+  - Interfaces
+  - Interkulturelle Begegnungen. Studien zum Literatur- und Kulturtransfer
+  - Interkultureller Dialog
+  - International Bonhoeffer Interpretations
+  - International Communication Association. Annual Conference Theme Book Series
+  - International Folkloristics
+  - International Healthcare Ethics
+  - International Security Studies
+  - International Studies in Folklore and Ethnology
+  - International Theological Studies
+  - International and Comparative Social History
+  - Internationale Beziehungen
+  - Internationale Cardinal-Newman-Studien
+  - Internationale Marktwirtschaft
+  - Internationale Märkte
+  - Internationale Sicherheit
+  - Internationale Steuerlehre, Steuerrecht und Wirtschaftsprüfung
+  - Internationale Theologie / International Theology
+  - Internationales Uwe-Johnson-Forum
+  - Internationales und Europäisches Strafverfahrensrecht
+  - Internationalism and the Arts at the Fin de Siècle
+  - Intersections in Communications and Culture
+  - Intradisziplinäre Forschung zur Compliance
+  - Irish Studies
+  - Irwin, New Disciplinary Perspectives, NDPOE-P
+  - Islam 21
+  - Islam und Recht
+  - Issues in Systematic Theology
+  - Italian Modernities
+  - Italien in Geschichte und Gegenwart
+  - Jahrbuch der Berliner Wissenschaftlichen Gesellschaft e.V.
+  - Jahrbuch der Internationalen Georg-Lukacs-Gesellschaft
+  - Jahrbuch der Karl-Heim-Gesellschaft
+  - Jahrbuch der Kinder- und Jugendliteraturforschung
+  - Jahrbuch des Instituts für Betriebswirtschaft der Westsächsischen Hochschule Zwickau
+  - Jahrbuch für Internationale Germanistik
+  - Jahrbücher der Sartre-Gesellschaft e.V.
+  - Japanische Studien zur deutschen Sprache und Literatur
+  - Jazz under State Socialism
+  - Jenaer Beiträge zur Geschichte
+  - Jenaer Beiträge zur Romanistik
+  - Johannesburg Forum
+  - John MacMurray Studies
+  - Judaica et Christiana
+  - Judentum und Umwelt
+  - KZ - memoria scripta
+  - Kanadische Studien zur deutschen Sprache und Literatur
+  - Karlsruher Beiträge zur Musikwissenschaft
+  - Katowice Interdisciplinary and Comparative Studies
+  - Kieler Forschungen zur Sprachwissenschaft
+  - Kieler Werkstücke, Reihe C
+  - Kieler Werkstücke, Reihe D
+  - Kieler Werkstücke. Reihe A
+  - Kieler Werkstücke. Reihe B
+  - Kieler Werkstücke. Reihe E
+  - Kieler Werkstücke. Reihe F
+  - Kieler Werkstücke. Reihe G
+  - 'Kieler Werkstücke. Reihe H: Beiträge zur Neueren und Neuesten Geschichte    '
+  - Kinder- und Jugendkultur, -literatur und -medien
+  - Kinder-, Schul- und Jugendtheater - Beiträge zu Theorie und Praxis
+  - Klinische Ethik. Biomedizin in Forschung und Praxis
+  - 'Koinon: Sozialwissenschaftliche interdisziplinäre Studien'
+  - Kollektive Entscheidungen, Wirtschaftspolitik und öffentliche Finanzen
+  - Kolloquium Fremdsprachenunterricht
+  - Kommunalwirtschaftliche Forschung und Praxis
+  - Komparatistische Bibliothek
+  - Komplementäre Medizin im interdisziplinären Diskurs
+  - Konsulat und Kaiserreich
+  - Kontraste/Contrastes
+  - Kontrastive Linguistik
+  - Konzepte des Lehrens und Lernens
+  - Kozminski Studies in Management and Economics
+  - Kreatives Management
+  - Kultur  Literatur  Medien
+  - Kulturen und Literaturen europäischer Regionen
+  - Kulturtransfer und Geschlechterforschung
+  - Kulturwissenschaft(en)
+  - Kulturwissenschaften
+  - Kulturwissenschaftliche Beiträge der Alanus Hochschule für Kunst und Gesellschaft
+  - Kulturwissenschaftliche Medienforschung
+  - Kulturwissenschaftliche Werbeforschung
+  - Kunst im Ostseeraum
+  - Kunstgeschichten der Gegenwart
+  - Kölner Schriften zu Recht und Staat
+  - Kölner Studien zur Literaturwissenschaft
+  - LAllemagne dans les relations internationales
+  - LITTERA
+  - LaCuLi. Language Culture Literacy
+  - Lang Classical Studies
+  - Language Testing and Evaluation
+  - Language as Social Action
+  - Language, Migration and Identity
+  - Late Middle English Texts
+  - Lateinische Sprache und Literatur des Mittelalters
+  - Latelier. Travaux dHistoire de lart et de Muséologie
+  - Lateres
+  - Leeds Studies on Dante
+  - Leeds-Swansea Colloquia on Contemporary German Literature
+  - Leipzig-Hallenser Skripten
+  - Leipziger Arbeiten zur Sprach- und Kommunikationsgeschichte
+  - Leipziger Beiträge zur Orientforschung
+  - Leipziger Gender-Kritik
+  - Leipziger Schriften zum Öffentlichen Recht
+  - Leipziger Studien zur angewandten Linguistik und Translatologie
+  - Lernweg zum Schia-Islam. Wiener Schia-Islam Vorlesungen
+  - Lesley University Series in Arts and Education
+  - Lex et Res Publica
+  - Lifespan Communication
+  - Liminaires  Passages interculturels
+  - Lingue e Culture/Languages and Cultures
+  - Linguistic Insights
+  - Linguistik International
+  - Linzer Philosophisch-Theologische Beiträge
+  - Lisbon Philosophical Studies  Uses of Languages in Interdisciplinary Fields
+  - Lisbon Philosophical Studies - Uses of Languages in Interdisciplinary Fields
+  - Literarhistorische Untersuchungen
+  - Literarische Studien
+  - Literarisches Leben heute
+  - Literary and Cultural Studies, Theory and the (New) Media
+  - Literary and Cultural Theory
+  - Literatur - Kultur - Ökonomie. Literature - Culture - Economy
+  - Literatur - Sprache - Region. Beiträge zur Kulturgeographie
+  - Literatur als Sprache. Literaturtheorie, Interpretation, Sprachkritik
+  - Literature and Poetry of Exile
+  - Literature and the Sciences of Man
+  - Literature and the Visual Arts
+  - Liturgical Studies
+  - Lodz Studies in Language
+  - Lodzer Arbeiten zur Literatur- und Kulturwissenschaft
+  - Loyola College Berlin Seminar
+  - Lubliner Beiträge zur Germanistik und Angewandten Linguistik
+  - MIMOS  Schweizer Theater-Jahrbuch
+  - 'MUSE: Munich Studies in English'
+  - Mahler-Studien
+  - Mainzer Studien zur Amerikanistik
+  - Mainzer Studien zur Neueren Geschichte
+  - Major Concepts in Politics and Political Theory
+  - Mannheimer Hochschulschriften
+  - Many Voices
+  - Marburger Schriften zur Medizingeschichte
+  - Marguerite Duras
+  - Marie Jahoda sozialwissenschaftliche Studien
+  - Maritime Logistik
+  - Marketing im globalen Wettbewerb
+  - Markt und Konsum
+  - Markt- und Innovationsmanagement
+  - Marktorientierte Unternehmensführung
+  - Martin Luther King Jr. Memorial Studies in Religion, Culture, and Social Development
+  - Martinu-Studien
+  - Masculinity Studies
+  - Mass Communication and Journalism
+  - Masterworks in the Western Tradition
+  - Maß und Wert
+  - McGill European Studies
+  - MeLiS. Medien  Literaturen  Sprachen in Anglistik/Amerikanistik, Germanistik und
+    Romanistik
+  - MeLiS. Medien - Literaturen - Sprachen in Anglistik/Amerikanistik, Germanistik
+    und Romanistik
+  - Media Industries
+  - Media and Culture
+  - Mediated Fictions
+  - Mediated Youth
+  - Mediating American History
+  - Medical Humanities
+  - Medien und Fiktionen
+  - MedienRausch
+  - Medienästhetik und Mediennutzung. Media Production and Media Aesthetics
+  - Medieval English Mirror
+  - Medieval Interventions
+  - Medieval and Early Modern French Studies
+  - Medieval and Early Modern Mysticism
+  - Medieval to Early Modern Culture
+  - Medizin in Entwicklungsländern
+  - Medizin, Technik und Gesellschaft / Medicine, Technology and Society
+  - Medizingeschichte im Kontext
+  - Mediävistik zwischen Forschung, Lehre und Öffentlichkeit
+  - Mehrsprachigkeit in Europa
+  - Mehrsprachigkeit in Schule und Unterricht
+  - Mensch und Gesellschaft
+  - Menschen Wissen Medien
+  - Menschen und Strukturen
+  - Metalinguistica
+  - Methodology of Music Research
+  - Middle East, Social and Cultural Studies
+  - Middle East, Social and Cultural Studies / Etudes culturelles et sociales sur
+    le Moyen-Orient
+  - Middlebury Studies in Russian Language and Literature
+  - 'Migration - Ethnicity - Nation: Studies in Culture, Society and Politics'
+  - Mikroglottika
+  - Mikrokosmos
+  - Militärhistorische Untersuchungen
+  - Minderheiten und Minderheitenpolitik in Europa
+  - Minding the Media
+  - Miroir et Image. Philosophische Abhandlungen
+  - Mittelalter und Renaissance in der Romania
+  - Mitteleuropa - Osteuropa
+  - Mittlere Deutsche Literatur in Neu- und Nachdrucken
+  - Modern American History
+  - Modern American Literature
+  - Modern French Identities
+  - Modern Poetry
+  - Moderne - Kulturen - Relationen
+  - Moderne Geschichte und Politik
+  - Moderne und Gegenwart
+  - Modernist Revolution in World Literature
+  - Modernity in Question
+  - Monographs in Linguistics and the Philosophy of Language
+  - Moraltheologie - Anthropologie - Ethik
+  - Morgen-Glantz
+  - Moving Texts / Testi mobili
+  - Multimedia Marketing and Kommunikation
+  - Music and Literature in Society
+  - Music and Spirituality
+  - Music/Meanings
+  - Musik und Gesellschaft
+  - Musik und Literatur
+  - Musikleben - Studien zur Musikgeschichte Österreichs
+  - Mäander. Beiträge zur deutschen Literatur
+  - 'Méditerranée: Littératures - Cultures'
+  - Mémoires de l'Europe en devenir
+  - Méthodes participatives appliquées/Applied Participatory Methods
+  - Münchener Beiträge zur Sonderpädagogik
+  - Münchener Schriften zur Englischen Philologie
+  - Münchener Studien zur literarischen Kultur in Deutschland
+  - Münchner Studien zur neueren und neuesten Geschichte
+  - Münsteraner Monographien zur englischen Literatur
+  - Münsteraner Schriften zur Internationalen Unternehmensrechnung
+  - Nachdrucke deutscher Literatur des 17. Jahrhunderts
+  - Narratio
+  - Nationalisms across the Globe
+  - Natur, Wissenschaft und die Künste
+  - Neo-Latin Studies
+  - Neue Berner Schriften zur Kunst
+  - Neue Forschungen zur ostmittel- und südosteuropäischen Geschichte
+  - Neue Studien zur Anglistik und Amerikanistik
+  - New Americanists in Poland
+  - New Approaches to Applied Linguistics
+  - New Comparative Criticism
+  - New Connections
+  - New Directions in German-American Studies
+  - New German-American Studies
+  - New Horizons in Management Sciences
+  - New International Studies in Applied Ethics
+  - New Literacies and Digital Epistemologies
+  - New Media in Creativity, Content and Entertainment
+  - New Perspectives in Criminology and Criminal Justice
+  - New Perspectives in Philosophical Scholarship
+  - New Studies in Aesthetics
+  - New Studies in European Cinema
+  - New Studies in Phenomenology
+  - New Testament Studies in Contextual Exegesis. Neutestamentliche Studien zur kontextuellen
+    Exegese
+  - New Trends in Translation Studies
+  - New Visions of the Cosmopolitan
+  - New York University Ottendorfer Series
+  - New Yorker Beiträge zur Literaturwissenschaft
+  - New Yorker Beiträge zur Vergleichenden Literaturwissenschaft
+  - New Yorker Studien zur Neueren Deutschen Literaturgeschichte
+  - Niedersächsische Beiträge zur Sozialpädagogik und Sozialarbeit
+  - Non-Prolifération et Sécurité
+  - Nordeuropäische Arbeiten zur Literatur, Sprache und Kultur
+  - Nordeuropäische Beiträge aus den Human- und Gesellschaftswissenschaften
+  - Nordostafrikanisch-Westasiatische Studien
+  - North American Studies in Nineteenth-Century German Literature and Culture
+  - Nouvelle poétique comparatiste
+  - Nova Acta Paracelsica
+  - Nuestra Voz
+  - Occasional Papers in Swiss Studies
+  - Oppelner BeitrOppelner Beiträge zur Germanistik
+  - Opuscula fenno-ugrica Goettingensia
+  - Ordnungspolitische Dialoge
+  - Organismus und System
+  - Osloer Beiträge zur Germanistik
+  - Osnabrücker Schriften zum Unternehmens- und Wirtschaftsrecht
+  - Ost-Kontexte
+  - Osteuropastudien
+  - Outre-Mers
+  - PEREGRE NUOVA SERIE - COLLANA DEL DIPARTIMENTO DI STUDI INTERNAZIONALI
+  - POP und GO
+  - PRISMATA
+  - PROMT - Trierer Studien zur Neueren und Neuesten Geschichte
+  - Paléographie Musicale
+  - Parcs et Jardins
+  - Participation in Broadband Society
+  - Pastoral Theology
+  - Pastoralpsychologie und Spiritualität
+  - Patristic Studies
+  - Pensée et perspectives africaines
+  - Persephone
+  - Personalmanagement und Organisation
+  - Perspectivas Hispánicas
+  - Perspektiven der Germanistik und Komparatistik in Spanien
+  - Perspektiven der Opernforschung
+  - Petite enfance et éducation
+  - Pflegeforschung
+  - Pforzheimer wirtschaftsrechtliche Studien
+  - Pharmaziehistorische Forschungen
+  - Phenomenology and Literature
+  - Philhellenische Studien
+  - Philologica Slavica Vindobonensia
+  - 'Philologica Wratislaviensia: From Grammar to Discourse'
+  - Philosophia Naturalis et Geometricalis
+  - Philosophie et Politique
+  - Philosophie im Kontext von Gesellschaft und Wissenschaften
+  - Philosophie in Geschichte und Gegenwart
+  - Philosophie und Transkulturalität
+  - Philosophie, Phänomenologie und Hermeneutik der Werte
+  - Philosophische Grenzgänge
+  - Philosophische Grundlagen der Wissenschaften und ihrer Anwendungen
+  - Pittsburgh Studies in Theatre and Culture
+  - Plattsburgh Studies in the Humanities
+  - Polish Contemporary Philosophy and Philosophical Humanities
+  - Polish Ideas in Motion. Past to Present
+  - Polish Studies  Transdisciplinary Perspectives
+  - Polish Studies in Culture, Nations and Politics
+  - Polish Studies in Economics
+  - Polish Studies in English Language and Literature
+  - Political and Social Change
+  - Politik und Demokratie
+  - Politikwissenschaft
+  - Politische Kulturforschung
+  - Polnische Studien zur Germanistik, Kulturwissenschaft und Linguistik
+  - Polyästhetik und Bildung
+  - Pommersches Jahrbuch für Literatur
+  - Popular Culture and Everyday Life
+  - Popular Politics and Governance in America
+  - Population, Famille et Société
+  - Posener Beiträge zur Angewandten Linguistik
+  - Posener Beiträge zur Germanistik
+  - Positionen der Deutschdidaktik
+  - Post-Anthropocentric Inquiry
+  - Postcolonial Perspectives on Eastern Europe
+  - Potsdam Linguistic Investigations
+  - Pour une histoire nouvelle de lEurope
+  - Prager Schriften zur Zeitgeschichte und zum Zeitgeschehen
+  - Pragmata
+  - Prague Papers on Language, Society and Interaction
+  - Praktische Philosophie Kontrovers
+  - Preußen unter Nachbarn. Studien und Quellen
+  - Printing History and Culture
+  - Pro Oriente
+  - Probleme im Gespräch
+  - Processibus Matrimonialibus
+  - Profession und Fallverstehen
+  - Professionalisierung - Lernen in Netzwerken
+  - Psychoanalyse im Dialog
+  - Psychologie und Gesellschaft
+  - Psychophysiologie in Labor und Feld
+  - Publications de la Maison de Robert Schuman
+  - Publikationen der Deutsch-Spanischen Juristenvereinigung e.V.
+  - Publikationen der Internationalen Vereinigung für Germanistik
+  - Publikationen der Schweizerischen Musikforschenden Gesellschaft. Serie II
+  - Publikationen des Instituts für Musikanalytik Wien
+  - Publikationen zur Zeitschrift für Germanistik
+  - Pädagogische Rahmung
+  - Queering Paradigms
+  - Quellen und Forschungen zur Europäischen Kulturgeschichte
+  - Quellen und Studien zur Geschichte der Mannheimer Hofkapelle
+  - Quellen und Studien zur Musikgeschichte von der Antike bis in die Gegenwart. Sources
+    and Studies in Music History from Antiquity to the Present
+  - Quellen zur neueren Geschichte
+  - Quellen, Findbücher und Inventare des Brandenburgischen Landeshauptarchivs
+  - ROI  Reihe für Osnabrücker Islamstudien
+  - Race and Resistance Across Borders in the Long Twentieth Century
+  - Raffael und seine Zeit
+  - Ralahine Utopian Studies
+  - Reading Plus
+  - Recent American History
+  - Recherches comparatives sur les livres et le multimédia d'enfance
+  - Recherches en littérature et spiritualité
+  - Recht und Medizin
+  - Recht und Rhetorik
+  - Rechts- und Sozialwissenschaftliche Reihe
+  - Rechts-, Sozial- und Wirtschaftsphilosophie
+  - Rechtshistorische Reihe
+  - Rechtsphilosophische Hefte
+  - Rechtsphilosophische Schriften - Untersuchungen zur Rechtswissenschaft, Philosophie
+    und Politik
+  - Rechtspolitisches Symposium
+  - Reconfiguring Identities in the Portuguese-Speaking World
+  - Reflections on Signs and Language
+  - Regards sur l'image
+  - Regards sur lInternational
+  - Regensburger Arbeiten zur Anglistik und Amerikanistik
+  - Regensburger Beiträge zum Staats- und Verwaltungsrecht
+  - Regensburger Beiträge zur betriebswirtschaftlichen Forschung
+  - Regensburger Beiträge zur deutschen Sprach- und Literaturwissenschaft
+  - Regensburger Beiträge zur deutschen Sprach-, Literatur- und Kulturwissenschaft
+  - Regensburger Studien zur Theologie
+  - Regional Integration and Social Cohesion
+  - Regionalsprache und regionale Kultur
+  - Relaciones literarias en el ámbito Hispánico
+  - Relations financières internationales
+  - Religion - Ästhetik - Medien
+  - Religion and Society in Africa
+  - Religion, Education and Values
+  - Religion, Kultur, Recht
+  - Religions and Discourse
+  - Religionswissenschaft
+  - Renaissance Intellectual History
+  - Renaissance and Baroque
+  - Reports of the Research Institute / Berichte des Forschungsinstituts Gastein-Tauernregion
+  - Research in Religion and Family
+  - Research on Korea
+  - Reshaping of Psychoanalysis
+  - Rethinking Childhood
+  - Rethinking Education
+  - Revisioning Philosophy
+  - Rockwell Lecture Series
+  - Romania Viva
+  - Rostocker Romanistische Arbeiten
+  - Russian Culture in Europe
+  - 'Russian Transformations: Literature, Culture and Ideas'
+  - Régionalisme and Fédéralisme
+  - SLOVO
+  - Saarbrücker Studien zum Privat- und Wirtschaftsrecht
+  - Saarbrücker theologische Forschungen
+  - Sabest. Saarbrücker Beiträge zur Sprach- und Translationswissenschaft
+  - Sachsen - Mitteleuropa - Osteuropa
+  - Salzburg Studies in English Literature and Culture SEL and C
+  - Salzburger Beiträge zur Musik- und Tanzforschung
+  - Salzburger Studien zum Europäischen Privatrecht
+  - Salzburger interdisziplinäre Diskurse
+  - San Francisco State University Series in Philosophy
+  - Sapheneia
+  - Savoirs sportifs - Sports knowledge
+  - Schriften der Deutsch-Spanischen Juristenvereinigung
+  - Schriften der Literarischen Gesellschaft Bern
+  - Schriften des Collegium Pontes
+  - Schriften des Exils zur Bildungsgeschichte und Bildungspolitik
+  - Schriften des Instituts für Finanzen. Universität Leipzig
+  - Schriften des Instituts für Föderalismus
+  - Schriften des Instituts für Unternehmensführung der Georg-August-Universität Göttingen
+  - Schriften des Max-Herrmann-Neisse-Instituts an der Heinrich-Heine-Universität
+    Düsseldorf
+  - Schriften zu Distribution und Handel
+  - Schriften zu Marketing und Management
+  - Schriften zu Theorie und Praxis der Rechnungslegung und Wirtschaftsprüfung
+  - Schriften zum Arbeitsrecht und Wirtschaftsrecht
+  - Schriften zum Controlling, Finanz- und Risikomanagement
+  - Schriften zum Deutschen und Europäischen Arbeits - und Sozialrecht
+  - Schriften zum Deutschen und Internationalen Bau-, Umwelt- und Energierecht
+  - Schriften zum Gesellschafts-, Bilanz- und Unternehmensteuerrecht
+  - Schriften zum Gesellschaftsrecht und Unternehmensinsolvenzrecht
+  - Schriften zum Handels- und Wirtschaftsrecht
+  - Schriften zum Managementwissen
+  - Schriften zum Medien-, Urheber- und Wirtschaftsrecht
+  - Schriften zum Privat-, Wirtschafts- und Verfahrensrecht
+  - Schriften zum Recht der Arbeit
+  - Schriften zum Staats- und Völkerrecht
+  - Schriften zum Staats-, Verwaltungs- und Europarecht
+  - Schriften zum Staatskirchenrecht
+  - Schriften zum Steuer-, Rechnungs- und Finanzwesen
+  - Schriften zum Strafrecht und Strafprozeßrecht
+  - Schriften zum Unternehmens- und Wirtschaftsrecht
+  - Schriften zum Verfahrensrecht
+  - Schriften zum Verkehrsstrafrecht
+  - Schriften zum Wirtschafts- und Medienrecht, Steuerrecht und Zivilprozeßrecht
+  - Schriften zum Wirtschafts- und Medienrecht, Urheberrecht und Immaterialgüterrecht
+  - Schriften zum Zivilverfahrensrecht und Insolvenzrecht
+  - Schriften zum deutschen und europäischen öffentlichen Recht
+  - Schriften zum internationalen und zum öffentlichen Recht
+  - Schriften zur Bildenden Kunst
+  - Schriften zur Entwicklung des Privatrechtssystems
+  - Schriften zur Europa- und Deutschlandforschung
+  - Schriften zur Humanitäts- und Glücksforschung
+  - Schriften zur Musikpsychologie und Musikästhetik
+  - Schriften zur Personalwirtschaft
+  - Schriften zur Politischen Ökonomik
+  - Schriften zur Praxis des Gewerblichen Rechtsschutzes
+  - Schriften zur Preußischen Rechtsgeschichte
+  - Schriften zur Produktion
+  - Schriften zur Sprachförderung
+  - Schriften zur Symbolforschung
+  - Schriften zur Systematischen Musikwissenschaft
+  - Schriften zur Triadik und Ontodynamik
+  - Schriften zur Unternehmensplanung
+  - Schriften zur Wirtschaftsinformatik
+  - Schriften zur Wirtschaftstheorie und Wirtschaftspolitik
+  - Schriften zur deutschen Sprache in Österreich
+  - Schriften zur diachronen und synchronen Linguistik
+  - Schriften zur empirischen Wirtschaftsforschung
+  - Schriften zur internationalen Entwicklungs- und Umweltforschung
+  - Schriften zur politischen Kultur der Weimarer Republik
+  - Schriften über Sprachen und Texte
+  - Schriftenreihe Arbeit und Bildung des Heinrich-Vetter-Forschungsinstituts e.V.
+  - Schriftenreihe der Carl Stumpf Gesellschaft
+  - Schriftenreihe der Demokratie-Stiftung der Universität zu Köln
+  - Schriftenreihe der Forschungsstelle für Finanzdienstleistungsrecht der Philipps-Universität
+    Marburg
+  - Schriftenreihe der Fritz-Zwicky-Stiftung
+  - Schriftenreihe der Gesellschaft für Kunst und Volksbildung
+  - 'Schriftenreihe der Internationalen Forschungsstelle '
+  - Schriftenreihe der Karl Popper Foundation
+  - Schriftenreihe der Slowakischen Akademie der Wissenschaften
+  - Schriftenreihe der Società. Forum für Ethik, Kunst und Recht
+  - Schriftenreihe des Centrum für Deutsches und Europäisches Insolvenzrecht
+  - Schriftenreihe des Instituts für Kreditwirtschaft
+  - Schriftenreihe des Robert Holzmann Instituts zur Analyse wirtschaftspolitischer
+    Aktivitäten
+  - Schriftenreihe des Österreichischen Theatermuseums
+  - Schriftenreihe pädagogische Psychologie
+  - Schriftenreihe zum Gesellschafts- und Kapitalmarktrecht
+  - Schriftenreihe zum Urheber- und Kunstrecht
+  - Schriftenreihe zum deutschen und europäischen Gesellschafts- und Wirtschaftsrecht
+  - Schriftenreihe zum deutschen und internationalen Erbrecht
+  - Schriftenreihe zur Glücksspielforschung
+  - Schriftenreihe zur Politik und Geschichte
+  - Schule - Wirklichkeit, Entwicklungsperspektiven und Herausforderungen
+  - Schule - Wissenschaft - Politik
+  - Schweizer Asiatische Studien
+  - Schweizer Asiatische Studien - Studienhefte
+  - Schweizer Beiträge zur Musikwissenschaft
+  - Schweizer Jahrbuch für Musikwissenschaft
+  - Schweizerisches Jahrbuch für Kirchenrecht / Annuaire suisse de droit ecclésial
+  - Sciences pour la communication
+  - Scottish Studies International - Publications of the Scottish Studies Centre,
+    Johannes Gutenberg-Universität Mainz in Germersheim
+  - Seltene Texte aus der deutschen Romantik
+  - Semiotics and the Human Sciences
+  - Sephardica
+  - Seventeenth-Century Texts and Studies
+  - Sexuality and Literature
+  - Sicherheit in der multipolaren Welt
+  - Siegener Schriften zur Kanonforschung
+  - Signaturen der Gewalt
+  - Silesian Studies in Anglophone Cultures and Literatures
+  - Simpliciana
+  - Slavica Helvetica
+  - Social Justice Across Contexts in Education
+  - Social Strategies
+  - Society and Politics in Africa
+  - Sociocriticism
+  - Sofia Conferences on Social and Economic Development in Europe
+  - Sounds  Meaning  Communication
+  - South Asian Literature, Arts, and Culture Studies
+  - Soziale Sicherheit
+  - Sozialwissenschaften
+  - Sozialwissenschaftliche Schriften zur Forst- und Holzwirtschaft
+  - Sozialökonomische Schriften
+  - Sozio-ökonomische Perspektiven in Südosteuropa
+  - Soziologie und Anthropologie. Studies in Sociology and Anthropology
+  - Spanische Akzente
+  - Spazi comunicativi  - Kommunikative Räum
+  - Spectrum Slovakia
+  - Speech Production and Perception
+  - Speyerer Schriften zu Gesundheitspolitik und Gesundheitsrecht
+  - Speyerer Schriften zur Verwaltungswissenschaft
+  - Sport Sciences International
+  - Sport und gesellschaftliche Perspektiven
+  - Sport, History and Culture
+  - Sportpsychologie
+  - Sprach- und Kulturkontakte in Europas Mitte
+  - Sprache  Gesellschaft  Geschichte
+  - Sprache  Kommunikation  Kultur
+  - Sprache  Medien  Innovationen
+  - Sprache - Gesellschaft - Geschichte
+  - Sprache - Identität - Kultur
+  - Sprache - Kultur - Gesellschaft
+  - Sprache - System und Tätigkeit
+  - Sprache im Kontext
+  - Sprache in Kommunikation und Medien
+  - Sprache in der Gesellschaft
+  - Sprache, Mehrsprachigkeit und sozialer Wandel. Language. Multilinguism and Social
+    Change. Langue, multilinguisme et changement social
+  - Sprache, Sprechen und Computer / Computer Studies in Language and Speech
+  - Sprachen - Literaturen - Kulturen
+  - Sprachen, Gesellschaften und Kulturen in Lateinamerika
+  - Sprachentwicklung - Verlauf, Störung
+  - 'Sprachgeschichte des Deutschen in Nordamerika: Quellen und Studien'
+  - Sprachkontakte. Variation, Migration und Sprachdynamik
+  - Sprachkontraste in Mitteleuropa
+  - Sprachkönnen und Sprachbewusstheit in Europa
+  - 'Sprachliche Konstruktion sozialer Grenzen: Identitäten und Zugehörigkeiten'
+  - Sprichwörterforschung
+  - St. Pöltner Osteuropa Studien
+  - Stadtentwicklung. Urban Development
+  - Stage and Screen Studies
+  - Stanford German Studies
+  - Stiftung
+  - Strafrecht und Rechtsphilosophie in Geschichte und Gegenwart
+  - Strategische Kultur Europas
+  - Strategische Unternehmensführung
+  - Strukturwandel und Strukturpolitik. Structural Change and Structural Policies.
+  - Studi Pergolesiani / Pergolesi Studies
+  - Studia Classica
+  - Studia Educationis Historica
+  - Studia Religiosa Helvetica
+  - Studia Romanica et Linguistica
+  - Studia philosophica et historica
+  - Studien der Dokumentationsstelle für ost- und mitteleuropäische Literatur
+  - Studien des Forschungsverbundes SED-Staat an der Freien Universität Berlin
+  - Studien des Instituts für Ostrecht München
+  - Studien in nordeuropäischer und baltischer Linguistik
+  - Studien und Dokumente zur Geschichte der romanischen Literaturen
+  - Studien und Materialien zum Öffentlichen Recht
+  - Studien und Texte zur Amerikanistik
+  - Studien und Texte zur Byzantinistik
+  - Studien und Texte zur Religionsgeschichtlichen Schule
+  - Studien zu Literatur, Kultur und Umwelt. Studies in Literature, Culture, and the
+    Environment
+  - Studien zu Zeitgeschichte und Sicherheitspolitik - Studies in Contemporary History
+    and Security Policy
+  - Studien zum Europäischen und Internationalen Wirtschaftsrecht
+  - Studien zum Internationalen, Europäischen und Öffentlichen Recht
+  - Studien zum Theater, Film und Fernsehen
+  - Studien zum deutschen und europäischen Gesellschafts- und Wirtschaftsrecht
+  - Studien zum deutschen und europäischen Medienrecht
+  - Studien zum deutschen und internationalen Familien- und Erbrecht
+  - Studien zum europäischen Privat- und Prozessrecht
+  - Studien zum globalen Wirtschaftsrecht
+  - Studien zum mitteleuropäischen Adel
+  - Studien zum Öffentlichen Recht, Völker- und Europarecht
+  - Studien zur Allgemeinen und Romanischen Sprachwissenschaft
+  - Studien zur Bildungsreform
+  - Studien zur Erwachsenenbildung
+  - Studien zur Ethik in Ostmitteleuropa
+  - Studien zur Germanistik, Skandinavistik und Übersetzungskultur
+  - Studien zur Geschichte Südosteuropas
+  - Studien zur Geschichte des Bayerischen Rundfunks
+  - Studien zur Haushaltsökonomie
+  - Studien zur Internationalen Politik
+  - Studien zur Jugend- und Familienforschung
+  - Studien zur Kulturellen und Literarischen Kommunismusforschung
+  - Studien zur Kulturpolitik. Cultural Policy
+  - Studien zur Philosophie des 18. Jahrhunderts
+  - Studien zur Psychologie und Kriminalität
+  - Studien zur Psychologie und Therapie in der Musikpädagogik
+  - Studien zur Pädagogik der Schule
+  - Studien zur Pädagogik, Andragogik und Gerontagogik
+  - Studien zur Reiseliteratur- und Imagologieforschung
+  - Studien zur Sexualwissenschaft und Sexualpädagogik
+  - Studien zur Technik-, Wirtschafts- und Sozialgeschichte
+  - Studien zur Text- und Diskursforschung
+  - Studien zur Volksliedforschung
+  - Studien zur beruflichen Kompetenzentwicklung
+  - Studien zur deutschen und europäischen Literatur des 19. und 20. Jahrhunderts
+  - Studien zur interkulturellen Geschichte des Christentums
+  - Studien zur interkulturellen Mediation
+  - Studien zur internationalen Wirtschaftsforschung
+  - Studien zur klassischen Philologie
+  - Studien zur mittelhochdeutschen Grammatik
+  - Studien zur modernen Verlagsgeschichte und Wissensproduktion
+  - Studien zur neueren Literatur
+  - Studien zur pädagogischen und psychologischen Intervention
+  - Studien zur romanischen Sprachwissenschaft und interkulturellen Kommunikation
+  - Studies for Military Pedagogy, Military Science and Security Policy
+  - Studies in Adolescence and Family Research
+  - Studies in African and Afro-American Culture
+  - 'Studies in Asia-Pacific '
+  - Studies in Biblical Greek
+  - Studies in Biblical Hebrew
+  - Studies in Biblical Literature
+  - Studies in Children's Literature
+  - Studies in Communication and Politics
+  - Studies in Composition and Rhetoric
+  - Studies in Computer Assisted Language Learning
+  - Studies in Contemporary Continental Philosophy
+  - Studies in Contemporary History
+  - Studies in Contemporary Womens Writing
+  - Studies in Crime and Punishment
+  - Studies in Early Modern European Culture
+  - Studies in Early Modern and Modern European Cultures               Edited by Sonja
+    Fielitz           Die Geschichte der europäischen Neuzeit wird geprägt vo
+  - Studies in Education and Spirituality
+  - Studies in English Medieval Language and Literature
+  - Studies in Episcopal and Anglican Theology
+  - Studies in Ethnolinguistics
+  - Studies in European Thought
+  - Studies in European Union
+  - Studies in Franco-Irish Relations
+  - Studies in German Jewish History
+  - Studies in Global Economic Law
+  - Studies in Historical Linguistics
+  - Studies in International Relations
+  - Studies in Italian Culture
+  - Studies in Jewish History and Memory
+  - Studies in Judaism
+  - Studies in Language, Culture and Society
+  - Studies in Law and Politics
+  - Studies in Life Writing
+  - Studies in Linguistics, Anglophone Literatures and Cultures
+  - Studies in Literary Criticism and Theory
+  - Studies in Literature in English
+  - Studies in Modern Chinese History
+  - Studies in Modern European History
+  - Studies in Modern German Literature
+  - Studies in Modern German and Austrian Literature
+  - Studies in Modern Poetry
+  - Studies in Modern Polish Literature and Culture
+  - Studies in Moral Philosophy
+  - Studies in Nineteenth-Century British Literature
+  - Studies in Old Germanic Languages and Literature
+  - Studies in Oriental Culture and Literature
+  - Studies in Phenomenological Theology
+  - Studies in Philosophy of Language and Linguistics
+  - Studies in Political Transition
+  - Studies in Politics, Security and Society
+  - Studies in Religion, Politics and Public Life
+  - Studies in Romantic and Modern Literature
+  - Studies in Shakespeare
+  - Studies in Social Sciences, Philosophy and History of Ideas
+  - 'Studies in Sociology: Symbols, Theory and Society'
+  - Studies in Southern Italian and Italian American Culture
+  - Studies in Sub-Saharan Africa
+  - Studies in Theology, Society and Culture
+  - Studies in Theoretical and Applied Ethics
+  - Studies in Twentieth-Century British Literature
+  - Studies in Vocational and Continuing Education
+  - Studies in the British Mesolithic and Neolithic
+  - Studies in the History and Culture of Scotland
+  - Studies in the History of Medicine
+  - Studies in the History of Religious and Political Pluralism
+  - Studies in the Humanities
+  - Studies in the Romantic Age
+  - Studies of World Literature in English
+  - Studies on Cervantes and His Time
+  - Studies on Themes and Motifs in Literature
+  - Studies on the Shoah
+  - Subjekt und Kulturalität
+  - Swiss American Historical Society Publication
+  - Symbolae Slavicae
+  - Symbolon
+  - Sympaian - Jahrbuch der Internationalen Franz Werfel-Gesellschaft
+  - Systemische Musikwissenschaft
+  - Systems Thinking for Safety
+  - Sécurité Sociale
+  - Taft and University of Cincinnati
+  - Tartu Historical Studies
+  - Tausch
+  - Teaching Contemporary Scholars
+  - Teaching Texts in Law and Politics
+  - Technical Writing
+  - Technik interdisziplinär
+  - Telecollaboration in Education
+  - Terrorism Studies
+  - 'Text  Meaning  Context: Cracow Studies in English Language, Literature and Culture'
+  - Textbooks in English Language and Linguistics
+  - Texte und Studien zur Literatur der Deutschen Schweiz
+  - Texte und Untersuchungen zur Germanistik und Skandinavistik
+  - Textproduktion und Medium
+  - Thalia Germanica
+  - Theaomai - Studien zu den performativen Künsten
+  - Theion
+  - Theologisch-Philosophische Beiträge zu Gegenwartsfragen
+  - Theoretical Studies in Second Language Acquisition
+  - Theorie in der Ökologie
+  - Theorie und Vermittlung der Sprache
+  - Thought, Society, Culture
+  - ThéoCrit'
+  - Toronto Studies in Religion
+  - Towards a Universal Civilization
+  - Trade Unions. Past, Present and Future
+  - Traditio Christiana
+  - Tradition - Reform - Innovation
+  - Trans-Atlántico/Trans-Atlantique
+  - Transamerican Film and Literature
+  - Transatlantic Aesthetics and Culture
+  - Transatlantic Studies in British and North American Culture
+  - Transcultural Studies - Interdisciplinary Literature and Humanities for Sustainable
+    Societies
+  - Transferwissenschaften
+  - Transformationen - Differenzierungen - Perspektiven
+  - Translation Happens
+  - Translinguae
+  - Transnational Cultures
+  - 'Transpekte: Transdisziplinäre Perspektiven der Sozial- und Kulturwissenschaften'
+  - Transversales
+  - Travail et Société/ Work and Society
+  - Travaux interdisciplinaires et plurilingues
+  - Travel Writing Across the Disciplines
+  - Treffpunkt Philosophie
+  - Trierer Abhandlungen zur Slavistik
+  - Trierer Studien zum Internationalen Steuerrecht
+  - Trierer Studien zur Literatur
+  - Twentieth-Century American Jewish Writers
+  - Tübinger Beiträge zur Religionswissenschaft
+  - Umweltbildung und Zukunftsfähigkeit
+  - Umweltbildung, Umweltkommunikation und Nachhaltigkeit
+  - Understanding Media Ecology
+  - Uni Slovakia
+  - University Studies in Medieval and Renaissance Literature
+  - University of Cincinnati Studies in Historical and Contemporary Europe
+  - University of Fribourg Series in Computer Science
+  - University of Kansas Humanistic Studies
+  - University of Texas Studies in Contemporary Spanish-American Fiction
+  - Untersuchungen zum christlichen Glauben in einer säkularen Welt
+  - Urban Communication
+  - Utah Studies in Literature and Linguistics
+  - Varia Musicologica
+  - Variolingua. Nonstandard - Standard - Substandard
+  - Verfassungs- und Verwaltungsrecht unter dem Grundgesetz
+  - Vergleichende Musikwissenschaft
+  - Vergleichende Studien zu den slavischen Sprachen und Literaturen
+  - Verhaltenswissenschaft
+  - Versicherungsrechtliche Studien
+  - Veröffentlichungen der Hochschule St. Gallen für Wirtschafts- und Sozialwissenschaften
+  - Veröffentlichungen des Instituts für Energie- und Regulierungsrecht Berlin
+  - Veröffentlichungen des Instituts für deutsches und europäisches Wirtschafts-,
+    Wettbewerbs- und Regulierungsrecht der Freien Universität Berlin
+  - Vestigia Bibliae
+  - Victorian and Edwardian Studies
+  - Violence Studies
+  - Visual Communication
+  - Visual Learning
+  - Volkswirtschaftliche Analysen
+  - WPI Studies
+  - Walther-Studien
+  - Warsaw Studies in Classical Literature and Culture
+  - Warsaw Studies in Contemporary History
+  - Warsaw Studies in Culture and Society
+  - Warsaw Studies in English Language and Literature
+  - Warsaw Studies in Jewish History and Memory
+  - Warsaw Studies in Philosophy and Social Sciences
+  - Warsaw Studies in Politics and Society
+  - Warschauer Studien zur Germanistik und zur Angewandten Linguistik
+  - Warschauer Studien zur Kultur- und Literaturwissenschaft
+  - Washington College Studies in Religion, Politics, and Culture
+  - Wechselwirkungen
+  - Welt - Körper - Sprache
+  - Welten Ostasiens/Worlds of East Asia
+  - Welten Süd- und Zentralasiens
+  - Welten des Islams/Worlds of Islam
+  - Werkstattreihe Deutsch als Fremdsprache
+  - Werkstruktur und Hintergrund
+  - Wertschöpfungsmanagement
+  - Westminster College Library of Biblical Symbolism
+  - Westslavische Beiträge
+  - 'Wettbewerbsrechtliche Studien: Technologierecht - Kartellrecht - Vergaberecht'
+  - Wiener Alttestamentliche Studien
+  - Wiener Arbeiten zur Germanischen Altertumskunde und Philologie
+  - Wiener Arbeiten zur Philosophie
+  - Wiener Beiträge zu Komparatistik und Romanistik
+  - Wiener Iberoromanistische Studien
+  - Wiener Islamstudien
+  - Wiener Moderne
+  - Wiener Slawistischer Almanach - Sonderbände
+  - Wiener Studien zu Geschichte, Recht und Gesellschaft. Viennese Studies in History,
+    Law and Society
+  - 'Wiener Vorlesungen: Forschungen'
+  - Wirtschaftspsychologie
+  - Wissen - Kompetenz - Text
+  - Wissenschaft und Religion
+  - Wittenberger Beiträge zur deutschen Sprache und Kultur
+  - Women, Gender and Sexuality in German Literature and Culture
+  - 'Wor(l)ds of Change: Latin American and Iberian Literature'
+  - Work - Technology - Organization - Society
+  - World Science Fiction Studies
+  - Writing About Women
+  - Writing and Culture in the Long Nineteenth Century
+  - Würzburger Schriften zur Kriminalwissenschaft
+  - Würzburger Studien zur Fundamentaltheologie
+  - Yearbook of the Artificial
+  - Yourcenar
+  - Zeitschrift für Wortbildung / Journal of Word Formation
+  - Zivilisationen und Geschichte
+  - Zivilrechtliche Schriften
+  - ZukunftsStudien
+  - Zürcher Beiträge zur Geschichtswissenschaft
+  - Zürcher Beiträge zur Reformationsgeschichte
+  - Zürcher Germanistische Studien
+  - Zürcher Musikstudien
+  - '[Re]thinking Environmental Education'
+  - cege-Schriften
+  - inklings
+  - passagem
+  - uniDO.FACTS
+  - Ästhetische Signaturen
+  - Économie et histoire
+  - Économie sociale et Économie publique
+  - Études canadiennes  Canadian Studies
+  - Études canadiennes - Canadian Studies
+  - Études de Musicologie/Musicological Studies
+  - Études luxembourgeoises
+  - Öffentliches und Internationales Recht
+  - Ökonomische Theorie der Hochschule
+  - Österreichische Biblische Studien
+  - Österreichisches Deutsch - Sprache der Gegenwart
+  - Übergänge. Studien zur Evangelischen und Katholischen Theologie/Religionspädagogik
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - https://www.peterlang.com/page/Repository$0020Policy/repository-policy
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Author's pre-print on author's personal website, non-commercial institutional
+    repository, non-commercial subject repository, non-commercial open access repository,
+    pre-print server, arXiv, PubMed Central, Research Gate, Academia.edu or SSRN
+  - Author's post-print on author's personal website, non-commercial institutional
+    repository, non-commercial subject repository, non-commercial open access repository,
+    pre-print server, arXiv or PubMed Central.
+  - Publisher's version/PDF may be used on author's personal website,
+  - Publisher's version/PDF may be used on author's personal website or non-commercial
+    institutional repository only
+  - 'Published version may only be shared with the statement: "All rights reserved."'
+  - Only one book chapter or journal article may be shared.
+  - Must link to publisher version with DOI and set statement
+  - Publisher copyright and source must be acknowledged with citation
+  - Exceptions to policy are possible to comply with funder's individual requirements,
+    please contact publisher directly
+  - Publisher last contacted on 08/03/2018
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

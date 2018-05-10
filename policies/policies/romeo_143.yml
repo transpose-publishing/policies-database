@@ -1,0 +1,240 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_143
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Rodopi
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Amsterdamer Beiträge zur neueren Germanistik
+  - Amsterdamer Beiträge zur älteren Germanistik
+  - At the Interface/ Probing the Boundaries
+  - Atlantis
+  - Benjamin Studien
+  - Benjamin Studies
+  - Beschreibende Bibliographien
+  - Biblioteca Hispanoamericana y Española de Amsterdam
+  - CERMEIL
+  - Cahiers de recherche des instituts néerlandais de langue et de littérature française
+  - Chiasma
+  - Chloe - Beihefte zum Daphnis
+  - Chronos Studies
+  - Church and Theology in Context
+  - 'Clio Medica: Perspectives in Medical Humanitie'
+  - Collection Monographique Rodopi en Littérature Française Contemporaine
+  - Conrad Studies
+  - Conradian
+  - Consciousness, Literature and the Arts
+  - Contemporary Cinema
+  - Contemporary Pragmatism
+  - Contemporary Psychoanalytic Studies
+  - Costerus NS
+  - Critical Animal Studies
+  - Critical Approaches to Ethnic American Literature
+  - 'Critical Plant Studies: Philosophy, Literature, Culture'
+  - Critical Posthumanisms
+  - Critical Studies
+  - Cross/Cultures - Readings in the Post/Colonial Literatures in English
+  - Currents of Encounter - Studies on the Contact between Christianity and Other
+    Religions, Beliefs, and Cultures
+  - DQR Studies in Literature
+  - Daphnis - Zeitschrift für Mittlere Deutsche Literatur und Kultur der Frühen Neuzeit
+  - 'Deutsch: Studien zum Sprachunterricht und zur interkulturellen Didaktik'
+  - Deutsche Bücher
+  - Dialogue
+  - Diálogos Hispánicos
+  - Duitse Kroniek
+  - Dutch Quarterly Review of Anglo-American Letters
+  - Dutch Studies in Armenian Language and Literature
+  - Early Studies in Germanic Philology
+  - Elementa
+  - Elementa-Texte
+  - Etudes Chronos
+  - European Joyce Studies
+  - European Studies - An Interdisciplinary Series in European Culture, History and
+    Politics
+  - Experimental Practices
+  - Faux Titre
+  - Fichte-Studien
+  - Fichte-Studien-Supplementa
+  - Foro Hispánico
+  - Forschungsberichte zur DDR-Literatur
+  - Francopolyphonies
+  - French Literature Series
+  - GDR Monitor Special Series
+  - 'GENUS: Gender in Modern Culture'
+  - German Monitor
+  - Grazer Philosophische Studien - Internationale Zeitschrift für Analytische Philosophie
+  - Indices Verborum zum altdeutschen Schrifttum
+  - InterActions
+  - Intercultural Theology and Study of Religions
+  - International Bibliography of Austrian Philosophy
+  - International Ford Madox Ford Studies
+  - International Series in the Psychology of Religion
+  - Internationale Bibliographie zur Österreichischen Philosophie
+  - Internationale Forschungen zur Allgemeinen und Vergleichenden Literaturwissenschaft
+  - Leiden Studies in Indo-European
+  - Lier and Boog - Series of Philosophy of Art and Art Theory
+  - Life sciences, ethics and democracy
+  - Ludus - Medieval and Early Renaissance Theatre and Drama
+  - Marcel Proust Aujourd'hui
+  - Matatu - Journal for African Culture and Society
+  - Medieval Chronicle
+  - Monographs-in-Debate
+  - Nature, Culture and Literature
+  - Neo-Victorian Series
+  - Nieuwe Nederlandse Bijdragen tot de Geschiedenis der Geneeskunde en der Natuurwetenschappen
+  - 'On the Boundary of Two Worlds: Identity, Freedom, and Moral Imagination in the
+    Baltics'
+  - Orientations
+  - PALA Papers
+  - Perspektiven der Philosophie - Neues Jahrbuch
+  - Philosophie and Repräsentation
+  - Philosophy and Representation
+  - Polish Analytical Philosophy
+  - Portada Hispánica
+  - Postmodern Studies
+  - Poznan Studies in the Philosophy of the Sciences and the Humanities
+  - Psychoanalyse en cultuur
+  - Psychoanalysis and Culture
+  - Quellen und Forschungen zur Erbauungsliteratur des späten Mittelalters und der
+    frühen Neuzeit
+  - Rodopi Perspectives on Modern Literature
+  - Rodopi Philosophical Studies
+  - 'SCROLL: Scottish Cultural Review of Language and Literature'
+  - Schriftenreihe zur Philosophie Karl R. Poppers und des Kritischen Rationalismus
+  - Serie-uitgave van de Stichting Historia Medicinae
+  - Serie-uitgave van het Genootschap Delfia Batavorum
+  - Series in the Philosophy of Karl R. Popper and Critical Rationalism
+  - 'Spatial Practices: An Interdisciplinary Series in Cultural History, Geography
+    and Literature'
+  - Studia Imagologica
+  - Studien zur interkulturellen PhilosophieStudies in Intercultural Philosophy -
+    Etudes de philosophie interculturelle
+  - Studien zur Österreichischen Philosophie
+  - Studien zur Österreichischen Philosophie Supplement
+  - Studies in Classical Antiquity
+  - Studies in Environmental Humanities
+  - Studies in Intermediality
+  - Studies in Slavic Literature and Poetics
+  - Studies in Slavic and General Linguistics
+  - Studies in World Christianity and Interreligious Relations
+  - Studies in the History of Ideas in the Low Countries
+  - 'Texto y Teoría: Teoría Literaria'
+  - Textxet. Studies in Comparative Literature
+  - 'Thamyris /Intersecting: Place, Sex and Race'
+  - Themes in Theatre - Collective Approaches to Theatre and Performance.
+  - Tijdschrift voor de Geschiedenis der Geneeskunde, Natuurwetenschappen, Wiskunde
+    en Techniek
+  - Utrecht Studies in Language and Communication
+  - Value Inquiry Book Series
+  - Variants
+  - Word and Image Interactions
+  - Word and Music Studies
+  - Yearbook of the Research Centre for German and Austrian Exile Studies
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.rodopi.nl/au.asp#copyright
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Publisher's version/PDF cannot be used
+  - Published source must be acknowledged
+  - Must link to publisher version
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

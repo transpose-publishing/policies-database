@@ -1,0 +1,229 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_1000
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Philosophy Documentation Center
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Acorn
+  - American Catholic Philosophical Quarterly
+  - American Journal of Semiotics
+  - Ancient Philosophy
+  - Augustinian Studies
+  - Augustinianum
+  - Bowling Green Studies in Applied Philosophy
+  - Bradley Studies
+  - Bulletin de la Société Américaine de Philosophie de Langue Française
+  - Business Ethics Quarterly
+  - 'Business Ethics: The Magazine of Corporate Responsibility'
+  - Business and Professional Ethics Journal
+  - CLR James Journal
+  - Cahiers du Centre d'Études Phénoménologiques
+  - Chesterton Review
+  - Chesterton Review em Português
+  - Chesterton Review en Español
+  - Chesterton Review en Français
+  - Chesterton Review in Italiano
+  - Chiasmi International
+  - Chromatikon
+  - Chôra
+  - Cogito
+  - Croatian Journal of Philosophy
+  - Cultura
+  - 'Dialogue: Canadian Philosophy Review'
+  - Environment, Space, Place
+  - Environmental Ethics
+  - Environmental Philosophy
+  - Etudes Heideggeriennes
+  - Faith and Philosophy
+  - Graduate Faculty Philosophy Journal
+  - Harvard Review of Philosophy
+  - Heidegger Studies
+  - Hume Studies
+  - Idealistic Studies
+  - 'Inquiry: Critical Thinking Across the Disciplines'
+  - International Corporate Responsibility Series
+  - International Journal of Applied Philosophy
+  - International Philosophical Quarterly
+  - International Studies in Philosophy
+  - International Studies in Philosophy Monograph Series
+  - Irish Philosophical Journal
+  - Journal for Peace and Justice Studies
+  - Journal of Business Ethics Education
+  - Journal of Catholic Social Thought
+  - Journal of Critical Analysis
+  - Journal of French Philosophy
+  - Journal of Islamic Philosophy
+  - Journal of Philosophical Research
+  - 'Journal of Philosophy: A Cross-Disciplinary Inquiry'
+  - Journal of Pre-College Philosophy
+  - Leibniz Review
+  - Levinas Studies
+  - 'Logos: A Journal of Catholic Thought and Culture'
+  - Lonergan Review
+  - Medieval Philosophy and Theology
+  - Modern Schoolman
+  - New Nietzsche Studies
+  - New Scholasticism
+  - New Vico Studies
+  - New Yearbook for Phenomenology and Phenomenological Philosophy
+  - Newman Studies Journal
+  - Newsletter of the Society for the Advancement of American Philosophy
+  - 'Overheard in Seville: Bulletin of the Santayana Society'
+  - Owl of Minerva
+  - Personalist Forum
+  - 'Philo: A Journal of Philosophy'
+  - Philosopher's Magazine
+  - Philosophical Inquiry
+  - Philosophical Studies
+  - Philosophical Studies of the American Catholic Philosophical Association
+  - Philosophical Topics
+  - Philosophin
+  - Philosophy Now
+  - Philosophy Research Archives
+  - Philosophy Today
+  - Philosophy and History
+  - Philosophy and Theology
+  - Philosophy in the Contemporary World
+  - Polish Journal of Philosophy
+  - Proceedings of the American Catholic Philosophical Association
+  - Proceedings of the International Association for Business and Society
+  - Process Studies
+  - Professional Ethics
+  - 'Questions: Philosophy for Young People'
+  - Radical Philosophy Review
+  - Radical Philosophy Review of Books
+  - Radical Philosophy Today
+  - Res Philosophica
+  - Review of Metaphysics
+  - Ruffin Series of the Society for Business Ethics
+  - Saint Augustine Lecture Series
+  - Schutzian Research
+  - Semiotics
+  - Sign Systems Studies
+  - Social Philosophy Today
+  - Social Theory and Practice
+  - Society for Business Ethics Newsletter
+  - Southwest Philosophy Review
+  - Southwestern Journal of Philosophy
+  - Studi Internazionali di Filosofia
+  - Studia Neoaristotelica
+  - Studia Phaenomenologica
+  - Studies in Practical Philosophy
+  - 'Symposium: Canadian Journal of Continental Philosophy'
+  - Teaching Ethics
+  - Teaching Philosophy
+  - 'Techné: Research in Philosophy and Technology'
+  - 'Thought: Fordham University Quarterly'
+  - Tradition and Discovery
+  - Tulane Studies in Philosophy
+  - 'poché: A Journal for the History of Philosophy'
+  - Études Phénoménologiques
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies:
+  - romeo_2010
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - https://www.pdcnet.org/acpq/Rights-and-Permissions
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Publisher's version/PDF cannot be used
+  - On Open Access Websites
+  - Some titles may have a different policy
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

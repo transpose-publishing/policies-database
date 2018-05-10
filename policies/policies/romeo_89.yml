@@ -1,0 +1,506 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_89
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Medknow Publications
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - APOS Trends in Orthodontics
+  - ASL- Musculoskeletal Diseases
+  - AYU
+  - Advanced Arab Academy of Audio-Vestibulogy Journal
+  - Advanced Biomedical Research
+  - Advances in Human Biology
+  - African Journal for Infertility and Assisted Conception
+  - African Journal of Business Ethics
+  - African Journal of Medical and Health Sciences
+  - African Journal of Paediatric Surgery
+  - African Journal of Trauma
+  - Ain-Shams Journal of Anaesthesiology
+  - Al-Azhar Assiut Medical Journal
+  - Al-Basar International Journal of Ophthalmology
+  - Ancient Science of Life
+  - 'Anesthesia: Essays and Researches'
+  - Annals of African Medicine
+  - Annals of Bioanthropology
+  - Annals of Cardiac Anaesthesia
+  - Annals of Indian Academy of Neurology
+  - Annals of Maxillofacial Surgery
+  - Annals of Medical and Health Sciences Research
+  - Annals of Nigerian Medicine
+  - Annals of Pediatric Cardiology
+  - Annals of Saudi Medicine
+  - Annals of Thoracic Medicine
+  - Annals of Tropical Medicine and Public Health
+  - Archives of International Surgery
+  - Archives of Medicine and Health Sciences
+  - Archives of Pharmacy Practice
+  - 'Asia Pacific Journal of Clinical Trials: Nervous System Diseases'
+  - Asia-Pacific Journal of Oncology Nursing
+  - Asian Journal of Andrology
+  - Asian Journal of Neurosurgery
+  - Asian Journal of Oncology
+  - Asian Journal of Pharmaceutics
+  - Asian Journal of Transfusion Science
+  - Astrocyte
+  - Avicenna Journal of Medicine
+  - BLDE University Journal of Health Sciences
+  - Benha Medical Journal
+  - Brain Circulation
+  - Bulletin of Faculty of Physical Therapy
+  - CHRISMED Journal of Health and Research
+  - Cancer Translational Medicine
+  - Carcinomics and Clinical Communications
+  - Chinese Medical Journal
+  - Clinical Cancer Investigation Journal
+  - Clinical Dermatology Review
+  - Clinical Trials in Degenerative Diseases
+  - Clinical Trials in Orthopedic Disorders
+  - Community Acquired Infection
+  - Conservation and Society
+  - Contemporary Clinical Dentistry
+  - Current Medical Issues
+  - CytoJournal
+  - Delta Journal of Ophthalmology
+  - Dental Hypotheses
+  - Dental Research Journal
+  - Dentistry and Medical Research
+  - Digital Medicine
+  - Drug Development and Therapeutics
+  - Education for Health
+  - Egyptian Journal of Bronchology
+  - Egyptian Journal of Cardiothoracic Anesthesia
+  - Egyptian Journal of Cataract and Refractive Surgery
+  - Egyptian Journal of Dermatology and Venerology
+  - Egyptian Journal of Haematology
+  - Egyptian Journal of Internal Medicine
+  - Egyptian Journal of Neurology, Psychiatry and Neurosurgery
+  - Egyptian Journal of Obesity, Diabetes and Endocrinology
+  - Egyptian Journal of Otolaryngology
+  - Egyptian Journal of Psychiatry
+  - Egyptian Journal of Surgery
+  - Egyptian Nursing Journal
+  - Egyptian Orthopaedic Journal
+  - Egyptian Pharmaceutical Journal
+  - Egyptian Retina Journal
+  - Egyptian Rheumatology and Rehabilitation
+  - Emerging Scientist
+  - Emirates Medical Journal
+  - Endodontology
+  - Endoscopic Ultrasound
+  - Environmental Disease
+  - European Journal of Dentistry
+  - European Journal of General Dentistry
+  - European Journal of Prosthodontics
+  - European Journal of Psychology and Educational Studies
+  - Fertility Science and Research
+  - Formosan Journal of Surgery
+  - Global Journal of Transfusion Medicine
+  - Heart India
+  - Heart Views
+  - Heart and Mind
+  - Hepatitis B Annual
+  - IETE Journal of Education
+  - IETE Journal of Research
+  - IETE Technical Review
+  - IJS Short Reports
+  - IVF Lite
+  - Ibnosina Journal of Medicine and Biomedical Sciences
+  - Indian Dermatology Online Journal
+  - Indian Journal of Allergy, Asthma and Immunology
+  - Indian Journal of Anaesthesia
+  - Indian Journal of Burns
+  - Indian Journal of Cancer
+  - Indian Journal of Cerebral Palsy
+  - Indian Journal of Community Medicine
+  - Indian Journal of Critical Care Medicine
+  - Indian Journal of Dental Research
+  - Indian Journal of Dental Sciences
+  - Indian Journal of Dermatology
+  - Indian Journal of Dermatology, Venereology, and Leprology
+  - Indian Journal of Dermatopathology and Diagnostic Dermatology
+  - Indian Journal of Drugs in Dermatology
+  - Indian Journal of Endocrinology and Metabolism
+  - Indian Journal of Health Sciences
+  - Indian Journal of Human Genetics
+  - Indian Journal of Medical Microbiology
+  - Indian Journal of Medical Research
+  - Indian Journal of Medical Sciences
+  - Indian Journal of Medical and Paediatric Oncology
+  - Indian Journal of Multidisciplinary Dentistry
+  - Indian Journal of Nephrology
+  - Indian Journal of Neurosurgery
+  - Indian Journal of Nuclear Medicine
+  - Indian Journal of Occupational and Environmental Medicine
+  - Indian Journal of Ophthalmology
+  - Indian Journal of Oral Health and Research
+  - Indian Journal of Oral Sciences
+  - Indian Journal of Orthopaedics
+  - Indian Journal of Otology
+  - Indian Journal of Paediatric Dermatology
+  - Indian Journal of Pain
+  - Indian Journal of Palliative Care
+  - Indian Journal of Pathology and Microbiology
+  - Indian Journal of Pharmacology
+  - Indian Journal of Plastic Surgery
+  - Indian Journal of Psychiatry
+  - Indian Journal of Psychological Medicine
+  - Indian Journal of Public Health
+  - Indian Journal of Radiology and Imaging
+  - Indian Journal of Research in Homoeopathy
+  - Indian Journal of Sexually Transmitted Diseases and AIDS
+  - Indian Journal of Social Psychiatry
+  - Indian Journal of Urology
+  - Indian Journal of Vascular and Endovascular Surgery
+  - Indian Ocean Turtle Newsletter
+  - Industrial Psychiatry Journal
+  - International Journal of Academic Medicine
+  - International Journal of Advanced Medical and Health Research
+  - International Journal of Applied and Basic Medical Research
+  - International Journal of Ayurveda Research
+  - International Journal of Clinical and Experimental Physiology
+  - International Journal of Critical Illness and Injury Science
+  - International Journal of Diabetes in Developing Countries
+  - International Journal of Educational and Psychological Researches
+  - International Journal of Environmental Health Engineering
+  - International Journal of Forensic Odontology
+  - International Journal of Green Pharmacy
+  - International Journal of Health System and Disaster Management
+  - International Journal of Health and Allied Sciences
+  - International Journal of Heart Rhythm
+  - International Journal of Mycobacteriology
+  - International Journal of Noncommunicable Diseases
+  - International Journal of Nutrition, Pharmacology, Neurological Diseases
+  - International Journal of Oral Health Sciences
+  - International Journal of Orthodontic Rehabilitation
+  - International Journal of Pedodontic Rehabilitation
+  - International Journal of Pharmaceutical Investigation
+  - International Journal of Physical and Rehabilitation Medicine
+  - International Journal of Preventive Medicine
+  - International Journal of Shoulder Surgery
+  - International Journal of Students' Research
+  - International Journal of Trichology
+  - International Journal of Yoga
+  - International Journal of Yoga - Philosophy, Psychology and Parapsychology
+  - Iranian Journal of Nursing and Midwifery Research
+  - Iraqi Journal of Hematology
+  - Journal of Academy of Medical Sciences
+  - Journal of Advanced Pharmaceutical Technology and Research
+  - Journal of Anaesthesiology Clinical Pharmacology
+  - Journal of Andrology, Sexual Medicine, Ageing and Gender
+  - Journal of Applied Hematology
+  - Journal of Association of Chest Physicians
+  - Journal of Ayurveda and Integrative Medicine
+  - Journal of Basic and Clinical Pharmacy
+  - Journal of Basic and Clinical Reproductive Sciences
+  - Journal of Cancer Research and Therapeutics
+  - Journal of Carcinogenesis
+  - Journal of Cardiovascular Disease Research
+  - Journal of Cleft Lip Palate and Craniofacial Anomalies
+  - Journal of Clinical Imaging Science
+  - Journal of Clinical Neonatology
+  - Journal of Clinical Ophthalmology and Research
+  - Journal of Clinical Rheumatology in Ayurveda
+  - Journal of Clinical Sciences
+  - Journal of Clinical and Preventive Cardiology
+  - Journal of Conservative Dentistry
+  - Journal of Cranio-Maxillary Diseases
+  - Journal of Craniovertebral Junction and Spine
+  - Journal of Current Medical Research and Practice
+  - Journal of Current Research in Scientific Medicine
+  - Journal of Cutaneous and Aesthetic Surgery
+  - Journal of Cytology
+  - Journal of Datta Meghe Institute of Medical Sciences University
+  - Journal of Dental Implants
+  - Journal of Dental Lasers
+  - Journal of Dental Research and Review
+  - Journal of Dental and Allied Sciences
+  - Journal of Diabetology
+  - Journal of Digestive Endoscopy
+  - Journal of Dr. NTR University of Health Sciences
+  - Journal of Earth, Environment and Health Sciences
+  - Journal of Education and Ethics in Dentistry
+  - Journal of Education and Health Promotion
+  - Journal of Emergencies, Trauma, and Shock
+  - Journal of Engineering and Technology
+  - Journal of Experimental and Clinical Anatomy
+  - Journal of Family Medicine and Primary Care
+  - Journal of Family and Community Medicine
+  - Journal of Forensic Dental Sciences
+  - Journal of Forensic Science and Medicine
+  - Journal of Geriatric Mental Health
+  - Journal of Global Infectious Diseases
+  - Journal of Gynecological Endoscopy and Surgery
+  - Journal of HIV and Human Reproduction
+  - Journal of Head and Neck Physicians and Surgeons
+  - Journal of Health Research and Reviews
+  - Journal of Health Specialties
+  - Journal of Human Health
+  - Journal of Human Reproductive Sciences
+  - Journal of Indian Academy of Dental Specialist Researchers
+  - Journal of Indian Academy of Oral Medicine and Radiology
+  - Journal of Indian Association of Pediatric Surgeons
+  - Journal of Indian Association of Public Health Dentistry
+  - Journal of Indian Orthodontic Society
+  - Journal of Indian Society of Pedodontics and Preventive Dentistry
+  - Journal of Indian Society of Periodontology
+  - Journal of Indian Speech Language and Hearing Association
+  - Journal of Integrative Nephrology and Andrology
+  - Journal of Interdisciplinary Dentistry
+  - Journal of International Clinical Dental Research Organization
+  - Journal of International Oral Health
+  - Journal of International Society of Preventive and Community Dentistry
+  - Journal of Laboratory Physicians
+  - Journal of Laryngology and Voice
+  - Journal of Limb Lengthening and Reconstruction
+  - Journal of Mahatma Gandhi Institute of Medical Sciences
+  - Journal of Marine Medical Society
+  - Journal of Medical Investigations and Practice
+  - Journal of Medical Nutrition and Nutraceuticals
+  - Journal of Medical Physics
+  - Journal of Medical Signals and Sensors
+  - Journal of Medical Society
+  - Journal of Medicine in the Tropics
+  - Journal of Mental Health and Human Behaviour
+  - Journal of Mid-life Health
+  - Journal of Minimal Access Surgery
+  - Journal of National Accreditation Board for Hospitals and Healthcare Providers
+  - Journal of Natural Pharmaceuticals
+  - Journal of Natural Science, Biology and Medicine
+  - Journal of Neuroanaesthesiology and Critical Care
+  - Journal of Neurosciences in Rural Practice
+  - Journal of Obesity and Metabolic Research
+  - Journal of Obstetric Anaesthesia and Critical Care
+  - Journal of Ophthalmic and Vision Research
+  - Journal of Oral Research and Review
+  - Journal of Oral and Maxillofacial Pathology
+  - Journal of Oral and Maxillofacial Radiology
+  - Journal of Orofacial Sciences
+  - Journal of Orthodontic Research
+  - Journal of Orthodontic Science
+  - Journal of Orthopaedics and Allied Sciences
+  - Journal of Orthopedics, Traumatology and Rehabilitation
+  - Journal of Pathology Informatics
+  - Journal of Patient Safety and Infection Control
+  - Journal of Pediatric Dentistry
+  - Journal of Pediatric Neurosciences
+  - Journal of Pharmaceutical Investigation
+  - Journal of Pharmaceutical Negative Results
+  - Journal of Pharmacology and Pharmacotherapeutics
+  - Journal of Postgraduate Medicine
+  - Journal of Prenatal Diagnosis and Therapy
+  - Journal of Radiation and Cancer Research
+  - Journal of Reports in Pharmaceutical Sciences
+  - Journal of Research in Medical Sciences
+  - Journal of Research in Pharmacy Practice
+  - Journal of Restorative Dentistry
+  - Journal of Social Health and Diabetes
+  - Journal of Surgical Technique and Case Report
+  - Journal of The Arab Society for Medical Research
+  - Journal of The Egyptian Society of Nephrology and Transplantation
+  - Journal of Vector Borne Diseases
+  - Journal of Young Pharmacists
+  - Journal of the Academy of Clinical Microbiologists
+  - Journal of the Egyptian Ophthalmological Society
+  - Journal of the International Clinical Dental Research Organization
+  - Journal of the Practice of Cardiovascular Sciences
+  - Journal of the Scientific Society
+  - Karnataka Anaesthesia Journal
+  - Kasr Al Ainy Medical Journal
+  - Kerala Journal of Ophthalmology
+  - Lung India
+  - MAMC Journal of Medical Sciences Medical Gas Research
+  - Medical Journal of Dr. D.Y. Patil University
+  - Medical Law Cases - For Dentists
+  - Medical Law Cases - For Doctors
+  - Menoufia Medical Journal
+  - Mens Sana Monographs
+  - Middle East African Journal of Ophthalmology
+  - Muller Journal of Medical Sciences and Research
+  - National Journal of Maxillofacial Surgery
+  - National Medical Journal of India
+  - Neural Regeneration Research
+  - Neurology India
+  - New Nigerian Journal of Clinical Research
+  - Nigerian Journal of Basic and Clinical Sciences
+  - Nigerian Journal of Cardiology
+  - Nigerian Journal of Cardiovascular and Thoracic Surgery
+  - Nigerian Journal of Clinical Practice
+  - Nigerian Journal of Experimental and Clinical Biosciences
+  - Nigerian Journal of General Practice
+  - Nigerian Journal of Health Sciences
+  - Nigerian Journal of Ophthalmology
+  - Nigerian Journal of Plastic Surgery
+  - Nigerian Journal of Surgery
+  - Nigerian Journal of Surgical Research
+  - Nigerian Journal of Surgical Sciences
+  - Nigerian Medical Journal
+  - Nigerian Postgraduate Medical Journal
+  - Noise and Health
+  - North American Journal of Medical Sciences
+  - Oman Journal of Ophthalmology
+  - Oncobiology and Targets
+  - PVRI Review
+  - Paediatric Orthopaedics and Related Sciences
+  - Pan Arab Journal of Rhinology
+  - Parasitologists United Journal
+  - Perspectives in Clinical Research
+  - Pharmaceutical Methods
+  - Pharmacognosy Magazine
+  - Pharmacognosy Research
+  - Pharmacognosy Reviews
+  - Pigment International
+  - Port Harcourt Medical Journal
+  - Preventica
+  - Radiation Protection and Environment
+  - Ramon Llull Journal of Applied Ethics
+  - Research and Opinion in Anesthesia and Intensive Care
+  - Research in Pharmaceutical Sciences
+  - SRM Journal of Research in Dental Sciences
+  - Sahel Medical Journal
+  - Saint's International Dental Journal
+  - Saudi Endodontic Journal
+  - Saudi Journal for Health Sciences
+  - Saudi Journal of Anaesthesia
+  - Saudi Journal of Gastroenterology
+  - Saudi Journal of Kidney Diseases and Transplantation
+  - Saudi Journal of Laparoscopy
+  - Saudi Journal of Medicine and Medical Sciences
+  - Saudi Journal of Obesity
+  - Saudi Journal of Oral Sciences
+  - Saudi Journal of Sports Medicine
+  - Saudi Surgical Journal
+  - Scholars Research Journal
+  - Sifa Medical Journal
+  - South Asian Journal of Cancer
+  - Sub-Saharan African Journal of Medicine
+  - Sudan Medical Monitor
+  - Sudanese Journal of Ophthalmology
+  - Surgical Neurology International
+  - Systematic Reviews in Pharmacy
+  - Tanta Dental Journal
+  - Tanta Medical Journal
+  - Thyroid Research and Practice
+  - Toxicology International
+  - Translational Surgery
+  - Tropical Journal of Medical Research
+  - Tropical Journal of Obstetrics and Gynaecology
+  - Tropical Parasitology
+  - Tumor and Microenvironment
+  - Universal Research Journal of Dentistry
+  - Urology Annals
+  - West African Journal of Radiology
+  - World Journal of Nuclear Medicine
+  - Yoga Mimamsa
+  - Young Scientists Journal
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.jpgmonline.com/contributors.asp
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - On institutional repositories and subject repositories
+  - Non-commercial
+  - Publisher's version/PDF may be used
+  - Creative Commons Attribution Non-Commercial Share Alike License
+  - Published source must be acknowledged
+  - All titles are open access journals
+  - Publisher last reviewed on 23/09/2016
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

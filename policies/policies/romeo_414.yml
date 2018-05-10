@@ -1,0 +1,844 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_414
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: De Gruyter
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - ABI-Technik
+  - ANVIL
+  - ARS Medica Tomitana
+  - Accounting, Economics and Law
+  - Acrocephalus
+  - Acta Biologica Cracoviensia Series Botanica
+  - Acta Botanica Croatica
+  - Acta Chemica Iasi
+  - Acta Chimica Slovaca
+  - Acta Chirurgica Latviensis
+  - Acta Dermatovenerologica Alpina, Pannonica et Adriatica
+  - Acta Electrotechnica et Informatica
+  - Acta Facultatis Medicae Naissensis
+  - Acta Facultatis Pharmaceuticae Universitatis Comenianae
+  - Acta Geologica Polonica
+  - Acta Geophysica
+  - Acta Horti Botanici Bucurestiensis
+  - Acta Mechanica Slovaca
+  - Acta Mechanica et Automatica
+  - Acta Medica Marisiensis
+  - Acta Medica Martiniana
+  - Acta Palaeobotanica
+  - Acta Parasitologica
+  - Acta Pharmaceutica
+  - Acta Physica Slovaca
+  - Acta Silvatica et Lignaria Hungarica
+  - Acta Technologica Agriculturae
+  - 'Acta Universitatis Cibiniensis. Series E: Food Technology'
+  - Acta Universitatis Sapientiae, Agriculture and Environment
+  - Acta Universitatis Sapientiae, Economics and Business
+  - Acta Universitatis Sapientiae, Informatica
+  - Acta Universitatis Sapientiae, Philologica
+  - Acta Veterinaria
+  - Ad verba Liberorum
+  - Addiction Genetics
+  - Advanced Optical Technologies
+  - Advances in Calculus of Variations
+  - Advances in Cell Biology
+  - Advances in Geometry
+  - Advances in Manufacturing Science and Technology
+  - Advances in Materials Science
+  - Advances in Nonlinear Analysis
+  - Advances in Pure and Applied Mathematics
+  - Advances in Rehabilitation
+  - African Book Publishing Record
+  - Agricultura Tropica et Subtropica
+  - Agriculture
+  - Altorientalische Forschungen
+  - American Journal of Ancient History
+  - American, British and Canadian Studies Journal
+  - Analele Universitatii
+  - Analysis and Geometry in Metric Spaces
+  - Angermion
+  - Anglia
+  - Animal Migration
+  - Annales UMCS, Biologia
+  - Annales UMCS, Chemia
+  - Annales UMCS, Geographia, Geologia, Mineralogia et Petrographia
+  - Annales UMCS, Historia
+  - Annales UMCS, Horticultura
+  - Annales UMCS, Informatica
+  - Annales UMCS, Medicina Veterinaria
+  - 'Annales UMCS, Sectio AAA: Physica'
+  - Annales UMCS, Sectio K (Politologia)
+  - Annales UMCS. Sectio I (Filozofia, Socjologia)
+  - Annals of Animal Science
+  - Annals of Fundeni Hospital
+  - Annual of Navigation
+  - Anthropological Review
+  - Antike und Abendland
+  - Apeiron
+  - Applied Bioenergy
+  - Applied Computer Systems
+  - Applied Linguistics Review
+  - Arbitrium
+  - Arcadia
+  - Archiv für Geschichte der Philosophie
+  - Archiv für Papyrusforschung und verwandte Gebiete
+  - Archiv für Religionsgeschichte
+  - Archive of Mechanical Engineering
+  - Archives of Acoustics
+  - Archives of Civil Engineering
+  - Archives of Control Sciences
+  - Archives of Electrical Engineering
+  - Archives of Environmental Protection
+  - Archives of Foundry Engineering
+  - Archives of Hydro-Engineering and Environmental Mechanics
+  - Archives of Industrial Hygiene and Toxicology
+  - Archives of Metallurgy and Materials
+  - Archives of Mining Sciences
+  - Archives of Polish Fisheries
+  - Archives of Thermodynamics
+  - Archives of Transport
+  - Archäologisches Nachrichtenblatt
+  - Artificial Photosynthesis
+  - Artificial Satellites
+  - Aschkenas
+  - Asia-Pacific Journal of Risk and Insurance
+  - Asian Journal of Law and Economics
+  - Asymmetric Catalysis
+  - Autex Research Journal
+  - Automatisierungstechnik
+  - B.E. Journal of Economic Analysis and Policy
+  - B.E. Journal of Macroeconomics
+  - B.E. Journal of Theoretical Economics
+  - BE Journal of Economic Analysis and Policy
+  - BE Journal of Macroeconomics
+  - BE Journal of Theoretical Economics
+  - BIBLIOTHEK Forschung und Praxis
+  - BIOmaterialien
+  - Badania Fizjograficzne
+  - Balkan Journal of Medical Genetics
+  - Balkan Region Conference on Engineering and Business Education
+  - Baltic Journal of European Studies
+  - Baltic Journal of Health and Physical Activity
+  - Baltic Journal of Law and Politics
+  - Basic Income Studies
+  - Behemoth
+  - Beiträge zur Geschichte der deutschen Sprache und Literatur
+  - Beiträge zur Tabakforschung International
+  - Bildwelten des Wissens
+  - Bio-Algorithms and Medical-Systems
+  - BioInorganic Reaction Mechanisms
+  - BioMolecular Concepts
+  - BioNanoMaterials
+  - Biocatalysis
+  - Biodiversity and Ecosystems Loss
+  - 'Biodiversity: Research and Conservation'
+  - Bioethanol
+  - Biofuels Engineering
+  - Bioinspired Materials
+  - Biological Chemistry
+  - Biological Letters
+  - Biologija
+  - Biomedical Engineering
+  - Biomedical Human Kinetics
+  - Biomedizinische Technik
+  - Biometrical Letters
+  - Biomonitoring
+  - Botanica Lithuanica
+  - Botanica Marina
+  - Bulletin of the Polish Academy of Sciences Technical Sciences
+  - Bulletin of the Veterinary Institute in Pulawy
+  - 'Bulletin: Economics, Organisation and Informatics in Healthcare'
+  - Business Systems Research Journal
+  - Byzantinische Zeitschrift
+  - California Journal of Politics and Policy
+  - Cancer Metabolomics
+  - Cancer Stem Cells
+  - Capitalism and Society
+  - Case Reports in Perinatal Medicine
+  - Catalysis for Sustainable Energy
+  - Cellular Senescence and Therapy
+  - Central European Journal of Computer Science
+  - Central European Journal of Economic Modelling and Econometrics
+  - Central European Journal of Engineering
+  - Cercetari Agronomice in Moldova
+  - Change and Adaptation in Socio-Ecological Systems
+  - Chemical Product and Process Modeling
+  - Chemical and Process Engineering
+  - Chemistry-Didactics-Ecology-Metrology
+  - Chinese Archaeology
+  - Chinese Journal of Applied Linguistics
+  - Chinese as a Second Language Research
+  - Chiron
+  - Clinical Chemistry and Laboratory Medicine
+  - Cognitive Linguistics
+  - Coherent Phenomena
+  - Communication and Medicine
+  - Comparative Economic Research
+  - Computational Methods in Applied Mathematics
+  - Construction Science
+  - Contemporary Japan
+  - Contributions to Geophysics and Geodesy
+  - Contributions to Tobacco Research
+  - Corpus Linguistics and Linguistic Theory
+  - Creative and Knowledge Society
+  - Current Directions in Biomedical Engineering
+  - Current Topics in Biophysics
+  - Cybernetics and Information Technologies
+  - Czech Journal of Tourism
+  - DNA Barcodes
+  - DNA and RNA Nanotechnology
+  - Danube
+  - Danubiana Carpathica
+  - Deutsche Zeitschrift für Philosophie
+  - Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht
+  - Dialectologia et Geolinguistica
+  - Digital Culture and Society
+  - Discourse and Communication for Sustainable Education
+  - Discrete Mathematics and Applications
+  - Diversity Oriented Synthesis
+  - Drug Metabolism and Drug Interactions
+  - EU agrarian Law
+  - Ecological Chemistry and Engineering S
+  - Economic History Yearbook
+  - Economic Quality Control
+  - Economics and Organization of Enterprise
+  - Economists' Voice
+  - Editio
+  - Electrical, Control and Communication Engineering
+  - Elektrotechnický časopis
+  - Endoplasmic Reticulum Stress in Diseases
+  - English and American Studies
+  - Entrepreneurship Research Journal
+  - Epidemiologic Methods
+  - Epigenetics in Cancer
+  - Epigenetics of Degenerative Diseases
+  - Etruscan Studies
+  - European Company and Financial Law Review
+  - European Journal of Applied Linguistics
+  - European Journal of Nanomedicine
+  - European Journal of Scandinavian Studies
+  - European Property Law Journal
+  - European Review of Contract Law
+  - European Spatial Research and Policy
+  - European Tort Law Yearbook
+  - Fabula
+  - Fatigue of Aircraft Structures
+  - Feministische Studien
+  - Flexible Electronics
+  - Folia Biologica et Oecologica
+  - Folia Forestalia Polonica, series A - Forestry
+  - Folia Horticulturae
+  - Folia Linguistica
+  - Folia Linguistica Historica
+  - Folia Malacologica
+  - Folia Medica
+  - Folia Musei rerum naturalium Bohemiae occidentalis. Geologica et Paleobiologica
+  - Folia Oeconomica Stetinensia
+  - Folia Quaternaria
+  - Folia Scandinavica Posnaniensia
+  - Forest Research Papers
+  - Forestry Journal
+  - Forestry Studies
+  - Forschungsjournal Neue Soziale Bewegungen
+  - Forschungsjournal Soziale Bewegungen
+  - Forum Mathematicum
+  - Forum for Health Economics and Policy
+  - Foundations of Computing and Decision Sciences
+  - Foundations of Management
+  - Frequenz
+  - Frühmittelalterliche Studien
+  - Gegenworte
+  - Gender Studies
+  - Genetics of Multifactorial Disorders
+  - GeoScape
+  - GeoScience Engineering
+  - Geodesy and Cartography
+  - Geoinformatica Polonica
+  - Geologica Carpathica
+  - Geologija
+  - Geologos
+  - Germanistik
+  - Global Economy Journal
+  - Global Jurist
+  - Gospodarka Surowcami Mineralnymi
+  - Graphene and 2D Materials
+  - Green
+  - Green Processing and Synthesis
+  - Groups - Complexity - Cryptology
+  - Hacquetia
+  - Hegel-Jahrbuch
+  - Herba Polonica
+  - Heterocyclic Communications
+  - High Speed Machining
+  - High Temperature Materials and Processes
+  - Historische Bibliographie Online
+  - Historische Zeitschrift
+  - Holzforschung
+  - Hormone Molecular Biology and Clinical Investigation
+  - Human Movement
+  - Human and Social Studies
+  - Humor
+  - Hybrid Materials
+  - Hydrogels
+  - ICAME Journal
+  - IRAL - International Review of Applied Linguistics in Language Teaching
+  - Iberoromania
+  - Image Processing and Communications
+  - Immunometabolism
+  - Indogermanische Forschungen
+  - Inflammasome
+  - Inflammation and Cancer
+  - Information - Wissenschaft and Praxis
+  - Information Technologies, Management and Society
+  - Information Technology
+  - Information Technology and Management Science
+  - Innovative Neurosurgery
+  - Integers
+  - Intercultural Pragmatics
+  - Interdisciplinary Toxicology
+  - International African Bibliography
+  - International Agrophysics
+  - International Commentary on Evidence
+  - International Journal for Transformative Research
+  - International Journal of Adolescent Medicine and Health
+  - International Journal of Applied Computer Science Methods
+  - International Journal of Applied Mathematics and Computer Science
+  - International Journal of Applied Mechanics and Engineering
+  - International Journal of Area Studies
+  - International Journal of Biostatistics
+  - International Journal of Chemical Reactor Engineering
+  - International Journal of Electronics and Telecommunications
+  - International Journal of Emerging Electric Power Systems
+  - International Journal of Food Engineering
+  - International Journal of Health Professions
+  - International Journal of Information and Communication Technologies in Education
+  - International Journal of Naval Architecture and Ocean Engineering
+  - International Journal of Nonlinear Sciences and Numerical Simulation
+  - International Journal of Nursing Education Scholarship
+  - International Journal of Pavement Engineering and Asphalt Technology
+  - International Journal of Practical Theology
+  - International Journal of Turbo and Jet Engines
+  - International Journal of the Sociology of Language
+  - International Review of Applied Linguistics in Language Teaching
+  - International Studies. Interdisciplinary Political and Cultural Journal
+  - Internationales Archiv für Sozialgeschichte der deutschen Literatur
+  - Internationales Jahrbuch für Philosophische Anthropologie
+  - Invertebrate Immunity
+  - Islam
+  - Issues in Legal Scholarship
+  - JURA - Juristische Ausbildung
+  - Jahrbuch für Wirtschaftsgeschichte
+  - Jahrbücher für Nationalökonomie und Statistik
+  - Journal der Juristischen Zeitgeschichte
+  - Journal des Economistes et des Etudes Humaines
+  - Journal for Manufacturing Science and Production
+  - Journal for Perspectives of Economic Political and Social Integration
+  - Journal for Technology of Plasticity
+  - Journal for the History of Modern Theology
+  - Journal für die reine und angewandte Mathematik
+  - Journal für die reine und angewandte Mathematik (Crelles Journal)
+  - Journal of Advanced Research in Law and Economics
+  - Journal of Advanced Research in Management
+  - Journal of Advanced Studies in Finance
+  - Journal of African Languages and Linguistics
+  - Journal of Agricultural and Food Industrial Organization
+  - Journal of Agrobiology
+  - Journal of Apicultural Science
+  - Journal of Applied Analysis
+  - Journal of Applied Biomedicine
+  - Journal of Applied Geodesy
+  - Journal of Applied Mathematics, Statistics and Informatics
+  - Journal of Artificial General Intelligence
+  - Journal of Biosecurity, Biosafety and Biodefense Law
+  - Journal of Business Valuation and Economic Loss Analysis
+  - Journal of Catalan Intellectual History
+  - Journal of Causal Inference
+  - Journal of College and Character
+  - Journal of Complementary and Integrative Medicine
+  - Journal of Contemporary Drama in English
+  - Journal of Drug Policy Analysis
+  - Journal of Econometric Methods
+  - Journal of Electrical Engineering
+  - Journal of English as a Lingua Franca
+  - Journal of Environmental Geography
+  - Journal of Environmental Management and Tourism
+  - Journal of European Tort Law
+  - Journal of Fruit and Ornamental Plant Research
+  - Journal of Geodetic Science
+  - Journal of Globalization and Development
+  - Journal of Group Theory
+  - Journal of Historical Sociolinguistics
+  - Journal of Homeland Security and Emergency Management
+  - Journal of Horticultural Research
+  - Journal of Human Kinetics
+  - Journal of Hydrology and Hydromechanics
+  - Journal of Imagery Research in Sport and Physical Activity
+  - Journal of Industrial Organization Education
+  - Journal of Integrative Bioinformatics
+  - Journal of Intelligent Systems
+  - Journal of Intercultural Management
+  - Journal of International Biotechnology Law
+  - Journal of Inverse and Ill-posed Problems
+  - Journal of KONBiN
+  - Journal of Landscape Ecology
+  - Journal of Linguistics/Jazykovedný casopis
+  - Journal of Literary Semantics
+  - Journal of Literary Theory
+  - Journal of Mathematical Cryptology
+  - Journal of Medical Biochemistry
+  - Journal of Non-Equilibrium Thermodynamics
+  - Journal of Numerical Mathematics
+  - Journal of Optical Communications
+  - Journal of Pedagogy
+  - Journal of Pediatric Endocrinology and Metabolism
+  - Journal of Perinatal Medicine
+  - Journal of Plant Protection Research
+  - Journal of Politeness Research
+  - Journal of Quantitative Analysis in Sports
+  - Journal of Research in Educational Sciences
+  - Journal of Research in Physics
+  - Journal of Rotterdam Islamic and Social Sciences
+  - Journal of Special Education and Rehabilitation
+  - Journal of Speech and Language Pathology
+  - Journal of Teacher Education for Sustainability
+  - Journal of Theoretical and Applied Mechanics
+  - Journal of Time Series Econometrics
+  - Journal of Tort Law
+  - Journal of the Mechanical Behavior of Materials
+  - Juristische Rundschau
+  - KINOME
+  - Kadmos
+  - Kant-Studien
+  - Klio
+  - Koroze a ochrana materiálu
+  - Kritikon Litterarum
+  - Kultura i Spoleczenstwo
+  - Laboratoriums Medizin
+  - LaboratoriumsMedizin
+  - Language Learning in Higher Education
+  - Latvian Journal of Chemistry
+  - Latvian Journal of Physics and Technical Sciences
+  - Latvijas Fizikas un Tehnisko Zinātņu Žurnāls
+  - Lauener Library of Analytical Philosophy
+  - Law and Development Review
+  - Law and Ethics of Human Rights
+  - Lebende Sprachen
+  - Libri
+  - Lingua Posnaniensis
+  - Linguaculture
+  - Linguistic Review
+  - Linguistic Typology
+  - Linguistic and Oriental Studies from Poznan
+  - Linguistics
+  - Linguistics Vanguard
+  - Literary Movement
+  - Lithuanian Annual Strategic Review
+  - Lithuanian Language
+  - Lodz Papers in Pragmatics
+  - MECCA
+  - Main Group Metal Chemistry
+  - Mammalia
+  - Management
+  - Management and Production Engineering Review
+  - Management of Sustainable Development
+  - Marine and Freshwater Living Resources
+  - Measurement Science Review
+  - Mesoporous Biomaterials
+  - Metallodrugs
+  - Metaphysica
+  - Methods in Next Generation Sequencing
+  - Metrology and Measurement Systems
+  - Metsanduslikud Uurimused
+  - Microalgae Biotechnology
+  - Microbiome Science and Medicine
+  - Microform and Digitization Review
+  - Microform and Imaging Review
+  - Militärgeschichtliche Zeitschrift
+  - Millennium
+  - Mineralogia
+  - 'Miscellanea Geographica: Regional Studies on Development'
+  - Mitteilungen der DMV
+  - Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo
+  - Mitteilungen des Instituts für Österreichische Geschichtsforschung
+  - Mittelalter
+  - Molecular Imprinting
+  - Monte Carlo Methods and Applications
+  - Moravian Geographical Reports
+  - Multicultural Learning and Teaching
+  - Multicultural Shakespeare
+  - Multiferroic Materials
+  - Multilingua
+  - Musicology Today
+  - Muslim World Journal of Human Rights
+  - NASPA Journal About Women in Higher Education
+  - NISPAcee Journal of Public Administration and Policy
+  - Nachrichten aus der Chemie
+  - Naharaim
+  - Naharaim - Zeitschrift für deutsch-jüdische Literatur und Kulturgeschichte
+  - Nano Energy and Nano Environment
+  - NanoBioImaging
+  - Nanocarriers
+  - Nanocontainers
+  - Nanofabrication
+  - Nanomaterials and Tissue Regeneration
+  - Nanomaterials and the Environment
+  - Nanomechanics
+  - Nanophotonics
+  - Nanospectroscopy
+  - Nanotechnology Reviews
+  - Nanothermoelectrics
+  - Nanotube Therapy
+  - Natural Products Against Cancer
+  - Neue Zeitschrift für Systematische Theologie und Religionsphilosophie
+  - Neuroscience of Decision Making
+  - New Global Studies
+  - Nietzsche-Studien
+  - Nietzscheforschung
+  - Noise Mapping
+  - Non-Genetic Inheritance
+  - Non-coding RNAs in Endocrinology
+  - Nonlinear Engineering
+  - Nonprofit Policy Forum
+  - Nordic Journal of Migration Research
+  - Nordic Studies on Alcohol and Drugs
+  - Nordicom Review
+  - Nova Biotechnologica et Chimica
+  - Novel Superconducting Materials
+  - Nukleonika
+  - Ocean Acidification
+  - OncomiRs
+  - Open Archaeology
+  - Open Economics
+  - Open Linguistics
+  - Open Theology
+  - Optical Data Processing and Storage
+  - Optofluidics, Microfluidics and Nanofluidics
+  - Optogenetics
+  - Organelles Proteomics
+  - Organic Photonics and Photovoltaics
+  - Organizacija
+  - Organization and Management
+  - Orientalistische Literaturzeitung
+  - Ornis Hungarica
+  - PIK
+  - Papers on Global Change IGBP
+  - Paragrana
+  - Peace Economics, Peace Science and Public Policy
+  - Peake Studies
+  - Peptidomics
+  - Perichoresis
+  - Perspektiven der Wirtschaftspolitik
+  - Philologus
+  - Photonics & Lasers in Medicine
+  - Physical Culture and Sport. Studies and Research
+  - Physics and Chemistry of Stem Cells
+  - Physiotherapy
+  - Plant Breeding and Seed Science
+  - Polish Botanical Journal
+  - Polish Journal of Chemical Technology
+  - Polish Journal of Entomology
+  - Polish Journal of Food and Nutrition Sciences
+  - Polish Journal of Medical Physics and Engineering
+  - Polish Journal of Sport and Tourism
+  - Polish Journal of Surgery
+  - Polish Journal of Veterinary Sciences
+  - Polish Maritime Research
+  - Polish Polar Research
+  - Polish Psychological Bulletin
+  - Polyoxometalate Chemistry
+  - Poznán Studies in Contemporary Linguistics
+  - Poľnohospodárstvo
+  - Prace Naukowe Instytutu Technicznego Wojsk Lotniczych
+  - Praehistorische Zeitschrift
+  - Prague Bulletin of Mathematical Linguistics
+  - Prague Journal of English Studies
+  - Probus
+  - Proceedings in Radiochemistry
+  - Proceedings of the Latvia University of Agriculture
+  - 'Proceedings of the Latvian Academy of Sciences. Section B: Natural, Exact and
+    Applied Sciences'
+  - Protist Genomics
+  - Przedsiebiorczosc i Zarzadzanie
+  - Przeglad Filozoficzny - Nowa Seria
+  - Psychological Studies
+  - Psychology of Language and Communication
+  - Public Health Forum
+  - Pure and Applied Chemistry
+  - Quaestiones Geographicae
+  - Quantum Measurements and Quantum Metrology
+  - Quellen und Forschungen aus italienischen Archiven und Bibliotheken
+  - Radiochimica Acta
+  - Radiology and Oncology
+  - Random Operators and Stochastic Equations
+  - Real Estate Management And Valuation
+  - Recyclable Catalysis
+  - Regenerative Dentistry and Implant Therapy
+  - Region Direct
+  - Reports on Geodesy and Geoinformatics
+  - Research Papers Faculty of Materials Science and Technology Slovak University
+    of Technology
+  - Research Works of Air Force Institute of Technology
+  - Research in Language
+  - Restaurator
+  - Review of Economic Perspectives
+  - Review of Law and Economics
+  - Review of Marketing Science
+  - Review of Middle East Economics and Finance
+  - Review of Network Economics
+  - Reviews in Analytical Chemistry
+  - Reviews in Chemical Engineering
+  - Reviews in Inorganic Chemistry
+  - Reviews in the Neurosciences
+  - Reviews on Environmental Health
+  - Rhetorik
+  - Rhodes Cook Letter
+  - Ring
+  - Riparian Ecology and Conservation
+  - Rocznik Historii Prasy Polskiej
+  - Romanian Journal of Diabetes Nutrition and Metabolic Diseases
+  - Romanian Journal of English Studies
+  - Romanian Neurosurgery
+  - Romanian Review of Laboratory Medicine
+  - Romanische Bibliographie
+  - Ruch Literacki
+  - Russian Journal of Numerical Analysis and Mathematical Modelling
+  - SATS
+  - STUF
+  - Sample Preparation
+  - Sbornik Vedeckych Praci Vysoke Skoly Banske - Technicke Univerzity Ostrava. Rada
+    Stavebni
+  - Scandinavian Journal of Forensic Science
+  - Schedae Informaticae
+  - Schriftenreihe der Vierteljahrshefte für Zeitgeschichte
+  - Schweizerische Zeitschrift für Soziologie
+  - Scientia Agriculturae Bohemica
+  - Scientia Poetica
+  - Scientific Journal of Riga Technical University. Environmental and Climate Technologies
+  - Scientific Journal of Riga Technical University. Power and Electrical Engineering
+  - Scientific Proceedings Faculty of Mechanical Engineering
+  - Selected Scientific Papers - Journal of Civil Engineering
+  - Seminars in Cardiovascular Medicine
+  - Semiotica
+  - Serbian Journal of Dermatology and Venereology
+  - Serbian Journal of Experimental and Clinical Research
+  - Signum Temporis
+  - Singidunum Journal of Applied Sciences
+  - Slovak Journal of Civil Engineering
+  - Slovak Journal of Food Sciences
+  - Slovak Journal of Political Sciences
+  - Slovak Raptor Journal
+  - Slovak Speach
+  - Slovenian Journal of Public Health
+  - Smart Grid
+  - Smart and Stimuli Responsive Materials
+  - Social Change Review
+  - Sociolinguistica
+  - Soil Science Annual
+  - Sommerfeltia
+  - South East European Journal of Economics and Business
+  - Soziologische Revue
+  - Sport Science Review
+  - Statistical Applications in Genetics and Molecular Biology
+  - Statistical Communications in Infectious Diseases
+  - Statistics and Decisions
+  - Statistics and Risk Modeling
+  - Statistics, Politics and Policy
+  - Studia Anglica Posnaniensia
+  - Studia Commercialia Bratislavensia
+  - Studia Demograficzne
+  - Studia Geomorphologica Carpatho-Balcanica
+  - Studia Geotechnica et Mechanica
+  - Studia Historiae Oeconomicae
+  - Studia Quaternaria
+  - Studies for the Learning Society
+  - Studies in Ethics, Law, and Technology
+  - Studies in Logic, Grammar and Rhetoric
+  - Studies in Nonlinear Dynamics and Econometrics
+  - Studies of Changing Societies
+  - Supramolecular Catalysis
+  - Swiss Journal of Sociology
+  - Systems Pharmacology
+  - Südost-Forschungen
+  - Südostdeutsches Archiv
+  - Südosteuropa
+  - Technisches Messen
+  - Text Matters
+  - Text and Talk
+  - Theoretical Inquiries in Law
+  - Theoretical Linguistics
+  - Theoretical and Applied Informatics
+  - Theoretical and Practical Research in Economic Fields
+  - Timisoara Physical Education and Rehabilitation Journal
+  - Topological Quantum Matter
+  - Transactions of the VŠB - Technical University of Ostrava, Civil Engineering Series
+  - Transactions of the VŠB - Technical University of Ostrava, Safety Engineering
+    Series
+  - Transactions on Transport Sciences
+  - Transport and Telecommunication Journal
+  - Transylvanian Review of Systematical and Ecological Research
+  - Travaux du Muséum National d'Histoire Naturelle 'Grigore Antipa'
+  - Trends in Classics
+  - Tumor Microenvironment and Therapy
+  - Vegetable Crops Research Bulletin
+  - Vestnik Zoologii
+  - Visegrad Journal on Bioeconomy and Sustainable Development
+  - Water Treatment Technology
+  - Wittgenstein-Studien
+  - World Political Science Review
+  - Wroclaw Review of Law, Administration and Economics
+  - 'X-Acoustics: Imaging and Sensing'
+  - YBL Journal of Built Environment
+  - Yearbook of Conrad Studies
+  - Yearbook of History of Polish Press
+  - Yearbook of Phraseology
+  - Zeitschrift fur Naturforschung A
+  - Zeitschrift für Angewandte Linguistik
+  - Zeitschrift für Antikes Christentum
+  - Zeitschrift für Assyriologie und vorderasiatische Archäologie
+  - Zeitschrift für Germanistische Linguistik
+  - Zeitschrift für Kristallographie
+  - Zeitschrift für Kristallographie - New Crystal Structures
+  - Zeitschrift für Kristallographie Proceedings
+  - Zeitschrift für Kristallographie Supplements
+  - Zeitschrift für Medienwissenschaft
+  - Zeitschrift für Neuere Theologiegeschichte
+  - Zeitschrift für Orient-Archäologie
+  - Zeitschrift für Physikalische Chemie
+  - Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft
+  - Zeitschrift für Slawistik
+  - Zeitschrift für Soziologie
+  - Zeitschrift für Sprachwissenschaft
+  - Zeitschrift für Staats- und Europawissenschaften
+  - Zeitschrift für Unternehmens- und Gesellschaftsrecht
+  - Zeitschrift für celtische Philologie
+  - Zeitschrift für die Alttestamentliche Wissenschaft
+  - Zeitschrift für die Neutestamentliche Wissenschaft und Kunde der Älteren Kirche
+  - Zeitschrift für die gesamte Strafrechtswissenschaft
+  - Zeitschrift für romanische Philologie
+  - Zeitschrift für Ägyptische Sprache und Altertumskunde
+  - Zoologica Poloniae
+  - Zurich Studies in the History of Art
+  - arcadia - International Journal for Literary Studies
+  - e-Theologos
+  - e-polymers
+  - i-com
+  - microRNA Diagnostics and Therapeutics
+  - microRNAs in Cardiovascular Research
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies:
+  - romeo_1851
+  - romeo_3229
+  - romeo_926
+  - romeo_927
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - https://www.degruyter.com/dg/page/repository-policy
+  - http://www.degruyter.com/dg/page/308/copyright-agreement
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Pre-print and abstract on author's personal website only
+  - Author's post-print on funder's repository or funder's designated repository at
+    the funding agency's request or as a result of legal obligation.
+  - Publisher's version/PDF may be used, on author's personal website, editor's personal
+    website or institutional repository
+  - Authors cannot deposit in subject repositories
+  - Published source must be acknowledged
+  - Must link to publisher version and article's DOI must be given
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

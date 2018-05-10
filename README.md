@@ -36,6 +36,29 @@ Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11
 
 ![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
 
+## Local usage
+
+Most users will not need to run the code in this repository locally.
+However, if you'd like to modify the code or test a change locally, follow these instructions.
+
+This repository uses [conda](http://conda.pydata.org/docs/) to manage its environment as specified in [`environment.yml`](environment.yml).
+Install the environment with:
+
+```sh
+conda env create --file=environment.yml
+```
+
+Then use `conda activate policies-database` and `conda deactivate` to activate or deactivate the environment.
+
+With the environment activated, you can validate YAML policy files with the following commands:
+
+```sh
+# Validate a test YAML policies
+pykwalify \
+  --data-file policies/test-policies/test-policy-id-only.yml \
+  --schema-file policies/schema.yml
+```
+
 ## License
 
 All original work in this repository is dedicated to the public domain under the CC0 license.

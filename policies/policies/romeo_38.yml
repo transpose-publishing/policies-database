@@ -1,0 +1,306 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_38
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Institute of Electrical and Electronics Engineers (IEEE)
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: '[Default policy]'
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Canadian Journal of Electrical and Computer Engineering
+  - Communications Surveys and Tutorials, IEEE Communications Society
+  - Computer
+  - Computing in Science and Engineering
+  - EEE Transactions on Manufacturing Technology
+  - Engineering Science and Education Journal
+  - IEEE Access
+  - IEEE Aerospace and Electronic Systems Magazine
+  - IEEE Annals of the History of Computing
+  - IEEE Antennas and Propagation Magazine
+  - IEEE Antennas and Wireless Propagation Letters
+  - IEEE Communications Letters
+  - IEEE Communications Magazine
+  - IEEE Communications Surveys and Tutorials
+  - IEEE Computational Intelligence Magazine
+  - IEEE Computer Architecture Letters
+  - IEEE Computer Graphics and Applications
+  - IEEE Consumer Electronics Magazine
+  - IEEE Control Systems Magazine
+  - IEEE Design and Test of Computers
+  - IEEE Electrical Insulation Magazine
+  - IEEE Electron Device Letters
+  - IEEE Embedded Systems Letters
+  - IEEE Engineering Management Review
+  - IEEE Geoscience and Remote Sensing Letters
+  - IEEE Industrial Electronics Magazine
+  - IEEE Industry Applications Magazine
+  - IEEE Instrumentation and Measurement Magazine
+  - IEEE Intelligent Systems
+  - IEEE Intelligent Transportation Systems Magazine
+  - IEEE International Ultrasonics Symposium
+  - IEEE Internet Computing
+  - IEEE Internet of Things
+  - IEEE Journal of Emerging and Selected Topics in Circuits and Systems
+  - IEEE Journal of Oceanic Engineering
+  - IEEE Journal of Photovoltaics
+  - IEEE Journal of Quantum Electronics
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  - IEEE Journal of Selected Topics in Quantum Electronics
+  - IEEE Journal of Selected Topics in Signal Processing
+  - IEEE Journal of Solid-State Circuits
+  - IEEE Journal of Translational Engineering in Health and Medicine
+  - IEEE Journal of the Electron Devices Society
+  - IEEE Journal on Selected Areas in Communications
+  - IEEE Latin America Transactions
+  - IEEE Life Sciences Letters
+  - IEEE Micro
+  - IEEE Microwave Magazine
+  - IEEE Microwave and Wireless Components Letters
+  - IEEE MultiMedia
+  - IEEE Nanotechnology Magazine
+  - IEEE Network
+  - IEEE Pervasive Computing
+  - IEEE Photonics Journal
+  - IEEE Photonics Technology Letters
+  - IEEE Potentials
+  - IEEE Power Electronics Letters
+  - IEEE Pulse
+  - IEEE Reviews in Biomedical Engineering
+  - IEEE Robotics and Automation Magazine
+  - IEEE Security and Privacy Magazine
+  - IEEE Sensors Journal
+  - IEEE Signal Processing Letters
+  - IEEE Software
+  - IEEE Spectrum
+  - IEEE Systems Journal
+  - IEEE Transactions on Advanced Packaging
+  - IEEE Transactions on Aerospace and Electronic Systems
+  - IEEE Transactions on Affective Computing
+  - IEEE Transactions on Antennas and Propagation
+  - IEEE Transactions on Applied Superconductivity
+  - IEEE Transactions on Audio, Speech and Language Processing
+  - IEEE Transactions on Automatic Control
+  - IEEE Transactions on Automation Science and Engineering
+  - IEEE Transactions on Autonomous Mental Development
+  - IEEE Transactions on Biomedical Circuits and Systems
+  - IEEE Transactions on Biomedical Engineering
+  - IEEE Transactions on Broadcasting
+  - 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+  - 'IEEE Transactions on Circuits and Systems II: Express Briefs'
+  - IEEE Transactions on Circuits and Systems for Video Technology
+  - IEEE Transactions on Cloud Computing
+  - IEEE Transactions on Cognitive and Developmental Systems
+  - IEEE Transactions on Communications
+  - IEEE Transactions on Components and Packaging Technologies
+  - IEEE Transactions on Components, Packaging, and Manufacturing Technology
+  - IEEE Transactions on Computational Intelligence and AI in Games
+  - IEEE Transactions on Computational Social Systems
+  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  - IEEE Transactions on Computers
+  - IEEE Transactions on Consumer Electronics
+  - IEEE Transactions on Control Systems Technology
+  - IEEE Transactions on Dependable and Secure Computing
+  - IEEE Transactions on Device and Materials Reliability
+  - IEEE Transactions on Dielectrics and Electrical Insulation
+  - IEEE Transactions on Education
+  - IEEE Transactions on Electromagnetic Compatibility
+  - IEEE Transactions on Electron Devices
+  - IEEE Transactions on Electronics Packaging Manufacturing
+  - IEEE Transactions on Emerging Topics in Computing
+  - IEEE Transactions on Energy Conversion
+  - IEEE Transactions on Engineering Management
+  - IEEE Transactions on Evolutionary Computation
+  - IEEE Transactions on Fuzzy Systems
+  - IEEE Transactions on Geoscience and Remote Sensing
+  - IEEE Transactions on Haptics
+  - IEEE Transactions on Human-Machine Systems
+  - IEEE Transactions on Image Processing
+  - IEEE Transactions on Industrial Electronics
+  - IEEE Transactions on Industrial Informatics
+  - IEEE Transactions on Industry Applications
+  - IEEE Transactions on Information Forensics and Security
+  - IEEE Transactions on Information Technology in Biomedicine
+  - IEEE Transactions on Information Theory
+  - IEEE Transactions on Instrumentation and Measurement
+  - IEEE Transactions on Intelligent Transportation Systems
+  - IEEE Transactions on Knowledge and Data Engineering
+  - IEEE Transactions on Learning Technologies
+  - IEEE Transactions on Magnetics
+  - IEEE Transactions on Medical Imaging
+  - IEEE Transactions on Microwave Theory and Techniques
+  - IEEE Transactions on Mobile Computing
+  - IEEE Transactions on Multimedia
+  - IEEE Transactions on NanoBioscience
+  - IEEE Transactions on Nanotechnology
+  - IEEE Transactions on Network and Service Management
+  - IEEE Transactions on Neural Networks
+  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+  - IEEE Transactions on Nuclear Science
+  - IEEE Transactions on Parallel and Distributed Systems
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - IEEE Transactions on Plasma Science
+  - IEEE Transactions on Power Delivery
+  - IEEE Transactions on Power Electronics
+  - IEEE Transactions on Power Systems
+  - IEEE Transactions on Professional Communication
+  - IEEE Transactions on Reliability
+  - IEEE Transactions on Robotics
+  - IEEE Transactions on Semiconductor Manufacturing
+  - IEEE Transactions on Services Computing
+  - IEEE Transactions on Signal Processing
+  - IEEE Transactions on Smart Grid
+  - IEEE Transactions on Software Engineering
+  - IEEE Transactions on Sustainable Energy
+  - 'IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems and Humans'
+  - 'IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics'
+  - 'IEEE Transactions on Systems, Man, and Cybernetics, Part C: Applications and
+    Reviews'
+  - IEEE Transactions on Terahertz Science & Technology
+  - IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control
+  - IEEE Transactions on Vehicular Technology
+  - IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  - IEEE Transactions on Visualization and Computer Graphics
+  - IEEE Transactions on Wireless Communications
+  - IEEE Wireless Communications Letters
+  - IEEE/ACM Transactions on Audio, Speech and Language Processing
+  - IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  - IEEE/ASME Transactions on Mechatronics
+  - IEEE/OSA Journal of Optical Communications and Networking
+  - IT Professional
+  - Journal of Display Technology
+  - Journal of Lightwave Technology
+  - Journal of Microelectromechanical Systems
+  - Journal of Optical Communications and Networking
+  - Proceedings of IEEE Sensors
+  - Proceedings of International Joint Conference on Neural Networks
+  - Proceedings of the IEEE
+  - Tsinghua Science and Technology
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies: []
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies:
+  - romeo_1533
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.ieee.org/publications_standards/publications/rights/rights_policies.html
+  - http://www.ieee.org/documents/ieeecopyrightform.pdf
+  - http://www.ieee.org/publications_standards/publications/rights/copyrightpolicy.html
+  - https://www.ieee.org/publications_standards/publications/rights/paperversionpolicy.html
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Author's pre-print on any website or pre-print server
+  - Author's post-print on author's personal website or employer's website or IEEE
+    approved not-for-profit third party (8.1.9.G.2 ) website
+  - Author's pre-print must be replaced by the accepted version, if on the author's
+    personal website, employer's websites, arXiv, IEEE-approved third-party, not-for
+    profit server, funder repository
+  - Author's pre-print must removed on third-party servers
+  - Author's pre-print must be accompanied with set phrase (see policy) before acceptance
+  - Author's pre-print must be accompanied with set phrase (see policy) when accepted
+    for publication
+  - If funding agency rules apply, authors may post author's post-print version on
+    funder's designated repository or institutional repository, in compliance with
+    their funding agency rules. A maximum embargo of 24 months may be required
+  - IEEE recognizes that posting requirements and embargo periods vary by funder,
+    and IEEE authors may comply with requirements to deposit their accepted manuscripts
+    in funding agency repositories where the embargo is less than 24 months.
+  - Publisher copyright and source must be acknowledged with citation (see policy)
+  - Must link to publisher version with DOI
+  - Publisher's version/PDF cannot be used
+  - Author's post-print on scholarly collaboration networks that have signed STM Sharing
+    Principles
+  - Publisher retains copyright
+  - Publisher last contacted on 24/01/2018
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

@@ -1,0 +1,460 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_2052
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Wiley
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: 24 months
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - Abacus
+  - Accounting and Finance
+  - Acta Archaeologica
+  - African Development Review
+  - Agribusiness
+  - American Journal of Community Psychology
+  - American Journal of Political Science
+  - Analytic Philosophy
+  - Antipode
+  - Arabian Archaeology and Epigraphy
+  - Archaeometry
+  - Area
+  - Asia Pacific Viewpoint
+  - Asia-Pacific Journal of Financial Studies
+  - Asian Economic Journal
+  - Asian Economic Policy Review
+  - Asian Politics and Policy
+  - Asian Social Work and Policy Review
+  - Asian-Pacific Economic Literature
+  - Australian Accounting Review
+  - Australian Economic History Review
+  - Australian Economic Papers
+  - Australian Economic Review
+  - Australian Journal of Agricultural and Resource Economics
+  - Australian Journal of Public Administration
+  - Australian and New Zealand Journal of Family Therapy
+  - Bioethics
+  - British Educational Research Journal
+  - British Journal of Educational Technology
+  - British Journal of Learning Disabilities
+  - British Journal of Management
+  - British Journal of Special Education
+  - Bulletin of Economic Research
+  - Bulletin of Latin American Research
+  - Bulletin of the Institute of Classical Studies
+  - 'Business Ethics: A European Review'
+  - Business Strategy Review
+  - Business Strategy and the Environment
+  - Canadian Geographer
+  - Canadian Journal of Agricultural Economics
+  - Canadian Journal of Economics
+  - Canadian Review of Sociology
+  - Centaurus
+  - Child Abuse Review
+  - Child and Family Social Work
+  - 'Child: Care, Health and Development'
+  - Children & Society
+  - China and World Economy
+  - Communication Theory
+  - Constellations
+  - Corporate Governance
+  - Corporate Social Responsibility and Environmental Management
+  - Counselling and Psychotherapy Research
+  - Creativity and Innovation Management
+  - Criminology
+  - Criminology and Public Policy
+  - Critical Quarterly
+  - CrossCurrents
+  - Decision Sciences
+  - Decision Sciences Journal of Innovative Education
+  - Design Management Journal
+  - Design Management Review
+  - Developing Economies
+  - Developing World Bioethics
+  - Development Policy Review
+  - Development and Change
+  - Dialog
+  - Digest of Middle East Studies
+  - Disasters
+  - Dyslexia
+  - Early Medieval Europe
+  - Econometrics Journal
+  - Economic Affairs
+  - Economic History Review
+  - Economic Journal
+  - Economic Notes
+  - Economic Papers
+  - Economic Record
+  - Economics and Politics
+  - Economics of Transition
+  - Ecumenical Review
+  - English in Education
+  - Environmental Policy and Governance
+  - EuroChoices
+  - European Financial Management
+  - European Journal of Education
+  - European Journal of Personality
+  - European Journal of Philosophy
+  - European Journal of Political Research
+  - European Journal of Political Research Political Data Yearbook
+  - European Law Journal
+  - European Management Review
+  - Family Court Review
+  - Family Process
+  - Family and Consumer Sciences Research Journal
+  - Financial Accountability and Management
+  - Financial Markets, Institutions and Instruments
+  - Fiscal Studies
+  - Focus on Geography
+  - Foreign Language Annals
+  - Gender and History
+  - Gender, Work and Organization
+  - Geographical Journal
+  - Geographical Research
+  - Geographical Review
+  - Geography Compass
+  - German Economic Review
+  - German Life and Letters
+  - German Quarterly
+  - Global Networks
+  - Global Policy
+  - Global Strategy Journal
+  - Governance
+  - Growth and Change
+  - Géographe canadien
+  - Hastings Center Report
+  - Health Information and Libraries Journal
+  - Heythrop Journal
+  - Higher Education Quarterly
+  - Historian
+  - Historical Research
+  - History
+  - History Compass
+  - History of Education Quarterly
+  - Howard Journal of Criminal Justice
+  - Human Resource Management
+  - Human Resource Management Journal
+  - Hypatia
+  - Industrial Relations Journal
+  - Infancy
+  - Intelligent Systems in Accounting, Finance and Management
+  - International Economic Review
+  - International Finance
+  - International Insolvency Review
+  - International Journal of Applied Linguistics
+  - International Journal of Art and Design Education
+  - International Journal of Auditing
+  - International Journal of Consumer Studies
+  - International Journal of Finance and Economics
+  - International Journal of Japanese Sociology
+  - International Journal of Management Reviews
+  - International Journal of Nautical Archaeology
+  - International Journal of Nonprofit and Voluntary Sector Marketing
+  - International Journal of Selection and Assessment
+  - International Journal of Social Welfare
+  - International Journal of Systematic Theology
+  - International Journal of Tourism Research
+  - International Journal of Training and Development
+  - International Migration Review
+  - International Review of Finance
+  - International Review of Mission
+  - International Social Security Review
+  - International Transactions in Operational Research
+  - Journal for Eighteenth-Century Studies
+  - Journal for the Scientific Study of Religion
+  - Journal of Adolescent and Adult Literacy
+  - Journal of Aesthetics and Art Criticism
+  - Journal of Agrarian Change
+  - Journal of Agricultural Economics
+  - Journal of American Culture
+  - Journal of Applied Econometrics
+  - Journal of Applied Philosophy
+  - Journal of Applied Research in Intellectual Disabilities
+  - Journal of Behavioral Decision Making
+  - Journal of Business Finance and Accounting
+  - Journal of Business Logistics
+  - Journal of Common Market Studies
+  - Journal of Computer Assisted Learning
+  - Journal of Consumer Behaviour
+  - Journal of Contingencies and Crisis Management
+  - Journal of Economic Surveys
+  - Journal of Economics and Management Strategy
+  - Journal of Family Theory and Review
+  - Journal of Financial Research
+  - Journal of Forecasting
+  - Journal of Futures Markets
+  - Journal of Historical Sociology
+  - Journal of Industrial Economics
+  - Journal of Intellectual Disability Research
+  - Journal of International Development
+  - Journal of International Financial Management and Accounting
+  - Journal of Management Studies
+  - Journal of Marital and Family Therapy
+  - Journal of Money, Credit and Banking
+  - Journal of Multi-Criteria Decision Analysis
+  - Journal of Organizational Behavior
+  - Journal of Personality
+  - Journal of Philosophy of Education
+  - Journal of Policy Analysis and Management
+  - Journal of Policy and Practice in Intellectual Disabilities
+  - Journal of Political Philosophy
+  - Journal of Popular Culture
+  - Journal of Popular Music Studies
+  - Journal of Product Innovation Management
+  - Journal of Public Affairs
+  - Journal of Public Economic Theory
+  - Journal of Regional Science
+  - Journal of Religious Ethics
+  - Journal of Religious History
+  - Journal of Research in Reading
+  - Journal of Research in Special Educational Needs
+  - Journal of Small Business Management
+  - Journal of Social Philosophy
+  - Journal of Sociolinguistics
+  - Journal of World Intellectual Property
+  - Journal of the History of the Behavioral Sciences
+  - Juncture
+  - Juvenile and Family Court Journal
+  - Knowledge and Process Management
+  - Kyklos
+  - LABOUR
+  - Language Learning
+  - Language and Linguistics Compass
+  - Latin American Policy
+  - Latin American Politics and Society
+  - Latin Americanist
+  - Law and Social Inquiry
+  - Law and Society Review
+  - Learned Publishing
+  - Learning Disabilities Research and Practice
+  - Legislative Studies Quarterly
+  - Literacy
+  - Literature Compass
+  - Managerial and Decision Economics
+  - Manchester School
+  - Mathematical Finance
+  - Metaphilosophy
+  - Metroeconomica
+  - Midwest Studies in Philosophy
+  - Milton Quarterly
+  - Mind and Language
+  - Modern Language Journal
+  - Modern Theology
+  - Music Analysis
+  - Muslim World
+  - Nations and Nationalism
+  - Natural Resources Forum
+  - Negotiation Journal
+  - New Blackfriars
+  - New Technology, Work and Employment
+  - New Zealand Geographer
+  - Noûs
+  - OPEC Energy Review
+  - Orbis Litterarum
+  - Oxford Bulletin of Economics and Statistics
+  - Oxford Journal of Archaeology
+  - Pacific Economic Review
+  - Pacific Focus
+  - Pacific Philosophical Quarterly
+  - Parliamentary History
+  - Peace and Change
+  - Personnel Psychology
+  - Philosophical Forum
+  - Philosophical Investigations
+  - Philosophical Issues
+  - Philosophical Perspectives
+  - Philosophical Quarterly
+  - Philosophy Compass
+  - Philosophy and Phenomenological Research
+  - Philosophy and Public Affairs
+  - Policy Studies Journal
+  - Policy and Internet
+  - Political Science Quarterly
+  - Politics and Policy
+  - Population and Development Review
+  - Population, Space and Place
+  - Poverty and Public Policy
+  - Presidential Studies Quarterly
+  - Production and Operations Management
+  - Psychology and Marketing
+  - Public Administration
+  - Public Administration Review
+  - Public Administration and Development
+  - R&D Management
+  - RAND Journal of Economics
+  - Ratio
+  - Ratio Juris
+  - Regional Science Policy and Practice
+  - Regulation and Governance
+  - Religion Compass
+  - Religious Studies Review
+  - Renaissance Studies
+  - Review of Development Economics
+  - Review of Education
+  - Review of European Community and International Environmental Law
+  - Review of European, Comparative & International Environmental Law
+  - Review of Income and Wealth
+  - Review of International Economics
+  - Review of Policy Research
+  - Review of Urban and Regional Development Studies
+  - Reviews in Religion and Theology
+  - Revue Canadienne d'Économique
+  - Revue canadienne d'agroeconomie
+  - Revue canadienne de sociologie
+  - Risk Analysis
+  - Risk, Hazards and Crisis in Public Policy
+  - Rural Sociology
+  - Scandinavian Journal of Economics
+  - Scandinavian Political Studies
+  - School Science and Mathematics
+  - Scottish Journal of Political Economy
+  - Singapore Journal of Tropical Geography
+  - Social Anthropology
+  - Social Policy and Administration
+  - Social Science Quarterly
+  - Sociologia Ruralis
+  - Sociological Forum
+  - Sociological Inquiry
+  - Sociological Quarterly
+  - Sociology Compass
+  - South African Journal of Economics
+  - Southern Journal of Philosophy
+  - Statistica Neerlandica
+  - Strategic Entrepreneurship Journal
+  - Strategic Management Journal
+  - Studia Linguistica
+  - Suicide and Life-Threatening Behavior
+  - Support for Learning
+  - Sustainable Development
+  - Swiss Political Science Review
+  - Symbolic Interaction
+  - Syntax
+  - System Dynamics Review
+  - Systems Research and Behavioral Science
+  - Teaching Theology and Religion
+  - 'Thought: A Journal of Philosophy'
+  - Tijdschrift voor economische en sociale geografie
+  - Transactions in GIS
+  - Transactions of the Institute of British Geographers
+  - WorkingUSA
+  - World Economy
+  - World Englishes
+  - World Medical and Health Policy
+  - Zygon
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies:
+  - romeo_580
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://olabout.wiley.com/WileyCDA/Section/id-828039.html
+  - http://olabout.wiley.com/WileyCDA/Section/id-828038.html
+  - https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-open-access/open-access/funder-agreements.html
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Some journals have separate policies, please check with each journal directly
+  - On author's personal website, institutional repositories, arXiv, AgEcon, PhilPapers,
+    PubMed Central, RePEc or Social Science Research Network
+  - Author's pre-print may not be updated with Publisher's Version/PDF
+  - Author's pre-print must acknowledge acceptance for publication
+  - Non-Commercial
+  - Publisher's version/PDF cannot be used
+  - Publisher source must be acknowledged with citation
+  - Must link to publisher version with set statement (see policy)
+  - If OnlineOpen is available, AHRC and ESRC authors, may self-archive after 24 months
+  - Publisher last contacted on 07/08/2014
+  - This policy is an exception to the default policies of ''
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:

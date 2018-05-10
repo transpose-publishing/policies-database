@@ -1,0 +1,302 @@
+# Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
+policy-id: romeo_2823
+
+# publisher name from SHERAP/RoMEO. Do not edit
+publisher: Elsevier
+
+# policy heading from SHERAP/RoMEO. Do not edit
+policy-heading: 12 months
+
+# A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+journals:
+  - AORN Journal
+  - Academic Pediatrics
+  - Academic Radiology
+  - Acta Haematologica Polonica
+  - Acta Histochemica
+  - Acta Tropica
+  - Advanced Drug Delivery Reviews
+  - Advances in Anesthesia
+  - Advances in Biological Regulation
+  - Advances in Medical Sciences
+  - Advances in Pediatrics
+  - Advances in Surgery
+  - Air Medical Journal
+  - American Heart Journal
+  - American Journal of Infection Control
+  - American Journal of Kidney Diseases
+  - American Journal of Obstetrics and Gynecology
+  - Anaesthesia, Critical Care and Pain Medicine
+  - Annales de l'Institut Henri Poincaré (C) Non Linear Analysis
+  - Annals of Allergy, Asthma and Immunology
+  - Annals of Anatomy
+  - Annals of Emergency Medicine
+  - Apollo Medicine
+  - Applied Animal Behaviour Science
+  - Arab Journal of Gastroenterology
+  - Archives de Pédiatrie
+  - Archives of Biochemistry and Biophysics
+  - Archives of Cardiovascular Diseases Supplements
+  - Archives of Civil and Mechanical Engineering
+  - Archives of Gerontology and Geriatrics
+  - Archives of Medical Research
+  - Archives of Oral Biology
+  - Archives of Physical Medicine and Rehabilitation
+  - Artery Research
+  - Arthropod Structure and Development
+  - Arthroscopy Techniques
+  - Artificial Intelligence in Medicine
+  - Asian Journal of Psychiatry
+  - Asian Nursing Research
+  - Asian Pacific Journal of Tropical Biomedicine
+  - Asian Pacific Journal of Tropical Disease
+  - Asian Pacific Journal of Tropical Medicine
+  - Atherosclerosis
+  - Autoimmunity Reviews
+  - 'Autonomic Neuroscience: Basic and Clinical'
+  - 'Best Practice and Research: Clinical Anaesthesiology'
+  - 'Best Practice and Research: Clinical Endocrinology and Metabolism'
+  - 'Best Practice and Research: Clinical Gastroenterology'
+  - 'Best Practice and Research: Clinical Haematology'
+  - 'Best Practice and Research: Clinical Obstetrics and Gynaecology'
+  - 'Best Practice and Research: Clinical Rheumatology'
+  - Biocatalysis and Agricultural Biotechnology
+  - Biochemical Pharmacology
+  - Biochemical and Biophysical Research Communications
+  - Biochimica et Biophysica Acta Molecular and Cell Biology of Lipids
+  - Biochimie
+  - Biological Control
+  - Biological Psychiatry
+  - 'Biological Psychiatry: Cognitive Neuroscience and Neuroimaging'
+  - Biological Psychology
+  - Biologicals
+  - Biomedical and Environmental Sciences
+  - Brain Research
+  - Brain Research Bulletin
+  - Brain Stimulation
+  - Brain and Cognition
+  - Brain and Development
+  - Brain and Language
+  - Brain, Behavior, and Immunity
+  - Canadian Association of Radiologists Journal
+  - Canadian Journal of Cardiology
+  - Cancer Epidemiology
+  - Cancer Genetics
+  - Cancer Letters
+  - Cell Calcium
+  - Cellular Immunology
+  - Cellular Signalling
+  - Clinical Biochemistry
+  - Clinical Biomechanics
+  - Clinical Breast Cancer
+  - Clinical Colorectal Cancer
+  - Clinical Genitourinary Cancer
+  - Clinical Imaging
+  - Clinical Immunology
+  - Clinical Lung Cancer
+  - Clinical Lymphoma, Myeloma and Leukemia
+  - Clinical Microbiology Newsletter
+  - Clinical Microbiology and Infection
+  - Clinical Neurology and Neurosurgery
+  - Clinical Neurophysiology
+  - Clinical Nutrition
+  - Clinical Nutrition Supplements
+  - Clinical Ovarian Cancer
+  - Clinical Plasma Medicine
+  - 'Clinical Queries: Nephrology'
+  - Clinical Radiology
+  - Clinical Simulation in Nursing
+  - Clinical Therapeutics
+  - Clinics in Dermatology
+  - 'Comparative Biochemistry and Physiology - Part A: Molecular and Integrative Physiology'
+  - 'Comparative Biochemistry and Physiology - Part B: Biochemistry and Molecular
+    Biology'
+  - 'Comparative Biochemistry and Physiology - Part C: Toxicology and Pharmacology'
+  - 'Comparative Biochemistry and Physiology - Part D: Genomics and Proteomics'
+  - Current Opinion in Behavioral Sciences
+  - Current Opinion in Biotechnology
+  - Current Opinion in Cell Biology
+  - Current Opinion in Genetics and Development
+  - Current Opinion in Immunology
+  - Current Opinion in Insect Science
+  - Current Opinion in Microbiology
+  - Current Opinion in Neurobiology
+  - Current Opinion in Pharmacology
+  - Current Opinion in Psychology
+  - Current Opinion in Structural Biology
+  - Current Opinion in Virology
+  - Current Problems in Cancer
+  - Current Problems in Cardiology
+  - Current Problems in Diagnostic Radiology
+  - Current Problems in Pediatric and Adolescent Health Care
+  - Current Problems in Surgery
+  - Drug Discovery Today
+  - 'Drug Discovery Today: Disease Models'
+  - 'Drug Discovery Today: Technologies'
+  - Drug Metabolism and Pharmacokinetics
+  - Food Microbiology
+  - Gait and Posture
+  - 'Journal of Allergy and Clinical Immunology: In Practice'
+  - Journal of Biomechanics
+  - Journal of Controlled Release
+  - Journal of Drug Delivery Science and Technology
+  - Journal of Infection and Chemotherapy
+  - Journal of Optometry
+  - Journal of Orthopaedics
+  - Journal of Pain and Symptom Management
+  - Journal of Pediatrics
+  - Journal of Thoracic Oncology
+  - Journal of the National Medical Association
+  - Medical Engineering and Physics
+  - Midwifery
+  - Neuromuscular Disorders
+  - Nursing for Women's Health
+  - Operative Techniques in Thoracic and Cardiovascular Surgery
+  - 'Ophthalmology: Journal of The American Academy of Ophthalmology'
+  - Patient Education and Counseling
+  - Pediatric Neurology
+  - Progress in Aerospace Sciences
+  - Progress in Biophysics and Molecular Biology
+  - Progress in Histochemistry and Cytochemistry
+  - Progress in Lipid Research
+  - Progress in Neuro-Psychopharmacology and Biological Psychiatry
+  - Progress in Pediatric Cardiology
+  - Public Health
+  - Radiography
+  - Research in Social and Administrative Pharmacy
+  - Resuscitation
+  - Science Bulletin
+  - Seminars in Arthritis and Rheumatism
+  - Seminars in Cancer Biology
+  - Seminars in Cell and Developmental Biology
+  - Seminars in Hematology
+  - Seminars in Immunology
+  - Seminars in Nuclear Medicine
+  - Seminars in Ultrasound, CT and MRI
+  - Sleep Health
+  - Structures
+  - Trends in Anaesthesia and Critical Care
+  - Trends in Cardiovascular Medicine
+  - Trends in Food Science and Technology
+  - Trends in Neuroscience and Education
+  - TÉKHNE
+  - Vaccine
+  - Veterinary Journal
+
+# A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+parent-policies:
+  - romeo_30
+
+# A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+child-policies: []
+
+# Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+flag-romeo:
+
+# Peer review policy url (valid url)
+peer-review-url:
+
+# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+open-reports:
+
+# Are reviewer identities revealed to the author? (mandatory/optional/no)
+identities-revealed:
+
+# Are reviewer identities published? (mandatory/optional/no)
+identities-published:
+
+# Co-reviewer policy url (valid url)
+co-review-url:
+
+# Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
+co-review-policy:
+
+# Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
+co-review-invited:
+
+# Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
+co-review-field:
+
+# Policy on transfer of peer reviews (free text)
+transfer-policy:
+
+# What are the titles of the sections of the review form? (free text)
+review-structure:
+
+# Are there separate fields for technical & impact evaluation? (yes/no)
+separate-structure:
+
+# Peer review credit policy url (valid url)
+credit-url:
+
+# Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
+orcid-peer-review:
+
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+prearchiving: can
+
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+prerestrictions: []
+
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+copyright-urls:
+  - http://www.elsevier.com/connect/elsevier-updates-its-policies-perspectives-and-services-on-article-sharing
+  - http://www.elsevier.com/about/company-information/policies/sharing
+  - https://www.elsevier.com/about/our-business/policies/sharing/policy-faq
+  - http://www.elsevier.com/about/open-access/green-open-access
+  - https://www.elsevier.com/__data/assets/pdf_file/0005/78476/external-embargo-list.pdf
+  - https://www.elsevier.com/__data/assets/pdf_file/0011/78473/EmbargoPeriods_Dec2017.pdf
+  - https://www.elsevier.com/about/open-science/open-access/agreements
+
+# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+conditions:
+  - Authors pre-print on any website, including arXiv and RePEC
+  - Author's post-print on author's personal website immediately
+  - Author's post-print on open access repository after an embargo period of  12 months
+  - Permitted deposit due to Funding Body, Institutional and Governmental policy or
+    mandate, may be required to comply with embargo period of 12 months
+  - Author's post-print may be used to update arXiv and RepEC
+  - Publisher's version/PDF cannot be used
+  - Must link to publisher version with DOI
+  - Author's post-print must be released with a Creative Commons Attribution Non-Commercial
+    No Derivatives License
+  - This policy is an exception to the default policies of ''
+
+# Preprint policy url (valid url)
+preprint-url:
+
+# Version of the preprint that can be posted to a server (before review only/any/other/none)
+preprint-version:
+
+# Time when a preprint can be posted (before acceptance only, anytime, other)
+preprint-time:
+
+# Can preprints be cited in the reference list? (yes/no)
+preprint-citation:
+
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers:
+
+# What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+preprint-media:
+
+# url for preprint-media
+preprint-media-url:
+
+# Policies on preprint licensing (free text)
+preprint-licensing:
+
+# url for preprint-licensing
+preprint-licensing-url:
+
+# Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
+scoop-protection:
+
+# url for scoop-protection
+scoop-protection-url:
+
+# Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
+community-reviews:
+
+# url for community-reviews
+community-reviews-url:
