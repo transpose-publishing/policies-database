@@ -24,27 +24,40 @@ Specifically, we'd like to begin filling in information relevant to some of the 
 
 ## How to change policy records
 
-You can change policy entries in just a few minutes in your browser!
+You can change policy entries in just a few minutes in your browser! 
 
-1. **Fork the repo.** Press the "Fork" button at the top right of the screen to fork this repository to your own account. (You only need to do this once)
-2. **Identify a policy you want to edit.** In [transpose-publishing/policies-database](https://github.com/transpose-publishing/policies-database), search for your journal name of choice in the search bar at the top of the screen. If the journal appears in a policy record, you will see a file like "/policies/romeo_4.yml" show up in the search results. Copy this file path.
-3. **Find the policy in your own fork.** In your own fork of the repository, press "find file" (next to the green "Clone or Download" button). Now paste the file path from the previous step here.
-4. **Edit the record.** Once you're looking at a policy record, click the pencil icon to edit it. Fill in as much information as you would like by referencing the journal website. Please also add references for the information you're adding in the corresponding url fields. Many journals won't have explicit policies on the web, so don't worry about filling out everything! Tips for editing: If you're pasting long text in, keep everything on the same line. Leave one space betwen the colon in the data field and your response, like so:
+### Step 1: Locating the journal policy
+Using the search bar at the top of the screen, type in your journal name of choice, ideally enclosed in the quotes. If the journal is in the database, you will see a link to a file such as "policies/policies/romeo_201.yml. Click it to look at the policy record.
+
+![tutorial1](https://github.com/transpose-publishing/policies-database/blob/master/media/tutorial1anno.PNG)
+
+### Step 2: Initiating the edit
+Using the drop-down menu at left, make sure you're looking at the master branch. Next, click the pencil icon at right.
+
+![tutorial2](https://github.com/transpose-publishing/policies-database/blob/master/media/tutorial2anno.PNG)
+
+### Step 3: Editing the file
+Now add information about the relevant policy, using the journal or publisher website as your reference! Please:
+- Leave one space between a property and the value you enter there, eg
 ```yaml
 open-reports: yes
 ```
+- For every policy you enter, please add a reference url to the corresponding field
+- Please enter only the values suggested
 
-5. **Commit changes.** Press the green "Commit changes" button at the bottom of the page to save your edits to your own copy of the repository. At this point, you can repeat steps 2-6 if you want to change more policies!
-6. **Submit a pull request.** To propose merging your changes back into the master copy, navigate back to [transpose-publishing/policies-database](https://github.com/transpose-publishing/policies-database). Click the "New pull request" button. On the next screen, click the text link that says "Compare across forks" and change the "Head fork" drop down to your own copy of the repo. Then click the green "Create pull request" button.
-7. That's it! We'll leave a comment if we notice any issues or problems that could be revised.
+When you're finished, enter a short description of what you did in the box at the bottom of the page and click the green "Propose file change" button. 
 
-More general information about this process is below:
- 
-1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+![tutorial3](https://github.com/transpose-publishing/policies-database/blob/master/media/tutorial3anno.PNG)
 
-First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+### Step 4: Create a pull request
+On the next screen, press the green "Create pull request" button...
+
+![tutorial4](https://github.com/transpose-publishing/policies-database/blob/master/media/tutorial4anno.PNG)
+
+...and do the same once more on the final page.
+
+![tutorial5](https://github.com/transpose-publishing/policies-database/blob/master/media/tutorial5anno.PNG)
+
 
 ## How to report bugs
 
@@ -53,3 +66,8 @@ Notice a mistake? Please file any bugs, requests, or questions in our [issue tra
 ## Communication channels
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/transpose-publishing/Lobby#)
+
+## Data source
+[![Sherpa Romeo](https://github.com/transpose-publishing/transpose-publishing.github.io/blob/master/images/romeosmall.gif)](http://www.sherpa.ac.uk/RoMEO.php)
+
+Information in the policy records is derived from the RoMEO database which is compiled by SHERPA and has been modified for use here. Data from SHERPA RoMEO is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License.](https://creativecommons.org/licenses/by-nc-sa/2.5/)
