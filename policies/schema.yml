@@ -57,20 +57,30 @@ mapping:
   co-review-invited:
     type: bool
     desc: "Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)"
-  co-review-field:
-    type: bool
-    desc: "Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
 
   # PEER REVIEW TRANSFER
+  transfer-url:
+    type: str
+    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    desc: Peer review transfer url (valid url)
   transfer-policy:
     type: str
     desc: "Policy on transfer of peer reviews (free text)"
+
+  # REVIEW FORM
+  review-form-url
+    type: str
+    pattern: /^(TODO|(ht|f)tp(s?)\:\/\/\w[\/\.\-\:\=\?\&\_\+\u0023\w]+)$/ # From the resuabledata schema
+    desc: url to a copy or description of the peer review form (valid url)
   review-structure:
     type: str
     desc: "What are the titles of the sections of the review form? (free text)"
   separate-structure:
     type: bool
     desc: Are there separate fields for technical & impact evaluation? (yes/no)
+  co-review-field:
+    type: bool
+    desc: "Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
 
   # PEER REVIEW CREDIT
   credit-url:
