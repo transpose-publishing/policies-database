@@ -1,4 +1,4 @@
-# ROMEO INFORMATION
+# ### ROMEO INFORMATION ###
 # Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_112
 
@@ -31,7 +31,7 @@ child-policies: []
 flag-romeo: there are different peer review urls for each journal - using PLOS ONE
   below
 
-# OPEN PEER REVIEW
+# ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
 peer-review-url: http://journals.plos.org/plosone/s/editorial-and-peer-review-process
 
@@ -44,7 +44,7 @@ identities-revealed: optional
 # Are reviewer identities published? (mandatory/optional/no/not specified)
 identities-published: no
 
-# CO-REVIEWERS
+# ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
 co-review-url: http://journals.plos.org/plosone/s/reviewer-guidelines#loc-confidentiality
 
@@ -57,7 +57,7 @@ co-review-policy: Reviewers are required to treat all submitted manuscripts in s
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
-# PEER REVIEW TRANSFER
+# ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
 transfer-url:
 
@@ -68,7 +68,7 @@ transfer-policy: Authors can request that submissions (with referee reports, if 
   without an author’s consent.We trust that reviewers for any PLOS journal are willing
   to have their reviews considered by the editors of another PLOS journal.
 
-# REVIEW FORM
+# ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
 review-form-url:
 
@@ -88,14 +88,14 @@ separate-structure: yes
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field: yes
 
-# PEER REVIEW CREDIT
+# ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
 credit-url:
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# PREPRINTS
+# ### PREPRINTS ###
 # Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
 prearchiving: can
 
@@ -160,6 +160,6 @@ community-reviews-url:
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
 
-# COMMENTS
+# ### COMMENTS ###
 # Please leave any comments about the information presented here.
 comments:

@@ -3,7 +3,7 @@ mapping:
   # ROMEO INFORMATION
   policy-id:
     type: str
-    desc: "ROMEO INFORMATION\nPolicy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit"
+    desc: "### ROMEO INFORMATION ###\nPolicy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit"
   publisher:
     type: str
     desc: "Publisher name from SHERAP/RoMEO. Do not edit"
@@ -38,7 +38,7 @@ mapping:
   peer-review-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "OPEN PEER REVIEW\nOpen peer review policy url (valid url)"
+    desc: "### OPEN PEER REVIEW ###\nOpen peer review policy url (valid url)"
   open-reports:
     type: str
     enum: [mandatory, optional, no, not specified]
@@ -56,7 +56,7 @@ mapping:
   co-review-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "CO-REVIEWERS\nCo-reviewer policy url (valid url)"
+    desc: "### CO-REVIEWERS ###\nCo-reviewer policy url (valid url)"
   co-review-policy:
     type: str
     desc: "Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)"
@@ -69,7 +69,7 @@ mapping:
   transfer-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "PEER REVIEW TRANSFER\nPeer review transfer url (valid url)"
+    desc: "### PEER REVIEW TRANSFER ###\nPeer review transfer url (valid url)"
   transfer-policy:
     type: str
     desc: "Policy on transfer of peer reviews (free text)"
@@ -78,7 +78,7 @@ mapping:
   review-form-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "REVIEW FORM\nurl to a copy or description of the peer review form (valid url)"
+    desc: "### REVIEW FORM ###\nurl to a copy or description of the peer review form (valid url)"
   review-structure:
     type: str
     desc: "What are the titles of the sections of the review form? (free text)"
@@ -95,7 +95,7 @@ mapping:
   credit-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "PEER REVIEW CREDIT\nPeer review credit policy url (valid url)"
+    desc: "### PEER REVIEW CREDIT ###\nPeer review credit policy url (valid url)"
   orcid-peer-review:
     type: str
     enum: [yes, via service, no]
@@ -105,7 +105,7 @@ mapping:
   prearchiving:
     type: str
     enum: [can, cannot, restricted, unclear]
-    desc: "PREPRINTS\nCan users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit."
+    desc: "### PREPRINTS ###\nCan users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit."
   prerestrictions:
     type: seq
     desc: "Preprint restrictions (from SHERPA/RoMEO: prerestrictions, do not edit)"
@@ -176,4 +176,4 @@ mapping:
   # COMMENTS
   comments:
     type: str
-    desc: "COMMENTS\nPlease leave any comments about the information presented here."
+    desc: "### COMMENTS ###\nPlease leave any comments about the information presented here."

@@ -1,4 +1,4 @@
-# ROMEO INFORMATION
+# ### ROMEO INFORMATION ###
 # Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_1501
 
@@ -24,7 +24,7 @@ child-policies: []
 # Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
-# OPEN PEER REVIEW
+# ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
 peer-review-url:
 
@@ -37,7 +37,7 @@ identities-revealed: optional
 # Are reviewer identities published? (mandatory/optional/no/not specified)
 identities-published: optional
 
-# CO-REVIEWERS
+# ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
 co-review-url: https://submit.elifesciences.org/cgi-bin/main.plex?form_type=display_rev_instructions#confidential
 
@@ -51,7 +51,7 @@ co-review-policy: co-reviewing a manuscript with a single experienced junior col
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
-# PEER REVIEW TRANSFER
+# ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
 transfer-url: https://elifesciences.org/inside-elife/fde87c31/making-the-most-of-elife-peer-reviews
 
@@ -60,7 +60,7 @@ transfer-policy: We’ll transfer review information to any other appropriate jo
   including the PLOS journals, EMBO Reports, Biology Open, BMC Biology, and the BMC-series
   journals.
 
-# REVIEW FORM
+# ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
 review-form-url: https://submit.elifesciences.org/cgi-bin/main.plex?form_type=display_rev_instructions#writing
 
@@ -80,14 +80,14 @@ separate-structure:
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field: yes
 
-# PEER REVIEW CREDIT
+# ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
 credit-url:
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# PREPRINTS
+# ### PREPRINTS ###
 # Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
 prearchiving: can
 
@@ -155,6 +155,6 @@ community-reviews: The Editors will primarily base their decision on the content
   your submission, but public feedback on the work (positive or negative) might be
   taken into account.
 
-# COMMENTS
+# ### COMMENTS ###
 # Please leave any comments about the information presented here.
 comments:

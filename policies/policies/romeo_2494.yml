@@ -1,4 +1,4 @@
-# ROMEO INFORMATION
+# ### ROMEO INFORMATION ###
 # Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_2494
 
@@ -23,7 +23,7 @@ child-policies: []
 # Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
-# OPEN PEER REVIEW
+# ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
 peer-review-url:
 
@@ -36,7 +36,7 @@ identities-revealed:
 # Are reviewer identities published? (mandatory/optional/no/not specified)
 identities-published:
 
-# CO-REVIEWERS
+# ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
 co-review-url:
 
@@ -46,14 +46,14 @@ co-review-policy:
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
-# PEER REVIEW TRANSFER
+# ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
 transfer-url:
 
 # Policy on transfer of peer reviews (free text)
 transfer-policy:
 
-# REVIEW FORM
+# ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
 review-form-url:
 
@@ -66,14 +66,14 @@ separate-structure:
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
 
-# PEER REVIEW CREDIT
+# ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
 credit-url:
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# PREPRINTS
+# ### PREPRINTS ###
 # Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
 prearchiving: can
 
@@ -136,6 +136,6 @@ community-reviews-url:
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
 
-# COMMENTS
+# ### COMMENTS ###
 # Please leave any comments about the information presented here.
 comments:
