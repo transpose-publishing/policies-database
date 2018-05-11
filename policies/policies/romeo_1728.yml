@@ -9,24 +9,27 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - 'Bibliotecas: Revista de la Escuela de Bibliotecología, Documentación e Información'
-  - Economía y Sociedad
   - Ensayos Pedagógicos
   - Movimiento Humano y Salud
+  - Revista Ciencias Veterinarias
+  - Revista Electrónica Educare
+  - Revista Latinoamericana de Derechos Humanos
+  - Revista de Ciencias Ambientales
+  - Revista de Historia
+  - Uniciencia
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - 'Bibliotecas: Revista de la Escuela de Bibliotecología, Documentación e Información'
+  - Economía y Sociedad
   - PRAXIS
   - Perspectivas
   - Perspectivas Rurales Nueva Época
   - Repertorio Americano
   - Revista ABRA
   - Revista Ciencias Marinas y Costeras
-  - Revista Ciencias Veterinarias
-  - Revista Electrónica Educare
   - Revista Geográfica de América Central
-  - Revista Latinoamericana de Derechos Humanos
-  - Revista de Ciencias Ambientales
-  - Revista de Historia
   - Siwo Revista de Teología
-  - Uniciencia
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

@@ -13,40 +13,43 @@ journals:
   - 'Biblios: Revista de Bibliotecología y Ciencias de la Información'
   - Bolivian Studies Journal
   - CINEJ Cinema Journal
-  - Carl Beck Papers in Russian and East European Studies
   - Catedral Tomada
   - Central Asian Journal of Global Health
   - 'Contemporaneity: Historical Presence in Visual Culture'
   - Dentistry 3000
   - Dialogic Pedagogy
   - 'EMAJ: Emerging Markets Journal'
-  - Excellence in Higher Education
   - Forbes and Fifth
   - Health, Culture and Society
   - Hungarian Cultural Studies
   - IIOAB Letters
   - 'Impacting Education: Journal on Transforming Professional Practice'
   - International Journal of Telerehabilitation
-  - Journal of French and Francophone Philosophy
-  - Journal of Law and Commerce
   - Journal of World-Historical Information
   - Journal of World-Systems Research
   - Journal of Youth Development
   - Journal of the Medical Library Association
   - Ledger
   - Linguistic Evidence in Security, Law and Intelligence
-  - 'Motivational Interviewing: Training, Research, Implementation, Practice'
   - 'Pennsylvania Libraries: Research and Practice'
+  - Pittsburgh Papers on the European Union
+  - SHASHI
+  - Timely Interventions
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Carl Beck Papers in Russian and East European Studies
+  - Excellence in Higher Education
+  - Journal of French and Francophone Philosophy
+  - Journal of Law and Commerce
+  - 'Motivational Interviewing: Training, Research, Implementation, Practice'
   - Pitt Political Review
   - Pittsburgh Journal of Environmental and Public Health Law
   - Pittsburgh Journal of Technology Law and Policy
-  - Pittsburgh Papers on the European Union
   - Pittsburgh Tax Review
   - Radical Teacher
   - Revista Iberoamericana
   - Revue de la philosophie francaise et de langue francaise
-  - SHASHI
-  - Timely Interventions
   - University of Pittsburgh Law Review
   - Études Ricoeuriennes/ Ricoeur Studies
 

@@ -9,6 +9,140 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Acta Anaesthesiologica Scandinavica
+  - Acta Ophthalmologica
+  - Acta Paediatrica Scandinavica
+  - Advances in Ophthalmology and Vision Science
+  - American Heart Hospital Journal
+  - American Journal of Economics and Sociology
+  - American Journal of Geriatric Cardiology
+  - Applied Geographic Studies
+  - Archaeology in Oceania
+  - Art History
+  - Arthritis and Rheumatism
+  - Asia Pacific Journal of Human Resources
+  - Autism Research
+  - Behavioral Interventions
+  - BioFactors
+  - Biochemistry and Molecular Biology Education
+  - Biotechnology and Applied Biochemistry
+  - Brown University Digest of Addiction Theory and Application
+  - Business and Society Review
+  - Canadian Journal of Chemical Engineering
+  - Center for Migration Studies special issues
+  - ChemElectroChem
+  - Chinese Journal of Geophysics
+  - Clinical Journal of Pathology
+  - Cognitive Science
+  - Coloration Technology
+  - Communication, Culture and Critique
+  - Communications in Numerical Methods in Engineering
+  - Congestive Heart Failure
+  - Council on Anthropology and Education Quarterly
+  - Culture, Agriculture, Food and Environment
+  - Cytometry
+  - Drug and Alcohol Review
+  - Economic Anthropology
+  - Environmental and Molecular Mutagenesis
+  - Eos, Transactions American Geophysical Union
+  - European Diabetes Nursing
+  - European Journal of Heart Failure Supplements
+  - Financial Review
+  - Functional Ecology
+  - Health Services Research
+  - Helvetica Chimica Acta
+  - History and Theory
+  - IDS Bulletin
+  - IUBMB Life
+  - Inorganic Reactions and Methods
+  - International Journal of Andrology
+  - International Journal of Applied Ceramic Technology
+  - International Journal of Nursing Terminologies and Classifications
+  - International Journal of Population Geography
+  - International Journal of Urban and Regional Research
+  - International Labour Review
+  - International Social Science Journal
+  - Internationale Revue für Soziale Sicherheit
+  - JDDG
+  - Journal of Andrology
+  - Journal of Animal Ecology
+  - Journal of Applied Corporate Finance
+  - Journal of Communication
+  - Journal of Consumer Affairs
+  - Journal of Contemporary Water Research and Education
+  - Journal of Ecology
+  - Journal of Electron Microscopy Technique
+  - Journal of Legal Studies Education
+  - Journal of Magnetic Resonance Imaging
+  - Journal of Midwifery and Women's Health
+  - Journal of Paediatrics and Child Health
+  - Journal of Pathology
+  - Journal of Risk and Insurance
+  - Journal of Sleep Research
+  - Journal of Supply Chain Management
+  - Journal of Supreme Court History
+  - Journal of The Historical Society
+  - Journal of Theoretical Social Psychology
+  - Journal of Traumatic Stress
+  - Journal of the American Association of Nurse Practitioners
+  - Journal of the American Ceramic Society
+  - Journal of the Royal Anthropological Institute
+  - 'Journal of the Royal Statistical Society: Series D'
+  - Laryngoscope
+  - Magnetic Resonance in Medicine
+  - Major Gifts Report
+  - Medical Physics
+  - Membership Management Report
+  - Milbank Quarterly
+  - Mining Report
+  - Movement Disorders
+  - Movement Disorders Clinical Practice
+  - Neurology and Clinical Neuroscience
+  - New Horizons in Adult Education and Human Resource Development
+  - New Horizons in Adult Education and Human Resource Development - Wiley Online
+    Library
+  - New Microbes and New Infections
+  - New Zealand Journal of Geography
+  - Nonprofit Communications Report
+  - Oceania
+  - Pest Science
+  - Pharmacy and Pharmacology Communications
+  - Pharmazie in unserer Zeit
+  - Physik Journal
+  - Population Council Book Series
+  - Proceedings of the Zoological Society of London
+  - Protein Science
+  - Psychoanalytic Quarterly
+  - Research World
+  - Review of Agricultural Economics
+  - Revista Internacional de Seguridad Social
+  - Revista Internacional del Trabajo
+  - Revue Internationale de Sécurité Sociale
+  - Revue internationale du Travail
+  - Risk Management and Insurance Review
+  - Russian Review
+  - Science News
+  - Sciences
+  - Special Events Galore
+  - Spectroscopy Europe
+  - Strategic Enrollment Management Quarterly
+  - Successful Fundraising
+  - Teaching German
+  - Tellus
+  - Topics in Cognitive Science
+  - Transactions of the New York Academy of Sciences
+  - Unterrichtspraxis
+  - Veterinary Nursing Journal
+  - Volunteer Management Report
+  - Women in Higher Education
+  - World Stroke Academy
+  - World of Work Report
+  - Zentralblatt für Veterinärmedizin
+  - Zentralblatt für Veterinärmedizin Reihe A
+  - Zentralblatt für Veterinärmedizin Reihe B
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - AIChE Journal
   - ANZ Journal of Surgery
   - APMIS
@@ -17,15 +151,12 @@ journals:
   - About Campus
   - Academic Emergency Medicine
   - Accounting and Finance
-  - Acta Anaesthesiologica Scandinavica
   - Acta Archaeologica
   - Acta Geologica Sinica - English Edition
   - Acta Medica Austriaca
   - Acta Neurologica Scandinavica
   - Acta Obstetricia et Gynecologica Scandinavica
-  - Acta Ophthalmologica
   - Acta Paediatrica
-  - Acta Paediatrica Scandinavica
   - Acta Physiologica
   - Acta Psychiatrica Scandinavica
   - Acta Zoologica
@@ -46,7 +177,6 @@ journals:
   - Advanced Synthesis and Catalysis
   - Advances in Chemical Physics
   - Advances in Enzymology and Related Areas of Molecular Biology
-  - Advances in Ophthalmology and Vision Science
   - Advances in Photochemistry
   - Advances in Polymer Technology
   - Africa Confidential
@@ -67,10 +197,7 @@ journals:
   - Alternatives to the High Cost of Litigation
   - Ambulatory Child Health
   - American Business Law Journal
-  - American Heart Hospital Journal
   - American Journal of Community Psychology
-  - American Journal of Economics and Sociology
-  - American Journal of Geriatric Cardiology
   - American Journal of Hematology
   - American Journal of Human Biology
   - American Journal of Industrial Medicine
@@ -112,7 +239,6 @@ journals:
   - Antipode
   - Anxiety
   - Applied Cognitive Psychology
-  - Applied Geographic Studies
   - Applied Organometallic Chemistry
   - Applied Psychology
   - 'Applied Psychology: Health and Well-Being'
@@ -123,20 +249,16 @@ journals:
   - 'Aquatic Conservation: Marine and Freshwater Ecosystems'
   - Arabian Archaeology and Epigraphy
   - Archaeological Prospection
-  - Archaeology in Oceania
   - Archaeometry
   - Architectural Design
   - Archives of Drug Information
   - Archives of Insect Biochemistry and Physiology
   - Area
   - Art Book
-  - Art History
   - Arthritis Care and Research
-  - Arthritis and Rheumatism
   - Arthritis and Rheumatology
   - Artificial Organs
   - Asia Pacific Journal of Clinical Nutrition
-  - Asia Pacific Journal of Human Resources
   - Asia Pacific Viewpoint
   - Asia and the Pacific Policy Studies
   - Asia-Pacific Journal of Chemical Engineering
@@ -178,7 +300,6 @@ journals:
   - Australian and New Zealand Journal of Obstetrics and Gynaecology
   - Australian and New Zealand Journal of Public Health
   - Australian and New Zealand Journal of Statistics
-  - Autism Research
   - Autonomic and Autacoid Pharmacology
   - 'BJOG: An International Journal of Obstetrics and Gynaecology'
   - BJU International
@@ -189,15 +310,12 @@ journals:
   - Basin Research
   - Bauphysik
   - Bautechnik
-  - Behavioral Interventions
   - Behavioral Sciences and the Law
   - Bell Labs Technical Journal
   - Berichte der Bunsengesellschaft für physikalische Chemie
   - Beton- und Stahlbetonbau
   - BioEssays
-  - BioFactors
   - Biochemistry International
-  - Biochemistry and Molecular Biology Education
   - Bioelectromagnetics
   - Bioengineering and Translational Medicine
   - Bioethics
@@ -212,7 +330,6 @@ journals:
   - Biopolymers
   - Biospectroscopy
   - Biotechnology Progress
-  - Biotechnology and Applied Biochemistry
   - Biotechnology and Bioengineering
   - Biotropica
   - Bipolar Disorders
@@ -250,7 +367,6 @@ journals:
   - British Journal of Surgery
   - Brown University Child and Adolescent Behavior Letter
   - Brown University Child and Adolescent Psychopharmacology Update
-  - Brown University Digest of Addiction Theory and Application
   - Brown University Geriatric Psychopharmacology Update
   - Brown University Psychopharmacology Update
   - Bruce R. Hopkins' Nonprofit Counsel
@@ -264,7 +380,6 @@ journals:
   - 'Business Ethics: A European Review'
   - Business Strategy Review
   - Business Strategy and the Environment
-  - Business and Society Review
   - 'CA: A Cancer Journal for Clinicians'
   - CLEAN - Soil, Air, Water
   - CNS Drug Reviews
@@ -275,7 +390,6 @@ journals:
   - Canadian Geographer
   - Canadian Journal of Administrative Sciences
   - Canadian Journal of Agricultural Economics
-  - Canadian Journal of Chemical Engineering
   - Canadian Journal of Economics
   - Canadian Journal of Statistics
   - Canadian Public Administration
@@ -294,11 +408,9 @@ journals:
   - Cell Proliferation
   - Cellular Microbiology
   - Centaurus
-  - Center for Migration Studies special issues
   - ChemBioChem
   - ChemBioEng Reviews
   - ChemCatChem
-  - ChemElectroChem
   - ChemMedChem
   - ChemPhysChem
   - ChemPlusChem
@@ -320,7 +432,6 @@ journals:
   - 'Child: Care, Health and Development'
   - Children & Society
   - China and World Economy
-  - Chinese Journal of Geophysics
   - Chirality
   - City and Community
   - Cladistics
@@ -330,7 +441,6 @@ journals:
   - Clinical Endocrinology
   - Clinical Genetics
   - Clinical Implant Dentistry and Related Research
-  - Clinical Journal of Pathology
   - Clinical Liver Disease
   - Clinical Obesity
   - Clinical Oral Implants Research
@@ -353,14 +463,10 @@ journals:
   - Clinical and Experimental Pharmacology and Physiology
   - Clinical and Translational Science
   - Cochrane Library
-  - Cognitive Science
   - College Athletics and the Law
   - Color Research and Application
-  - Coloration Technology
   - Colorectal Disease
   - Communication Theory
-  - Communication, Culture and Critique
-  - Communications in Numerical Methods in Engineering
   - Communications on Pure and Applied Mathematics
   - Community Dentistry and Oral Epidemiology
   - Companion Animal
@@ -379,7 +485,6 @@ journals:
   - Conflict Resolution Quarterly
   - Congenital Anomalies
   - Congenital Heart Disease
-  - Congestive Heart Failure
   - Conservation
   - Conservation Biology
   - Conservation Letters
@@ -391,7 +496,6 @@ journals:
   - Corporate Governance
   - Corporate Philanthropy Report
   - Corporate Social Responsibility and Environmental Management
-  - Council on Anthropology and Education Quarterly
   - Counseling and Values
   - Counselling and Psychotherapy Research
   - Counselor Education and Supervision
@@ -401,11 +505,9 @@ journals:
   - Criminology and Public Policy
   - Critical Quarterly
   - CrossCurrents
-  - Culture, Agriculture, Food and Environment
   - 'Curator: The Museum Journal'
   - Curriculum Inquiry
   - Curtis's Botanical Magazine
-  - Cytometry
   - Cytometry Part A
   - 'Cytometry Part B: Clinical Cytometry'
   - Cytopathology
@@ -450,7 +552,6 @@ journals:
   - Diversity and Distributions
   - Drug Development Research
   - Drug Testing and Analysis
-  - Drug and Alcohol Review
   - Dyslexia
   - EMBO Molecular Medicine
   - EPPO Bulletin
@@ -472,7 +573,6 @@ journals:
   - Ecology of Freshwater Fish
   - Econometrics Journal
   - Economic Affairs
-  - Economic Anthropology
   - Economic History Review
   - Economic Inquiry
   - Economic Journal
@@ -514,16 +614,13 @@ journals:
   - Environmental Quality Management
   - Environmental Toxicology
   - Environmental Toxicology and Chemistry
-  - Environmental and Molecular Mutagenesis
   - Environmetrics
-  - Eos, Transactions American Geophysical Union
   - Epilepsia
   - Epilepsy Currents
   - Equine Veterinary Education
   - Equine Veterinary Journal
   - Ethology
   - EuroChoices
-  - European Diabetes Nursing
   - European Eating Disorders Review
   - European Financial Management
   - European Journal of Biochemistry
@@ -533,7 +630,6 @@ journals:
   - European Journal of Education
   - European Journal of Haematology
   - European Journal of Heart Failure
-  - European Journal of Heart Failure Supplements
   - European Journal of Immunology
   - European Journal of Inorganic Chemistry
   - European Journal of Lipid Science and Technology
@@ -579,7 +675,6 @@ journals:
   - Financial Accountability and Management
   - Financial Management
   - Financial Markets, Institutions and Instruments
-  - Financial Review
   - Fire and Materials
   - First Break
   - Fiscal Studies
@@ -597,7 +692,6 @@ journals:
   - Fossils and Strata
   - Freshwater Biology
   - Fuel Cells
-  - Functional Ecology
   - Fundamental and Clinical Pharmacology
   - Future Prescriber
   - GCB Bioenergy
@@ -653,12 +747,10 @@ journals:
   - Health Expectations
   - Health Information and Libraries Journal
   - Health Science Reports
-  - Health Services Research
   - Health and Social Care in the Community
   - Heat Transfer - Asian Research
   - Heat Transfer - Japanese Research
   - Helicobacter
-  - Helvetica Chimica Acta
   - Hematological Oncology
   - Hemodialysis International
   - Hepatology
@@ -674,7 +766,6 @@ journals:
   - Historical Research
   - History
   - History Compass
-  - History and Theory
   - History of Education Quarterly
   - Howard Journal of Criminal Justice
   - Human Brain Mapping
@@ -688,14 +779,12 @@ journals:
   - Human Resource Management Journal
   - Hydrological Processes
   - Hypatia
-  - IDS Bulletin
   - IDS Practice Papers
   - IDS Research Reports
   - IDS Working Papers
   - IEEJ Transactions on Electrical and Electronic Engineering
   - ISBT Science Series
   - ISI Review
-  - IUBMB Life
   - Ibis
   - Imaging Decisions MRI
   - Immunity, Inflammation and Disease
@@ -711,7 +800,6 @@ journals:
   - Infant and Child Development
   - Influenza and Other Respiratory Viruses
   - Information Systems Journal
-  - Inorganic Reactions and Methods
   - Insect Conservation and Diversity
   - Insect Molecular Biology
   - Insect Science
@@ -732,8 +820,6 @@ journals:
   - International Journal for Numerical Methods in Fluids
   - International Journal for Numerical and Analytical Methods in Geomechanics
   - International Journal of Adaptive Control and Signal Processing
-  - International Journal of Andrology
-  - International Journal of Applied Ceramic Technology
   - International Journal of Applied Glass Science
   - International Journal of Applied Linguistics
   - International Journal of Applied Psychoanalytic Studies
@@ -779,12 +865,10 @@ journals:
     Fields'
   - International Journal of Nursing Knowledge
   - International Journal of Nursing Practice
-  - International Journal of Nursing Terminologies and Classifications
   - International Journal of Older People Nursing
   - International Journal of Osteoarchaeology
   - International Journal of Paediatric Dentistry
   - International Journal of Pharmacy Practice
-  - International Journal of Population Geography
   - International Journal of Psychoanalysis
   - International Journal of Quantum Chemistry
   - International Journal of RF and Microwave Computer-Aided Engineering
@@ -798,28 +882,23 @@ journals:
   - International Journal of Systematic Theology
   - International Journal of Tourism Research
   - International Journal of Training and Development
-  - International Journal of Urban and Regional Research
   - International Journal of Urological Nursing
   - International Journal of Urology
-  - International Labour Review
   - International Migration
   - International Migration Review
   - International Nursing Review
   - International Review of Finance
   - International Review of Mission
-  - International Social Science Journal
   - International Social Security Review
   - International Statistical Review
   - International Transactions in Operational Research
   - International Transactions on Electrical Energy Systems
   - International Wound Journal
   - International Zoo Yearbook
-  - Internationale Revue für Soziale Sicherheit
   - Invertebrate Biology
   - Irrigation and Drainage
   - Island Arc
   - JBI Reports
-  - JDDG
   - Japan Journal of Nursing Science
   - Japanese Economic Review
   - Japanese Psychological Research
@@ -839,13 +918,10 @@ journals:
   - Journal of American Culture
   - Journal of Analytical Psychology
   - Journal of Anatomy
-  - Journal of Andrology
   - Journal of Animal Breeding and Genetics
-  - Journal of Animal Ecology
   - Journal of Animal Physiology and Animal Nutrition
   - Journal of Applied Biobehavioral Research
   - Journal of Applied Biomaterials
-  - Journal of Applied Corporate Finance
   - Journal of Applied Ecology
   - Journal of Applied Econometrics
   - Journal of Applied Entomology
@@ -887,15 +963,12 @@ journals:
   - Journal of College Counseling
   - Journal of Combinatorial Designs
   - Journal of Common Market Studies
-  - Journal of Communication
   - Journal of Community Psychology
   - Journal of Community and Applied Social Psychology
   - Journal of Comparative Neurology
   - Journal of Computational Chemistry
   - Journal of Computer Assisted Learning
-  - Journal of Consumer Affairs
   - Journal of Consumer Behaviour
-  - Journal of Contemporary Water Research and Education
   - Journal of Contingencies and Crisis Management
   - Journal of Corporate Accounting and Finance
   - Journal of Cosmetic Dermatology
@@ -906,11 +979,9 @@ journals:
   - Journal of Diabetes
   - Journal of Diabetes Investigation
   - Journal of Digestive Diseases
-  - Journal of Ecology
   - Journal of Economic Surveys
   - Journal of Economics and Management Strategy
   - Journal of Educational Measurement
-  - Journal of Electron Microscopy Technique
   - Journal of Electrophysiology
   - Journal of Empirical Legal Studies
   - Journal of Employment Counseling
@@ -972,8 +1043,6 @@ journals:
   - Journal of Labelled Compounds and Radiopharmaceuticals
   - Journal of Law and Society
   - Journal of Leadership Studies
-  - Journal of Legal Studies Education
-  - Journal of Magnetic Resonance Imaging
   - Journal of Management Studies
   - Journal of Marital and Family Therapy
   - Journal of Marriage and Family
@@ -986,7 +1055,6 @@ journals:
   - Journal of Metamorphic Geology
   - Journal of Microcolumn Separations
   - Journal of Microscopy
-  - Journal of Midwifery and Women's Health
   - Journal of Molecular Recognition
   - Journal of Money, Credit and Banking
   - Journal of Morphology
@@ -1008,8 +1076,6 @@ journals:
   - Journal of Oral Rehabilitation
   - Journal of Organizational Behavior
   - Journal of Orthopaedic Research
-  - Journal of Paediatrics and Child Health
-  - Journal of Pathology
   - 'Journal of Pathology: Clinical Research'
   - Journal of Peptide Science
   - Journal of Periodontal Research
@@ -1052,32 +1118,25 @@ journals:
   - Journal of Research in Science Teaching
   - Journal of Research in Special Educational Needs
   - Journal of Research on Adolescence
-  - Journal of Risk and Insurance
   - Journal of Rural Health
   - Journal of School Health
   - Journal of Sensory Studies
   - Journal of Separation Science
   - Journal of Sexual Medicine
-  - Journal of Sleep Research
   - Journal of Small Animal Practice
   - Journal of Small Business Management
   - Journal of Social Issues
   - Journal of Social Philosophy
   - Journal of Sociolinguistics
   - 'Journal of Software: Evolution and Process'
-  - Journal of Supply Chain Management
-  - Journal of Supreme Court History
   - Journal of Surfactants and Detergents
   - Journal of Surgical Oncology
   - Journal of Systematics and Evolution
   - Journal of Texture Studies
-  - Journal of The Historical Society
-  - Journal of Theoretical Social Psychology
   - Journal of Thrombosis and Haemostasis
   - Journal of Time Series Analysis
   - Journal of Tissue Engineering and Regenerative Medicine
   - Journal of Trace Elements in Experimental Medicine
-  - Journal of Traumatic Stress
   - Journal of Ultrasound in Medicine
   - Journal of Vector Ecology
   - Journal of Vegetation Science
@@ -1091,8 +1150,6 @@ journals:
   - Journal of Zoological Systematics and Evolutionary Research
   - Journal of Zoology
   - Journal of the American Academy of Nurse Practioners
-  - Journal of the American Association of Nurse Practitioners
-  - Journal of the American Ceramic Society
   - Journal of the American Geriatrics Society
   - Journal of the American Heart Association
   - Journal of the American Heart Association Cardiovascular and Cerebrovascular Disease
@@ -1107,14 +1164,12 @@ journals:
   - Journal of the International AIDS Society
   - Journal of the London Mathematical Society
   - Journal of the Peripheral Nervous System
-  - Journal of the Royal Anthropological Institute
   - 'Journal of the Royal Statistical Society: Series A'
   - 'Journal of the Royal Statistical Society: Series A (Statistics in Society)'
   - 'Journal of the Royal Statistical Society: Series B'
   - 'Journal of the Royal Statistical Society: Series B (Statistical Methodology)'
   - 'Journal of the Royal Statistical Society: Series C'
   - 'Journal of the Royal Statistical Society: Series C (Applied Statistics)'
-  - 'Journal of the Royal Statistical Society: Series D'
   - Journal of the Science of Food and Agriculture
   - Journal of the Society for Information Display
   - Journal of the World Aquaculture Society
@@ -1128,7 +1183,6 @@ journals:
   - Land Degradation and Development
   - Language Learning
   - Language and Linguistics Compass
-  - Laryngoscope
   - Laryngoscope Investigative Otolaryngology
   - Lasers in Surgery and Medicine
   - Latin American Policy
@@ -1164,8 +1218,6 @@ journals:
   - Macromolecular Bioscience
   - Macromolecular Chemistry and Physics
   - Magnetic Resonance in Chemistry
-  - Magnetic Resonance in Medicine
-  - Major Gifts Report
   - Makromolekulare Chemie. Macromolecular Symposia
   - Makromolekulare Chemie. Supplementband
   - Mammal Review
@@ -1182,10 +1234,8 @@ journals:
   - Mathematical Methods in the Applied Sciences
   - Mechanics of Cohesive-frictional Materials
   - Medical Education
-  - Medical Physics
   - Medical and Veterinary Entomology
   - Medicinal Research Reviews
-  - Membership Management Report
   - Mental Health Weekly
   - Mergent's Dividend Achievers
   - Mergent's Handbook of Common Stocks
@@ -1210,11 +1260,9 @@ journals:
   - Microwave and Optical Technology Letters
   - Middle East Policy
   - Midwest Studies in Philosophy
-  - Milbank Quarterly
   - Milton Quarterly
   - Mind and Language
   - Mind, Brain, and Education
-  - Mining Report
   - Modern Language Journal
   - Modern Law Review
   - Modern Theology
@@ -1231,8 +1279,6 @@ journals:
   - Molecular Systems Biology
   - Monographs of the Society for Research in Child Development
   - Mount Sinai Journal of Medicine
-  - Movement Disorders
-  - Movement Disorders Clinical Practice
   - Muscle and Nerve
   - Musculoskeletal Care
   - Museum International
@@ -1256,7 +1302,6 @@ journals:
   - Nephrology
   - Networks
   - Neurogastroenterology and Motility
-  - Neurology and Clinical Neuroscience
   - Neuromodulation
   - Neuropathology
   - Neuropathology and Applied Neurobiology
@@ -1273,17 +1318,11 @@ journals:
   - New Directions for Student Services
   - New Directions for Teaching and Learning
   - New Directions for Youth Development
-  - New Horizons in Adult Education and Human Resource Development
-  - New Horizons in Adult Education and Human Resource Development - Wiley Online
-    Library
-  - New Microbes and New Infections
   - New Perspectives Quarterly
   - New Phytologist
   - New Technology, Work and Employment
   - New Zealand Geographer
-  - New Zealand Journal of Geography
   - Nonprofit Business Advisor
-  - Nonprofit Communications Report
   - Nonprofit Counsel
   - Nonprofit Management and Leadership
   - Nontraditional Students Report
@@ -1305,7 +1344,6 @@ journals:
   - Obesity Reviews
   - Obesity Science and Practice
   - Obstetrician and Gynaecologist
-  - Oceania
   - Oil and Energy Trends
   - 'Oil and Energy Trends: Annual Statistical Review'
   - Ophthalmic and Physiological Optics
@@ -1350,13 +1388,10 @@ journals:
   - Personnel Psychology
   - Perspectives in Psychiatric Care
   - Pest Management Science
-  - Pest Science
   - Pharmaceutical Statistics
   - Pharmacoepidemiology and Drug Safety
   - Pharmacology Research and Perspectives
   - 'Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy'
-  - Pharmacy and Pharmacology Communications
-  - Pharmazie in unserer Zeit
   - Philosophical Books
   - Philosophical Forum
   - Philosophical Investigations
@@ -1370,7 +1405,6 @@ journals:
   - Photodermatology, Photoimmunology & Photomedicine
   - Photogrammetric Record
   - Phycological Research
-  - Physik Journal
   - Physiologia Plantarum
   - Physiological Entomology
   - Physiological Reports
@@ -1395,7 +1429,6 @@ journals:
   - Polymer Engineering and Science
   - Polymer International
   - Polymers for Advanced Technologies
-  - Population Council Book Series
   - Population and Development Review
   - Population, Space and Place
   - Poverty and Public Policy
@@ -1410,7 +1443,6 @@ journals:
   - Proceedings of the Association of American Physicians
   - Proceedings of the International Society for Magnetic Resonance in Medicine
   - Proceedings of the Society for Experimental Biology and Medicine
-  - Proceedings of the Zoological Society of London
   - Process Safety Progress
   - Production and Operations Management
   - Progress in Cardiovascular Nursing
@@ -1421,13 +1453,11 @@ journals:
   - Project Management Journal
   - Prostate
   - Prostate Journal
-  - Protein Science
   - Proteins
   - Proteomics
   - PsyCh Journal
   - Psychiatry and Clinical Neurosciences
   - Psycho-Oncology
-  - Psychoanalytic Quarterly
   - Psychogeriatrics
   - Psychology and Marketing
   - 'Psychology and Psychotherapy: Theory, Research and Practice'
@@ -1466,13 +1496,11 @@ journals:
   - Renaissance Studies
   - Reproduction in Domestic Animals
   - Research Synthesis Methods
-  - Research World
   - Research in Nursing and Health
   - Resource Geology
   - Respirology
   - Respirology Case Reports
   - Restoration Ecology
-  - Review of Agricultural Economics
   - Review of Development Economics
   - Review of Education
   - Review of European Community and International Environmental Law
@@ -1485,22 +1513,16 @@ journals:
   - Reviews in Clinical and Experimental Hematology
   - Reviews in Medical Virology
   - Reviews in Religion and Theology
-  - Revista Internacional de Seguridad Social
   - Revista Internacional del Conocimiento de Enfermería
-  - Revista Internacional del Trabajo
   - Revue Canadienne d'Économique
   - Revue Canadienne des Sciences de l'Administration
-  - Revue Internationale de Sécurité Sociale
   - Revue canadienne d'agroeconomie
   - Revue canadienne de sociologie
-  - Revue internationale du Travail
   - Risk Analysis
-  - Risk Management and Insurance Review
   - Risk, Hazards and Crisis in Public Policy
   - River Research and Applications
   - Rural Sociology
   - Russian Economic Trends
-  - Russian Review
   - SID Symposium Digest of Technical Papers
   - SKINmed
   - Scandinavian Journal of Caring Sciences
@@ -1513,8 +1535,6 @@ journals:
   - Scandinavian Political Studies
   - School Science and Mathematics
   - Science Education
-  - Science News
-  - Sciences
   - Scottish Journal of Political Economy
   - Sedimentology
   - Seminars in Dialysis
@@ -1548,8 +1568,6 @@ journals:
   - Southern Economic Journal
   - Southern Journal of Philosophy
   - Special Care in Dentistry
-  - Special Events Galore
-  - Spectroscopy Europe
   - Spirituality and Health International
   - Stahlbau
   - Stat
@@ -1562,7 +1580,6 @@ journals:
   - Stem Cells Translational Medicine
   - Strain
   - Strategic Change
-  - Strategic Enrollment Management Quarterly
   - Strategic Entrepreneurship Journal
   - Strategic Management Journal
   - Stress and Health
@@ -1575,7 +1592,6 @@ journals:
   - Studies in Applied Mathematics
   - Studies in Ethnicity and Nationalism
   - Studies in Family Planning
-  - Successful Fundraising
   - Successful Registrar
   - Suicide and Life-Threatening Behavior
   - Support for Learning
@@ -1591,10 +1607,8 @@ journals:
   - Systems Engineering
   - Systems Research and Behavioral Science
   - Systems and Computers in Japan
-  - Teaching German
   - Teaching Statistics
   - Teaching Theology and Religion
-  - Tellus
   - Teratogenesis, Carcinogenesis, and Mutagenesis
   - Terra Nova
   - Theory and Practice of Object Systems
@@ -1604,11 +1618,9 @@ journals:
   - Thunderbird International Business Review
   - Tijdschrift voor economische en sociale geografie
   - Tissue Antigens
-  - Topics in Cognitive Science
   - Traffic
   - Transactions in GIS
   - Transactions of the Institute of British Geographers
-  - Transactions of the New York Academy of Sciences
   - Transactions of the Philological Society
   - Transactions on Emerging Telecommunications Technologies
   - Transboundary and Emerging Diseases
@@ -1624,17 +1636,14 @@ journals:
   - Ultrasound in Obstetrics and Gynaecology
   - Ultrasound in Obstetrics and Gynecology
   - UnternehmerBrief Bauwirtschaft
-  - Unterrichtspraxis
   - Veterinary Anaesthesia and Analgesia
   - Veterinary Clinical Pathology
   - Veterinary Dermatology
   - Veterinary Medicine and Science
-  - Veterinary Nursing Journal
   - Veterinary Ophthalmology
   - Veterinary Radiology and Ultrasound
   - Veterinary Surgery
   - Veterinary and Comparative Oncology
-  - Volunteer Management Report
   - Vox Sanguinis
   - Water Law
   - Water and Environment Journal
@@ -1659,7 +1668,6 @@ journals:
   - Wilmott
   - Wilmott Journal
   - Wind Energy
-  - Women in Higher Education
   - WorkingUSA
   - World Banking Abstracts
   - World Economy
@@ -1667,8 +1675,6 @@ journals:
   - World Medical and Health Policy
   - World Oil Trade
   - World Psychiatry
-  - World Stroke Academy
-  - World of Work Report
   - Worldviews on Evidence-Based Nursing
   - Wound Repair and Regeneration
   - X-Ray Spectrometry
@@ -1679,9 +1685,6 @@ journals:
   - ZAMM
   - Zeitschrift für Chemie
   - Zeitschrift für Tierpsychologie
-  - Zentralblatt für Veterinärmedizin
-  - Zentralblatt für Veterinärmedizin Reihe A
-  - Zentralblatt für Veterinärmedizin Reihe B
   - Zoo Biology
   - Zoologica Scripta
   - Zoonoses and Public Health

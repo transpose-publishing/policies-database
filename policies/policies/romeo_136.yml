@@ -21,7 +21,6 @@ journals:
   - Journal of Korean Religions
   - Journal of World History
   - Korean Studies
-  - Language Documentation and Conservation
   - Oceanic Linguistics
   - Pacific Science
   - Philosophy East and West
@@ -30,6 +29,10 @@ journals:
   - "US - Japan Women's Journal: English Supplement"
   - Yearbook of the Association of Pacific Coast Geographers
   - Yishu
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Language Documentation and Conservation
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

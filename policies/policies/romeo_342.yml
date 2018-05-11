@@ -9,13 +9,16 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Bulletin of the World Health Organization
-  - Eastern Mediterranean Health Journal
   - Pan American Journal of Public Health
   - Revista Panamericana de Salud Pública
   - WHO South-East Asia Journal of Public Health
-  - Western Pacific Surveillance and Response
   - World Health Forum
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Bulletin of the World Health Organization
+  - Eastern Mediterranean Health Journal
+  - Western Pacific Surveillance and Response
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

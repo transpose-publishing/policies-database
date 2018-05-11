@@ -13,11 +13,14 @@ journals:
   - Annals of Applied Statistics
   - Annals of Probability
   - Annals of Statistics
+  - Statistical Science
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Electronic Communications in Probability
   - Electronic Journal of Probability
   - Electronic Journal of Statistics
   - Probability Surveys
-  - Statistical Science
   - Statistics Surveys
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

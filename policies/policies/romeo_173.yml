@@ -12,7 +12,6 @@ journals:
   - Archaeoastronomy
   - Art Lies
   - Asian Music
-  - Cinema Journal
   - Genders
   - Information and Culture
   - Journal of Individual Psychology
@@ -25,6 +24,10 @@ journals:
   - Studies in Latin American Popular Culture
   - Texas Studies in Literature and Language
   - Velvet Light Trap
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Cinema Journal
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

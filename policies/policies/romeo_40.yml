@@ -9,46 +9,52 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Applied Physics Express
+  - Chinese Physics B
+  - Chinese Physics Letters
+  - Communications in Theoretical Physics
+  - Fluid Dynamics Research
+  - Japanese Journal of Applied Physics
+  - Journal of Geophysics and Engineering
+  - 'Journal of Physics A: Mathematical and General'
+  - 'Journal of Physics E: Scientific Instruments'
+  - Journal of Semiconductors
+  - Plasma Science and Technology
+  - Research in Astronomy and Astrophysics
+  - Science Foundation in China
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - 2D Materials
   - 'Advances in Natural Sciences: Nanoscience and Nanotechnology'
-  - Applied Physics Express
   - Biofabrication
   - Bioinspiration and Biomimetics
   - Biomedical Materials
   - Biomedical Physics and Engineering Express
-  - Chinese Physics B
   - Chinese Physics C
-  - Chinese Physics Letters
   - Classical and Quantum Gravity
-  - Communications in Theoretical Physics
   - Computational Science and Discovery
   - Convergent Science Physical Oncology
   - Environmental Research Letters
   - Flexible and Printed Electronics
-  - Fluid Dynamics Research
   - 'IOP Conference Series: Earth and Environmental Science'
   - 'IOP Conference Series: Materials Science and Engineering'
   - Inverse Problems
-  - Japanese Journal of Applied Physics
   - Journal of Breath Research
   - Journal of Cosmology and Astroparticle Physics
-  - Journal of Geophysics and Engineering
   - Journal of Instrumentation
   - Journal of Micromechanics and Microengineering
   - Journal of Neural Engineering
   - Journal of Optics
   - 'Journal of Optics A: Pure and Applied Optics'
-  - 'Journal of Physics A: Mathematical and General'
   - 'Journal of Physics A: Mathematical and Theoretical'
   - 'Journal of Physics B: Atomic, Molecular and Optical Physics'
   - Journal of Physics Communications
   - 'Journal of Physics D: Applied Physics'
-  - 'Journal of Physics E: Scientific Instruments'
   - 'Journal of Physics G: Nuclear and Particle Physics'
   - 'Journal of Physics: Condensed Matter'
   - 'Journal of Physics: Conference Series'
   - Journal of Radiological Protection
-  - Journal of Semiconductors
   - 'Journal of Statistical Mechanics: Theory and Experiment'
   - Laser Physics Letters
   - Materials Research Express
@@ -66,13 +72,10 @@ journals:
   - Physics in Medicine and Biology
   - Physiological Measurement
   - Plasma Physics and Controlled Fusion
-  - Plasma Science and Technology
   - Plasma Sources Science and Technology
   - Publications of the Astronomical Society of the Pacific
   - Quantum Science and Technology
   - Reports on Progress in Physics
-  - Research in Astronomy and Astrophysics
-  - Science Foundation in China
   - Semiconductor Science and Technology
   - Smart Materials and Structures
   - Superconductor Science and Technology

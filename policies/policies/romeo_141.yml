@@ -227,6 +227,9 @@ journals:
   - Распознавание образов и анализ изображе&#1085
   - Физикохимия поверхности и защита матери&#1072
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

@@ -25,14 +25,12 @@ journals:
   - Catalysis Science and Technology
   - Chemical Communications
   - Chemical Communications (London)
-  - Chemical Science
   - Chemical Society Reviews
   - Chemistry Education Research and Practice
   - Contemporary Organic Synthesis
   - CrystEngComm
   - Dalton Transactions
   - Discussions of the Faraday Society
-  - Education in Chemistry
   - Energy and Environmental Science
   - 'Environmental Science: Nano'
   - 'Environmental Science: Processes and Impacts'
@@ -87,7 +85,6 @@ journals:
   - Proceedings of the Society for Analytical Chemistry
   - Quarterly Journal of the Chemical Society of London
   - Quarterly Reviews Chemical Society
-  - RSC Advances
   - Reaction Chemistry and Engineering
   - Royal Institute of Chemistry, Reviews
   - Selected Annual Reviews of the Analytical Sciences
@@ -96,6 +93,12 @@ journals:
   - Sustainable Energy and Fuels
   - Symposia of the Faraday Society
   - Transactions of the Faraday Society
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Chemical Science
+  - Education in Chemistry
+  - RSC Advances
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

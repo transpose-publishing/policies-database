@@ -9,7 +9,6 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - 'Arlíquido: Revista de Design da Universidade Lusíada de Lisboa'
   - Child and Adolescent Psychology
   - International Journal of Engineering and Industrial Management
   - Lusiada Architecture Journal
@@ -17,7 +16,6 @@ journals:
   - Lusiada. History
   - Lusiada. International Politics and Security
   - Lusiada. Law
-  - Lusíada. Arqueologia, História da Arte e Património
   - Lusíada. Direito
   - Lusíada. Economia & Empresa
   - Lusíada. História
@@ -30,6 +28,11 @@ journals:
   - Revista de Psicologia da Criança e do Adolescente
   - Social Intervention
   - lntervenção Social
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - 'Arlíquido: Revista de Design da Universidade Lusíada de Lisboa'
+  - Lusíada. Arqueologia, História da Arte e Património
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

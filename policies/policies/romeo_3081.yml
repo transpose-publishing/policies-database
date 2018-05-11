@@ -12,8 +12,11 @@ journals:
   - Bergen Journal of Criminal Law and Criminal Justice
   - Bergen Language and Linguistics Studies
   - Journal of Prison Education and Reentry
-  - Nordic Journal of Information Literacy in Higher Education
   - Nordisk tidsskrift i veiledningspedagogikk
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Nordic Journal of Information Literacy in Higher Education
   - 'Voices: A World Forum for Music Therapy'
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

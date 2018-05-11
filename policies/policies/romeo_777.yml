@@ -15,17 +15,13 @@ journals:
   - Butlletí de la Institució Catalana d'Història Natural
   - Butlletí de la Societat Catalana d'Estudis Històrics
   - Butlletí de la Societat Catalana de Matemàtiques
-  - Catalan Historical Review
   - Catalan Social Sciences Review
   - Comunicació. Revista de recerca i d'anàlisi
   - Contributions to Science
-  - Dossiers Agraris
   - Educació Química
   - "Educació i Història: Revista d'Història de l'Educació"
   - Estudis Romànics
   - Gazeta
-  - International Microbiology
-  - Lectora
   - Llengua & Literatura
   - Miscel·lània Litúrgica Catalana
   - Mètode
@@ -36,19 +32,26 @@ journals:
   - Revista Catalana de Dret Privat
   - Revista Catalana de Micologia
   - Revista Catalana de Musicologia
-  - Revista Catalana de Pedagogia
   - Revista Catalana de Sociologia
-  - Revista de Dret Històric Català
   - Revista de Física
   - Revista de Tecnologia
   - Revista de la Societat Catalana de Química
-  - TAMID
   - Tecnologia i Ciència dels Aliments
   - Terminàlia
   - Treballs de Sociolingüística Catalana
   - Treballs de la Societat Catalana de Biologia
-  - Treballs de la Societat Catalana de Geografia
   - 'Ítaca: Quaderns Catalans de Cultura Clàssica'
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Catalan Historical Review
+  - Dossiers Agraris
+  - International Microbiology
+  - Lectora
+  - Revista Catalana de Pedagogia
+  - Revista de Dret Històric Català
+  - TAMID
+  - Treballs de la Societat Catalana de Geografia
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

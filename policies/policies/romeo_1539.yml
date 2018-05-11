@@ -12,6 +12,9 @@ journals:
   - ACEE International Journal on Civil and Environmental Engineering
   - ACEE International Journal on Transportation and Urban Development
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

@@ -11,8 +11,11 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Columbia Journal of Race and Law
-  - Columbia Social Work Review
   - Consilience
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Columbia Social Work Review
   - Tremor and Other Hyperkinetic Movements
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

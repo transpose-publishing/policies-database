@@ -11,6 +11,9 @@ policy-heading: '[Default policy]'
 journals:
   - Genes and Development
   - Genome Research
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Learning and Memory
   - RNA
 
@@ -103,13 +106,13 @@ preprint-version: before review only
 preprint-time: before acceptance only
 
 # Can preprints be cited in the reference list? (yes/no)
-preprint-citation: 
+preprint-citation:
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers: community preprint servers
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
-preprint-media: Submitted manuscripts are subject to press embargo 
+preprint-media: Submitted manuscripts are subject to press embargo
 
 # url for preprint-media
 preprint-media-url: http://genesdev.cshlp.org/site/misc/ifora.xhtml

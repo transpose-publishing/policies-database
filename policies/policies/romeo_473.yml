@@ -13,8 +13,6 @@ journals:
   - Geriatric and Medical Intelligence
   - Giornale Italiano di Nefrologia
   - Giornale di Tecniche Nefrologiche e Dialitiche
-  - Global and Regional Health Technology Assessment
-  - Heart International
   - Hip International
   - Journal of Applied Biomaterials and Biomechanics
   - Journal of Applied Biomaterials and Functional Materials
@@ -29,6 +27,11 @@ journals:
   - Tumori Journal
   - Urologia
   - international Journal of Biological Markers
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Global and Regional Health Technology Assessment
+  - Heart International
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

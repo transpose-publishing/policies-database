@@ -15,7 +15,6 @@ journals:
   - Interface Focus
   - Notes and Records of the Royal Society
   - Notes and records of the Royal Society of London
-  - Open Biology
   - 'Philosophical Transactions A: Mathematical, Physical and Engineering Sciences'
   - 'Philosophical Transactions B: Biological Sciences'
   - 'Philosophical transactions of the Royal Society of London. Series A: Mathematical
@@ -29,6 +28,10 @@ journals:
   - Proceedings of the Royal Society of London. Series B
   - Proceedings of the Royal Society of London. Series B, Containing papers of a Biological
     character. Royal Society (Great Britain)
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Open Biology
   - Royal Society Open Science
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

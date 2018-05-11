@@ -15,7 +15,6 @@ journals:
   - Acta Antiqua
   - Acta Biologica Hungarica
   - Acta Botanica Hungarica
-  - Acta Chromatographica
   - Acta Ethnographica Hungarica
   - Acta Geodaetica et Geophysica Hungarica
   - Acta Geologica Hungarica
@@ -30,17 +29,14 @@ journals:
   - Akadémiai Értesítö
   - Antik Tanulmányok
   - Archaeologiai Értesitö
-  - Central European Geology
   - Cereal Research Communications
   - Clinical and Experimental Medical Journal
   - Community Ecology
   - European Journal of Mental Health
-  - European Journal of Microbiology and Immunology
   - Hungarian Journal of Surgery
   - Hungarian Medical Journal
   - Hungarian Studies
   - Interventional Medicine and Applied Science
-  - Journal of Behavioral Addictions
   - Journal of Cultural and Evolutionary Psychology
   - Journal of Evolutionary Psychology
   - Journal of Flow Chemistry
@@ -52,7 +48,6 @@ journals:
   - Magyar Terminológia
   - Mentálhigiéné es Pszichoszomatika
   - Müvészettörténeti Értesitö
-  - Nanopages
   - Növénytermelés
   - Orvosi Hetilap
   - Pollack Periodica
@@ -70,6 +65,14 @@ journals:
   - Társadalomkutatás
   - Verbum
   - Épités - Épitészettudomány
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Acta Chromatographica
+  - Central European Geology
+  - European Journal of Microbiology and Immunology
+  - Journal of Behavioral Addictions
+  - Nanopages
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

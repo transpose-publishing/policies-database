@@ -11,6 +11,9 @@ policy-heading: '[Default policy]'
 journals:
   - Journal for the Study of Paul and His Letters
   - Journal of Theological Interpretation
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Pennsylvania History
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

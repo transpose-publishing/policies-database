@@ -18,61 +18,64 @@ journals:
   - Complex Metals
   - Dermato-Endocrinology
   - Development Studies Research
-  - Diabetic Foot and Ankle
   - Drug Delivery
   - Economics and Finance Research
-  - Education Inquiry
   - Endocrine Disruptors
-  - Ethics and Global Politics
-  - European Clinical Respiratory Journal
-  - European Journal of Psychotraumatology
-  - European Zoological Journal
-  - Food and Nutrition Research
   - Geo-Spatial Information Scienc
   - Geo-Spatial Information Science
   - Geomatics, Natural Hazards and Risk
   - Global Bioethics
-  - Global Health Action
   - Health Psychology and Behavioral Medicine
-  - Infection Ecology and Epidemiology
   - International Journal of Adolescence and Youth
   - International Journal of Biodiversity Science Ecosystem Services and Management
-  - International Journal of Circumpolar Health
   - International Journal of Smart and Nano Materials
-  - Journal of Aesthetics and Culture
-  - Journal of Community Hospital Internal Medicine Perspectives
-  - Journal of European CME
-  - Journal of Extracellular Vesicles
   - Journal of Maps
-  - Journal of Oral Microbiology
   - Journal of Organic Semiconductors
-  - Libyan Journal of Medicine
   - London Journal of Primary Care
   - Marine and Coastal Fisheries
   - Materials Research Letters
-  - Medical Education Online
-  - Microbial Ecology in Health and Disease
   - 'Mitochondrial DNA Part B: Resources'
-  - Nano Reviews and Experiments
   - Nanoscience Methods
   - Neotropical Biodiversity
-  - Pathobiology of Aging and Age-related Diseases
-  - Polar Research
   - Policy and Society
   - Production and Manufacturing Research
   - Quantitative Finance Letters
   - Rare Diseases
   - Redox Report
-  - Research in Learning Technology
   - 'SAHARA-J: Journal of Social Aspects of HIV/AIDS'
   - Scandinavian Journal of Primary Health Care
   - Science and Technology of Archaeological Research
+  - Systems Science and Control Engineering
+  - Urban, Planning and Transport Research
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Diabetic Foot and Ankle
+  - Education Inquiry
+  - Ethics and Global Politics
+  - European Clinical Respiratory Journal
+  - European Journal of Psychotraumatology
+  - European Zoological Journal
+  - Food and Nutrition Research
+  - Global Health Action
+  - Infection Ecology and Epidemiology
+  - International Journal of Circumpolar Health
+  - Journal of Aesthetics and Culture
+  - Journal of Community Hospital Internal Medicine Perspectives
+  - Journal of European CME
+  - Journal of Extracellular Vesicles
+  - Journal of Oral Microbiology
+  - Libyan Journal of Medicine
+  - Medical Education Online
+  - Microbial Ecology in Health and Disease
+  - Nano Reviews and Experiments
+  - Pathobiology of Aging and Age-related Diseases
+  - Polar Research
+  - Research in Learning Technology
   - Society, Health and Vulnerability
   - Socioaffective Neuroscience and Psychology
-  - Systems Science and Control Engineering
   - Tellus A
   - Tellus B
-  - Urban, Planning and Transport Research
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:

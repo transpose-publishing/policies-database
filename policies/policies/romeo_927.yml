@@ -9,31 +9,15 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Altorientalische Forschungen
-  - Archäologisches Nachrichtenblatt
   - Automatisierungstechnik
-  - Bildwelten des Wissens
   - Danubiana Carpathica
-  - Deutsche Zeitschrift für Philosophie
-  - Economic History Yearbook
-  - Gegenworte
-  - Hegel-Jahrbuch
   - Historische Bibliographie Online
   - Historische Zeitschrift
   - Information Technology
-  - Internationales Jahrbuch für Philosophische Anthropologie
-  - Jahrbuch für Wirtschaftsgeschichte
-  - Klio
   - Militärgeschichtliche Zeitschrift
   - Mitteilungen des Instituts für Österreichische Geschichtsforschung
-  - Mittelalter
-  - Nietzscheforschung
-  - Orientalistische Literaturzeitung
-  - Paragrana
-  - Philologus
   - Proceedings in Radiochemistry
   - Radiochimica Acta
-  - STUF
   - Schriftenreihe der Vierteljahrshefte für Zeitgeschichte
   - Soziologische Revue
   - Statistics and Decisions
@@ -46,12 +30,31 @@ journals:
   - Zeitschrift für Kristallographie - New Crystal Structures
   - Zeitschrift für Kristallographie Proceedings
   - Zeitschrift für Kristallographie Supplements
-  - Zeitschrift für Medienwissenschaft
   - Zeitschrift für Physikalische Chemie
+  - i-com
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Altorientalische Forschungen
+  - Archäologisches Nachrichtenblatt
+  - Bildwelten des Wissens
+  - Deutsche Zeitschrift für Philosophie
+  - Economic History Yearbook
+  - Gegenworte
+  - Hegel-Jahrbuch
+  - Internationales Jahrbuch für Philosophische Anthropologie
+  - Jahrbuch für Wirtschaftsgeschichte
+  - Klio
+  - Mittelalter
+  - Nietzscheforschung
+  - Orientalistische Literaturzeitung
+  - Paragrana
+  - Philologus
+  - STUF
+  - Zeitschrift für Medienwissenschaft
   - Zeitschrift für Slawistik
   - Zeitschrift für Ägyptische Sprache und Altertumskunde
   - Zurich Studies in the History of Art
-  - i-com
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:

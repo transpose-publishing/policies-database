@@ -14,9 +14,6 @@ journals:
   - Analgesia, An International Journal
   - Bird Behavior
   - Cancer Prevention International
-  - Cell Medicine
-  - 'Cell Medicine: Part B of Cell Transplantation'
-  - Cell Transplantation
   - Event Management
   - Failure and Lessons Learned in Information Technology Management
   - Festival Management and Event Tourism
@@ -32,6 +29,12 @@ journals:
   - Tourism Review International
   - Tourism in Marine Environments
   - Tourism, Culture and Communication
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Cell Medicine
+  - 'Cell Medicine: Part B of Cell Transplantation'
+  - Cell Transplantation
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

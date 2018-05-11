@@ -15,6 +15,9 @@ journals:
   - Issues in Biological Sciences and Pharmaceutical Research
   - Issues in Business Management and Economics
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

@@ -9,20 +9,23 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - De Zeventiende Eeuw. Cultuur in de Nederlanden in interdisciplinair perspectief
   - Early Modern Low Countries
+  - International Journal of the Commons
+  - Journal of Social and Economic History
+  - Religion and Gender
+  - Tijdschrift voor Sociale en Economische Geschiedenis
+  - Tijdschrift voor Tijdschriftstudies
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - De Zeventiende Eeuw. Cultuur in de Nederlanden in interdisciplinair perspectief
   - Incontri. Rivista europea di studi italiani
   - International Journal for Court Administration
   - International Journal for History, Culture and Modernity
-  - International Journal of the Commons
   - Journal of Social Intervention
-  - Journal of Social and Economic History
   - RELIEF - Revue Électronique de Littérature Française
-  - Religion and Gender
   - "Studium: Tijdschrift voor Wetenschaps- en Universiteits-geschiedenis | Revue\
     \ d'Histoire des Sciences et des Universités"
-  - Tijdschrift voor Sociale en Economische Geschiedenis
-  - Tijdschrift voor Tijdschriftstudies
   - Utrecht Law Review
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

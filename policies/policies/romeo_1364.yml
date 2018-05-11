@@ -19,7 +19,6 @@ journals:
   - Ciencias Económicas
   - Cuadernos Inter.c.a.mbio sobre Centroamérica y el Caribe
   - Cuadernos de Antropología
-  - Diálogos Revista Electrónica de Historia
   - Gestión de la educación
   - Herencia
   - Infraestructura Vial
@@ -29,12 +28,16 @@ journals:
   - Reflexiones
   - RevistArquis
   - Revista Educación
-  - Revista Ingeniería
   - Revista de Biología Tropical
   - Revista de Filología y Lingüística
   - 'Revista de Matemática: Teoría y Aplicaciones'
-  - Revista humanidades
   - Wímb Lu
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Diálogos Revista Electrónica de Historia
+  - Revista Ingeniería
+  - Revista humanidades
   - e-Ciencias de la Información
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

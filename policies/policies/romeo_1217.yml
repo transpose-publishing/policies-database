@@ -10,20 +10,23 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Altre Modernità
-  - Enthymema
-  - Food In
-  - 'Interfaces: A Journal of Medieval European Literatures'
   - Italiano LinguaDue
   - Itinera
   - LANX.
   - Lebenswelt
   - Research In Paleontology and Stratigraphy
-  - Rivista Italiana di Filosofia Analitica - Junior
   - Rivista Italiana di Paleontologia e Stratigrafia
-  - Roars Transactions
   - Stato, Chiese e pluralismo confessionale
   - Studia austriaca
   - Studia theodisca
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Enthymema
+  - Food In
+  - 'Interfaces: A Journal of Medieval European Literatures'
+  - Rivista Italiana di Filosofia Analitica - Junior
+  - Roars Transactions
   - Tintas
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

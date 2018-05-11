@@ -103,6 +103,9 @@ journals:
   - Studies in Spanish and Latin American Cinemas
   - 'Ubiquity: The Journal of Pervasive Media'
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

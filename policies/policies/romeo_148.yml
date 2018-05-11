@@ -395,6 +395,9 @@ journals:
   - World Review of Intermodal Transportation Research
   - World Review of Science, Technology and Sustainable Development
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

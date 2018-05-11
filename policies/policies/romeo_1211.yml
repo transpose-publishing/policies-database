@@ -9,8 +9,11 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Bulletin de l'Institut Français d'Etudes Andines
   - Travaux de l'Institut Français d'Etudes Andines
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Bulletin de l'Institut Français d'Etudes Andines
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

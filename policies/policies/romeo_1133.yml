@@ -13,8 +13,6 @@ journals:
   - Academische Boekengids
   - Dutch Journal of Music Theory
   - Graduate Journal of Social Science
-  - International Dutch Studies
-  - Internationale Neerlandistiek
   - Journal for Archaeology in the Low Countries
   - Journal for Gender Studies
   - Journal of Dutch Literature
@@ -28,6 +26,11 @@ journals:
   - Tijdschrift voor Geschiedenis
   - Tijdschrift voor Muziektheorie
   - Tijdschrift voor taalbeheersing
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - International Dutch Studies
+  - Internationale Neerlandistiek
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

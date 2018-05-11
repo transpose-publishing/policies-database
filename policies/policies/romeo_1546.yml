@@ -17,6 +17,9 @@ journals:
   - UCL Child Health Open Research
   - Wellcome Open Research
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 
@@ -105,7 +108,8 @@ preprint-time: anytime
 preprint-citation:
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers: Articles previously posted on a preprint server, such as ArXiv, bioRxiv, AgriXiv or PeerJ PrePrints can be submitted for publication in F1000Research. 
+acceptable-servers: Articles previously posted on a preprint server, such as ArXiv,
+  bioRxiv, AgriXiv or PeerJ PrePrints can be submitted for publication in F1000Research.
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:

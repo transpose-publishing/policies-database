@@ -12,6 +12,9 @@ journals:
   - Annales de l'Institut Henri Poincaré (B) Probability and Statistics
   - Annales de l'Institut Henri Poincaré (B) Probabilités et Statistiques
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

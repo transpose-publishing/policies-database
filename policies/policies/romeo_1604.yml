@@ -15,6 +15,9 @@ journals:
   - Natsional'naya Akademiya Nauk Armenii. Izvestiya. Seriya Mekhanika
   - 'Proceedings of NAS RA: Mechanics'
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_1603

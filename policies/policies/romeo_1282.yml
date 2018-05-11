@@ -12,6 +12,9 @@ journals:
   - Revista de la Sociedad Otorrinolaringológica de Castilla y León, Cantabria y La
     Rioja
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

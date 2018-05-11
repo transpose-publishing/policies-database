@@ -9,10 +9,77 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - ALT-J
+  - Ankara Papers
+  - Annotated Bibliography of English Studies
+  - Artifact
+  - Australian Cultural History
+  - Bioscience Education
+  - Business and Management Education in HE
+  - Colonial Latin American Review
+  - Commonwealth and Comparative Politics
+  - Consumption, Markets and Culture
+  - Contents Pages in Education
+  - Education and the Law
+  - Education, Knowledge and Economy
+  - Effective Education
+  - Engineering Education
+  - Enhancing Learning in the Social Sciences
+  - Environmental Bioindicators
+  - Ethics, Place and Environment
+  - European Journal of Legal Education
+  - Evaluation and Research in Education
+  - 'Food Additives and Contaminants: Part A: Chemistry, Analysis, Control, Exposure
+    and Risk Assessment'
+  - Footwear Science
+  - Health and Social Care Education
+  - Higher Education in Europe
+  - Homily Service
+  - ITALICS
+  - Indian Journal of Industrial and Applied Mathematics
+  - Infant Observation
+  - Journal for Education in the Built Environment
+  - Journal of Applied Management Studies
+  - Journal of Commonwealth Law and Legal Education
+  - Journal of Communist Studies and Transition Politics
+  - Journal of Euromarketing
+  - Journal of Hospital Marketing and Public Relations
+  - Journal of Immigrant and Refugee Studies
+  - Journal of Islamic Law and Culture
+  - Journal of LGBT Health Research
+  - Journal of Neurotherapy
+  - Journal of North African Studies
+  - Journal of Nutrition for the Elderly
+  - Journal of Power
+  - Journal of Vocational Education and Training
+  - Knowledge Management for Development Journal
+  - Korean Journal of Defense Analysis
+  - LOOP - Tidskriften om Lederskap Organisasjon och Personal
+  - Low Intensity Conflict and Law Enforcement
+  - Minerals and Energy - Raw Materials Report
+  - Myth and Symbol
+  - Pedagogy, Culture and Society
+  - Planet
+  - Psychoanalytic Perspectives
+  - Qualitative Research in Sport and Exercise
+  - 'Radical Society: Review of Culture and Politics'
+  - Resource Sharing and Information Networks
+  - Review - Literature and Arts of the Americas
+  - Review of International Affairs
+  - Shakespeare
+  - South European Society and Politics
+  - Storytelling, Self, Society
+  - Totalitarian Movements and Political Religions
+  - Tourism Planning and Development
+  - Tourism and Hospitality Planning and Development
+  - 'Twenty-first Century Society: Journal of the Academy of Social Sciences'
+  - Visual Cognition
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - AAG Review of Books
   - AIDS Care
   - AJOB Neuroscience
-  - ALT-J
   - 'ANQ: A Quarterly Journal of Short Articles, Notes and Reviews'
   - Academy of Management Annals
   - Accounting Education
@@ -66,11 +133,9 @@ journals:
   - American Review of Canadian Studies
   - Anatolia
   - Angelaki
-  - Ankara Papers
   - Annals of Leisure Research
   - Annals of the American Association of Geographers
   - Annals of the Association of American Geographers
-  - Annotated Bibliography of English Studies
   - Anthropological Forum
   - Anthropology and Archeology of Eurasia
   - Anthropology and Medicine
@@ -100,7 +165,6 @@ journals:
   - Art Bulletin
   - Art Journal
   - Art Therapy
-  - Artifact
   - Arts Education Policy Review
   - 'Arts and Health: An International Journal for Research, Policy and Practice'
   - Asia Pacific Business Review
@@ -135,7 +199,6 @@ journals:
   - Australasian Journal of Philosophy
   - Australian Academic and Research Libraries
   - Australian Archaeology
-  - Australian Cultural History
   - Australian Feminist Law Journal
   - Australian Feminist Studies
   - Australian Geographer
@@ -157,7 +220,6 @@ journals:
   - Bereavement Care
   - Bilingual Research Journal
   - Biodemography and Social Biology
-  - Bioscience Education
   - Black Scholar
   - Body, Movement and Dance in Psychotherapy
   - British Journal for the History of Philosophy
@@ -171,7 +233,6 @@ journals:
   - Bulletin of Spanish Studies
   - Bulletin of the Atomic Scientists
   - Business History
-  - Business and Management Education in HE
   - Cambridge Journal of Education
   - Cambridge Review of International Affairs
   - Canadian Foreign Policy Journal
@@ -226,9 +287,7 @@ journals:
   - Cold War History
   - College Teaching
   - College and Undergraduate Libraries
-  - Colonial Latin American Review
   - Commonwealth Law Bulletin
-  - Commonwealth and Comparative Politics
   - 'Communicatio: South African Journal for Communication Theory and Research'
   - Communication Booknotes Quarterly
   - Communication Education
@@ -256,7 +315,6 @@ journals:
   - Conflict, Security and Development
   - 'Congress and the Presidency: A Journal of Capital Studies'
   - Construction Management and Economics
-  - Consumption, Markets and Culture
   - Contemporary Arab Affairs
   - Contemporary British History
   - Contemporary Buddhism
@@ -270,7 +328,6 @@ journals:
   - Contemporary Social Science
   - Contemporary South Asia
   - Contemporary Theatre Review
-  - Contents Pages in Education
   - Continuum
   - Counselling Psychology Quarterly
   - Creativity Research Journal
@@ -353,9 +410,7 @@ journals:
   - 'Ecquid Novi: African Journalism Studies'
   - Education 3-13
   - Education Economics
-  - Education and the Law
   - Education as Change
-  - Education, Knowledge and Economy
   - Educational Action Research
   - Educational Assessment
   - Educational Forum
@@ -372,19 +427,15 @@ journals:
   - Educational Review
   - Educational Studies
   - Educational Technology Abstracts
-  - Effective Education
   - Emerging Markets Finance and Trade
   - Emotional and Behavioural Difficulties
-  - Engineering Education
   - Engineering Studies
   - 'English Academy Review: Southern African Journal of English Studies'
   - English Studies
   - English Studies in Africa
-  - Enhancing Learning in the Social Sciences
   - Entrepreneurship and Regional Development
   - 'Environment: Science and Policy for Sustainable Development'
   - Environmental Archaeology
-  - Environmental Bioindicators
   - Environmental Claims Journal
   - Environmental Communication
   - Environmental Education Research
@@ -393,7 +444,6 @@ journals:
   - Ethics and Behavior
   - Ethics and Education
   - Ethics and Social Welfare
-  - Ethics, Place and Environment
   - Ethics, Policy and Environment
   - Ethnic and Racial Studies
   - Ethnicity and Health
@@ -413,7 +463,6 @@ journals:
   - European Journal of English Studies
   - European Journal of Finance
   - European Journal of Higher Education
-  - European Journal of Legal Education
   - European Journal of Psychotherapy and Counselling
   - European Journal of Social Work
   - European Journal of Special Needs Education
@@ -428,7 +477,6 @@ journals:
   - European Security
   - European Societies
   - European Sport Management Quarterly
-  - Evaluation and Research in Education
   - Evidence-Based Communication Assessment and Intervention
   - Exceptionality
   - Exemplaria
@@ -443,12 +491,9 @@ journals:
   - First Amendment Studies
   - First World War Studies
   - Folklore
-  - 'Food Additives and Contaminants: Part A: Chemistry, Analysis, Control, Exposure
-    and Risk Assessment'
   - Food Economics
   - Food and Foodways
   - Food, Culture and Society
-  - Footwear Science
   - Forum for Development Studies
   - Gender and Development
   - Gender and Education
@@ -476,11 +521,9 @@ journals:
   - Health Marketing Quarterly
   - Health Psychology Review
   - Health Sociology Review
-  - Health and Social Care Education
   - Health, Risk and Society
   - High Ability Studies
   - Higher Education Research and Development
-  - Higher Education in Europe
   - 'Historic Environment: Policy and Practice'
   - Historical Journal of Film, Radio and Television
   - 'Historical Methods: A Journal of Quantitative and Interdisciplinary History'
@@ -493,7 +536,6 @@ journals:
   - Holocaust Studies
   - Home Cultures
   - Home Health Care Services Quarterly
-  - Homily Service
   - Hospital Topics
   - Housing Policy Debate
   - Housing Studies
@@ -503,18 +545,15 @@ journals:
   - Human Dimensions of Wildlife
   - Human Resource Development International
   - Humanistic Psychologist
-  - ITALICS
   - Ibsen Studies
   - Identities
   - Identity
   - Imago Mundi
   - Immigrants and Minorities
   - India Review
-  - Indian Journal of Industrial and Applied Mathematics
   - Indonesia and the Malay World
   - Industrial Archaeology Review
   - Industry and Innovation
-  - Infant Observation
   - Information Society
   - Information Technology for Development
   - Information and Communications Technology Law
@@ -648,7 +687,6 @@ journals:
   - Jewish Culture and History
   - Jewish Quarterly
   - Journal for Cultural Research
-  - Journal for Education in the Built Environment
   - Journal for Maritime Research
   - Journal for Specialists in Group Work
   - Journal for the Study of Spirituality
@@ -667,7 +705,6 @@ journals:
   - Journal of American College Health
   - Journal of Applied Animal Welfare Science
   - Journal of Applied Communication Research
-  - Journal of Applied Management Studies
   - Journal of Applied School Psychology
   - Journal of Applied Security Research
   - Journal of Applied Statistics
@@ -708,8 +745,6 @@ journals:
   - Journal of Cognition and Development
   - Journal of Cognitive Psychology
   - Journal of College Student Psychotherapy
-  - Journal of Commonwealth Law and Legal Education
-  - Journal of Communist Studies and Transition Politics
   - Journal of Community Health Nursing
   - Journal of Community Practice
   - Journal of Comparative Asian Development
@@ -767,7 +802,6 @@ journals:
   - Journal of Ethnic and Migration Studies
   - Journal of Ethnicity in Criminal Justice
   - Journal of Ethnicity in Substance Abuse
-  - Journal of Euromarketing
   - Journal of European Integration
   - Journal of European Public Policy
   - Journal of Evidence-Based Social Work
@@ -806,7 +840,6 @@ journals:
   - Journal of Higher Education Policy and Management
   - Journal of Homosexuality
   - Journal of Hospital Librarianship
-  - Journal of Hospital Marketing and Public Relations
   - Journal of Hospitality Financial Management
   - Journal of Hospitality Marketing and Management
   - Journal of Hospitality and Tourism Education
@@ -817,7 +850,6 @@ journals:
   - Journal of Human Rights
   - Journal of Iberian and Latin American Research
   - Journal of Iberian and Latin American Studies
-  - Journal of Immigrant and Refugee Studies
   - Journal of Imperial and Commonwealth History
   - Journal of Infant, Child, and Adolescent Psychotherapy
   - Journal of Information Technology Case and Application Research
@@ -836,12 +868,10 @@ journals:
   - Journal of International and Intercultural Communication
   - Journal of Internet Commerce
   - Journal of Intervention and Statebuilding
-  - Journal of Islamic Law and Culture
   - Journal of Island and Coastal Archaeology
   - Journal of Israeli History
   - Journal of Japanese and Korean Cinema
   - Journal of Jewish Education
-  - Journal of LGBT Health Research
   - Journal of Landscape Architecture
   - Journal of Language, Identity and Education
   - Journal of Latin American Cultural Studies
@@ -885,11 +915,8 @@ journals:
   - Journal of Musicological Research
   - Journal of Muslim Minority Affairs
   - Journal of Natural Resources Policy Research
-  - Journal of Neurotherapy
   - Journal of New Music Research
   - Journal of Nonprofit and Public Sector Marketing
-  - Journal of North African Studies
-  - Journal of Nutrition for the Elderly
   - Journal of Nutrition in Gerontology and Geriatrics
   - Journal of Occupational Science
   - Journal of Occupational Therapy, Schools and Early Intervention
@@ -916,7 +943,6 @@ journals:
   - Journal of Post Keynesian Economics
   - Journal of Postcolonial Writing
   - Journal of Poverty
-  - Journal of Power
   - Journal of Prevention and Intervention in the Community
   - Journal of Private International Law
   - Journal of Progessive Human Services
@@ -984,7 +1010,6 @@ journals:
   - Journal of Urban Technology
   - Journal of Urbanism
   - Journal of Visual Art Practice
-  - Journal of Vocational Education and Training
   - Journal of Web Librarianship
   - Journal of Wine Research
   - Journal of Women and Aging
@@ -1015,12 +1040,9 @@ journals:
   - Kappa Delta Pi Record
   - Keats-Shelley Review
   - Kings Law Journal
-  - Knowledge Management for Development Journal
   - Konsthistorisk tidskrift/Journal of Art History
-  - Korean Journal of Defense Analysis
   - LEUKOS
   - 'LIT: Literature Interpretation Theory'
-  - LOOP - Tidskriften om Lederskap Organisasjon och Personal
   - Labor History
   - Labour and Industry
   - Landscape History
@@ -1061,7 +1083,6 @@ journals:
   - Local Government Studies
   - Loisir
   - London Review of Education
-  - Low Intensity Conflict and Law Enforcement
   - Luxury
   - Macroeconomics and Finance in Emerging Market Economies
   - Management and Organizational History
@@ -1101,7 +1122,6 @@ journals:
   - Military Balance
   - Military Behavioral Health
   - Mind, Culture, and Activity
-  - Minerals and Energy - Raw Materials Report
   - Mitochondrial DNA Part A
   - Mobilities
   - Modern and Contemporary France
@@ -1115,7 +1135,6 @@ journals:
   - Music Reference Services Quarterly
   - Musicology Australia
   - Muziki
-  - Myth and Symbol
   - NHSA Dialog
   - NORA
   - NORMA - Nordisk tidsskrift for maskulinitetsstudier
@@ -1166,7 +1185,6 @@ journals:
   - Peace Review
   - Peacebuilding
   - 'Pedagogies: An International Journal'
-  - Pedagogy, Culture and Society
   - Peking University Law Journal
   - Performance Research
   - Person-Centered and Experiential Psychotherapies
@@ -1181,7 +1199,6 @@ journals:
   - Photographies
   - Photography and Culture
   - Physical Education and Sport Pedagogy
-  - Planet
   - Planning Perspectives
   - Planning Practice and Research
   - Planning Theory and Practice
@@ -1209,7 +1226,6 @@ journals:
   - Professional Development in Education
   - Professional Geographer
   - Prose Studies
-  - Psychoanalytic Perspectives
   - Psychoanalytic Psychotherapy
   - Psychoanalytic Social Work
   - Psychoanalytical Social Work
@@ -1232,7 +1248,6 @@ journals:
   - Publications of the English Goethe Society
   - Qualitative Research Reports in Communication
   - Qualitative Research in Psychology
-  - Qualitative Research in Sport and Exercise
   - Qualitative Research in Sport, Exercise and Health
   - Quality in Higher Education
   - Quantitative Finance
@@ -1241,7 +1256,6 @@ journals:
   - Quest
   - RUSI Journal
   - Race Ethnicity and Education
-  - 'Radical Society: Review of Culture and Politics'
   - Reading Psychology
   - Reading and Writing Quarterly
   - Records and Information Management Report
@@ -1270,16 +1284,13 @@ journals:
   - Research-Technology Management
   - Residential Treatment for Children and Youth
   - Resilience
-  - Resource Sharing and Information Networks
   - Restorative Justice
   - Rethinking History
   - Rethinking Marxism
-  - Review - Literature and Arts of the Americas
   - Review of African Political Economy
   - Review of Communication
   - Review of Education, Pedagogy and Cultural Studies
   - Review of Faith and International Affairs
-  - Review of International Affairs
   - Review of International Political Economy
   - Review of Political Economy
   - Review of Social Economy
@@ -1336,7 +1347,6 @@ journals:
   - Seventeenth Century
   - Sex Education
   - Sexual Addiction and Compulsivity
-  - Shakespeare
   - 'Sikh Formations: Religion, Culture, Theory'
   - Sixties
   - Slavery and Abolition
@@ -1379,7 +1389,6 @@ journals:
   - South Asian History and Culture
   - South Asian Popular Culture
   - South Asian Studies
-  - South European Society and Politics
   - Southeast European and Black Sea Studies
   - Southern African Linguistics and Applied Language Studies
   - Southern Communication Journal
@@ -1396,7 +1405,6 @@ journals:
   - Stanislavski Studies
   - Statutes and Decisions
   - Stochastics and Stochastics Reports
-  - Storytelling, Self, Society
   - Strategic Analysis
   - Strategic Comments
   - Strategic Survey
@@ -1454,11 +1462,8 @@ journals:
   - Third World Quarterly
   - Time and Mind
   - Total Quality Management and Business Excellence
-  - Totalitarian Movements and Political Religions
   - Tourism Geographies
-  - Tourism Planning and Development
   - Tourism Recreation Research
-  - Tourism and Hospitality Planning and Development
   - Town Planning and Architecture
   - Translation Review
   - Translation Studies
@@ -1467,7 +1472,6 @@ journals:
   - Transport Reviews
   - Transportation Planning and Technology
   - Turkish Studies
-  - 'Twenty-first Century Society: Journal of the Academy of Social Sciences'
   - Urban Geography
   - Urban Policy and Research
   - Urban Research and Practice
@@ -1475,7 +1479,6 @@ journals:
   - Victims and Offenders
   - Visitor Studies
   - Visual Anthropology
-  - Visual Cognition
   - Visual Communication Quarterly
   - Visual Culture in Britain
   - Visual Resources

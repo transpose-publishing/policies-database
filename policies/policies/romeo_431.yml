@@ -18,7 +18,6 @@ journals:
   - International Journal of Oral and Maxillofacial Implants
   - International Journal of Periodontics and Restorative Dentistry
   - International Journal of Prosthodontics
-  - Journal of Adhesive Dentistry
   - Journal of Craniomandibular Function
   - Journal of Oral Laser Applications
   - Journal of Orofacial Pain
@@ -31,6 +30,10 @@ journals:
   - Quintessence International
   - World Journal of Orthodontics
   - Zeitschrift für Kraniomandibuläre Funktion
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Journal of Adhesive Dentistry
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

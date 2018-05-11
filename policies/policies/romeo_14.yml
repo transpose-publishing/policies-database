@@ -42,6 +42,9 @@ journals:
   - Leadership and Management in Engineering
   - Natural Hazards Review
   - Practice Periodical on Structural Design and Construction
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Proceedings of the International Conference on Coastal Engineering
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

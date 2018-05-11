@@ -11,6 +11,9 @@ policy-heading: eJHS
 journals:
   - European Journal of Horticultural Science
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_378

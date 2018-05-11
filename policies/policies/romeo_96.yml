@@ -12,14 +12,12 @@ journals:
   - African American Review
   - American Imago
   - American Jewish History
-  - American Journal of Mathematics
   - American Journal of Philology
   - American Quarterly
   - Arethusa
   - Book History
   - Bookbird
   - Bulletin of the Center for Children's Books
-  - Bulletin of the History of Medicine
   - CEA Critic
   - Callaloo
   - Children's Literature
@@ -93,6 +91,11 @@ journals:
   - Wallace Stevens Journal
   - 'ariel: A Review of International English Literature'
   - 'portal: Libraries and the Academy'
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - American Journal of Mathematics
+  - Bulletin of the History of Medicine
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

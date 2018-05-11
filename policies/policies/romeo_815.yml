@@ -11,14 +11,17 @@ policy-heading: '[Default policy]'
 journals:
   - 'CLCWeb: Comparative Literature and Culture'
   - 'Claritas: Journal of Dialogue and Culture'
-  - 'Education and Culture: The Journal of the John Dewey Society'
   - First Opinions, Second Reactions
   - Interdisciplinary Journal of Problem-based Learning
-  - Journal of Aviation Technology and Engineering
   - Journal of Human Performance in Extreme Environments
   - Journal of Pre-College Engineering Education Research
   - Journal of Problem Solving
   - Journal of Purdue Undergraduate Research
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - 'Education and Culture: The Journal of the John Dewey Society'
+  - Journal of Aviation Technology and Engineering
   - 'Shofar: An Interdisciplinary Journal of Jewish Studies'
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

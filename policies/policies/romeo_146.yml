@@ -9,14 +9,17 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Aquaculture Environment Interactions
-  - Aquatic Biology
   - Aquatic Microbial Ecology
   - Climate Research
   - Diseases of Aquatic Organisms
+  - Marine Ecology Progress Series
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Aquaculture Environment Interactions
+  - Aquatic Biology
   - Endangered Species Research
   - Ethics in Science and Environmental Politics
-  - Marine Ecology Progress Series
   - Sexuality and Early Development in Aquatic Organisms
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

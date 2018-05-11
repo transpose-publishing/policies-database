@@ -9,9 +9,6 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Atomization and Sprays
-  - 'Composites: Mechanics, Computations, Applications, An International Journal'
-  - Computational Thermal Sciences
   - Critical Review in Oncogenesis
   - Critical Reviews in Biomedical Engineering
   - Critical Reviews in Eukaryotic Gene Expression
@@ -21,33 +18,39 @@ journals:
   - Critical Reviews in Therapeutic Drug Carrier Systems
   - Ethics in Biology, Engineering and Medicine
   - Forum on Immunopathological Diseases and Therapeutics
+  - Hydrobiological Journal
+  - International Journal of Medicinal Mushrooms
+  - International Journal of Physiology and Pathophysiology
+  - International Journal on Algae
+  - Journal of Environmental Pathology, Toxicology and Oncology
+  - Journal of Long-Term Effects of Medical Implants
+  - Neuropathological Diseases
+  - Pesticides, People and Nature
+  - Plasma Medicine
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Atomization and Sprays
+  - 'Composites: Mechanics, Computations, Applications, An International Journal'
+  - Computational Thermal Sciences
   - Heat Exchanger Design Updates
   - Heat Pipe Science and Technology
   - Heat Transfer Research
   - High Temperature Material Processes (An International Quarterly of High-Technology
     Plasma Processes)
   - Hybrid Methods in Engineering
-  - Hydrobiological Journal
   - International Journal for Multiscale Computational Engineering
   - International Journal for Uncertainty Quantification
   - International Journal of Energetic Materials and Chemical Propulsion
   - International Journal of Energy for a Clean Environment
   - International Journal of Fluid Mechanics Research
-  - International Journal of Medicinal Mushrooms
-  - International Journal of Physiology and Pathophysiology
-  - International Journal on Algae
   - Journal of Automation and Information Sciences
   - Journal of Enhanced Heat Transfer
-  - Journal of Environmental Pathology, Toxicology and Oncology
   - Journal of Flow Visualization and Image Processing
-  - Journal of Long-Term Effects of Medical Implants
   - Journal of Porous Media
   - Journal of Women and Minorities in Science and Engineering
   - Multiphase Science and Technology
   - 'Nanomechanics Science and Technology: An International Journal'
-  - Neuropathological Diseases
-  - Pesticides, People and Nature
-  - Plasma Medicine
   - Radio Physics and Radio Astronomy
   - Special Topics and Reviews in Porous Media - An International Journal
   - Telecommunications and Radio Engineering

@@ -98,7 +98,6 @@ journals:
   - Radical Philosophy Review
   - Radical Philosophy Review of Books
   - Radical Philosophy Today
-  - Res Philosophica
   - Review of Metaphysics
   - Ruffin Series of the Society for Business Ethics
   - Saint Augustine Lecture Series
@@ -123,6 +122,10 @@ journals:
   - Tulane Studies in Philosophy
   - 'poché: A Journal for the History of Philosophy'
   - Études Phénoménologiques
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Res Philosophica
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

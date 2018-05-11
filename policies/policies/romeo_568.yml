@@ -12,14 +12,17 @@ journals:
   - African Journal of AIDS Research
   - African Journal of Marine Science
   - African Journal of Range and Forage Science
+  - Journal of Psychology in Africa
+  - South African Journal of Marine Science
+  - South African Journal of Plant and Soil
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - African Journal of Science, Technology, Innovation and Development
   - Anthropology Southern Africa
   - Eastern African Literary and Cultural Studies
-  - Journal of Psychology in Africa
   - Research in Hospitality Management
   - South African Journal of African Languages
-  - South African Journal of Marine Science
-  - South African Journal of Plant and Soil
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
