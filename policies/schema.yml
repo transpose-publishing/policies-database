@@ -2,35 +2,35 @@ type: map
 mapping:
   policy-id:
     type: str
-    desc: "Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit"
+    desc: "policy-id: Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit"
   publisher:
     type: str
-    desc: publisher name from SHERAP/RoMEO. Do not edit
+    desc: "publisher: Publisher name from SHERAP/RoMEO. Do not edit"
   policy-heading:
     type: str
-    desc: policy heading from SHERAP/RoMEO. Do not edit
+    desc: "policy-heading: policy heading from SHERAP/RoMEO. Do not edit"
   journals:
     type: seq
-    desc: A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
+    desc: "journals: A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit"
     sequence:
       - type: str
   journals-child-policies:
     type: seq
-    desc: A list of the journals from SHERPA/RoMEO associated with this policy's child policies. Do not edit
+    desc:  "journals-child-policies: A list of the journals from SHERPA/RoMEO associated with this policy's child policies. Do not edit"
     sequence:
       - type: str
   parent-policies:
     type: seq
-    desc: A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
+    desc: "parent-policies: A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit"
     sequence:
       - type: str
   child-policies:
     type: seq
-    desc: A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit
+    desc: "child-policies: A list of the Policy IDs from SHERPA/RoMEO that list this Policy ID as its parent. Do not edit"
     sequence:
       - type: str
   flag-romeo:
-    desc: Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
+    desc: "flag-romeo: Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here."
     type: str
   
   # OPEN PEER REVIEW
@@ -45,7 +45,7 @@ mapping:
   identities-revealed:
     type: str
     enum: [mandatory, optional, no]
-    desc: "identities-revleaed: Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)"
+    desc: "identities-revealed: Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)"
   identities-published:
     type: str
     enum: [mandatory, optional, no]
@@ -104,20 +104,20 @@ mapping:
   prearchiving:
     type: str
     enum: [can, cannot, restricted, unclear]
-    desc: "Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit."
+    desc: "prearchiving: Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit."
   prerestrictions:
     type: seq
-    desc: "Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)"
+    desc: "prerestriction: Preprint restrictions (from SHERPA/RoMEO: prerestrictions, do not edit)"
     sequence:
       - type: str
   copyright-urls:
     type: seq
-    desc: "Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)"
+    desc: "copyright-urls: Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, do not edit)"
     sequence:
       - type: str
   conditions:
     type: seq
-    desc: "Conditions (from SHERPA/RoMEO: conditions, so do not edit)"
+    desc: "conditions: Conditions (from SHERPA/RoMEO: conditions, do not edit)"
     sequence:
       - type: str
   preprint-url:
