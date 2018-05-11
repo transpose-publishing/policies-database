@@ -21,20 +21,10 @@ journals:
   - BIO Web of Conferences
   - Biologie Aujourd'hui
   - Bulletin de l'Union Nationale pour l'Intérêt de l'Orthopédie Dento-Faciale
-  - Cahiers Agricultures
-  - Ciência e Técnica Vitivinícola
   - Clefs CEA
   - Droit et Médecine Bucco-Dentaire
   - E3S Web of Conferences
   - EAS Publications Series
-  - EPJ Applied Metamaterials
-  - EPJ Data Science
-  - EPJ N - Nuclear Sciences and Technologies
-  - EPJ Nonlinear Biomedical Physics
-  - EPJ Photovoltaics
-  - EPJ Quantum Technology
-  - EPJ Techniques and Instrumentation
-  - EPJ Web of Conferences
   - 'ESAIM: Control, Optimisation and Calculus of Variations'
   - 'ESAIM: Mathematical Modelling and Numerical Analysis'
   - 'ESAIM: Probability and Statistics'
@@ -42,15 +32,6 @@ journals:
   - Environmental Biosafety Research
   - European Astronomical Society Publications Series
   - European Journal of Water Quality
-  - European Physical Journal - Special Topics
-  - European Physical Journal A
-  - 'European Physical Journal A: Hadrons and Nuclei'
-  - European Physical Journal B
-  - 'European Physical Journal B: Condensed Matter and Complex Systems'
-  - European Physical Journal D
-  - European Physical Journal E
-  - European Physical Journal H
-  - European Physical Journal Plus
   - 'European Physical Journal: Applied Physics'
   - Europhysics News
   - Fruits
@@ -66,7 +47,6 @@ journals:
   - Journal sur l'enseignement des sciences et technologies de l'information et des
     systèmes
   - Knowledge and Management of Aquatic Ecosystems
-  - Manufacturing Review
   - Mathematical Modelling of Natural Phenomena
   - Matériaux and Techniques
   - Mechanics and Industry
@@ -76,12 +56,7 @@ journals:
   - Mécanique et Industries
   - Médecine Buccale Chirurgie Buccale
   - Natures Sciences Sociétés
-  - OCL
-  - Oil and Gas Science and Technology
-  - Oilseeds and fats, Crops and Lipids
   - Orthodontie Française
-  - PV Direct
-  - Parasite
   - Photoniques
   - Psychologie Clinique
   - Pédagogie Médicale
@@ -91,20 +66,48 @@ journals:
   - 'RAIRO: Theoretical Informatics and Applications'
   - Radioprotection
   - Reflets de la Physique
-  - Renewable Energy and Environmental Sustainability
   - Reproduction Nutrition Development
   - Revue d'Orthodontie Clinique
   - Revue d'Orthopédie Dento-Faciale
   - Revue de Métallurgie
   - Revue des Sciences de Gestion
-  - SICOT-J
   - Science and Motricité
-  - Sustainable Buildings
   - Therapeutic patient education
   - Thérapie
   - médecine/sciences
   - Éducation thérapeutique du patient
   - Épistémologiques
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Cahiers Agricultures
+  - Ciência e Técnica Vitivinícola
+  - EPJ Applied Metamaterials
+  - EPJ Data Science
+  - EPJ N - Nuclear Sciences and Technologies
+  - EPJ Nonlinear Biomedical Physics
+  - EPJ Photovoltaics
+  - EPJ Quantum Technology
+  - EPJ Techniques and Instrumentation
+  - EPJ Web of Conferences
+  - European Physical Journal - Special Topics
+  - European Physical Journal A
+  - 'European Physical Journal A: Hadrons and Nuclei'
+  - European Physical Journal B
+  - 'European Physical Journal B: Condensed Matter and Complex Systems'
+  - European Physical Journal D
+  - European Physical Journal E
+  - European Physical Journal H
+  - European Physical Journal Plus
+  - Manufacturing Review
+  - OCL
+  - Oil and Gas Science and Technology
+  - Oilseeds and fats, Crops and Lipids
+  - PV Direct
+  - Parasite
+  - Renewable Energy and Environmental Sustainability
+  - SICOT-J
+  - Sustainable Buildings
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

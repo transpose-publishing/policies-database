@@ -9,59 +9,13 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Acta Pharmacologica Sinica
-  - American Journal of Gastroenterology
   - American Journal of Gastroenterology Supplements
-  - Blood Cancer Journal
-  - Bone Marrow Transplantation
-  - Bone Research
-  - BoneKEy Reports
-  - British Dental Journal
-  - Cancer Gene Therapy
-  - Cell Death and Differentiation
-  - Cell Death and Disease
-  - Cell Discovery
-  - Cell Research
-  - Cellular and Molecular Immunology
-  - Clinical and Translational Gastroenterology
-  - Clinical and Translational Immunology
-  - Emerging Microbes and Infections
-  - European Journal of Clinical Nutrition
-  - European Journal of Human Genetics
   - Evidence-Based Dentistry
-  - Experimental and Molecular Medicine
-  - Eye
-  - Gene Therapy
-  - Genes and Immunity
-  - Genetics in Medicine
-  - Heredity
-  - Horticulture Research
-  - Human Genome Variation
-  - Hypertension Research
   - IBMS BoneKEy
-  - ISME Journal
-  - Immunology and Cell Biology
-  - International Journal of Impotence Research
-  - International Journal of Obesity
   - International Journal of Obesity Supplements
-  - International Journal of Oral Science
-  - Journal of Antibiotics
-  - Journal of Exposure Analysis and Environmental Epidemiology
-  - Journal of Exposure Science and Environmental Epidemiology
-  - Journal of Human Genetics
-  - Journal of Human Hypertension
   - Journal of Investigative Dermatology Symposium Proceedings
-  - Journal of Perinatology
   - Kidney International Supplements
-  - Laboratory Investigation
-  - Leukemia
   - Leukemia Supplements
-  - 'Light: Science and Applications'
-  - Microsystems and Nanoengineering
-  - Modern Pathology
-  - Molecular Psychiatry
-  - Mucosal Immunology
-  - NPG Asia Materials
   - Nature
   - Nature Astronomy
   - Nature Biotechnology
@@ -69,7 +23,6 @@ journals:
   - Nature Chemical Biology
   - Nature Chemistry
   - Nature Climate Change
-  - Nature Communications
   - Nature Digest
   - Nature Ecology and Evolution
   - Nature Genetics
@@ -103,6 +56,61 @@ journals:
   - Nature Reviews Rheumatology
   - Nature Reviews Urology
   - Nature Structural and Molecular Biology
+  - 'SciBX: Science-Business eXchange'
+  - Scientific American
+  - Scientific American Mind
+  - Vital
+  - npj Materials Degradation
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Acta Pharmacologica Sinica
+  - American Journal of Gastroenterology
+  - Blood Cancer Journal
+  - Bone Marrow Transplantation
+  - Bone Research
+  - BoneKEy Reports
+  - British Dental Journal
+  - Cancer Gene Therapy
+  - Cell Death and Differentiation
+  - Cell Death and Disease
+  - Cell Discovery
+  - Cell Research
+  - Cellular and Molecular Immunology
+  - Clinical and Translational Gastroenterology
+  - Clinical and Translational Immunology
+  - Emerging Microbes and Infections
+  - European Journal of Clinical Nutrition
+  - European Journal of Human Genetics
+  - Experimental and Molecular Medicine
+  - Eye
+  - Gene Therapy
+  - Genes and Immunity
+  - Genetics in Medicine
+  - Heredity
+  - Horticulture Research
+  - Human Genome Variation
+  - Hypertension Research
+  - ISME Journal
+  - Immunology and Cell Biology
+  - International Journal of Impotence Research
+  - International Journal of Obesity
+  - International Journal of Oral Science
+  - Journal of Antibiotics
+  - Journal of Exposure Analysis and Environmental Epidemiology
+  - Journal of Exposure Science and Environmental Epidemiology
+  - Journal of Human Genetics
+  - Journal of Human Hypertension
+  - Journal of Perinatology
+  - Laboratory Investigation
+  - Leukemia
+  - 'Light: Science and Applications'
+  - Microsystems and Nanoengineering
+  - Modern Pathology
+  - Molecular Psychiatry
+  - Mucosal Immunology
+  - NPG Asia Materials
+  - Nature Communications
   - Neuropsychopharmacology
   - Nutrition and Diabetes
   - Oncogene
@@ -111,16 +119,12 @@ journals:
   - Pharmacogenomics Journal
   - Polymer Journal
   - Prostate Cancer and Prostatic Diseases
-  - 'SciBX: Science-Business eXchange'
   - Science of Learning
-  - Scientific American
-  - Scientific American Mind
   - Scientific Data
   - Scientific Reports
   - Spinal Cord
   - Spinal Cord Series and Cases
   - Translational Psychiatry
-  - Vital
   - npj Aging and Mechanisms of Disease
   - npj Biofilms and Microbiomes
   - npj Breast Cancer
@@ -128,7 +132,6 @@ journals:
   - npj Computational Materials
   - npj Flexible Electronics
   - npj Genomic Medicine
-  - npj Materials Degradation
   - npj Microgravity
   - npj Parkinson's Disease
   - npj Primary Care Respiratory Medicine

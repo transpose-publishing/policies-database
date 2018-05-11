@@ -8,7 +8,10 @@ publisher: Future Science
 policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
-journals:
+journals: []
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Bioanalysis
   - Future Medicinal Chemistry
   - Future Science OA

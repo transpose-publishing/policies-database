@@ -20,6 +20,9 @@ journals:
   - Rendiconto dell'Accademia delle Scienze Fisiche e Matematiche
   - Rinascimento meridionale
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

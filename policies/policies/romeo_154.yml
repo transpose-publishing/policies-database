@@ -48,19 +48,13 @@ journals:
   - Baltic Yearbook of International Law Online
   - Behaviour
   - Biblical Interpretation
-  - Bijdragen tot de taal-, land- en volkenkunde
   - Biogenic Amines
-  - Brill Open Biology
-  - Brill Open Humanities
-  - Brill Open Law
-  - Brill Open Social Sciences
   - Brill's Annual of Afroasiatic Languages and Linguistics
   - Bustan
   - Cahiers Chronos
   - Cahiers de Linguistique Asie Orientale
   - Canadian-American Slavic Studies
   - China Nonprofit Review
-  - Chinese Journal of Global Governance
   - Church History and Religious Culture
   - Comparative Sociology
   - Contributions to the History of Concepts
@@ -82,7 +76,6 @@ journals:
   - Exchange
   - 'Experiment: A Journal of Russian Culture'
   - Fait Missionnaire
-  - Fascism
   - Frontiers of Business Research in China
   - Frontiers of Economics in China
   - Frontiers of History in China
@@ -108,7 +101,6 @@ journals:
   - Human Rights in Development Online
   - IAWA Journal
   - Images
-  - Indo-European Linguistics
   - Indo-Iranian Journal
   - Inner Asia
   - Insect Systematics and Evolution
@@ -153,7 +145,6 @@ journals:
   - Journal of International Humanitarian Legal Studies
   - Journal of International Peacekeeping
   - Journal of Islamic Manuscripts
-  - Journal of Jesuit Studies
   - Journal of Jewish Languages
   - Journal of Jewish Thought and Philosophy
   - Journal of Language Contact
@@ -174,7 +165,6 @@ journals:
   - Journal of World Literature
   - Journal of the Economic and Social History of the Orient
   - Journal of the History of International Law
-  - Journal of the Humanities and Social Sciences of Southeast Asia
   - Journal of the Philosophy of History
   - Korean Journal of International and Comparative Law
   - KronoScope
@@ -228,7 +218,6 @@ journals:
   - Religion and Human Rights
   - Religion and Theology
   - Religion and the Arts
-  - Research Data Journal for the Humanities and Social Sciences
   - Research in Phenomenology
   - Review of Central and East European Law
   - Review of Rabbinic Judaism
@@ -265,7 +254,6 @@ journals:
   - Vigiliae Christianae
   - Vivarium
   - Vulcan
-  - Wacana
   - Welt des Islams
   - Worldviews
   - Year's Work in Modern Language Studies
@@ -274,6 +262,21 @@ journals:
   - Zeitschrift für Religions- und Geistesgeschichte
   - 'Zutot: Perspectives on Jewish Culture'
   - 通報
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Bijdragen tot de taal-, land- en volkenkunde
+  - Brill Open Biology
+  - Brill Open Humanities
+  - Brill Open Law
+  - Brill Open Social Sciences
+  - Chinese Journal of Global Governance
+  - Fascism
+  - Indo-European Linguistics
+  - Journal of Jesuit Studies
+  - Journal of the Humanities and Social Sciences of Southeast Asia
+  - Research Data Journal for the Humanities and Social Sciences
+  - Wacana
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

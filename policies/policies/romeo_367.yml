@@ -10,9 +10,12 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Bone and Joint Journal
+  - Journal of Bone and Joint Surgery, British Volume
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Bone and Joint Research
   - EFORT Open Reviews
-  - Journal of Bone and Joint Surgery, British Volume
   - Journal of Children's Orthopaedics
   - Journal of Childrens Orthopaedics
 

@@ -9,22 +9,25 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Advances in Optics and Photonics
   - Applied Optics
-  - Biomedical Optics Express
-  - Chinese Optics Letters
   - Journal of Optical Networking
-  - Journal of Optical Technology
   - Journal of the Optical Society of America
   - Journal of the Optical Society of America A
   - Journal of the Optical Society of America B
-  - Journal of the Optical Society of Korea
   - Optica
-  - Optical Materials Express
-  - Optics Express
   - Optics Letters
   - Photonics Research
   - Virtual Journal for Biomedical Optics
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Advances in Optics and Photonics
+  - Biomedical Optics Express
+  - Chinese Optics Letters
+  - Journal of Optical Technology
+  - Journal of the Optical Society of Korea
+  - Optical Materials Express
+  - Optics Express
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

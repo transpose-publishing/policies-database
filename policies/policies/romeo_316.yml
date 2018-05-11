@@ -91,23 +91,62 @@ journals:
   - Drug Metabolism Letters
   - Endocrine, Metabolic and Immune Disorders - Drug Targets
   - Epigenetic Diagnosis and Therapy
-  - Ergonomics Open Journal
   - Immunology, Endocrine and Metabolic Agents in Medicinal Chemistry
   - Infectious Disorders - Drug Targets
   - Inflammation and Allergy - Drug Targets
   - Innovations in Corrosion and Materials Science
   - International Journal of Sensors, Wireless Communications and Control
-  - Journal of Epithelial Biology and Pharmacology
   - Letters in Drug Design and Discovery
   - Letters in Organic Chemistry
   - Micro and Nanosystems
   - MicroRNA
   - Mini-Reviews in Medicinal Chemistry
   - Mini-Reviews in Organic Chemistry
-  - Modeling and Computation for Flow and Transport
   - Nanoscience and Nanotechnology-Asia
   - Natural Products Journal
   - Neuroscience and Biomedical Engineering
+  - Pharmaceutical Nanotechnology
+  - Protein and Peptide Letters
+  - Recent Advances in Cardiovascular Drug Discovery
+  - Recent Advances in Communications and Networking Technology
+  - Recent Advances in DNA and Gene Sequences
+  - Recent Advances in Electrical and Electronic Engineering
+  - Recent Innovations in Chemical Engineering
+  - Recent Patents on Anti-Cancer Drug Discovery
+  - Recent Patents on Anti-Infective Drug Discovery
+  - Recent Patents on Biomarkers
+  - Recent Patents on Biomedical Engineering
+  - Recent Patents on Biotechnology
+  - Recent Patents on CNS Drug Discovery
+  - Recent Patents on Cardiovascular Drug Discovery
+  - Recent Patents on Catalysis
+  - Recent Patents on Chemical Engineering
+  - Recent Patents on Computer Science
+  - Recent Patents on Corrosion Science
+  - Recent Patents on DNA and Gene Sequences
+  - Recent Patents on Drug Delivery and Formulation
+  - Recent Patents on Electrical Engineering
+  - Recent Patents on Endocrine, Metabolic and Immune Drug Discovery
+  - Recent Patents on Engineering
+  - Recent Patents on Food, Nutrition and Agriculture
+  - Recent Patents on Inflammation and Allergy Drug Discovery
+  - Recent Patents on Materials Science
+  - Recent Patents on Mechanical Engineering
+  - Recent Patents on Medical Imaging
+  - Recent Patents on Nanomedicine
+  - Recent Patents on Nanotechnology
+  - Recent Patents on Regenerative Medicine
+  - Recent Patents on Signal Processing
+  - Recent Patents on Space Technology
+  - Recent Patents on Telecommunications
+  - Reviews on Recent Clinical Trials
+  - Technology Transfer and Entrepreneurship
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Ergonomics Open Journal
+  - Journal of Epithelial Biology and Pharmacology
+  - Modeling and Computation for Flow and Transport
   - Open AIDS Journal
   - Open Acoustics Journal
   - Open Addiction Journal
@@ -278,42 +317,6 @@ journals:
   - Open Virology Journal
   - Open Virtual Reality Journal
   - Pharmaceutical Crops
-  - Pharmaceutical Nanotechnology
-  - Protein and Peptide Letters
-  - Recent Advances in Cardiovascular Drug Discovery
-  - Recent Advances in Communications and Networking Technology
-  - Recent Advances in DNA and Gene Sequences
-  - Recent Advances in Electrical and Electronic Engineering
-  - Recent Innovations in Chemical Engineering
-  - Recent Patents on Anti-Cancer Drug Discovery
-  - Recent Patents on Anti-Infective Drug Discovery
-  - Recent Patents on Biomarkers
-  - Recent Patents on Biomedical Engineering
-  - Recent Patents on Biotechnology
-  - Recent Patents on CNS Drug Discovery
-  - Recent Patents on Cardiovascular Drug Discovery
-  - Recent Patents on Catalysis
-  - Recent Patents on Chemical Engineering
-  - Recent Patents on Computer Science
-  - Recent Patents on Corrosion Science
-  - Recent Patents on DNA and Gene Sequences
-  - Recent Patents on Drug Delivery and Formulation
-  - Recent Patents on Electrical Engineering
-  - Recent Patents on Endocrine, Metabolic and Immune Drug Discovery
-  - Recent Patents on Engineering
-  - Recent Patents on Food, Nutrition and Agriculture
-  - Recent Patents on Inflammation and Allergy Drug Discovery
-  - Recent Patents on Materials Science
-  - Recent Patents on Mechanical Engineering
-  - Recent Patents on Medical Imaging
-  - Recent Patents on Nanomedicine
-  - Recent Patents on Nanotechnology
-  - Recent Patents on Regenerative Medicine
-  - Recent Patents on Signal Processing
-  - Recent Patents on Space Technology
-  - Recent Patents on Telecommunications
-  - Reviews on Recent Clinical Trials
-  - Technology Transfer and Entrepreneurship
   - Vascular Disease Prevention
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

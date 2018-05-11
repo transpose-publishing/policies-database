@@ -9,6 +9,13 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Annals of Actuarial Science
+  - Annals of Acturial Science
+  - Journal of Diagnostic Radiography and Imaging
+  - Transactions of the Institute of Actuaries
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - AI EDAM
   - AJIL Unbound
   - AJS Review
@@ -37,8 +44,6 @@ journals:
   - Animal Genetic Resources
   - Animal Health Research Reviews
   - Animal Science
-  - Annals of Actuarial Science
-  - Annals of Acturial Science
   - Annals of Glaciology
   - Annual Review of Applied Linguistics
   - Annual of the British School at Athens
@@ -231,7 +236,6 @@ journals:
   - Journal of Dairy Research
   - Journal of Demographic Economics
   - Journal of Developmental Origins of Health and Disease
-  - Journal of Diagnostic Radiography and Imaging
   - Journal of Ecclesiastical History
   - Journal of Economic History
   - Journal of Experimental Political Science
@@ -413,7 +417,6 @@ journals:
   - Traditio
   - Transactions of the Actuarial Society of Edinburgh
   - Transactions of the Faculty of Actuaries
-  - Transactions of the Institute of Actuaries
   - Transactions of the Royal Asiatic Society of Great Britain and Ireland
   - Transactions of the Royal Historical Society
   - Transnational Environmental Law

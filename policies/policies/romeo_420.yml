@@ -10,14 +10,9 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Aging Health
-  - BioTechniques
   - Bioelectronics in Medicine
   - Biomarkers in Medicine
-  - Breast Cancer Management
-  - CNS Oncology
   - Clinical Practice
-  - Colorectal Cancer
-  - Concussion
   - Epigenomics
   - Future Cardiology
   - Future Microbiology
@@ -25,15 +20,10 @@ journals:
   - Future Oncology
   - Future Virology
   - HIV Therapy
-  - Hepatic Oncology
   - Imaging in Medicine
   - Immunotherapy
-  - International Journal of Endocrine Oncology
-  - International Journal of Hematologic Oncology
   - Journal of 3D Printing in Medicine
   - Journal of Comparative Effectiveness Research
-  - Lung Cancer Management
-  - Melanoma Management
   - Nanomedicine
   - Neurodegenerative Disease Management
   - Pain Management
@@ -42,6 +32,19 @@ journals:
   - Pharmacogenomics
   - Regenerative Medicine
   - Therapy
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - BioTechniques
+  - Breast Cancer Management
+  - CNS Oncology
+  - Colorectal Cancer
+  - Concussion
+  - Hepatic Oncology
+  - International Journal of Endocrine Oncology
+  - International Journal of Hematologic Oncology
+  - Lung Cancer Management
+  - Melanoma Management
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

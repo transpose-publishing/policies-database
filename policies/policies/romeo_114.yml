@@ -15,7 +15,6 @@ journals:
   - Applied Bioinformatics
   - BioDrugs
   - Disease Management & Health Outcomes
-  - Drugs - Real World Outcomes
   - Drugs and Aging
   - Drugs and Therapy Perspectives
   - Evidence-Based Integrative Medicine
@@ -26,11 +25,15 @@ journals:
   - Molecular Diagnosis and Therapy
   - Pharmaceutical and Diagnostic Innovation
   - Pharmacoeconomics Italian Research Articles
-  - Pulmonary Therapy
-  - Rheumatology and Therapy
   - Toxicological Reviews
   - Treatments in Endocrinology
   - Treatments in Respiratory Medicine
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Drugs - Real World Outcomes
+  - Pulmonary Therapy
+  - Rheumatology and Therapy
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:

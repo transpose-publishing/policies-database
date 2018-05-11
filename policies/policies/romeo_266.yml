@@ -23,7 +23,6 @@ journals:
   - Deleuze Studies
   - Derrida Today
   - Edinburgh Law Review
-  - Film-Philosophy
   - Holy Land Studies
   - Innes Review
   - International Journal of Humanities and Arts Computing
@@ -53,6 +52,10 @@ journals:
   - Translation and Literature
   - Victoriographies
   - Word Structure
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Film-Philosophy
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

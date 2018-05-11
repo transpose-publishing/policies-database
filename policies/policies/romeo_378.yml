@@ -11,8 +11,11 @@ policy-heading: '[Default policy]'
 journals:
   - Acta Horticulturae
   - Chronica Horticulturae
-  - European Journal of Horticultural Science
   - Scripta Horticulturae
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - European Journal of Horticultural Science
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

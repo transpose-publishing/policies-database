@@ -9,9 +9,12 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - 'Princípios: Revista de Filosofia (UFRN)'
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Art Research Journal
   - Journal of Respiratory and CardioVascular Physical Therapy
-  - 'Princípios: Revista de Filosofia (UFRN)'
   - Revista Ambiente Contábil
   - Revista Odisseia
   - Revista de Fisioterapia Respiratória e CardioVascular

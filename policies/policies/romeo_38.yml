@@ -15,7 +15,6 @@ journals:
   - Computing in Science and Engineering
   - EEE Transactions on Manufacturing Technology
   - Engineering Science and Education Journal
-  - IEEE Access
   - IEEE Aerospace and Electronic Systems Magazine
   - IEEE Annals of the History of Computing
   - IEEE Antennas and Propagation Magazine
@@ -50,11 +49,8 @@ journals:
   - IEEE Journal of Selected Topics in Quantum Electronics
   - IEEE Journal of Selected Topics in Signal Processing
   - IEEE Journal of Solid-State Circuits
-  - IEEE Journal of Translational Engineering in Health and Medicine
-  - IEEE Journal of the Electron Devices Society
   - IEEE Journal on Selected Areas in Communications
   - IEEE Latin America Transactions
-  - IEEE Life Sciences Letters
   - IEEE Micro
   - IEEE Microwave Magazine
   - IEEE Microwave and Wireless Components Letters
@@ -62,7 +58,6 @@ journals:
   - IEEE Nanotechnology Magazine
   - IEEE Network
   - IEEE Pervasive Computing
-  - IEEE Photonics Journal
   - IEEE Photonics Technology Letters
   - IEEE Potentials
   - IEEE Power Electronics Letters
@@ -177,6 +172,14 @@ journals:
   - Proceedings of International Joint Conference on Neural Networks
   - Proceedings of the IEEE
   - Tsinghua Science and Technology
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - IEEE Access
+  - IEEE Journal of Translational Engineering in Health and Medicine
+  - IEEE Journal of the Electron Devices Society
+  - IEEE Life Sciences Letters
+  - IEEE Photonics Journal
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

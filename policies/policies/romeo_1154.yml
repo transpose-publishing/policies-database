@@ -11,6 +11,9 @@ policy-heading: '[Default policy]'
 journals:
   - Boletim de Minas
   - Comunicações Geológicas
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Corrosão e Protecção de Materiais
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

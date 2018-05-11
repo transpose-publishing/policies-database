@@ -37,7 +37,6 @@ journals:
   - Enfermería Global
   - Estudios Románicos
   - Eubacteria Digital
-  - Glosas Didácticas
   - Glossae
   - Histology and Histopathology
   - Historia Agraria
@@ -56,6 +55,10 @@ journals:
   - Revista de Investigación sobre Flamenco
   - Tiempos de Danza
   - Tonos Digital
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Glosas Didácticas
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

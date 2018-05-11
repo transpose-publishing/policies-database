@@ -10,7 +10,6 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Applied General Topology
-  - Con A de animación
   - Culturas. Revista de Gestión Cultural
   - EGA. Revista de expresión gráfica arquitectónica
   - EME Experimental Illustration, Art and Design
@@ -25,8 +24,12 @@ journals:
   - Revista sobre la infancia y la adolescencia
   - VLC arquitectura
   - Virtual Archaeology Review
-  - Working Papers on Operations Management
   - World Rabbit Science
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Con A de animación
+  - Working Papers on Operations Management
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

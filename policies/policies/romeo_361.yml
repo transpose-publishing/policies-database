@@ -11,11 +11,14 @@ policy-heading: '[Default policy]'
 journals:
   - Annals of Innovation and Entrepreneurship
   - Barnelitterært forskningstidsskrift
-  - Emerging Health Threats Journal
   - European Journal of Psychotraumatology Supplement
-  - Mechanical Circulatory Support
   - Nano Reviews
   - Nordic Journal of ChildLit Aesthetics
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Emerging Health Threats Journal
+  - Mechanical Circulatory Support
   - Vulnerable Groups and Inclusion
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

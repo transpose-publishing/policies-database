@@ -10,9 +10,12 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - International Journal of Systematic and Evolutionary Microbiology
-  - JMM Case Reports
   - Journal of General Virology
   - Journal of Medical Microbiology
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - JMM Case Reports
   - Microbial Genomics
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

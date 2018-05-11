@@ -10,12 +10,15 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Canadian Folk Music
-  - International Review of Research in Open and Distributed Learning
   - Journal of Research Practice
   - Musique folklorique canadienne
   - Oral History Forum d'Histoire Orale
   - Travail
   - Trumpeter
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - International Review of Research in Open and Distributed Learning
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

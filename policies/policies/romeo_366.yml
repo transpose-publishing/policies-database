@@ -9,6 +9,18 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Arzneimittel-Forschung
+  - Drug Research
+  - Endoscopy
+  - Experimental and Clinical Endocrinology and Diabetes
+  - 'Journal of Neurological Surgery Part B: Skull Base'
+  - Journal of Pediatric Infectious Diseases
+  - Journal of Wrist Surgery
+  - Seminars in Interventional Radiology
+  - Seminars in Liver Disease
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - AHZ Allgemeine Homöopathische Zeitung
   - AINS
   - Aktuelle Dermatologie
@@ -19,7 +31,6 @@ journals:
   - Allgemein- und Viszeralchirurgie up2date
   - American Journal of Perinatology
   - American Journal of Perinatology Reports
-  - Arzneimittel-Forschung
   - Augenheilkunde up2date
   - B und G Bewegungstherapie und Gesundheitssport
   - Balint-Journal
@@ -43,9 +54,7 @@ journals:
   - Diabetologie und Stoffwechsel
   - Dialyse Aktuell
   - Diät und Information
-  - Drug Research
   - Endo-Praxis
-  - Endoscopy
   - Endoscopy International Open
   - Endoskopie heute
   - Erfahrungsheilkunde
@@ -56,7 +65,6 @@ journals:
   - European Journal of Pediatric Surgery Reports
   - European Journal of Ultrasound
   - Evidence-Based Spine-Care Journal
-  - Experimental and Clinical Endocrinology and Diabetes
   - Experimental and Clinical Endocrinology and Diabetes Reports
   - Facial Plastic Surgery
   - Flugmedizin Tropenmedizin Reisemedizin
@@ -86,13 +94,10 @@ journals:
   - Journal of Knee Surgery
   - Journal of Knee Surgery Reports
   - 'Journal of Neurological Surgery Part A: Central European Neurosurgery'
-  - 'Journal of Neurological Surgery Part B: Skull Base'
   - Journal of Neurological Surgery Reports
-  - Journal of Pediatric Infectious Diseases
   - Journal of Physical and Rehabilitation Medicine
   - Journal of Reconstructive Microsurgery
   - Journal of Reconstructive Microsurgery Open
-  - Journal of Wrist Surgery
   - Kardiologie up2date
   - Kleintier konkret
   - Klinikarzt
@@ -142,8 +147,6 @@ journals:
   - SYNFACTS
   - SYNLETT
   - Seminars in Hearing
-  - Seminars in Interventional Radiology
-  - Seminars in Liver Disease
   - Seminars in Musculoskeletal Radiology
   - Seminars in Neurology
   - Seminars in Plastic Surgery

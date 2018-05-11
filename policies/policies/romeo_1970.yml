@@ -9,22 +9,25 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Arkivoc
-  - Contemporary Aesthetics
   - ERGO
-  - Feminist Studies
-  - Gender, Sexuality and Feminism
   - Human Figurations
-  - Journal of Electronic Publishing
   - Journal of Muslim Mental Health
-  - Journal of the Abraham Lincoln Association
   - Michigan Botanist
-  - Michigan Family Review
-  - Michigan Journal of Community Service Learning
   - Michigan Journal of Sustainability
   - Music and Politics
   - Philosophers' Imprint
   - Philosophy and Theory in Biology
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Arkivoc
+  - Contemporary Aesthetics
+  - Feminist Studies
+  - Gender, Sexuality and Feminism
+  - Journal of Electronic Publishing
+  - Journal of the Abraham Lincoln Association
+  - Michigan Family Review
+  - Michigan Journal of Community Service Learning
   - Trans-Asia Photography Review
   - Weave
 

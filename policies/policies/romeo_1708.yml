@@ -15,6 +15,9 @@ journals:
   - Michigan Journal of Race and Law
   - Michigan Telecommunications and Technology Law Review
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

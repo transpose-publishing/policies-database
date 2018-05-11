@@ -9,17 +9,20 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Fungal Genetics Reports
+  - Journal for the History of Analytical Philosophy
+  - Kansas Library Association College and University Libraries Section Proceedings
+  - Oz
+  - Studies in 20th and 21st Century Literature
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Baltic International Yearbook of Cognition, Logic and Communication
   - 'Crossing Borders: An Interdisciplinary Journal of Undergraduate Scholarship'
-  - Fungal Genetics Reports
   - GDR Bulletin
-  - Journal for the History of Analytical Philosophy
   - Journal of Financial Therapy
-  - Kansas Library Association College and University Libraries Section Proceedings
   - Online Journal of Rural Research and Policy
-  - Oz
   - Prairie Journal of Educational Research
-  - Studies in 20th and 21st Century Literature
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

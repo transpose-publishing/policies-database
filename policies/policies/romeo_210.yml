@@ -28,7 +28,6 @@ journals:
   - European Journal of Information Systems
   - European Political Science
   - Family Spending
-  - Feminist Review
   - Financial Statistics
   - French Politics
   - Geneva Papers on Risk and Insurance - Issues and Practice
@@ -71,7 +70,6 @@ journals:
   - Monthly Digest of Statistics
   - OR Insight
   - Organization Management Journal
-  - Palgrave Communications
   - Pensions
   - Place Branding and Public Diplomacy
   - Population Trends
@@ -85,6 +83,11 @@ journals:
   - URBAN DESIGN International
   - United Kingdom Economic Accounts
   - 'postmedieval: a journal of medieval cultural studies'
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Feminist Review
+  - Palgrave Communications
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

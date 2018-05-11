@@ -16,13 +16,11 @@ journals:
   - Craniomaxillofacial Trauma and Reconstruction Open
   - 'Current Research: Concussion'
   - Endoscopy International Open
-  - European Journal of Pediatric Surgery Reports
   - Experimental and Clinical Endocrinology and Diabetes Reports
   - International Archives of Otorhinolaryngology
   - JAO
   - JCS
   - Journal of Academic Ophthalmology
-  - Journal of Brachial Plexus and Peripheral Nerve Injury
   - Journal of Child Science
   - Journal of Clinical and Academic Ophthalmology
   - Journal of Knee Surgery Reports
@@ -37,12 +35,17 @@ journals:
   - Revista Brasileira de Ginecologia e Obstetrícia
   - SMIO
   - Sports Medicine International Open
-  - Surgery Journal
   - SynOpen
   - TSCR
-  - TSJ
   - Thoracic and Cardiovascular Surgeon Reports
   - Ultrasound International Open
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - European Journal of Pediatric Surgery Reports
+  - Journal of Brachial Plexus and Peripheral Nerve Injury
+  - Surgery Journal
+  - TSJ
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:

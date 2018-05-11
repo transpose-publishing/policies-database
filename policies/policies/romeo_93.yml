@@ -13,6 +13,9 @@ journals:
   - Ecological Applications
   - Ecological Monographs
   - Ecology
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Ecosphere
   - Frontiers in Ecology and the Environment
 

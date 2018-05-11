@@ -9,27 +9,15 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - American Journal of Human Genetics
-  - Cancer Cell
   - Cell
   - Cell Chemistry Biology
-  - Cell Host and Microbe
-  - Cell Metabolism
-  - Cell Reports
-  - Cell Stem Cell
-  - Cell Systems
   - Chem
   - Chemistry and Biology
   - Current Biology
   - Developmental Cell
   - Immunity
   - Molecular Cell
-  - Molecular Therapy
-  - Molecular Therapy - Methods and Clinical Development
-  - Molecular Therapy - Nucleic Acids
-  - Molecular Therapy - Oncolytics
   - Neuron
-  - Stem Cell Reports
   - Structure
   - Trends in Biochemical Sciences
   - Trends in Biotechnology
@@ -45,6 +33,21 @@ journals:
   - Trends in Parasitology
   - Trends in Pharmacological Sciences
   - Trends in Plant Science
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - American Journal of Human Genetics
+  - Cancer Cell
+  - Cell Host and Microbe
+  - Cell Metabolism
+  - Cell Reports
+  - Cell Stem Cell
+  - Cell Systems
+  - Molecular Therapy
+  - Molecular Therapy - Methods and Clinical Development
+  - Molecular Therapy - Nucleic Acids
+  - Molecular Therapy - Oncolytics
+  - Stem Cell Reports
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
