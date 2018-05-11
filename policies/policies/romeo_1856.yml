@@ -27,16 +27,16 @@ flag-romeo:
 
 # ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
-peer-review-url:
+peer-review-url: http://emboj.embopress.org/authorguide
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
-open-reports:
+open-reports: optional
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
-identities-revealed:
+identities-revealed: optional
 
 # Are reviewer identities published? (mandatory/optional/no/not specified)
-identities-published:
+identities-published: optional
 
 # ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
@@ -50,10 +50,10 @@ co-review-invited:
 
 # ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
-transfer-url:
+transfer-url: http://emboj.embopress.org/authorguide#transferpolicies
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy:
+transfer-policy: "Authors can choose to transfer manuscripts rejected from any one of the EMBO Press journals to any other of the EMBO Press journals by following the instructions appended to the editorial decision letter. We also offer seamless transfer to the new open access journal Life Science Alliance, launched in partnership between EMBO Press, Rockefeller University Press, and Cold Spring Harbor Laboratory Press."
 
 # ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
@@ -98,22 +98,22 @@ conditions:
     after 6 months embargo
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: http://emboj.embopress.org/authorguide#preprintservers
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)
-preprint-version:
+preprint-version: before review only
 
 # Time when a preprint can be posted (before acceptance only/anytime/other/not specified)
-preprint-time:
+preprint-time: before acceptance only
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers:
+acceptable-servers: "non-peer-reviewed recognized community preprint servers such as arXiv, bioRxiv and PeerJ Preprint"
 
 # preprint-citation-url: Preprint citation policy url (valid url)
-preprint-citation-url:
+preprint-citation-url: http://emboj.embopress.org/authorguide#preprintservers
 
 # Can preprints be cited in the reference list? (yes/no/not specified)
-preprint-citation:
+preprint-citation: yes
 
 # Preprint media coverage policy url (valid url)
 preprint-media-url:
@@ -128,10 +128,10 @@ preprint-licensing-url:
 preprint-licensing:
 
 # Scoop protection policy url (valid url)
-scoop-protection-url:
+scoop-protection-url: http://emboj.embopress.org/authorguide#extendedscoopingpreprint
 
 # Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
-scoop-protection:
+scoop-protection: "ther papers published in peer reviewed journals, or manuscripts posted on recognized preprint servers after submission of a manuscript to The EMBO Journal, are not considered relevant to the editorial assessment of the conceptual advance/novelty of the submitted manuscript. Scooping Protection has now been extended to also apply from the day of posting a manuscript on a recognized preprint server in the same form as the manuscript submitted to The EMBO Journal, provided the manuscript is submitted to the journal within 4 months of posting."
 
 # Community review policy url (valid url)
 community-reviews-url:
@@ -142,3 +142,4 @@ community-reviews:
 # ### COMMENTS ###
 # Please leave any comments about the information presented here.
 comments:
+  - "The preprint policy applies to primary research papers, but not to reviews and commentary."
