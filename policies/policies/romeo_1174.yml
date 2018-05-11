@@ -113,7 +113,7 @@ preprint-media:
 preprint-media-url:
 
 # Policies on preprint licensing (free text)
-preprint-licensing: "BMJ will consider for publication articles that have previously had a Creative Commons licence assigned to their AOV (Author's original version.)....(Author's accepted manuscripts posted on preprint servers) must state that their reuse is allowed pursuant to the terms of the CC BY-NC-ND 4.0 license)
+preprint-licensing: "BMJ will consider for publication articles that have previously had a Creative Commons licence assigned to their AOV (Author's original version.)....(Author's accepted manuscripts posted on preprint servers) must state that their reuse is allowed pursuant to the terms of the CC BY-NC-ND 4.0 license)"
 
 # url for preprint-licensing
 preprint-licensing-url: https://www.bmj.com/company/wp-content/uploads/2018/04/Non-Open-Access-Articles-April-2018.pdf
