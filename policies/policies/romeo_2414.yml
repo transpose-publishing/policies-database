@@ -1,10 +1,11 @@
+# ### ROMEO INFORMATION ###
 # Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_2414
 
-# publisher name from SHERAP/RoMEO. Do not edit
+# Publisher name from SHERAP/RoMEO. Do not edit
 publisher: Universidad de Jaén, Centro de Profesorado Sagrada Familia de Ubenda
 
-# policy heading from SHERAP/RoMEO. Do not edit
+# Policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
@@ -15,7 +16,7 @@ journals:
   - Revista Estudios Jurídicos. Segunda Época
   - Revista de Antropología Experimental
 
-# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+# A list of the journals from SHERPA/RoMEO associated with this policy's child policies. Do not edit
 child-journals:
   - Agua y Territorio
 
@@ -30,18 +31,20 @@ child-policies:
 # Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
-# Peer review policy url (valid url)
+# ### OPEN PEER REVIEW ###
+# Open peer review policy url (valid url)
 peer-review-url:
 
-# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+# Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
 open-reports:
 
-# Are reviewer identities revealed to the author? (mandatory/optional/no)
+# Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
 identities-revealed:
 
-# Are reviewer identities published? (mandatory/optional/no)
+# Are reviewer identities published? (mandatory/optional/no/not specified)
 identities-published:
 
+# ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
 co-review-url:
 
@@ -51,12 +54,14 @@ co-review-policy:
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
+# ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
 transfer-url:
 
 # Policy on transfer of peer reviews (free text)
 transfer-policy:
 
+# ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
 review-form-url:
 
@@ -69,22 +74,24 @@ separate-structure:
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
 
+# ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
 credit-url:
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+# ### PREPRINTS ###
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
 prearchiving: cannot
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, do not edit)
 prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, do not edit)
 copyright-urls: []
 
-# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+# Conditions (from SHERPA/RoMEO: conditions, do not edit)
 conditions:
   - On open access repositories
   - All titles are open access journals
@@ -93,38 +100,45 @@ conditions:
 # Preprint policy url (valid url)
 preprint-url:
 
-# Version of the preprint that can be posted to a server (before review only/any/other/none)
+# Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)
 preprint-version:
 
-# Time when a preprint can be posted (before acceptance only, anytime, other)
+# Time when a preprint can be posted (before acceptance only/anytime/other/not specified)
 preprint-time:
-
-# Can preprints be cited in the reference list? (yes/no)
-preprint-citation:
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers:
 
+# preprint-citation-url: Preprint citation policy url (valid url)
+preprint-citation-url:
+
+# Can preprints be cited in the reference list? (yes/no/not specified)
+preprint-citation:
+
+# Preprint media coverage policy url (valid url)
+preprint-media-url:
+
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
 
-# url for preprint-media
-preprint-media-url:
+# Preprint licensing policy url (valid url)
+preprint-licensing-url:
 
 # Policies on preprint licensing (free text)
 preprint-licensing:
 
-# url for preprint-licensing
-preprint-licensing-url:
+# Scoop protection policy url (valid url)
+scoop-protection-url:
 
 # Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
 
-# url for scoop-protection
-scoop-protection-url:
+# Community review policy url (valid url)
+community-reviews-url:
 
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
 
-# url for community-reviews
-community-reviews-url:
+# ### COMMENTS ###
+# Please leave any comments about the information presented here.
+comments:

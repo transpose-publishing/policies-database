@@ -1,17 +1,18 @@
+# ### ROMEO INFORMATION ###
 # Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_1501
 
-# publisher name from SHERAP/RoMEO. Do not edit
+# Publisher name from SHERAP/RoMEO. Do not edit
 publisher: eLife Sciences Publications
 
-# policy heading from SHERAP/RoMEO. Do not edit
+# Policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - eLife
 
-# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+# A list of the journals from SHERPA/RoMEO associated with this policy's child policies. Do not edit
 child-journals: []
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
@@ -23,18 +24,20 @@ child-policies: []
 # Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo:
 
-# Peer review policy url (valid url)
+# ### OPEN PEER REVIEW ###
+# Open peer review policy url (valid url)
 peer-review-url:
 
-# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+# Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
 open-reports: mandatory
 
-# Are reviewer identities revealed to the author? (mandatory/optional/no)
+# Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
 identities-revealed: optional
 
-# Are reviewer identities published? (mandatory/optional/no)
+# Are reviewer identities published? (mandatory/optional/no/not specified)
 identities-published: optional
 
+# ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
 co-review-url: https://submit.elifesciences.org/cgi-bin/main.plex?form_type=display_rev_instructions#confidential
 
@@ -48,6 +51,7 @@ co-review-policy: co-reviewing a manuscript with a single experienced junior col
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
+# ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
 transfer-url: https://elifesciences.org/inside-elife/fde87c31/making-the-most-of-elife-peer-reviews
 
@@ -56,6 +60,7 @@ transfer-policy: We’ll transfer review information to any other appropriate jo
   including the PLOS journals, EMBO Reports, Biology Open, BMC Biology, and the BMC-series
   journals.
 
+# ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
 review-form-url: https://submit.elifesciences.org/cgi-bin/main.plex?form_type=display_rev_instructions#writing
 
@@ -75,23 +80,25 @@ separate-structure:
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field: yes
 
+# ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
 credit-url:
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+# ### PREPRINTS ###
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
 prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, do not edit)
 prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, do not edit)
 copyright-urls:
   - https://elifesciences.org/terms-and-conditions-of-use
 
-# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+# Conditions (from SHERPA/RoMEO: conditions, do not edit)
 conditions:
   - Creative Commons Attribution License
   - Published source must be acknowledged
@@ -101,14 +108,11 @@ conditions:
 # Preprint policy url (valid url)
 preprint-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
 
-# Version of the preprint that can be posted to a server (before review only/any/other/none)
+# Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)
 preprint-version:
 
-# Time when a preprint can be posted (before acceptance only, anytime, other)
+# Time when a preprint can be posted (before acceptance only/anytime/other/not specified)
 preprint-time: anytime
-
-# Can preprints be cited in the reference list? (yes/no)
-preprint-citation: yes
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
 acceptable-servers: To help increase the accessibility of research and ensure that
@@ -116,31 +120,41 @@ acceptable-servers: To help increase the accessibility of research and ensure th
   preprint servers, such as bioRxiv or Authorea, while their paper is under consideration
   by eLife.
 
+# preprint-citation-url: Preprint citation policy url (valid url)
+preprint-citation-url:
+
+# Can preprints be cited in the reference list? (yes/no/not specified)
+preprint-citation: yes
+
+# Preprint media coverage policy url (valid url)
+preprint-media-url: https://submit.elifesciences.org/html/elife_author_instructions.html#policies
+
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media: Prior to publication, authors are encouraged to present their findings
   to their peers, including at meetings and conferences; to deposit a copy of their
   manuscript with a preprint server (or other open repository or website); and to
   blog about their findings.
 
-# url for preprint-media
-preprint-media-url: https://submit.elifesciences.org/html/elife_author_instructions.html#policies
+# Preprint licensing policy url (valid url)
+preprint-licensing-url:
 
 # Policies on preprint licensing (free text)
 preprint-licensing:
 
-# url for preprint-licensing
-preprint-licensing-url:
+# Scoop protection policy url (valid url)
+scoop-protection-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
 
 # Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
 
-# url for scoop-protection
-scoop-protection-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
+# Community review policy url (valid url)
+community-reviews-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
 
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews: The Editors will primarily base their decision on the content of
   your submission, but public feedback on the work (positive or negative) might be
   taken into account.
 
-# url for community-reviews
-community-reviews-url: https://submit.elifesciences.org/html/elife_author_instructions.html#process
+# ### COMMENTS ###
+# Please leave any comments about the information presented here.
+comments:

@@ -1,17 +1,18 @@
+# ### ROMEO INFORMATION ###
 # Policy ID from SHERPA/RoMEO (with `romeo_` preprended). Do not edit
 policy-id: romeo_1174
 
-# publisher name from SHERAP/RoMEO. Do not edit
+# Publisher name from SHERAP/RoMEO. Do not edit
 publisher: BMJ Publishing Group
 
-# policy heading from SHERAP/RoMEO. Do not edit
+# Policy heading from SHERAP/RoMEO. Do not edit
 policy-heading: BMJ
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - BMJ
 
-# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+# A list of the journals from SHERPA/RoMEO associated with this policy's child policies. Do not edit
 child-journals: []
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
@@ -24,38 +25,53 @@ child-policies: []
 # Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here.
 flag-romeo: BMJ appears in this record and romeo_25 as well
 
-# Peer review policy url (valid url)
+# ### OPEN PEER REVIEW ###
+# Open peer review policy url (valid url)
 peer-review-url: https://www.bmj.com/about-bmj/resources-reviewers
 
-# Does the journal publish the content of peer reviews? (mandatory/optional/no)
+# Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
 open-reports: mandatory
 
-# Are reviewer identities revealed to the author? (mandatory/optional/no)
+# Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
 identities-revealed: mandatory
 
-# Are reviewer identities published? (mandatory/optional/no)
+# Are reviewer identities published? (mandatory/optional/no/not specified)
 identities-published: mandatory
 
+# ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
 co-review-url: http://authors.bmj.com/policies/peer-review-terms-and-conditions/
 
 # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
-co-review-policy: "If you do choose to discuss the manuscript and/or your review with a professional colleague you are responsible for ensuring that they are made fully aware of the confidential nature of the discussion and that they must not disclose any information about the manuscript until the article is published. The identity of any co-reviewer and any potential conflicting or competing interests they may have must be disclosed when submitting your review."
+co-review-policy: If you do choose to discuss the manuscript and/or your review with
+  a professional colleague you are responsible for ensuring that they are made fully
+  aware of the confidential nature of the discussion and that they must not disclose
+  any information about the manuscript until the article is published. The identity
+  of any co-reviewer and any potential conflicting or competing interests they may
+  have must be disclosed when submitting your review.
 
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
+# ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
 transfer-url: https://www.bmj.com/about-bmj/resources-reviewers
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy: "Authors can now nominate other BMJ Journals that they would like their manuscript to go to automatically if it is rejected by the first journal. The system also passes on editors' comments and peer reviewers' reports relating to that manuscript, to facilitate the review process at the next BMJ Journal. This means that your review might be read by other editors within BMJ (the publishing group) in due course."
+transfer-policy: Authors can now nominate other BMJ Journals that they would like
+  their manuscript to go to automatically if it is rejected by the first journal.
+  The system also passes on editors' comments and peer reviewers' reports relating
+  to that manuscript, to facilitate the review process at the next BMJ Journal. This
+  means that your review might be read by other editors within BMJ (the publishing
+  group) in due course.
 
+# ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
 review-form-url: https://www.bmj.com/about-bmj/resources-reviewers
 
 # What are the titles of the sections of the review form? (free text)
-review-structure: "The BMJ's peer reviewers do not have to fill in standard appraisal forms."
+review-structure: The BMJ's peer reviewers do not have to fill in standard appraisal
+  forms.
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure: no
@@ -63,24 +79,26 @@ separate-structure: no
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
 
+# ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
 credit-url:
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
 orcid-peer-review:
 
-# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO, so do not edit.
+# ### PREPRINTS ###
+# Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
 prearchiving: can
 
-# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, so do not edit)
+# Preprint restrictions (from SHERPA/RoMEO: prerestrictions, do not edit)
 prerestrictions: []
 
-# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, so do not edit)
+# Copyright policy url (from SHERPA/RoMEO: copyrightlinkurl, do not edit)
 copyright-urls:
   - http://www.bmj.com/about-bmj/resources-authors
   - http://www.bmj.com/about-bmj/resources-readers/permissions
 
-# Conditions (from SHERPA/RoMEO: conditions, so do not edit)
+# Conditions (from SHERPA/RoMEO: conditions, do not edit)
 conditions:
   - On author's personal website and open access repositories
   - Publisher copyright and source must be acknowledged
@@ -97,38 +115,49 @@ conditions:
 # Preprint policy url (valid url)
 preprint-url: https://www.bmj.com/company/wp-content/uploads/2018/04/Non-Open-Access-Articles-April-2018.pdf
 
-# Version of the preprint that can be posted to a server (before review only/any/other/none)
+# Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)
 preprint-version: any
 
-# Time when a preprint can be posted (before acceptance only, anytime, other)
+# Time when a preprint can be posted (before acceptance only/anytime/other/not specified)
 preprint-time: anytime
 
-# Can preprints be cited in the reference list? (yes/no)
+# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
+acceptable-servers: a dedicated not-for-profit preprint server or subject repository,
+  for example, ArXiv or BioRxiv.
+
+# preprint-citation-url: Preprint citation policy url (valid url)
+preprint-citation-url:
+
+# Can preprints be cited in the reference list? (yes/no/not specified)
 preprint-citation:
 
-# Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers: "a dedicated not-for-profit preprint server or subject repository, for example, ArXiv or BioRxiv."
+# Preprint media coverage policy url (valid url)
+preprint-media-url:
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media:
 
-# url for preprint-media
-preprint-media-url:
+# Preprint licensing policy url (valid url)
+preprint-licensing-url: https://www.bmj.com/company/wp-content/uploads/2018/04/Non-Open-Access-Articles-April-2018.pdf
 
 # Policies on preprint licensing (free text)
-preprint-licensing: "BMJ will consider for publication articles that have previously had a Creative Commons licence assigned to their AOV (Author's original version.)....(Author's accepted manuscripts posted on preprint servers) must state that their reuse is allowed pursuant to the terms of the CC BY-NC-ND 4.0 license)"
+preprint-licensing: BMJ will consider for publication articles that have previously
+  had a Creative Commons licence assigned to their AOV (Author's original version.)....(Author's
+  accepted manuscripts posted on preprint servers) must state that their reuse is
+  allowed pursuant to the terms of the CC BY-NC-ND 4.0 license)
 
-# url for preprint-licensing
-preprint-licensing-url: https://www.bmj.com/company/wp-content/uploads/2018/04/Non-Open-Access-Articles-April-2018.pdf
+# Scoop protection policy url (valid url)
+scoop-protection-url:
 
 # Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
 scoop-protection:
 
-# url for scoop-protection
-scoop-protection-url:
+# Community review policy url (valid url)
+community-reviews-url:
 
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
 
-# url for community-reviews
-community-reviews-url:
+# ### COMMENTS ###
+# Please leave any comments about the information presented here.
+comments:
