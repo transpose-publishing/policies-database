@@ -9,6 +9,21 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Arbitration Law Reports and Review
+  - Brief Treatment and Crisis Intervention
+  - ESHRE Monographs
+  - Environmental History Review
+  - Forest and Conservation History
+  - International Mathematics Research Papers
+  - International Mathematics Research Surveys
+  - Journal of World Energy Law and Business
+  - Journal of the International Commission on Radiation Units and Measurements
+  - Nucleic Acids Symposium Series
+  - Reports of Patent, Design and Trade Mark Cases
+  - Ruffin Series in Business Ethics
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Acta Biochimica et Biophysica Sinica
   - Adaptation
   - Advances in Nutrition
@@ -37,7 +52,6 @@ journals:
   - Applied Economic Perspectives and Policy
   - Applied Linguistics
   - Applied Mathematics Research eXpress
-  - Arbitration Law Reports and Review
   - Archives of Clinical Neuropsychology
   - Aristotelian Society Supplementary Volume
   - Arthropod Management Tests
@@ -52,7 +66,6 @@ journals:
   - Bioscience Horizons
   - Biostatistics
   - Brain
-  - Brief Treatment and Crisis Intervention
   - Briefings in Bioinformatics
   - Briefings in Functional Genomics
   - British Journal for the Philosophy of Science
@@ -97,7 +110,6 @@ journals:
   - EHJ Cardiovascular Imaging
   - ELT Journal
   - EP-Europace
-  - ESHRE Monographs
   - Early Music
   - Economic Policy
   - Endocrine Reviews
@@ -109,7 +121,6 @@ journals:
   - Environmental Entomology
   - Environmental Epigenetics
   - Environmental History
-  - Environmental History Review
   - Epidemiologic Reviews
   - Essays in Criticism
   - European Heart Journal
@@ -135,7 +146,6 @@ journals:
   - Food Quality and Safety
   - Foreign Policy Analysis
   - Forest Science
-  - Forest and Conservation History
   - Forestry
   - Forum for Modern Language Studies
   - French History
@@ -192,8 +202,6 @@ journals:
   - International Journal of Refugee Law
   - International Journal of Transitional Justice
   - International Mathematics Research Notices
-  - International Mathematics Research Papers
-  - International Mathematics Research Surveys
   - International Policy Sociology
   - International Political Sociology
   - International Relations of the Asia-Pacific
@@ -282,14 +290,12 @@ journals:
   - Journal of Tropical Pediatrics
   - Journal of Urban Ecology
   - Journal of Victorian Culture
-  - Journal of World Energy Law and Business
   - Journal of the American Academy of Religion
   - Journal of the American Medical Informatics Association
   - Journal of the Canadian Association of Gastroenterology
   - Journal of the European Economic Association
   - Journal of the History of Collections
   - Journal of the History of Medicine and Allied Sciences
-  - Journal of the International Commission on Radiation Units and Measurements
   - Journal of the Pediatric Infectious Diseases Society
   - Journals of Gerontology, Series A
   - Journals of Gerontology, Series B
@@ -330,7 +336,6 @@ journals:
   - Nicotine and Tobacco Research
   - Notes and Queries
   - Nucleic Acids Research
-  - Nucleic Acids Symposium Series
   - Nutrition Reviews
   - OAH Magazine of History
   - Occupational Medicine
@@ -367,7 +372,6 @@ journals:
   - Radiation Protection Dosimetry
   - Refugee Survey Quarterly
   - Regenerative Biomaterials
-  - Reports of Patent, Design and Trade Mark Cases
   - Research Evaluation
   - Review of Asset Pricing Studies
   - Review of Corporate Finance Studies
@@ -376,7 +380,6 @@ journals:
   - Review of Environmental Economics and Policy
   - Review of Finance
   - Review of Financial Studies
-  - Ruffin Series in Business Ethics
   - SLEEP
   - Schizophrenia Bulletin
   - Science and Public Policy

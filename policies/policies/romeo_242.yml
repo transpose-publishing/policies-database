@@ -19,36 +19,24 @@ journals:
   - Annals of Neurosciences
   - Annals of Nutrition and Metabolism
   - Audiology and Neurotology
-  - Audiology and Neurotology Extra
-  - Biomedicine Hub
   - Blood Purification
   - Brain, Behavior and Evolution
   - Breast Care
   - CardioRenal Medicine
   - Cardiology
   - Caries Research
-  - Case Reports in Dermatology
-  - Case Reports in Gastroenterology
-  - Case Reports in Nephrology and Dialysis
-  - Case Reports in Neurology
-  - Case Reports in Oncology
-  - Case Reports in Ophthalmology
   - Case Reports in Virology and Infectious Diseases
   - Case report in Acute Medicine
   - Case report in Clinical Nutrition
   - Case report in Orthopedic  Research
   - Cells Tissues Organs
-  - Cellular Physiology and Biochemistry
   - Cerebrovascular Diseases
-  - Cerebrovascular Diseases Extra
   - Chemotherapy
   - Complementary Medicine Research
   - Current Urology
   - Cytogenetic and Genome Research
   - Dementia and Geriatric Cognitive Disorders
-  - Dementia and Geriatric Cognitive Disorders Extra
   - Dermatology
-  - Dermatopathology
   - Developmental Neuroscience
   - Digestion
   - Digestive Diseases
@@ -64,7 +52,6 @@ journals:
   - Folia Primatologica
   - Food Science and Technology Research
   - Forschende Komplementärmedizin
-  - GE - Portuguese Journal of Gastroenterology
   - Gastrointestinal Tumors
   - Gerontology
   - Gynecologic Investigation
@@ -75,7 +62,6 @@ journals:
   - Human Development
   - Human Heredity
   - Inflammatory Intestinal Diseases
-  - Integrative Medicine International
   - International Archives of Allergy and Applied Immunology
   - International Archives of Allergy and Immunology
   - International Journal of Diabetes and Metabolism
@@ -90,18 +76,14 @@ journals:
   - Karger Kompass Ophthalmologie
   - Karger Kompass Pneumologie
   - Kidney Diseases
-  - Kidney and Blood Pressure Research
   - Lifestyle Genomics
   - Liver Cancer
-  - Medical Epigenetics
-  - Medical Principles and Practice
   - Molecular Neuropsychiatry
   - Molecular Syndromology
   - Neonatology
   - Nephron
   - Nephron Clinical Practice
   - Nephron Experimental Nephrology
-  - Nephron Extra
   - Nephron Physiology
   - Neurodegenerative Diseases
   - Neuroembryology and Aging
@@ -109,16 +91,13 @@ journals:
   - Neuroepidemiology
   - Neuroimmunomodulation
   - Neuropsychobiology
-  - Neurosignals
   - ORL
-  - Obesity Facts
   - Ocular Oncology and Pathology
   - Oncology
   - Oncology Research and Treatment
   - Onkologie
   - Ophthalmic Research
   - Ophthalmologica
-  - Ophthalmologica Extra
   - Pathobiology
   - Pathophysiology of Haemostasis and Thrombosis
   - Pediatric Neurosurgery
@@ -143,6 +122,30 @@ journals:
   - Verhaltenstherapie
   - Visceral Medicine
   - Viszeralmedizin
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Audiology and Neurotology Extra
+  - Biomedicine Hub
+  - Case Reports in Dermatology
+  - Case Reports in Gastroenterology
+  - Case Reports in Nephrology and Dialysis
+  - Case Reports in Neurology
+  - Case Reports in Oncology
+  - Case Reports in Ophthalmology
+  - Cellular Physiology and Biochemistry
+  - Cerebrovascular Diseases Extra
+  - Dementia and Geriatric Cognitive Disorders Extra
+  - Dermatopathology
+  - GE - Portuguese Journal of Gastroenterology
+  - Integrative Medicine International
+  - Kidney and Blood Pressure Research
+  - Medical Epigenetics
+  - Medical Principles and Practice
+  - Nephron Extra
+  - Neurosignals
+  - Obesity Facts
+  - Ophthalmologica Extra
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

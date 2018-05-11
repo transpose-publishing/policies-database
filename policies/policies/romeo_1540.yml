@@ -9,14 +9,17 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Echo Research and Practice
-  - Endocrine Connections
   - Endocrine-Related Cancer
-  - Endocrinology, Diabetes and Metabolism Case Reports
   - European Journal of Endocrinology
   - Journal of Endocrinology
   - Journal of Molecular Endocrinology
   - Reproduction
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Echo Research and Practice
+  - Endocrine Connections
+  - Endocrinology, Diabetes and Metabolism Case Reports
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

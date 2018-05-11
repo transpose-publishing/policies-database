@@ -140,11 +140,9 @@ journals:
   - Chromatography Research International
   - Clinical and Developmental Immunology
   - Comparative and Functional Genomics
-  - Complexity
   - Computational Biology Journal
   - Computational Intelligence and Neuroscience
   - Computational and Mathematical Methods in Medicine
-  - Contrast Media and Molecular Imaging
   - Critical Care Research and Practice
   - Current Gerontology and Geriatrics Research
   - Dataset Papers in Science
@@ -166,7 +164,6 @@ journals:
   - Game Theory
   - Gastroenterology Research and Practice
   - Genetics Research International
-  - Geofluids
   - Geography Journal
   - Geometry
   - HPB Surgery
@@ -304,7 +301,6 @@ journals:
   - International Journal of Zoology
   - International Scholarly Research Notices
   - Journal of Addiction
-  - Journal of Advanced Transportation
   - Journal of Aging Research
   - Journal of Allergy
   - Journal of Amino Acids
@@ -358,7 +354,6 @@ journals:
   - Journal of Environmental and Public Health
   - Journal of Fluids
   - Journal of Food Processing
-  - Journal of Food Quality
   - Journal of Fuels
   - Journal of Function Spaces
   - Journal of Function Spaces and Applications
@@ -452,7 +447,6 @@ journals:
   - New Journal of Science
   - Nursing Research and Practice
   - Obstetrics and Gynecology International
-  - Occupational Therapy International
   - Organic Chemistry International
   - Oxidative Medicine and Cellular Longevity
   - PPAR Research
@@ -473,13 +467,11 @@ journals:
   - Rehabilitation Research and Practice
   - Revue canadienne de pneumologie
   - Sarcoma
-  - Scanning
   - Schizophrenia Research and Treatment
   - Science and Technology of Nuclear Installations
   - Scientific World Journal
   - ScientificWorld Journal
   - Scientifica
-  - Security and Communication Networks
   - Sequencing
   - Sleep Disorders
   - Smart Materials Research
@@ -494,8 +486,19 @@ journals:
   - Urban Studies Research
   - VLSI Design
   - Veterinary Medicine International
-  - Wireless Communications and Mobile Computing
   - X-Ray Optics and Instrumentation
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Complexity
+  - Contrast Media and Molecular Imaging
+  - Geofluids
+  - Journal of Advanced Transportation
+  - Journal of Food Quality
+  - Occupational Therapy International
+  - Scanning
+  - Security and Communication Networks
+  - Wireless Communications and Mobile Computing
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

@@ -19,7 +19,6 @@ journals:
   - Memoirs of the American Mathematical Society
   - Notices of the American Mathematical Society
   - Proceedings of the American Mathematical Society
-  - 'Proceedings of the American Mathematical Society: Series B'
   - Quarterly of Applied Mathematics
   - Representation Theory
   - St. Petersburg Mathematical Journal
@@ -27,8 +26,12 @@ journals:
   - Theory of Probability and Mathematical Statistics
   - Tranactions of the Moscow Mathematical Society
   - Transactions of the American Mathematical Society
-  - 'Transactions of the American Mathematical Society: Series B'
   - Transactions of the Moscow Mathematical Society
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - 'Proceedings of the American Mathematical Society: Series B'
+  - 'Transactions of the American Mathematical Society: Series B'
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

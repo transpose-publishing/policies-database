@@ -9,69 +9,72 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Arbeiderhistorie
   - Arbeidsrett
   - 'Beta: Scandinavian Journal of Business Research'
   - Digital kompetanse
-  - Edda
   - 'Ekfrase: Nordisk Tidsskrift for Visuell Kultur'
   - Fokus på familien
-  - Heimen
-  - Historisk Tidsskrift
   - Jussens Venner
   - Kirke og Kultur
   - Klinisk Sygepleje
-  - Kritisk juss
-  - Kunst og Kultur
   - Lov og Rett
   - NORDAND
   - Naturen
-  - Nordic Journal of Digital Literacy
   - Nordic Journal of Religion and Society
   - Nordic Studies in Education
   - Nordisk Domssamling
   - Nordisk Pedagogik
   - Nordisk Sosialt Arbeid
-  - Nordisk poesi. Tidsskrift for lyrikkforskning
-  - Nordisk politiforskning
   - Nordisk sygeplejeforskning
-  - Nordisk välfärdsforskning | Nordic Welfare Research
-  - Norsk Antropologisk tidsskrift
-  - Norsk Filosofisk tidsskrift
-  - Norsk Litteraturvitenskapelig Tidsskrift
   - Norsk Teologisk Tidsskrift
-  - Norsk medietidsskrift
-  - Norsk museumstidsskrift
   - Norsk pedagogisk tidsskrift
-  - Norsk sosiologisk tidsskrift
-  - Norsk statsvitenskapelig tidsskrift
   - Nytt Norsk Tidsskrift
-  - Oslo Law Review
   - 'Plan: Tidsskrift for samfunnsplanlegging, bolig og byplan og regional utvikling'
   - Praktisk økonomi og finans
   - Rus & Samfunn
   - Scandinavian Journal of Law
-  - Scandinavian Poetry. Journal of Poetry Research
   - Skatterett
   - Sosiologisk Tidsskrift
   - Stat og Styring
-  - Studia Musicologica Norvegica
-  - Søkelys på arbeidslivet
-  - Teologisk tidsskrift
   - Tidsskrift for Eiendomsrett
   - Tidsskrift for Erstatningsrett, forsikringsrett og velferdsrett
   - Tidsskrift for Forretningsjus
   - Tidsskrift for Psykisk Helsearbeid
   - Tidsskrift for Rettsvitenskap
-  - Tidsskrift for Samfunnsforskning
   - Tidsskrift for Strafferett
   - Tidsskrift for Teologi og Kirke
   - Tidsskrift for erstatningsrett, forsikringsrett og trygderett
   - Tidsskrift for familierett, arverett og barnevernrettslige spørsmål
+  - Tidsskriftet Norges barnevern
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Arbeiderhistorie
+  - Edda
+  - Heimen
+  - Historisk Tidsskrift
+  - Kritisk juss
+  - Kunst og Kultur
+  - Nordic Journal of Digital Literacy
+  - Nordisk poesi. Tidsskrift for lyrikkforskning
+  - Nordisk politiforskning
+  - Nordisk välfärdsforskning | Nordic Welfare Research
+  - Norsk Antropologisk tidsskrift
+  - Norsk Filosofisk tidsskrift
+  - Norsk Litteraturvitenskapelig Tidsskrift
+  - Norsk medietidsskrift
+  - Norsk museumstidsskrift
+  - Norsk sosiologisk tidsskrift
+  - Norsk statsvitenskapelig tidsskrift
+  - Oslo Law Review
+  - Scandinavian Poetry. Journal of Poetry Research
+  - Studia Musicologica Norvegica
+  - Søkelys på arbeidslivet
+  - Teologisk tidsskrift
+  - Tidsskrift for Samfunnsforskning
   - Tidsskrift for kjønnsforskning
   - Tidsskrift for omsorgsforskning
   - Tidsskrift for velferdsforskning
-  - Tidsskriftet Norges barnevern
   - Uniped - Tidsskrift for universitets- og høgskolepedagogikk
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

@@ -14,8 +14,11 @@ journals:
   - Rechtsgeschichte
   - Romanische Forschungen
   - Zeitschrift fuer Philosophische Forschung
-  - Zeitschrift für Bibliothekswesen und Bibliographie
   - Zeitsprünge
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Zeitschrift für Bibliothekswesen und Bibliographie
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

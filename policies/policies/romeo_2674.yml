@@ -16,13 +16,16 @@ journals:
   - Eastern Journal of Medicine
   - Elektronik Sosyal Bilimler Dergisi
   - European Research Journal
-  - Family Practice and Palliative Care
   - Hasan Âli Yücel Eğitim Fakültesi Dergisi
-  - International Journal of Engineering and Geosciences
   - International Review of Economics and Management
   - Mukaddime
   - Tekirdağ Ziraat Fakültesi Dergisi
   - Yüzyılda Eğitim Ve Toplum Eğitim Bilimleri Ve Sosyal Araştırmalar Dergisi
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Family Practice and Palliative Care
+  - International Journal of Engineering and Geosciences
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

@@ -14,21 +14,24 @@ journals:
   - Good Society
   - Interdisciplinary Literary Studies
   - 'JGE: The Journal of General Education'
-  - Journal for the Study of Paul and His Letters
   - Journal of General Education
   - Journal of Information Policy
   - Journal of Modern Periodical Studies
   - Journal of Nietzsche Studies
   - Journal of Speculative Philosophy
-  - Journal of Theological Interpretation
   - Mediterranean Studies
-  - Pennsylvania History
   - Philosophy and Rhetoric
   - SHAW
   - 'SHAW: The Annual of Bernard Shaw Studies'
   - Soundings
   - Transportation Journal
   - Utopian Studies
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Journal for the Study of Paul and His Letters
+  - Journal of Theological Interpretation
+  - Pennsylvania History
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

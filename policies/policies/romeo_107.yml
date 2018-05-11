@@ -15,10 +15,7 @@ journals:
   - Boom
   - California History
   - Classical Antiquity
-  - Collabra
-  - 'Collabra: Psychology'
   - Departures in Critical Qualitative Research
-  - 'Elementa: Science of the Anthropocene'
   - Federal Sentencing Reporter
   - Feminist Media Histories
   - Film Quarterly
@@ -44,6 +41,12 @@ journals:
   - Rhetorica
   - Sociology of Development
   - Southern California Quarterly
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Collabra
+  - 'Collabra: Psychology'
+  - 'Elementa: Science of the Anthropocene'
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

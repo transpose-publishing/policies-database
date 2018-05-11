@@ -15,7 +15,6 @@ journals:
   - Clinical and Diagnostic Laboratory Immunology
   - Clinical and Vaccine Immunology
   - Eukaryotic Cell
-  - Genome Announcements
   - Infection and Immunity
   - Journal of Bacteriology
   - Journal of Clinical Microbiology
@@ -23,6 +22,10 @@ journals:
   - Microbiology Spectrum
   - Microbiology and Molecular Biology Reviews
   - Molecular and Cellular Biology
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Genome Announcements
   - mBio
   - mSphere
   - mSystems

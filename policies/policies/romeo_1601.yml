@@ -11,12 +11,6 @@ policy-heading: '[Default policy]'
 journals:
   - Audiology and Neurotology Extra
   - Biomedicine Hub
-  - Case Reports in Dermatology
-  - Case Reports in Gastroenterology
-  - Case Reports in Nephrology and Dialysis
-  - Case Reports in Neurology
-  - Case Reports in Oncology
-  - Case Reports in Ophthalmology
   - Cellular Physiology and Biochemistry
   - Cerebrovascular Diseases Extra
   - Dementia and Geriatric Cognitive Disorders Extra
@@ -30,6 +24,15 @@ journals:
   - Neurosignals
   - Obesity Facts
   - Ophthalmologica Extra
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Case Reports in Dermatology
+  - Case Reports in Gastroenterology
+  - Case Reports in Nephrology and Dialysis
+  - Case Reports in Neurology
+  - Case Reports in Oncology
+  - Case Reports in Ophthalmology
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:

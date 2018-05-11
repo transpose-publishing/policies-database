@@ -10,14 +10,12 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Acta Herpetologica
-  - Advances in Horticultural Science
   - Aestimum e Pubblicazioni Ce.S.E.T.
   - Aisthesis. Pratiche, linguaggi e saperi dell'estetico
   - Annali del Dipartimento di Filosofia - Nuova Serie
   - Annali di Storia di Firenze
   - Bio-based and Applied Economics
   - Cromohs
-  - Economia e diritto agroalimentare
   - Form@re
   - Ill Colle di Galileo
   - Italian Journal of Anatomy and Embryology
@@ -26,7 +24,6 @@ journals:
   - Musica/Tecnologia
   - Phenomenology and Mind
   - Phytopathologia Mediterranea
-  - Prometheus
   - Quaderni della Ri-Vista
   - Quaderni di Linguistica e Studi Orientali
   - Reti Medievali - Rivista
@@ -40,6 +37,12 @@ journals:
   - Studi irlandesi. A Journal of Irish Studies
   - Studi sulla formazione
   - Techne. Journal of Technology for Architecture and Environment
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Advances in Horticultural Science
+  - Economia e diritto agroalimentare
+  - Prometheus
   - Tutor
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

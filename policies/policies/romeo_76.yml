@@ -9,10 +9,69 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - AJOB Primary Research
+  - Astronomical and Astrophysical Transactions
+  - China Law Review
+  - Collection Management
+  - Communal/Plural
+  - Computer-Aided Design and Applications
+  - Critical Studies on Security
+  - Current Writing
+  - 'Current Writing: Text and Reception in Southern Africa'
+  - Democracy and Nature
+  - Dramatherapy
+  - Economic Analysis
+  - 'Emergences: Journal for the Study of Media and Composite Cultures'
+  - Enterprise and Innovation Management Studies
+  - Ergonomics Abstracts Online
+  - Experimental Aging Research
+  - GAMS Journal of Mathematics and Mathematical Biosciences
+  - Green Chemistry Letters and Reviews
+  - Human Performance
+  - Index on Censorship
+  - Integrated Assessment
+  - International Journal of General Systems
+  - International Journal of Geographical Information Systems
+  - 'International Journal of Green Nanotechnology: Biomedicine'
+  - 'International Journal of Green Nanotechnology: Physics and Chemistry'
+  - Journal of Applied Sport Psychology
+  - Journal of Aquaculture in the Tropics
+  - Journal of Biological Dynamics
+  - Journal of Constructivist Psychology
+  - Journal of Digital Forensic Practice
+  - Journal of Herpetological Association of Africa
+  - Journal of Information and Optimization Sciences
+  - Journal of Integrative Environmental Sciences
+  - Journal of LGBT Issues in Counseling
+  - Journal of LGBT Youth
+  - Journal of Legal Medicine
+  - Journal of New Seeds
+  - Journal of Social Welfare and Family Law
+  - Journal of Sustainable Agriculture
+  - Journal of the Chinese Institute of Industrial Engineers
+  - Journal of the History of the Neurosciences
+  - Journal of the Solar Energy Society of India
+  - Loisir et Société
+  - Ophelia
+  - Plasma Devices and Operations
+  - Psychiatry, Psychology and Law
+  - Psychoanalytic Dialogues
+  - Psychoanalytic Inquiry
+  - Risk, Decision and Policy
+  - Russian Journal of Communication
+  - Sarsia
+  - Sexual and Relationship Therapy
+  - Society and Leisure
+  - Society in Transition
+  - South African Review of Sociology
+  - Svensk Ö NH-tidskrift
+  - UroOncology
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - AAG Review of Books
   - AIDS Care
   - AJOB Neuroscience
-  - AJOB Primary Research
   - ALT-J
   - 'ANQ: A Quarterly Journal of Short Articles, Notes and Reviews'
   - Academy of Management Annals
@@ -192,7 +251,6 @@ journals:
   - Assessment and Evaluation in Higher Education
   - Assessment in Education
   - 'Assistive Technology: The Offical Journal of RESNA'
-  - Astronomical and Astrophysical Transactions
   - Astropolitics
   - Atlantic Journal of Communication
   - Atlantic Studies
@@ -326,7 +384,6 @@ journals:
   - China Economic Journal
   - China Journal of Accounting Studies
   - China Journal of Social Work
-  - China Law Review
   - Chinese Economy
   - Chinese Education and Society
   - Chinese Historical Review
@@ -382,7 +439,6 @@ journals:
   - Cognitive Neuropsychology
   - Cognitive Neuroscience
   - Cold War History
-  - Collection Management
   - College Teaching
   - College and Undergraduate Libraries
   - Collnet Journal of Scientometrics and Information Management
@@ -393,7 +449,6 @@ journals:
   - Comments on Inorganic Chemistry
   - Commonwealth Law Bulletin
   - Commonwealth and Comparative Politics
-  - Communal/Plural
   - 'Communicatio: South African Journal for Communication Theory and Research'
   - Communication Booknotes Quarterly
   - Communication Education
@@ -433,7 +488,6 @@ journals:
   - Computer Methods in Biomechanics and Biomedical Engineering
   - 'Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization'
   - Computer Science Education
-  - Computer-Aided Design and Applications
   - Computers in the Schools
   - Conflict, Security and Development
   - 'Congress and the Presidency: A Journal of Capital Studies'
@@ -485,7 +539,6 @@ journals:
   - Critical Reviews in Toxicology
   - Critical Studies in Education
   - Critical Studies in Media Communication
-  - Critical Studies on Security
   - Critical Studies on Terrorism
   - Critique
   - 'Critique: Journal of Socialist Theory'
@@ -506,8 +559,6 @@ journals:
   - Current Issues in Language Planning
   - Current Issues in Tourism
   - Current Medical Research and Opinion
-  - Current Writing
-  - 'Current Writing: Text and Reception in Southern Africa'
   - Curriculum Journal
   - CyTA - Journal of Food
   - Cybernetics and Systems
@@ -519,7 +570,6 @@ journals:
   - Defence Studies
   - Defence and Peace Economics
   - Defense and Security Analysis
-  - Democracy and Nature
   - Democracy and Security
   - Democratization
   - Dermato-Endocrinology
@@ -548,7 +598,6 @@ journals:
   - Distinktion
   - Distributed Generation and Alternative Energy Journal
   - Dix-Neuf
-  - Dramatherapy
   - Dress
   - Drug Delivery
   - Drug Design and Discovery
@@ -574,7 +623,6 @@ journals:
   - Ecological Psychology
   - Ecology of Food and Nutrition
   - Econometric Reviews
-  - Economic Analysis
   - Economic Geography
   - Economic History of Developing Regions
   - Economic Systems Research
@@ -610,7 +658,6 @@ journals:
   - Electric Power Components and Systems
   - Electromagnetic Biology and Medicine
   - Electromagnetics
-  - 'Emergences: Journal for the Study of Media and Composite Cultures'
   - Emerging Markets Finance and Trade
   - Emotional and Behavioural Difficulties
   - Endocrine Disruptors
@@ -631,7 +678,6 @@ journals:
   - English Studies in Africa
   - Enhancing Learning in the Social Sciences
   - Enterprise Information Systems
-  - Enterprise and Innovation Management Studies
   - Entrepreneurship and Regional Development
   - 'Environment: Science and Policy for Sustainable Development'
   - Environmental Archaeology
@@ -647,7 +693,6 @@ journals:
   - Epigenetics
   - Equity and Excellence in Education
   - Ergonomics
-  - Ergonomics Abstracts Online
   - Ethics and Behavior
   - Ethics and Education
   - Ethics and Global Politics
@@ -703,7 +748,6 @@ journals:
   - Evidence-Based Communication Assessment and Intervention
   - Exceptionality
   - Exemplaria
-  - Experimental Aging Research
   - Experimental Heat Transfer
   - Experimental Lung Research
   - Experimental Mathematics
@@ -775,7 +819,6 @@ journals:
   - Frontiers in Life Science
   - Fullerenes, Nanotubes and Carbon Nanostructures
   - Fusion Science and Technology
-  - GAMS Journal of Mathematics and Mathematical Biosciences
   - GFF
   - GIScience and Remote Sensing
   - GM Crops
@@ -813,7 +856,6 @@ journals:
   - Globalisation, Societies and Education
   - Globalizations
   - Grana
-  - Green Chemistry Letters and Reviews
   - Green Letters
   - 'Green Letters: Studies in Ecocriticism'
   - Greenhouse Gas Measurement and Management
@@ -863,7 +905,6 @@ journals:
   - Howard Journal of Communications
   - Human Dimensions of Wildlife
   - Human Fertility
-  - Human Performance
   - Human Resource Development International
   - Human Vaccines
   - Human Vaccines and Immunotherapeutics
@@ -888,7 +929,6 @@ journals:
   - Immunological Investigations
   - Immunopharmacology and Immunotoxicology
   - Impact Assessment and Project Appraisal
-  - Index on Censorship
   - India Review
   - Indian Chemical Engineer
   - Indian Journal of Industrial and Applied Mathematics
@@ -916,7 +956,6 @@ journals:
   - Inquiry
   - Instrumentation Science and Technology
   - Integral Transforms and Special Functions
-  - Integrated Assessment
   - Integrated Ferroelectrics
   - Intellectual History Review
   - Intelligence and National Security
@@ -987,13 +1026,9 @@ journals:
   - International Journal of Forensic Mental Health
   - International Journal of Forest Engineering
   - International Journal of Fruit Science
-  - International Journal of General Systems
   - International Journal of Geographical Information Science
-  - International Journal of Geographical Information Systems
   - International Journal of Green Energy
-  - 'International Journal of Green Nanotechnology: Biomedicine'
   - 'International Journal of Green Nanotechnology: Materials Science and Engineering'
-  - 'International Journal of Green Nanotechnology: Physics and Chemistry'
   - International Journal of Health Promotion and Education
   - International Journal of Heritage Studies
   - International Journal of Hospitality and Tourism Administration
@@ -1158,10 +1193,8 @@ journals:
   - Journal of Applied Management Studies
   - Journal of Applied School Psychology
   - Journal of Applied Security Research
-  - Journal of Applied Sport Psychology
   - Journal of Applied Statistics
   - Journal of Applied Water Engineering and Research
-  - Journal of Aquaculture in the Tropics
   - Journal of Aquatic Animal Health
   - Journal of Aquatic Food Product Technology
   - Journal of Arabian Studies
@@ -1180,7 +1213,6 @@ journals:
   - Journal of Baltic Studies
   - Journal of Behavioral Finance
   - Journal of Beliefs and Values
-  - Journal of Biological Dynamics
   - Journal of Biological Education
   - Journal of Biologically Active Products from Nature
   - Journal of Biomaterials Science, Polymer Edition
@@ -1222,7 +1254,6 @@ journals:
   - Journal of Computational and Graphical Statistics
   - Journal of Computer Information Systems
   - Journal of Conflict Archaeology
-  - Journal of Constructivist Psychology
   - Journal of Consumer Health on the Internet
   - Journal of Contemporary African Studies
   - Journal of Contemporary Asia
@@ -1251,7 +1282,6 @@ journals:
   - Journal of Development Effectiveness
   - Journal of Development Studies
   - Journal of Difference Equations and Applications
-  - Journal of Digital Forensic Practice
   - Journal of Disability and Religion
   - Journal of Discrete Mathematical Sciences and Cryptography
   - Journal of Dispersion Science and Technology
@@ -1347,7 +1377,6 @@ journals:
   - Journal of Health Communication
   - Journal of Herbs, Spices and Medicinal Plants
   - Journal of Heritage Tourism
-  - Journal of Herpetological Association of Africa
   - Journal of Higher Education Policy and Management
   - Journal of Homosexuality
   - Journal of Horticultural Science and Biotechnology
@@ -1373,8 +1402,6 @@ journals:
   - Journal of Information Display
   - Journal of Information Technology Case and Application Research
   - Journal of Information Technology and Politics
-  - Journal of Information and Optimization Sciences
-  - Journal of Integrative Environmental Sciences
   - Journal of Intelligence History
   - 'Journal of Intelligent Transportation Systems: Technology, Planning, and Operations'
   - Journal of Interactive Advertising
@@ -1400,15 +1427,12 @@ journals:
   - Journal of Japanese and Korean Cinema
   - Journal of Jewish Education
   - Journal of LGBT Health Research
-  - Journal of LGBT Issues in Counseling
-  - Journal of LGBT Youth
   - Journal of Land Use Science
   - Journal of Landscape Architecture
   - Journal of Language, Identity and Education
   - Journal of Latin American Cultural Studies
   - Journal of Latinos and Education
   - Journal of Legal History
-  - Journal of Legal Medicine
   - Journal of Legal Pluralism and Unofficial Law
   - Journal of Legislative Studies
   - Journal of Lesbian Studies
@@ -1469,7 +1493,6 @@ journals:
   - Journal of Neurogenetics
   - Journal of Neurotherapy
   - Journal of New Music Research
-  - Journal of New Seeds
   - Journal of Nonlinear Mathematical Physics
   - Journal of Nonprofit and Public Sector Marketing
   - Journal of North African Studies
@@ -1555,7 +1578,6 @@ journals:
   - Journal of Social Entrepreneurship
   - Journal of Social Psychology
   - Journal of Social Service Research
-  - Journal of Social Welfare and Family Law
   - Journal of Social Work Education
   - Journal of Social Work Practice
   - Journal of Social Work Practice in the Addictions
@@ -1575,7 +1597,6 @@ journals:
   - Journal of Student Affairs Research and Practice
   - Journal of Substance Use
   - Journal of Sulfur Chemistry
-  - Journal of Sustainable Agriculture
   - Journal of Sustainable Finance and Investment
   - Journal of Sustainable Forestry
   - Journal of Sustainable Tourism
@@ -1624,8 +1645,6 @@ journals:
   - Journal of the British Trust for Ornithology
   - Journal of the Chinese Advanced Materials Society
   - Journal of the Chinese Institute of Engineers
-  - Journal of the Chinese Institute of Industrial Engineers
-  - Journal of the History of the Neurosciences
   - Journal of the Indian Ocean Region
   - Journal of the Institute of Conservation
   - Journal of the Learning Sciences
@@ -1634,7 +1653,6 @@ journals:
   - Journal of the Philosophy of Sport
   - Journal of the Royal Musical Association
   - Journal of the Society of Archivists
-  - Journal of the Solar Energy Society of India
   - Journal of the Textile Institute
   - Journal on the Use of Force and International Law
   - Journalism Practice
@@ -1701,7 +1719,6 @@ journals:
   - Local Government Studies
   - Logopedics Phoniatrics Vocology
   - Loisir
-  - Loisir et Société
   - London Journal
   - London Journal of Primary Care
   - London Review of Education
@@ -1857,7 +1874,6 @@ journals:
   - Ocular Immunology and Inflammation
   - OncoImmunology
   - 'Open Learning: The Journal of Open and Distance Learning'
-  - Ophelia
   - Ophthalmic Epidemiology
   - Ophthalmic Genetics
   - Optimization
@@ -1928,7 +1944,6 @@ journals:
   - Plant Biosystems
   - Plant Ecology and Diversity
   - Plant Signaling and Behavior
-  - Plasma Devices and Operations
   - Platelets
   - Poem
   - Polar Geography
@@ -1968,10 +1983,7 @@ journals:
   - Professional Geographer
   - Progressive Fish-Culturist
   - Prose Studies
-  - Psychiatry, Psychology and Law
   - 'Psychiatry: Interpersonal and Biological Processes'
-  - Psychoanalytic Dialogues
-  - Psychoanalytic Inquiry
   - Psychoanalytic Perspectives
   - Psychoanalytic Psychotherapy
   - Psychoanalytic Social Work
@@ -2069,7 +2081,6 @@ journals:
   - Rhetoric Review
   - Rhetoric Society Quarterly
   - Ringing and Migration
-  - Risk, Decision and Policy
   - Road Materials and Pavement Design
   - Rock Music Studies
   - Rocks and Minerals
@@ -2080,7 +2091,6 @@ journals:
   - Rural Society
   - Rural Theology
   - Russian Education and Society
-  - Russian Journal of Communication
   - Russian Politics and Law
   - Russian Social Science Review
   - Russian Studies in History
@@ -2089,7 +2099,6 @@ journals:
   - 'SAHARA-J: Journal of Social Aspects of HIV/AIDS'
   - SAR and QSAR in Environmental Research
   - Safundi
-  - Sarsia
   - Scandinavian Actuarial Journal
   - Scandinavian Audiology
   - Scandinavian Cardiovascular Journal
@@ -2136,7 +2145,6 @@ journals:
   - Seventeenth Century
   - Sex Education
   - Sexual Addiction and Compulsivity
-  - Sexual and Relationship Therapy
   - Shakespeare
   - Ships and Offshore Structures
   - 'Sikh Formations: Religion, Culture, Theory'
@@ -2166,9 +2174,7 @@ journals:
   - Social and Cultural Geography
   - Social and Environmental Accountability Journal
   - Socialism and Democracy
-  - Society and Leisure
   - Society and Natural Resources
-  - Society in Transition
   - Society, Health and Vulnerability
   - Socioaffective Neuroscience and Psychology
   - Sociological Focus
@@ -2187,7 +2193,6 @@ journals:
   - South African Historical Journal
   - South African Journal of International Affairs
   - South African Journal on Human Rights
-  - South African Review of Sociology
   - South African Theatre Journal
   - 'South Asia: Journal of South Asian Studies'
   - South Asian Diaspora
@@ -2253,7 +2258,6 @@ journals:
   - Supramolecular Chemistry
   - Survey Review
   - Survival
-  - Svensk Ö NH-tidskrift
   - Symbolae Osloenses
   - Symposium
   - Synchrotron Radiation News
@@ -2340,7 +2344,6 @@ journals:
   - Urban Research and Practice
   - Urban Water Journal
   - Urban, Planning and Transport Research
-  - UroOncology
   - Vehicle System Dynamics
   - Venture Capital
   - Veterinary Quarterly

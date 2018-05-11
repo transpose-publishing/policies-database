@@ -21,17 +21,14 @@ journals:
   - Linguagem e Direito
   - Linguarum Arena
   - 'Linguística: Revista de Estudos Linguísticos da Universidade do Porto'
-  - Mediaevalia. Textos e estudos
   - 'Península: Revista de Estudos Ibéricos'
   - Portugalia
-  - 'Revelar: Revista de Estudos da Fotografia e Imagem'
   - Revista da Faculdade de Letras do Porto. Série Filosofia
   - Revista da Faculdade de Letras do Porto. Série Geografia
   - Revista da Faculdade de Letras do Porto. Série História
   - Revista da Faculdade de Letras do Porto. Série Sociologia
   - 'Revista da Faculdade de Letras: Ciências e Técnicas do Património'
   - 'Revista da Faculdade de Letras: Línguas e Literaturas'
-  - Revista de Estudos do Discurso
   - Revista de História
   - Sociologia
   - 'Spaces of utopia: an Electronic Journal'
@@ -39,6 +36,12 @@ journals:
   - 'Via Spiritus: Revista de História da Espiritualidade e do Sentimento Religioso'
   - Via panorÃ¢mica
   - 'Via panorâmica: revista electrónica de estudos anglo-americanos'
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Mediaevalia. Textos e estudos
+  - 'Revelar: Revista de Estudos da Fotografia e Imagem'
+  - Revista de Estudos do Discurso
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

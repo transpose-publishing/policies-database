@@ -11,6 +11,9 @@ policy-heading: '[Default policy]'
 journals:
   - Applications of Mathematics
   - Czechoslovak Mathematical Journal
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Mathematica Bohemica
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

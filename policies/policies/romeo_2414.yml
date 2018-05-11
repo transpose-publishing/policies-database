@@ -9,12 +9,15 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Agua y Territorio
   - Grove - Working Papers on English Studies
   - Journal of Nematode Morphology and Systematics
   - Revista Electrónica de Investigación y Docencia
   - Revista Estudios Jurídicos. Segunda Época
   - Revista de Antropología Experimental
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Agua y Territorio
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

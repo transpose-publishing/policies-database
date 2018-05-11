@@ -10,7 +10,6 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Electronics Letters
-  - Health Technology Letters
   - IET Biometrics
   - IET Circuits, Devices and Systems
   - IET Communications
@@ -35,8 +34,12 @@ journals:
   - IET Software
   - IET Systems Biology
   - IET Wireless Sensor Systems
-  - Journal of Engineering
   - Micro and Nano Letters
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Health Technology Letters
+  - Journal of Engineering
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

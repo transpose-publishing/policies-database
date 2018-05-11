@@ -9,9 +9,7 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - AIP Advances
   - AIP Conference Proceedings
-  - APL Materials
   - 'APL: Organic Electronics and Photonics'
   - Applied Physics Letters
   - Applied Physics Reviews
@@ -33,8 +31,13 @@ journals:
   - Physics of Fluids
   - Physics of Plasmas
   - Review of Scientific Instruments
-  - Structural Dynamics
   - Surface Science Spectra
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - AIP Advances
+  - APL Materials
+  - Structural Dynamics
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

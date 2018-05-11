@@ -12,15 +12,6 @@ journals:
   - Acupuncture in Medicine
   - Annals of the Rheumatic Diseases
   - Archives of Disease in Childhood
-  - BMJ
-  - BMJ Case Reports
-  - BMJ Global Health
-  - BMJ Open
-  - BMJ Open Diabetes Research and Care
-  - BMJ Open Gastroenterology
-  - BMJ Open Respiratory Research
-  - BMJ Open Science
-  - BMJ Paediatrics Open
   - BMJ Quality and Safety
   - BMJ Supportive and Palliative Care
   - British Journal of Ophthalmology
@@ -44,18 +35,30 @@ journals:
   - Journal of Medical Genetics
   - Journal of NeuroInterventional Surgery
   - Journal of Neurology, Neurosurgery and Psychiatry
-  - Lupus Science & Medicine
   - Occupational and Environmental Medicine
-  - Open Heart
   - Postgraduate Medical Journal
   - Practical Neurology
   - Quality and Safety in Health Care
-  - RMD Open
   - Sexually Transmitted Infections
   - Student BMJ
   - Thorax
   - Tobacco Control
   - Veterinary Record
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - BMJ
+  - BMJ Case Reports
+  - BMJ Global Health
+  - BMJ Open
+  - BMJ Open Diabetes Research and Care
+  - BMJ Open Gastroenterology
+  - BMJ Open Respiratory Research
+  - BMJ Open Science
+  - BMJ Paediatrics Open
+  - Lupus Science & Medicine
+  - Open Heart
+  - RMD Open
   - Veterinary Record Open
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

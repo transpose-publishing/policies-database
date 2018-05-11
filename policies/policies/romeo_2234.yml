@@ -10,27 +10,30 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Almatourism
-  - Annali Sismondi
   - Antropologia e Teatro. Rivista di Studi
   - Bruno Pini Mathematical Analysis Seminar
+  - Figure
+  - Journal of Formalized Reasoning
+  - Labour and Law Issues
+  - PsicoArt
+  - Scienza e Politica
+  - Series
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Annali Sismondi
   - Confluenze
   - Conservation Science in Cultural Heritage
   - Danza e Ricerca
   - EQA
   - Encyclopaideia
-  - Figure
   - Governare la paura
   - INTRECCI d'arte
   - IN_BO
   - IpoTesi di Preistoria
-  - Journal of Formalized Reasoning
-  - Labour and Law Issues
   - Montesquieu.it
   - Musica Docta
-  - PsicoArt
   - Ricerche di Pedagogia e Didattica
-  - Scienza e Politica
-  - Series
   - Statistica
   - Studi Tributari Europei
 

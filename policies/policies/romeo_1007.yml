@@ -27,6 +27,9 @@ journals:
   - 'Religions: A Scholarly Journal'
   - Sustainable Technologies, Systems and Policies
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

@@ -10,21 +10,24 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Bauphysik
-  - Bautechnik
   - Beton- und Stahlbetonbau
   - Building Physics
   - Concrete and Reinforced Concrete Structures
   - DIBt Mitteilungen
   - DiBt News
   - EntrepreneurLetter Building and Construction Industry
-  - Geomechanics and Tunnelling
   - PÜZ - Verzeichnis der Prüf-, Überwachungs- und Zertifizierungsstellen nach den
     Landesbauordnungen
+  - UnternehmerBrief Bauwirtschaft
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Bautechnik
+  - Geomechanics and Tunnelling
   - Stahlbau
   - Steel Construction
   - Steel Structures
   - Structural Engineering
-  - UnternehmerBrief Bauwirtschaft
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:

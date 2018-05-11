@@ -10,8 +10,6 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Annales de géographie
-  - Annales historiques de la Révolution française
-  - Annales. Histoire, Sciences sociales
   - Carrefours de l'éducation
   - Français aujourd'hui
   - Histoire, économie et société
@@ -21,11 +19,16 @@ journals:
   - Littérature
   - Littératures classiques
   - Revue Tiers Monde
-  - Revue d'histoire des sciences
   - Revue d'économie régionale et urbaine
   - Revue de l'histoire des religions
   - Revue internationale et stratégique
   - Romantisme
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Annales historiques de la Révolution française
+  - Annales. Histoire, Sciences sociales
+  - Revue d'histoire des sciences
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

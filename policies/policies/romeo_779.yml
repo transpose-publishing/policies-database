@@ -20,12 +20,15 @@ journals:
   - Harvard Journal on Legislation
   - Harvard Journal on Racial and Ethnic Justice
   - Harvard Latino Law Review
-  - Harvard Law Record
   - Harvard Law Review
   - Harvard Law and Policy Review
   - Harvard National Security Journal
   - Harvard Negotiation Law Review
   - 'Unbound: Harvard Journal of the Legal Left'
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Harvard Law Record
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

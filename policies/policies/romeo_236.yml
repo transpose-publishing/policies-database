@@ -12,7 +12,6 @@ journals:
   - Aqua
   - Hydrology Research
   - Journal of Hydroinformatics
-  - Journal of Water Reuse and Desalination
   - 'Journal of Water Supply: Research and Technology - Aqua'
   - Journal of Water and Climate Change
   - Journal of Water and Health
@@ -25,6 +24,10 @@ journals:
   - 'Water Science and Technology: Water Supply'
   - Water Utility Management International
   - Water21
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Journal of Water Reuse and Desalination
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

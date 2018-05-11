@@ -9,7 +9,10 @@ publisher: Universidade Nova de Lisboa, Faculdade de Ciências Sociais e Humanas
 policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
-journals:
+journals: []
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Anais de História de Além-Mar
   - Bulletin of Portuguese-Japanese Studies
   - Res Antiquitatis - Journal of Ancient History

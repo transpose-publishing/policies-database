@@ -9,9 +9,12 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Oncopediatrics
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Annals of the Russian academy of medical sciences
   - Current pediatrics
-  - Oncopediatrics
   - Pediatric pharmacology
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

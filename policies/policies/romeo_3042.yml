@@ -9,7 +9,6 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Antropologia Portuguesa
   - Boletim de Ciências Económicas
   - Boletim do Arquivo da Universidade de Coimbra
   - Cadernos de Geografia
@@ -19,10 +18,14 @@ journals:
   - Humanitas
   - 'MATLIT: Materialidades da Literatura'
   - Media e Jornalismo
-  - Mediapolis
   - Revista Estudos do Século XX
   - Revista de História da Sociedade e da Cultura
   - 'Territorium: Revista Portuguesa de Riscos, Prevenção e Segurança'
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Antropologia Portuguesa
+  - Mediapolis
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

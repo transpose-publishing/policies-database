@@ -9,10 +9,13 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - 'Corporate Board: role, duties and composition'
   - Corporate Governance and Organizational Behavior Review
   - Corporate Governance and Sustainability Review
   - Corporate Ownership and Control
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - 'Corporate Board: role, duties and composition'
   - Journal of Governance and Regulation
   - 'Risk Governance and Control: Financial Markets & Institutions'
 

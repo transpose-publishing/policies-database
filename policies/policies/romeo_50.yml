@@ -18,15 +18,12 @@ journals:
   - Astrobiology
   - Bariatric Nursing and Surgical Patient Care
   - Big Data
-  - BioResearch Open Access
   - Biopreservation and Biobanking
   - 'Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science'
   - Biotechnology Law Report
   - Brain Connectivity
   - Breastfeeding Medicine
   - Cancer Biotherapy and Radiopharmaceuticals
-  - Cannabis and Cannabinoid Research
-  - Case Reports in Pancreatic Cancer
   - Cellular Reprogramming
   - Childhood Obesity
   - Cyberpsychology, Behavior, and Social Networking
@@ -51,7 +48,6 @@ journals:
   - Journal of Caffeine Research
   - Journal of Child and Adolescent Psychopharmacology
   - Journal of Computational Biology
-  - Journal of Endourology Case Reports
   - Journal of Endourology and Part B, Videourology
   - Journal of Gynecologic Surgery
   - Journal of Interferon and Cytokine Research
@@ -76,15 +72,22 @@ journals:
   - Soft Robotics
   - Stem Cells and Development
   - Surgical Infections
-  - Surgical Infections Case Reports
   - Telemedicine and e-Health
   - Therapeutic Hypothermia and Temperature Management
   - Thyroid
   - 'Tissue Engineering: Parts A, B, and C'
-  - Transgender Health
   - Vector-Borne and Zoonotic Diseases
   - Viral Immunology
   - Zebrafish
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - BioResearch Open Access
+  - Cannabis and Cannabinoid Research
+  - Case Reports in Pancreatic Cancer
+  - Journal of Endourology Case Reports
+  - Surgical Infections Case Reports
+  - Transgender Health
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

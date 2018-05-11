@@ -28,6 +28,9 @@ journals:
   - Volume XVII (2015) Number 2 / 2015 - ročník XVII. - číslo 2
   - Volume XVIII, 1, 2016  Ročník XVIII. číslo 1
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []
 

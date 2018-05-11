@@ -19,6 +19,11 @@ mapping:
     desc:  "journals-child-policies: A list of the journals from SHERPA/RoMEO associated with this policy's child policies. Do not edit"
     sequence:
       - type: str
+  child-journals:
+    type: seq
+    desc: A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+    sequence:
+      - type: str
   parent-policies:
     type: seq
     desc: "parent-policies: A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit"
@@ -32,7 +37,7 @@ mapping:
   flag-romeo:
     desc: "flag-romeo: Leave any notes about upstream RoMEO issues here. For example, if this policy does not apply to the journals listed above, leave a note here."
     type: str
-  
+
   # OPEN PEER REVIEW
   peer-review-url:
     type: str
@@ -50,7 +55,7 @@ mapping:
     type: str
     enum: [mandatory, optional, no]
     desc: "identities-published: Are reviewer identities published? (mandatory/optional/no/not specified)"
-  
+
   # CO-REVIEWERS
   co-review-url:
     type: str

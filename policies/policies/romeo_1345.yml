@@ -25,10 +25,13 @@ journals:
   - PERcursos Linguísticos
   - Revista Eletrônica de Estudos Literários
   - Revista Gestão and Conexões
-  - Revista Sinais
   - Revista Ágora
   - Sofia
   - Temporalis
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Revista Sinais
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

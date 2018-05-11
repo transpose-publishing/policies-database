@@ -10,9 +10,12 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Aldring og livsløp
+  - Norsklæraren
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Kart og Plan
   - Magma
-  - Norsklæraren
   - Tidsskriftet FoU i praksis
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

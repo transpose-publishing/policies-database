@@ -12,6 +12,9 @@ journals:
   - Arqueología y Territorio Medieval
   - Aula de Encuentro
   - Boletín de Literatura Oral
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Iniciación a la Investigación
   - Revista de Estudios Empresariales. Segunda Época
   - Tercio Creciente

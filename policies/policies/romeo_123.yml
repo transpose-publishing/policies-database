@@ -10,16 +10,19 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - Children and Libraries
+  - Knowledge Quest
+  - Library Resources and Technical Services
+  - Reference & User Services Quarterly
+  - School Library Research
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - College and Research Libraries
   - College and Research Libraries News
   - Information Technology and Libraries
   - Issues in Science and Technology Librarianship
-  - Knowledge Quest
   - Library Leadership and Management
-  - Library Resources and Technical Services
   - RBM
-  - Reference & User Services Quarterly
-  - School Library Research
   - Technology Electronic Reviews
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit

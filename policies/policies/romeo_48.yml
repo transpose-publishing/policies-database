@@ -10,20 +10,16 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - A&A Case Reports
-  - ACSM's Health and Fitness Journal
   - AIDS
   - ASAIO Journal
   - Academic Medicine
-  - Academic Physician and Scientist
   - Addictive Disorders and Their Treatment
   - Advanced Emergency Nursing Journal
   - Advances in Anatomic Pathology
   - Advances in Neonatal Care
   - Advances in Nursing Science
   - Advances in Skin and Wound Care
-  - Adverse Drug Reaction Bulletin
   - Alzheimer Disease and Associated Disorders
-  - Alzheimer's Care Today
   - American Journal of Clinical Oncology
   - American Journal of Dermatopathology
   - American Journal of Forensic Medicine and Pathology
@@ -33,20 +29,14 @@ journals:
   - American Journal of Therapeutics
   - American Journal of the Medical Sciences
   - Anesthesia and Analgesia
-  - Anesthesiology
-  - Annals of Pediatric Surgery
   - Annals of Plastic Surgery
   - Annals of Surgery
   - Anti-Cancer Drugs
   - Applied Immunohistochemistry and Molecular Morphology
-  - Asia-Pacific Journal of Ophthalmology
-  - Back Letter
   - Behavioural Pharmacology
-  - Biomedical Safety and Standards
   - Blood Coagulation and Fibrinolysis
   - Blood Pressure Monitoring
   - 'CONTINUUM: Lifelong Learning in Neurology'
-  - Cancer Journal
   - Cancer Nursing
   - Cardiology in Review
   - Cardiopulmonary Physical Therapy Journal
@@ -57,20 +47,12 @@ journals:
   - Clinical Neuropharmacology
   - Clinical Nuclear Medicine
   - Clinical Nurse Specialist
-  - Clinical Nutrition Insight
-  - Clinical Obstetrics and Gynecology
   - Clinical Orthopaedics and Related Research
-  - Clinical Pulmonary Medicine
   - Clinical Spine Surgery
   - Cognitive and Behavioral Neurology
-  - Computers, Informatics, Nursing
-  - Contemporary Diagnostic Radiology
-  - Contemporary Neurosurgery
-  - Contemporary Spine Surgery
   - Cornea
   - Coronary Artery Disease
   - Critical Care Medicine
-  - Critical Care Nursing Quarterly
   - 'Critical Pathways in Cardiology: A Journal of Evidence-Based Medicine'
   - Current Opinion in Allergy and Clinical Immunology
   - Current Opinion in Anaesthesiology
@@ -90,7 +72,6 @@ journals:
   - Current Opinion in Oncology
   - Current Opinion in Ophthalmology
   - Current Opinion in Organ Transplantation
-  - Current Opinion in Orthopaedics
   - Current Opinion in Otolaryngology and Head and Neck Surgery
   - Current Opinion in Pediatrics
   - Current Opinion in Psychiatry
@@ -98,49 +79,26 @@ journals:
   - Current Opinion in Rheumatology
   - Current Opinion in Supportive and Palliative Care
   - Current Opinion in Urology
-  - Current Orthopaedic Practice
-  - Current Sports Medicine Reports
   - Dermatitis
-  - Diagnostic Molecular Pathology
-  - Dimensions in Critical Care Nursing
   - Ear and Hearing
   - Egyptian Journal of Histology
-  - Egyptian Journal of Oral and Maxillofacial Surgery
   - Egyptian Journal of Pathology
   - Egyptian Liver Journal
-  - Emergency Medicine News
-  - Endocrinologist
   - Epidemiology
   - European Journal of Anaesthesiology
   - European Journal of Cancer Prevention
   - European Journal of Emergency Medicine
   - European Journal of Gastroenterology and Hepatology
-  - Evidence-Based Ophthalmology
-  - Evidence-Based Women's Health Journal
   - Eye and Contact Lens
-  - Family and Community Health
   - Female Pelvic Medicine and Reconstructive Surgery
-  - Frontiers of Health Services Management
   - Gastroenterology Nursing
-  - Global Reproductive Health
   - Harvard Review of Psychiatry
-  - Health Care Management Review
-  - Health Care Manager
-  - Health Data Matrix
   - Health Physics
-  - Healthcare Food and Nutrition Focus
-  - Healthy Aging Research
-  - Hearing Journal
-  - Heart Insight
-  - Holistic Nursing Practice
   - Home Healthcare Now
   - Home Healthcare Nurse
   - Human Andrology
-  - IJS Oncology
   - Implant Dentistry
-  - Infants and Young Children
   - Infectious Diseases in Clinical Practice
-  - Innovations:Technology and Techniques in Cardiothoracic and Vascular Surgery
   - International Anesthesiology Clinics
   - International Clinical Psychopharmacology
   - International Journal of Evidence-Based Healthcare
@@ -149,38 +107,25 @@ journals:
   - International Journal of Gynecological Pathology
   - International Journal of Rehabilitation Research
   - International Ophthalmology Clinics
-  - Intervention
   - Investigative Radiology
   - Itch
-  - 'JAAOS: Global Research and Reviews'
   - JBI Database of Systematic Reviews and Implementation Reports
-  - JBJS Case Connector
-  - JBJS Essential Surgical Techniques
-  - JBJS Journal of Orthopaedics for Physician Assistants
-  - JBJS Open Access
   - JBJS Reviews
   - 'JCR: Journal of Clinical Rheumatology'
   - JONA's Healthcare Law, Ethics and Regulation
   - 'JONA: The Journal of Nursing Administration'
   - Journal Geriatric Physical Therapy
   - Journal for Healthcare Quality
-  - Journal for Nurses in Professional Development
-  - Journal for Nurses in Staff Development
   - Journal of Acquired Immune Deficiency Syndromes
   - Journal of Acute Care Physical Therapy
   - Journal of Addiction Medicine
   - Journal of Addictions Nursing
   - Journal of Ambulatory Care Management
   - Journal of Bone and Joint Surgery, American Volume
-  - Journal of Bronchology
-  - Journal of Bronchology and Interventional Pulmonary
   - Journal of Cardiopulmonary Rehabilitation and Prevention
   - Journal of Cardiovascular Medicine
   - Journal of Cardiovascular Nursing
   - Journal of Cardiovascular Pharmacology
-  - Journal of Christian Nursing
-  - Journal of Clinical Engineering
-  - Journal of Clinical Gastroenterology
   - Journal of Clinical Neuromuscular Disease
   - Journal of Clinical Neurophysiology
   - Journal of Clinical Psychopharmacology
@@ -197,7 +142,6 @@ journals:
   - Journal of Healthcare Management
   - Journal of Hospice and Palliative Nursing
   - Journal of Immunotherapy
-  - Journal of Infusion Nursing
   - Journal of Investigative Medicine
   - Journal of Lower Genital Tract Disease
   - Journal of Nervous and Mental Disease
@@ -214,10 +158,8 @@ journals:
   - Journal of Pediatric Hematology/Oncology
   - Journal of Pediatric Orthopaedics
   - Journal of Pediatric Orthopaedics B
-  - Journal of Pediatric Surgical Nursing
   - Journal of Perinatal and Neonatal Nursing
   - Journal of Physician Assistant Education
-  - Journal of Prosthetics and Orthotics
   - Journal of Psychiatric Practice
   - Journal of Public Health Management and Practice
   - Journal of Spinal Disorders and Techniques
@@ -225,97 +167,166 @@ journals:
   - Journal of Thoracic Imaging
   - Journal of Trauma
   - Journal of Trauma Nursing
-  - Journal of Trauma and Acute Care Surgery
   - 'Journal of Trauma: Injury, Infection, and Critical Care'
-  - Journal of Women's Health Physical Therapy
   - Journal of Wound, Ostomy and Continence Nursing
   - Journal of the American Academy of Orthopaedic Surgeons
   - Journal of the American Academy of Physician Assistants
-  - Journal of the American Association for Medical Transcription
-  - Journal of the Dermatology Nurses' Association
-  - Journal of the Egyptian Women's Dermatologic Society
-  - Lippincott's Bone and Joint Newsletter
   - 'MCN: The American Journal of Maternal/Child Nursing'
   - Medical Care
-  - Medical Innovation and Business
   - Medical Research Journal
-  - Medicine
   - Medicine and Science in Sports and Exercise
   - Melanoma Research
   - Menopause
   - Middle East Current Psychiatry
-  - Middle East Journal of Medical Genetics
   - Nephrology Times
   - NeuroReport
   - Neurologist
-  - Neurology Genetics
-  - Neurology Now
-  - Neurology Today
-  - Neurology, Neuroimmunology and Neuroinflammation
-  - Neurosurgery Quarterly
   - Nuclear Medicine Communications
-  - Nurse Educator
   - Nurse Practitioner
   - Nursing 2010
   - Nursing 2010 Critical Care
   - Nursing 2015
   - Nursing 2016
   - Nursing 2016 Critical Care
-  - Nursing Administration Quarterly
-  - Nursing Education Perspectives
   - Nursing Made Incredibly Easy
   - Nursing Research
   - Nutrition Today
   - OR Nurse 2015
-  - Obstetric Anesthesia Digest
   - Obstetrical and Gynecological Survey
-  - Obstetrics and Gynecology
-  - Oncology Times
-  - Oncology Times UK
   - Ophthalmic Plastic and Reconstructive Surgery
   - Optometry and Vision Science
-  - Orthopaedic Nursing
   - Otology and Neurotology
-  - Outcomes Management
   - PAIN
-  - PAIN Reports
   - Pancreas
   - Pathology
-  - Pathology Case Reviews
   - Pediatric Critical Care Medicine
   - Pediatric Emergency Care
   - Pediatric Infectious Disease Journal
   - Pediatric Physical Therapy
-  - Pediatric Quality and Safety
   - Pharmacogenetics and Genomics
-  - Plastic Surgical Nursing
   - Plastic and Reconstructive Surgery
-  - Plastic and Reconstructive Surgery Global Open
   - 'Point of Care: The Journal of Near-Patient Testing and Technology'
-  - Postgraduate Obstetrics and Gynecology
   - Professional Case Management
-  - Progress in Preventative Medicine
   - Psychiatric Genetics
   - Psychopharm Review
   - Psychosomatic Medicine
   - Quality Management in Health Care
   - RETINA
   - RETINA, The Journal of Retinal and Vitreous Diseases
-  - Real Living with Multiple Sclerosis
   - Regional Anesthesia and Pain Medicine
   - Rehabilitation Nursing Journal
   - Retinal Cases
   - Retinal Cases and Brief Reports
-  - Reviews in Medical Microbiology
   - Sexually Transmitted Diseases
   - Shock
   - Simulation in Healthcare
-  - Soil Science
-  - Southern Medical Journal
   - Spine
-  - Sports Medicine and Arthroscopy Review
   - Strength and Conditioning Journal
   - Surgical Laparoscopy, Endoscopy and Percutaneous Techniques
+  - Therapeutic Drug Monitoring
+  - Topics in Clinical Nutrition
+  - Topics in Geriatric Rehabilitation
+  - Topics in Magnetic Resonance Imaging
+  - Topics in Obstetrics and Gynecology
+  - Translational Journal of the American College of Sports Medicine
+  - Transplantation
+  - Ultrasound Quarterly
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - ACSM's Health and Fitness Journal
+  - Academic Physician and Scientist
+  - Adverse Drug Reaction Bulletin
+  - Alzheimer's Care Today
+  - Anesthesiology
+  - Annals of Pediatric Surgery
+  - Asia-Pacific Journal of Ophthalmology
+  - Back Letter
+  - Biomedical Safety and Standards
+  - Cancer Journal
+  - Clinical Nutrition Insight
+  - Clinical Obstetrics and Gynecology
+  - Clinical Pulmonary Medicine
+  - Computers, Informatics, Nursing
+  - Contemporary Diagnostic Radiology
+  - Contemporary Neurosurgery
+  - Contemporary Spine Surgery
+  - Critical Care Nursing Quarterly
+  - Current Opinion in Orthopaedics
+  - Current Orthopaedic Practice
+  - Current Sports Medicine Reports
+  - Diagnostic Molecular Pathology
+  - Dimensions in Critical Care Nursing
+  - Egyptian Journal of Oral and Maxillofacial Surgery
+  - Emergency Medicine News
+  - Endocrinologist
+  - Evidence-Based Ophthalmology
+  - Evidence-Based Women's Health Journal
+  - Family and Community Health
+  - Frontiers of Health Services Management
+  - Global Reproductive Health
+  - Health Care Management Review
+  - Health Care Manager
+  - Health Data Matrix
+  - Healthcare Food and Nutrition Focus
+  - Healthy Aging Research
+  - Hearing Journal
+  - Heart Insight
+  - Holistic Nursing Practice
+  - IJS Oncology
+  - Infants and Young Children
+  - Innovations:Technology and Techniques in Cardiothoracic and Vascular Surgery
+  - Intervention
+  - 'JAAOS: Global Research and Reviews'
+  - JBJS Case Connector
+  - JBJS Essential Surgical Techniques
+  - JBJS Journal of Orthopaedics for Physician Assistants
+  - JBJS Open Access
+  - Journal for Nurses in Professional Development
+  - Journal for Nurses in Staff Development
+  - Journal of Bronchology
+  - Journal of Bronchology and Interventional Pulmonary
+  - Journal of Christian Nursing
+  - Journal of Clinical Engineering
+  - Journal of Clinical Gastroenterology
+  - Journal of Infusion Nursing
+  - Journal of Pediatric Surgical Nursing
+  - Journal of Prosthetics and Orthotics
+  - Journal of Trauma and Acute Care Surgery
+  - Journal of Women's Health Physical Therapy
+  - Journal of the American Association for Medical Transcription
+  - Journal of the Dermatology Nurses' Association
+  - Journal of the Egyptian Women's Dermatologic Society
+  - Lippincott's Bone and Joint Newsletter
+  - Medical Innovation and Business
+  - Medicine
+  - Middle East Journal of Medical Genetics
+  - Neurology Genetics
+  - Neurology Now
+  - Neurology Today
+  - Neurology, Neuroimmunology and Neuroinflammation
+  - Neurosurgery Quarterly
+  - Nurse Educator
+  - Nursing Administration Quarterly
+  - Nursing Education Perspectives
+  - Obstetric Anesthesia Digest
+  - Obstetrics and Gynecology
+  - Oncology Times
+  - Oncology Times UK
+  - Orthopaedic Nursing
+  - Outcomes Management
+  - PAIN Reports
+  - Pathology Case Reviews
+  - Pediatric Quality and Safety
+  - Plastic Surgical Nursing
+  - Plastic and Reconstructive Surgery Global Open
+  - Postgraduate Obstetrics and Gynecology
+  - Progress in Preventative Medicine
+  - Real Living with Multiple Sclerosis
+  - Reviews in Medical Microbiology
+  - Soil Science
+  - Southern Medical Journal
+  - Sports Medicine and Arthroscopy Review
   - Survey of Anesthesiology
   - Techniques in Foot and Ankle Surgery
   - Techniques in Hand and Upper Extremity Surgery
@@ -324,17 +335,9 @@ journals:
   - Techniques in Ophthalmology
   - Techniques in Orthopaedics
   - Techniques in Shoulder and Elbow Surgery
-  - Therapeutic Drug Monitoring
-  - Topics in Clinical Nutrition
-  - Topics in Geriatric Rehabilitation
   - Topics in Language Disorders
-  - Topics in Magnetic Resonance Imaging
-  - Topics in Obstetrics and Gynecology
   - Topics in Pain Management
-  - Translational Journal of the American College of Sports Medicine
-  - Transplantation
   - Transplantation Direct
-  - Ultrasound Quarterly
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

@@ -10,7 +10,6 @@ policy-heading: '[Default policy]'
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
   - GMS Current Posters in Otorhinolaryngology - Head and Neck Surgery
-  - GMS Current Topics in Computer and Robot Assisted Surgery
   - GMS Current Topics in Otorhinolaryngology - Head and Neck Surgery
   - GMS German Medical Science - an Interdisciplinary Journal
   - GMS German Plastic, Reconstructive and Aesthetic Surgery - Burn and Hand Surgery
@@ -19,18 +18,22 @@ journals:
   - GMS Infectious Diseases
   - GMS Interdisciplinary Plastic and Reconstructive Surgery DGPW
   - GMS Journal for Medical Education
-  - GMS Krankenhaushygiene Interdisziplinär
   - GMS Medizin - Bibliothek - Information
   - GMS Medizinische Informatik, Biometrie und Epidemiologie
   - GMS Mitteilungen aus der AWMF
   - GMS Onkologische Rehabilitation und Sozialmedizin
   - GMS Ophthalmology Cases
-  - GMS Psycho-Social-Medicine
-  - GMS Thoracic Surgical Science
-  - GMS Verbrennungsmedizin
   - GMS Zeitschrift für Medizinische Ausbildung
   - GMS Zeitschrift zur Förderung der Qualitätssicherung in medizinischen Laboratorien
   - German Journal for Medical Education
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - GMS Current Topics in Computer and Robot Assisted Surgery
+  - GMS Krankenhaushygiene Interdisziplinär
+  - GMS Psycho-Social-Medicine
+  - GMS Thoracic Surgical Science
+  - GMS Verbrennungsmedizin
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

@@ -30,7 +30,6 @@ journals:
   - Labour History Review
   - Modern Believing
   - Modern Churchman
-  - Modern Languages Open
   - Music, Sound, and the Moving Image
   - Newsletter of the Gypsy Lore Society
   - Quaker Studies
@@ -42,6 +41,10 @@ journals:
   - Theory and Struggle
   - Town Planning Review
   - Transactions of the Historic Society of Lancashire and Cheshire
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Modern Languages Open
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

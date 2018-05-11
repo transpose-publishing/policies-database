@@ -9,9 +9,12 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Romanian Journal of Clinical and Experimental Dermatology
   - Romanian Journal of Oncology and Hematology
   - Stomatology Edu Journal
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Romanian Journal of Clinical and Experimental Dermatology
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

@@ -21,7 +21,6 @@ journals:
   - Feminist Teacher
   - History of Philosophy Quarterly
   - History of the Present
-  - Illinois Classical Studies
   - Journal for the Anthropological Study of Human Movement
   - Journal of Aesthetic Education
   - Journal of American Ethnic History
@@ -42,6 +41,10 @@ journals:
   - Public Affairs Quarterly
   - Visual Arts Research
   - World History Connected
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Illinois Classical Studies
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

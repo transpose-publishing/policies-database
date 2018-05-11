@@ -16,7 +16,6 @@ journals:
   - Emerging Materials Research
   - Environmental Geotechnics
   - Geosynthetics International
-  - Geotechnical Research
   - Géotechnique
   - Géotechnique Letters
   - ICE Engineering Division Papers
@@ -51,6 +50,10 @@ journals:
   - Proceedings of the ICE - Water Management
   - Proceedings of the ICE - Water Maritime and Energy
   - Proceedings of the ICE - Water and Maritime Engineering
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Geotechnical Research
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

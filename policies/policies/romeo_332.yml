@@ -19,15 +19,18 @@ journals:
   - 'Acta Crystallographica Section C: Crystal Structure Communications'
   - 'Acta Crystallographica Section C: Structural Chemistry'
   - 'Acta Crystallographica Section D: Biological Crystallography'
-  - 'Acta Crystallographica Section E: Crystallographic Communications'
-  - 'Acta Crystallographica Section E: Structure Reports Online'
   - 'Acta Crystallographica Section F: Structural Biology Communications'
   - 'Acta Crystallographica Section F: Structural Biology and Crystallization Communications'
   - 'Acta crystallographica Section B: Structural crystallography and crystal chemistry'
-  - IUCrData
-  - IUCrJ
   - Journal of Applied Crystallography
   - Journal of Synchrotron Radiation
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - 'Acta Crystallographica Section E: Crystallographic Communications'
+  - 'Acta Crystallographica Section E: Structure Reports Online'
+  - IUCrData
+  - IUCrJ
 
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies: []

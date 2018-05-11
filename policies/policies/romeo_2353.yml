@@ -11,6 +11,9 @@ policy-heading: International Journal for History, Culture and Modernity
 journals:
   - International Journal for History, Culture and Modernity
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_2348

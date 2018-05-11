@@ -11,6 +11,9 @@ policy-heading: Development
 journals:
   - Development
 
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals: []
+
 # A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
 parent-policies:
   - romeo_29
@@ -37,7 +40,11 @@ identities-published: no
 co-review-url: http://dev.biologists.org/content/reviewer-guide#info
 
 # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
-co-review-policy: "We simply ask that: the name of the co-reviewer is reported to the Editor (a field is provided in the report form for this purpose); the same rules of confidentiality and conflict of interest be applied; there is a genuine mentoring process; the senior invited reviewer takes responsibility for the report delivered to the journal."
+co-review-policy: 'We simply ask that: the name of the co-reviewer is reported to
+  the Editor (a field is provided in the report form for this purpose); the same rules
+  of confidentiality and conflict of interest be applied; there is a genuine mentoring
+  process; the senior invited reviewer takes responsibility for the report delivered
+  to the journal.'
 
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
@@ -46,7 +53,9 @@ co-review-invited:
 transfer-url: http://dev.biologists.org/content/editorial-process
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy: Papers rejected from Development can be transferred to Biology Open (BiO), an online Open Access journal also published by The Company of Biologists, for editorial consideration. 
+transfer-policy: Papers rejected from Development can be transferred to Biology Open
+  (BiO), an online Open Access journal also published by The Company of Biologists,
+  for editorial consideration.
 
 # url to a copy or description of the peer review form (valid url)
 review-form-url:

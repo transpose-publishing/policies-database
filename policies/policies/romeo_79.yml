@@ -9,13 +9,10 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
-  - Acta Biotechnologica
   - Acta Chimica Sinica
   - Acta Polymerica
   - Acta hydrochimica et hydrobiologica
   - Advances in Electrochemical Science and Engineering
-  - Annali di Chimica
-  - Applied Numerical Analysis and Computational Mathematics
   - Archiv der Pharmazie
   - Asian Journal of Organic Chemistry
   - Bauregelliste A, Bauregelliste B und Liste C
@@ -23,9 +20,6 @@ journals:
   - Biologie in unserer Zeit
   - Biometrical Journal
   - Biotechnology Journal
-  - CHEMKON
-  - CIT plus
-  - ChemInform
   - Chemical Vapor Deposition
   - Chemie Ingenieur Technik
   - Chemie Ingenieur Technik - CIT
@@ -43,18 +37,14 @@ journals:
   - GAMM-Reports
   - GIT Labor-Fachzeitschrift
   - GIT Spezial Separation
-  - Gene Function and Disease
   - Geowissenschaftliche Reihe
   - International Review of Hydrobiology
-  - Israel Journal of Chemistry
   - Journal for Water and Wastewater Research
   - Journal of Basic Microbiology
   - Journal of Biophotonics
   - Journal of Plant Nutrition and Soil Science
   - Journal of the Chinese Chemical Society
-  - Laser Technik Journal
   - Laser and Photonics Reviews
-  - Lebensmittelchemie
   - Lipid Technology
   - Macromolecular Materials and Engineering
   - Macromolecular Rapid Communications
@@ -70,26 +60,39 @@ journals:
   - Mauerwerk
   - Mitteilungen der Deutschen Entomologischen Gesellschaft
   - Molecular Informatics
-  - Optik and Photonik
-  - PAMM
   - PROTEOMICS - Clinical Applications
-  - Physik in unserer Zeit
   - Plasma Processes and Polymers
   - Progress of Physics
   - Propellants, Explosives, Pyrotechnics
-  - QSAR and Combinatorial Science
-  - RISKNEWS
   - ReinRaumTechnik
-  - Sensors Update
-  - Signal Transduction
-  - Single Molecules
   - Starch/Stärke
   - Steel Research International
   - Structural Concrete
+  - geotechnik
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
+  - Acta Biotechnologica
+  - Annali di Chimica
+  - Applied Numerical Analysis and Computational Mathematics
+  - CHEMKON
+  - CIT plus
+  - ChemInform
+  - Gene Function and Disease
+  - Israel Journal of Chemistry
+  - Laser Technik Journal
+  - Lebensmittelchemie
+  - Optik and Photonik
+  - PAMM
+  - Physik in unserer Zeit
+  - QSAR and Combinatorial Science
+  - RISKNEWS
+  - Sensors Update
+  - Signal Transduction
+  - Single Molecules
   - Vakuum in Forschung und Praxis
   - Vom Wasser
   - forschung
-  - geotechnik
   - german research
   - human_ontogenetics
 

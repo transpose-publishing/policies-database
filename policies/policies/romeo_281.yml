@@ -9,10 +9,15 @@ policy-heading: '[Default policy]'
 
 # A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
 journals:
+  - Asia Pacific World
+  - Israel Studies Forum
+  - Nomadic Peoples
+
+# A list of the journals from SHERPA/RoMEO associated with child romeo policies (subpolicies). Do not edit
+child-journals:
   - Anthropological Journal of European Cultures
   - Anthropology in Action
   - Anthropology of the Middle East
-  - Asia Pacific World
   - Aspasia
   - Boyhood Studies
   - Cambridge Journal of Anthropology
@@ -29,7 +34,6 @@ journals:
   - Girlhood Studies
   - Historical Reflections/Reflexions Historiques
   - International Journal of Social Quality
-  - Israel Studies Forum
   - Israel Studies Review
   - Italian Politics
   - Journal of Educational Media, Memory, and Society
@@ -38,7 +42,6 @@ journals:
   - Mobility in History
   - Museum Worlds
   - Nature and Culture
-  - Nomadic Peoples
   - Projections
   - Regions and Cohesion
   - Religion and Society
