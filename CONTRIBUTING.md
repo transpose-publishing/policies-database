@@ -51,7 +51,7 @@ Now add information about the relevant policy, using the journal or publisher we
 co-review-policy: "We simply ask that: the name of the co-reviewer is reported to the Editor"
 ``` 
 
-When you're finished, enter a short description of what you did in the box at the bottom of the page and click the green "Propose file change" button. 
+When you're finished, enter a short description of what you did in the box at the bottom of the page and click the green "Propose file change" button. **You're not done yet: just a few more clicks to go!**
 
 ![tutorial3](https://github.com/transpose-publishing/policies-database/blob/master/media/tutorial3anno.PNG)
 
