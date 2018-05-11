@@ -14,6 +14,11 @@ mapping:
     desc: A list of the journals from SHERPA/RoMEO associated with this romeo policy. Do not edit
     sequence:
       - type: str
+  journals-child-policies:
+    type: seq
+    desc: A list of the journals from SHERPA/RoMEO associated with this policy's child policies. Do not edit
+    sequence:
+      - type: str
   parent-policies:
     type: seq
     desc: A list of the Policy IDs from SHERPA/RoMEO that are the parent of this policy. Do not edit
@@ -32,68 +37,68 @@ mapping:
   peer-review-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: Peer review policy url (valid url)
+    desc: "peer-review-url: Open peer review policy url (valid url)"
   open-reports:
     type: str
     enum: [mandatory, optional, no]
-    desc: Does the journal publish the content of peer reviews? (mandatory/optional/no)
+    desc: "open-reports: Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)"
   identities-revealed:
     type: str
     enum: [mandatory, optional, no]
-    desc: Are reviewer identities revealed to the author? (mandatory/optional/no)
+    desc: "identities-revleaed: Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)"
   identities-published:
     type: str
     enum: [mandatory, optional, no]
-    desc: Are reviewer identities published? (mandatory/optional/no)
+    desc: "identities-published: Are reviewer identities published? (mandatory/optional/no/not specified)"
   
   # CO-REVIEWERS
   co-review-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: Co-reviewer policy url (valid url)
+    desc: "co-review-url: Co-reviewer policy url (valid url)"
   co-review-policy:
     type: str
-    desc: "Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)"
+    desc: "co-review-policy: Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)"
   co-review-invited:
     type: str
     enum: [yes, no]
-    desc: "Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)"
+    desc: "co-review-invited: Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)"
 
   # PEER REVIEW TRANSFER
   transfer-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: Peer review transfer url (valid url)
+    desc: "transfer-url: Peer review transfer url (valid url)"
   transfer-policy:
     type: str
-    desc: "Policy on transfer of peer reviews (free text)"
+    desc: "transfer-policy: Policy on transfer of peer reviews (free text)"
 
   # REVIEW FORM
   review-form-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: url to a copy or description of the peer review form (valid url)
+    desc: "peer-review-form-url: url to a copy or description of the peer review form (valid url)"
   review-structure:
     type: str
-    desc: "What are the titles of the sections of the review form? (free text)"
+    desc: "review-structure: What are the titles of the sections of the review form? (free text)"
   separate-structure:
     type: str
     enum: [yes, no]
-    desc: Are there separate fields for technical & impact evaluation? (yes/no)
+    desc: "separate-structure: Are there separate fields for technical & impact evaluation? (yes/no)"
   co-review-field:
     type: str
     enum: [yes, no]
-    desc: "Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
+    desc: "co-review-field: Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)"
 
   # PEER REVIEW CREDIT
   credit-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "Peer review credit policy url (valid url)"
+    desc: "credit-url: Peer review credit policy url (valid url)"
   orcid-peer-review:
     type: str
     enum: [yes, via service, no]
-    desc: "Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)"
+    desc: "orcid-peer-review: Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)"
 
   # PREPRINTS
   prearchiving:
@@ -118,47 +123,56 @@ mapping:
   preprint-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "Preprint policy url (valid url)"
+    desc: "preprint-url: Preprint policy url (valid url)"
   preprint-version:
     type: str
     enum: [before review only, any, other, none]
-    desc: "Version of the preprint that can be posted to a server (before review only/any/other/none)"
+    desc: "preprint-version: Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)"
   preprint-time:
     type: str
     enum: [before acceptance only, anytime, other]
-    desc: Time when a preprint can be posted (before acceptance only, anytime, other)
+    desc: "preprint-time: Time when a preprint can be posted (before acceptance only/anytime/other/not specified)"
+  acceptable-servers:
+    type: str
+    desc: "acceptable-servers: Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)"
+  preprint-citation-url:
+    type: str
+    pattern: "^(ht|f)tps?://\\S+$"
+    desc: "preprint-citation-url: Preprint citation policy url (valid url)"
   preprint-citation:
     type: str
     enum: [yes, no]
-    desc: "Can preprints be cited in the reference list? (yes/no)"
-  acceptable-servers:
-    type: str
-    desc: "Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)"
-  preprint-media:
-    type: str
-    desc: What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
+    desc: "preprint-citation: Can preprints be cited in the reference list? (yes/no/not specified)"
   preprint-media-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: url for preprint-media
-  preprint-licensing:
+    desc: "preprint-media-url: Preprint media coverage policy url (valid url)"
+  preprint-media:
     type: str
-    desc: Policies on preprint licensing (free text)
+    desc: "preprint-media: What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)"
   preprint-licensing-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: "url for preprint-licensing"
-  scoop-protection:
+    desc: "preprint-licensing-url: Preprint licensing policy url (valid url)"
+  preprint-licensing:
     type: str
-    desc: "Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)"
+    desc: "preprint-licensing: Policies on preprint licensing (free text)"
   scoop-protection-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: url for scoop-protection
-  community-reviews:
+    desc: "scoop-protection-url: Scoop protection policy url (valid url)"
+  scoop-protection:
     type: str
-    desc: "Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)"
+    desc: "scoop-protection: Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)"
   community-reviews-url:
     type: str
     pattern: "^(ht|f)tps?://\\S+$"
-    desc: url for community-reviews
+    desc: "community-reviews-url: Community review policy url (valid url)"
+  community-reviews:
+    type: str
+    desc: "community-reviews: Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)"
+  
+  # COMMENTS
+  comments:
+    type: str
+    desc: "comments: Please leave any comments about the information presented here."
