@@ -28,16 +28,16 @@ flag-romeo:
 
 # ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
-peer-review-url:
+peer-review-url: https://peerj.com/benefits/review-history-and-peer-review/
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
-open-reports:
+open-reports: optional
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
-identities-revealed:
+identities-revealed: optional
 
 # Are reviewer identities published? (mandatory/optional/no/not specified)
-identities-published:
+identities-published: optional
 
 # ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
@@ -58,23 +58,23 @@ transfer-policy:
 
 # ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
-review-form-url:
+review-form-url: https://peerj.com/about/editorial-criteria/
 
 # What are the titles of the sections of the review form? (free text)
-review-structure:
+review-structure: "Basic reporting, Experimental design, Validity of the findings, Comments to author"
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
-separate-structure:
+separate-structure: yes
 
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
 co-review-field:
 
 # ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
-credit-url:
+credit-url: https://peerj.com/blog/post/85608326643/peerj-partners-with-publons-reviewers-get-more-credit/
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
-orcid-peer-review:
+orcid-peer-review: via service
 
 # ### PREPRINTS ###
 # Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
@@ -98,28 +98,28 @@ conditions:
   - Publisher last contacted on 06/09/2016
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: https://peerj.com/about/policies-and-procedures/
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)
-preprint-version:
+preprint-version: any
 
 # Time when a preprint can be posted (before acceptance only/anytime/other/not specified)
-preprint-time:
+preprint-time: anytime
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers:
+acceptable-servers: "PeerJ accepts submissions which have previously appeared on preprint servers (including PeerJ Preprints and arXiv); have previously been presented at conferences; or have previously appeared in other ‘non journal’ venues (for example: blogs or posters)."
 
 # preprint-citation-url: Preprint citation policy url (valid url)
-preprint-citation-url:
+preprint-citation-url: https://peerj.com/about/author-instructions/
 
 # Can preprints be cited in the reference list? (yes/no/not specified)
-preprint-citation:
+preprint-citation: yes
 
 # Preprint media coverage policy url (valid url)
-preprint-media-url:
+preprint-media-url: https://peerj.com/about/policies-and-procedures/
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
-preprint-media:
+preprint-media: "We encourage authors to discuss and disseminate their findings as they wish. If they are discussing submissions which have not yet been formally accepted, then they should state this fact. If they are discussing with journalists, they should inform the editorial office so that we are aware of potential news deadlines. When an article is selected to be Press Released, PeerJ will set an embargo on news coverage corresponding to the publication date of the article. Once it is set, we request that news media do not publish stories ahead of this embargo (primarily as the final article itself will not be available until that date)."
 
 # Preprint licensing policy url (valid url)
 preprint-licensing-url:
