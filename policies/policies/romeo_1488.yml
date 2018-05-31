@@ -113,7 +113,7 @@ preprint-version: any
 preprint-time: other
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers: community-recognized servers (exclusively mentioned are :  bioRxiv, ChemRxiv, OSF Preprints, PeerJ Preprints, Preprints, SSRN)
+acceptable-servers: community-recognized servers (exclusively mentioned are -  bioRxiv, ChemRxiv, OSF Preprints, PeerJ Preprints, Preprints, SSRN)
 
 # preprint-citation-url: Preprint citation policy url (valid url)
 preprint-citation-url: https://www.nature.com/authors/policies/preprints.html
@@ -143,7 +143,7 @@ scoop-protection: Other pre-prints are not considered to impact the novelty of t
 community-reviews-url:
 
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
-community-reviews: Form the FAQ : "We anticipate that our authors will continue to take substantive comments posted on preprint servers into account to strengthen their findings during the peer review process."
+community-reviews: Form the FAQ - "We anticipate that our authors will continue to take substantive comments posted on preprint servers into account to strengthen their findings during the peer review process."
 
 # ### COMMENTS ###
 # Please leave any comments about the information presented here.
