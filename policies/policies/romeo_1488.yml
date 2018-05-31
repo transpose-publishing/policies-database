@@ -27,16 +27,16 @@ flag-romeo:
 
 # ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
-peer-review-url:
+peer-review-url: http://media.nature.com/full/nature-assets/ncomms/authors/ncomms-transparent-peer-review.pdf
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
-open-reports:
+open-reports: mandatory
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
-identities-revealed:
+identities-revealed: no
 
 # Are reviewer identities published? (mandatory/optional/no/not specified)
-identities-published:
+identities-published: optional
 
 # ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
@@ -50,30 +50,30 @@ co-review-invited:
 
 # ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
-transfer-url:
+transfer-url: https://www.nature.com/authors/author_resources/transfer_manuscripts.html
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy:
+transfer-policy: If a paper was previously reviewed at another Nature journal, the authors can use an automated manuscript transfer service to transfer the referees' reports to Nature Communications via a link sent by the editor who handled the manuscript. In that case, the journal editors will take the previous reviews into account when making their decision, although in some cases the editors may choose to take advice from additional referees. Alternatively, authors may choose to request a fresh review, in which case they should not use the automated transfer link, and the editors will evaluate the paper without reference to the previous review process. However, this decision must be made at the time of initial submission and cannot be changed later.
 
 # ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
-review-form-url:
+review-form-url: https://www.nature.com/ncomms/journal-policies/guide-to-referees
 
 # What are the titles of the sections of the review form? (free text)
-review-structure:
+review-structure: Three sections : Manuscript background information, Confidential remarks for the editor only, Comments for transmission to the authors
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
-separate-structure:
+separate-structure: no
 
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
-co-review-field:
+co-review-field: no
 
 # ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
 credit-url:
 
 # Does the journal deposit peer review information into ORCiD? 'via service' includes Publons (directly/via service/no)
-orcid-peer-review:
+orcid-peer-review: no
 
 # ### PREPRINTS ###
 # Can users archive preprints (can/cannot/restricted/unclear)? From SHERPA/RoMEO; do not edit.
@@ -104,28 +104,28 @@ conditions:
   - This policy is an exception to the default policies of ''
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: https://www.nature.com/ncomms/journal-policies/editorial-process
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)
-preprint-version:
+preprint-version: any
 
 # Time when a preprint can be posted (before acceptance only/anytime/other/not specified)
-preprint-time:
+preprint-time: other
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers:
+acceptable-servers: community-recognized servers (exclusively mentioned are :  bioRxiv, ChemRxiv, OSF Preprints, PeerJ Preprints, Preprints, SSRN)
 
 # preprint-citation-url: Preprint citation policy url (valid url)
-preprint-citation-url:
+preprint-citation-url: https://www.nature.com/authors/policies/preprints.html
 
 # Can preprints be cited in the reference list? (yes/no/not specified)
-preprint-citation:
+preprint-citation: yes
 
 # Preprint media coverage policy url (valid url)
-preprint-media-url:
+preprint-media-url: https://nature-research-under-consideration.nature.com/posts/19641-frequently-asked-questions
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
-preprint-media:
+preprint-media: Authors are free to share links to preprint, and also to mention that the article is under peer review in Nature Communications. Authors are requested to not discuss their findings with the media/press.
 
 # Preprint licensing policy url (valid url)
 preprint-licensing-url:
@@ -137,14 +137,14 @@ preprint-licensing:
 scoop-protection-url:
 
 # Policy on whether submitted preprints will not be rejected if a competing work comes out in another journal after the date of preprinting (free text)
-scoop-protection:
+scoop-protection: Other pre-prints are not considered to impact the novelty of the manuscript under consideration. But there's no policy mentioned about peer-reviewed work published in another journal.
 
 # Community review policy url (valid url)
 community-reviews-url:
 
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
-community-reviews:
+community-reviews: Form the FAQ : "We anticipate that our authors will continue to take substantive comments posted on preprint servers into account to strengthen their findings during the peer review process."
 
 # ### COMMENTS ###
 # Please leave any comments about the information presented here.
-comments:
+comments: The peer-reviewers are asked to use the nature manuscript portal to submit their review, using a link sent by editors.
