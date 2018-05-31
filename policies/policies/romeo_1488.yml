@@ -60,7 +60,7 @@ transfer-policy: If a paper was previously reviewed at another Nature journal, t
 review-form-url: https://www.nature.com/ncomms/journal-policies/guide-to-referees
 
 # What are the titles of the sections of the review form? (free text)
-review-structure: Three sections : Manuscript background information, Confidential remarks for the editor only, Comments for transmission to the authors
+review-structure: Three sections - Manuscript background information, Confidential remarks for the editor only, Comments for transmission to the authors
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
 separate-structure: no
@@ -147,4 +147,4 @@ community-reviews: Form the FAQ : "We anticipate that our authors will continue 
 
 # ### COMMENTS ###
 # Please leave any comments about the information presented here.
-comments: The peer-reviewers are asked to use the nature manuscript portal to submit their review, using a link sent by editors.
+comments: The peer-reviewers are asked to use the nature manuscript portal to submit their review, using a link sent by editors. For preprint-posting, it's clear that preprint can be posted before submission and updated after acceptence. But no explicit policy about updating the preprint during review.
