@@ -82,7 +82,7 @@ flag-romeo:
 peer-review-url: https://www.frontiersin.org/about/review-system
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
-open-reports:
+open-reports: no
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
 identities-revealed: mandatory
@@ -189,7 +189,7 @@ scoop-protection-url:
 scoop-protection:
 
 # Community review policy url (valid url)
-community-reviews-url:
+community-reviews-url: https://www.frontiersin.org/about/review-system
 
 # Policy on incorporating community reviews or comments on preprints into editorial assessment (free text)
 community-reviews:
