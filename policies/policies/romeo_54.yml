@@ -163,46 +163,46 @@ flag-romeo:
 
 # ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
-peer-review-url:
+peer-review-url: https://www.nature.com/authors/policies/peer_review.html
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
-open-reports:
+open-reports: no
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
-identities-revealed:
+identities-revealed: no
 
 # Are reviewer identities published? (mandatory/optional/no/not specified)
-identities-published:
+identities-published: no
 
 # ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
 co-review-url:
 
 # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
-co-review-policy:
+co-review-policy: If a reviewer wishes to seek advice from colleagues while assessing a manuscript, the reviewer must consult with the editor and should ensure that confidentiality is maintained and that the names of any such colleagues are provided to the journal with the final report.
 
 # Does the journal make it clear in the reviewer invitation email that co-reviewers can contribute? (yes/no)
 co-review-invited:
 
 # ### PEER REVIEW TRANSFER ###
 # Peer review transfer url (valid url)
-transfer-url:
+transfer-url: https://www.nature.com/authors/author_resources/transfer_manuscripts.html
 
 # Policy on transfer of peer reviews (free text)
-transfer-policy:
+transfer-policy: All author information, all manuscript files, referee comments to the authors are transferred. For nature titled journals, referee and handling editor identities and rebuttal letters are also transferred.
 
 # ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
 review-form-url:
 
 # What are the titles of the sections of the review form? (free text)
-review-structure:
+review-structure: Reviewers are asked to comment on the following - Key results, Originality and significance, Data & methodology, Appropriate use of statistics and treatment of uncertainties, Conclusions, Suggested improvements, References, Clarity and context, specific editorial concerns
 
 # Are there separate fields for technical & impact evaluation? (yes/no)
-separate-structure:
+separate-structure: no
 
 # Is there a dedicated place in the submission form to identify co-reviewers? (yes/no)
-co-review-field:
+co-review-field: no
 
 # ### PEER REVIEW CREDIT ###
 # Peer review credit policy url (valid url)
@@ -235,34 +235,34 @@ conditions:
   - Publisher's version/PDF cannot be used
 
 # Preprint policy url (valid url)
-preprint-url:
+preprint-url: https://www.nature.com/authors/policies/preprints.html
 
 # Version of the preprint that can be posted to a server (before review only/any/other/none/not specified)
-preprint-version:
+preprint-version: other
 
 # Time when a preprint can be posted (before acceptance only/anytime/other/not specified)
-preprint-time:
+preprint-time: other
 
 # Acceptable servers or characteristics of servers - eg specific names, non-commercial, recognized, etc (free text)
-acceptable-servers:
+acceptable-servers: recognized
 
 # preprint-citation-url: Preprint citation policy url (valid url)
-preprint-citation-url:
+preprint-citation-url: https://www.nature.com/authors/policies/preprints.html
 
 # Can preprints be cited in the reference list? (yes/no/not specified)
-preprint-citation:
+preprint-citation: yes
 
 # Preprint media coverage policy url (valid url)
 preprint-media-url:
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
-preprint-media:
+preprint-media: Sharing on blogs, with colleagues and in scientific conferences is allowed. Discussion with press is forbidden.
 
 # Preprint licensing policy url (valid url)
-preprint-licensing-url:
+preprint-licensing-url: https://www.nature.com/authors/policies/license.html#terms
 
 # Policies on preprint licensing (free text)
-preprint-licensing:
+preprint-licensing: Version of the manuscript before peer review can be published with CC license. For subscription journals, accepted version may not be published with CC license.
 
 # Scoop protection policy url (valid url)
 scoop-protection-url:
@@ -278,4 +278,4 @@ community-reviews:
 
 # ### COMMENTS ###
 # Please leave any comments about the information presented here.
-comments:
+comments: Regarding time of posting of preprints, NPG is clear that submitted, and accepted version of preprints can be posted. But is unclear about update of preprint versions during peer review.
