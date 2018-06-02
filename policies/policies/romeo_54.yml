@@ -176,7 +176,7 @@ identities-published: no
 
 # ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
-co-review-url:
+co-review-url: https://www.nature.com/authors/policies/confidentiality.html
 
 # Journal’s policy about co-reviewers - ie people who collaborate with an invited reviewer (free text)
 co-review-policy: If a reviewer wishes to seek advice from colleagues while assessing a manuscript, the reviewer must consult with the editor and should ensure that confidentiality is maintained and that the names of any such colleagues are provided to the journal with the final report.
@@ -193,7 +193,7 @@ transfer-policy: All author information, all manuscript files, referee comments 
 
 # ### REVIEW FORM ###
 # url to a copy or description of the peer review form (valid url)
-review-form-url:
+review-form-url: https://www.nature.com/authors/policies/peer_review.html
 
 # What are the titles of the sections of the review form? (free text)
 review-structure: Reviewers are asked to comment on the following - Key results, Originality and significance, Data & methodology, Appropriate use of statistics and treatment of uncertainties, Conclusions, Suggested improvements, References, Clarity and context, specific editorial concerns
@@ -253,7 +253,7 @@ preprint-citation-url: https://www.nature.com/authors/policies/preprints.html
 preprint-citation: yes
 
 # Preprint media coverage policy url (valid url)
-preprint-media-url:
+preprint-media-url: https://www.nature.com/authors/policies/confidentiality.html
 
 # What type of coverage or discussion of preprints is allowed, eg in the media or in scientific blogs? (free text)
 preprint-media: Sharing on blogs, with colleagues and in scientific conferences is allowed. Discussion with press is forbidden.
