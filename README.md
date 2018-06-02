@@ -25,16 +25,17 @@ It's easy to contribute - editing policy records can take just a few minutes in 
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to jessica.polka@asapbio.org.
 
-## MozSprint
+## Events
 
-Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
+### Editathon
+We held an editathon to explain some of the motivation behind the project, help users with any issues, and gain feedback on the schema and editing process. [Notes](https://docs.google.com/document/d/1n1EeGpJw9sfjHfRyaD5w9zSVp2Opo6oNvYBKGpmYQWM/edit#)
+
+### MozSprint
+We participated in the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) on May 10-11, 2018.
 - Find issues we're looking for help with labeled "mozsprint" [here](https://github.com/transpose-publishing/policies-database/issues)
 - TRANSPOSE on the Mozilla Global Sprint repo [here](https://github.com/mozilla/global-sprint/issues/269)
 - We discussed the TRANSPOSE project on a Mozilla Sprint Demo call at 12pm ET (16:00 UTC) on Tuesday, May 8, 2018. [See notes and join info](https://public.etherpad-mozilla.org/p/ol5-demos-b)
 - During the Sprint, we can keep in touch via Gitter: [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/transpose-publishing/Lobby#)
-- Jessica will be working on this project from the Boston site
-
-![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
 
 ## Local usage
 
