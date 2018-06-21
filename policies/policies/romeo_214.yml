@@ -26,16 +26,16 @@ flag-romeo:
 
 # ### OPEN PEER REVIEW ###
 # Open peer review policy url (valid url)
-peer-review-url:
+peer-review-url: http://www.jimmunol.org/info/authors#PeerReview
 
 # Does the journal publish the content of peer reviews? (mandatory/optional/no/not specified)
-open-reports:
+open-reports: not specified
 
 # Are reviewer identities revealed to the author? (mandatory/optional/no/not specified)
-identities-revealed:
+identities-revealed: no
 
 # Are reviewer identities published? (mandatory/optional/no/not specified)
-identities-published:
+identities-published: no
 
 # ### CO-REVIEWERS ###
 # Co-reviewer policy url (valid url)
