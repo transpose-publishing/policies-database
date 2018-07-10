@@ -2,7 +2,7 @@
 
 Thanks so much for your interest in contributing to TRANSPOSE!
 
-Peer review is foundational to our current system of creating and sharing knowledge, yet almost everything about this process is typically shrouded in secrecy. In order to enable conversations about how to make this process more open, accessible, and fair, more systemic transparency around journal policies and practices is needed. To accomplish this, we'll build a user-editable database of journal policies on the openness of peer review, the recognition of early career researchers who contribute to peer review, and detailed policies on preprinting. We'll build off of the [SHERPA/RoMEO database](http://www.sherpa.ac.uk/romeo/index.php), which contains information about preprint archiving and also an ontology of journals, publishers, and policy groups.
+Peer review is foundational to our current system of creating and sharing knowledge, yet almost everything about this process is typically shrouded in secrecy. In order to enable conversations about how to make this process more open, accessible, and fair, more systemic transparency around journal policies and practices is needed. To accomplish this, we'll build a user-editable database of journal policies on the openness of peer review, the recognition of early career researchers who contribute to peer review, and detailed policies on preprinting. 
 
 These guidelines will help you get involved with TRANSPOSE.
 
@@ -34,9 +34,5 @@ Notice a mistake? Please file any bugs, requests, or questions in our [issue tra
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/transpose-publishing/Lobby#)
 
-## Data source
-[![Sherpa Romeo](https://github.com/transpose-publishing/transpose-publishing.github.io/blob/master/images/romeosmall.gif)](http://www.sherpa.ac.uk/RoMEO.php)
-
-Information in the policy records is derived from the RoMEO database which is compiled by SHERPA and has been modified for use here. Data from SHERPA RoMEO is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License.](https://creativecommons.org/licenses/by-nc-sa/2.5/)
 
 _Note that as per our [LICENSE](LICENSE.md), all original contributions will be licensed CC0!_
