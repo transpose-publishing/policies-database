@@ -4,6 +4,8 @@
 
 We're crowd-sourcing a database of journal policies relating to peer review (openness, recognition for co-reviewing) and preprinting.
 
+**[Edit and add new records to TRANSPOSE](https://docs.google.com/spreadsheets/d/e/2PACX-1vQVQVbwRTFymY1yMMPvHRLzEhlnm0HZ1ZEKvWeNjjbYtvyYuZ4_6eTqrJ0LkQDVF8ASwv62U3uw4V18/pubhtml?gid=1520385021&single=true)
+
 ### Why TRANSPOSE?
 
 While there are fantastic databases that indicate whether archiving a preprint is allowed ([Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/search.php)) and whether journals are partnered with [Publons](https://publons.com/journal/?order_by=reviews), to our knowledge, there is no database of information on topics such as:
@@ -19,7 +21,7 @@ For more information on this initiative, visit our [homepage](http://transpose-p
 
 ## Contributing
 
-It's easy to contribute - editing policy records can take just a few minutes in your browser! See our [contribution guidelines](CONTRIBUTING.md) to get started.
+**[Edit and add new records to TRANSPOSE](https://docs.google.com/spreadsheets/d/e/2PACX-1vQVQVbwRTFymY1yMMPvHRLzEhlnm0HZ1ZEKvWeNjjbYtvyYuZ4_6eTqrJ0LkQDVF8ASwv62U3uw4V18/pubhtml?gid=1520385021&single=true)
 
 ## Participation Guidelines
 
@@ -28,7 +30,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 ## Events
 
 ### Editathon
-We held an editathon to explain some of the motivation behind the project, help users with any issues, and gain feedback on the schema and editing process. [Notes](https://docs.google.com/document/d/1n1EeGpJw9sfjHfRyaD5w9zSVp2Opo6oNvYBKGpmYQWM/edit#)
+We held an editathon to explain some of the motivation behind the project, help users with any issues, and gain feedback on the schema and editing process. (The instructions in the [notes](https://docs.google.com/document/d/1n1EeGpJw9sfjHfRyaD5w9zSVp2Opo6oNvYBKGpmYQWM/edit#) refer to an older architecture that we have since replaced with Google Sheets and Google Forms).
 
 ### MozSprint
 We participated in the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) on May 10-11, 2018.
@@ -38,6 +40,8 @@ We participated in the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) o
 - During the Sprint, we can keep in touch via Gitter: [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/transpose-publishing/Lobby#)
 
 ## Local usage
+
+**(Note: The code in this repository is no longer being used to run TRANSPOSE)**
 
 Most users will not need to run the code in this repository locally.
 However, if you'd like to modify the code or test a change locally, follow these instructions.
