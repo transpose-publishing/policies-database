@@ -4,7 +4,7 @@
 
 We're crowd-sourcing a database of journal policies relating to peer review (openness, recognition for co-reviewing) and preprinting.
 
-**⚠ This information is out of date; please see [our updated site](https://transpose-publishing.github.io/#/) for the latest information on contributing**
+## ⚠ This information is out of date; please see [our updated site](https://transpose-publishing.github.io/#/) for the latest information on contributing
 
 ### Why TRANSPOSE?
 
